@@ -30,6 +30,9 @@
     },
   ];
 
+  // Editing tools are hidden from visitors. Add ?admin to the address to show them.
+  if (new URLSearchParams(location.search).has("admin")) document.body.classList.add("is-admin");
+
   const $ = (id) => document.getElementById(id);
   const els = {
     list: $("list"), empty: $("empty"), count: $("countText"),
@@ -181,7 +184,7 @@
       tags,
       el("div", { class: "job-foot" },
         el("span", { class: "date", text: timeAgo(job.createdAt) }),
-        el("div", { class: "job-actions" },
+        el("div", { class: "job-actions admin-only" },
           el("button", { class: "btn btn-ghost btn-small", type: "button", text: "Edit", onclick: () => openForm(job) }),
           el("button", {
             class: "btn btn-danger btn-small", type: "button", text: "Delete",
