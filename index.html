@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Remote Jobs Board</title>
+  <meta name="description" content="Find remote jobs you can do from anywhere.">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="hero">
+    <div class="wrap">
+      <nav class="nav">
+        <span class="logo">🌍 RemoteJobs</span>
+        <div class="nav-actions">
+          <button id="manageBtn" class="btn btn-ghost">Manage</button>
+          <button id="addBtn" class="btn btn-primary">+ Post a job</button>
+        </div>
+      </nav>
+      <h1>Find a job you can do from anywhere</h1>
+      <p class="sub"><span id="countText">0</span> remote jobs, hand-picked and updated regularly.</p>
+      <div class="search">
+        <input id="search" type="search" placeholder="Search by title, company, skill…" autocomplete="off">
+      </div>
+    </div>
+  </header>
+
+  <main class="wrap main">
+    <section class="filters" aria-label="Filters">
+      <select id="fCategory"><option value="">All categories</option></select>
+      <select id="fType"><option value="">All job types</option></select>
+      <select id="fRegion"><option value="">All regions</option></select>
+      <select id="fSort">
+        <option value="new">Newest first</option>
+        <option value="old">Oldest first</option>
+        <option value="company">Company A–Z</option>
+      </select>
+      <button id="clearBtn" class="btn btn-ghost">Clear</button>
+    </section>
+
+    <section id="list" class="list" aria-live="polite"></section>
+    <p id="empty" class="empty" hidden>No jobs match your search. Try clearing the filters.</p>
+  </main>
+
+  <footer class="footer wrap">
+    <span>Remote Jobs Board</span>
+  </footer>
+
+  <!-- Add / edit modal -->
+  <dialog id="jobDialog">
+    <form id="jobForm" method="dialog" novalidate>
+      <h2 id="formTitle">Post a job</h2>
+      <input type="hidden" id="jobId">
+
+      <label>Job title *
+        <input id="title" required maxlength="120" placeholder="Senior Frontend Developer">
+      </label>
+      <label>Company *
+        <input id="company" required maxlength="80" placeholder="Acme Inc.">
+      </label>
+      <div class="row">
+        <label>Category
+          <input id="category" list="categoryList" maxlength="40" placeholder="Engineering">
+          <datalist id="categoryList"></datalist>
+        </label>
+        <label>Job type
+          <select id="type">
+            <option>Full-time</option>
+            <option>Part-time</option>
+            <option>Contract</option>
+            <option>Freelance</option>
+            <option>Internship</option>
+          </select>
+        </label>
+      </div>
+      <div class="row">
+        <label>Region
+          <input id="region" list="regionList" maxlength="60" placeholder="Worldwide">
+          <datalist id="regionList"></datalist>
+        </label>
+        <label>Salary (optional)
+          <input id="salary" maxlength="60" placeholder="$60k – $80k">
+        </label>
+      </div>
+      <label>Apply link *
+        <input id="url" type="url" required placeholder="https://company.com/jobs/123">
+      </label>
+      <label>Description
+        <textarea id="description" rows="5" maxlength="3000" placeholder="What is the role about? Requirements, benefits…"></textarea>
+      </label>
+      <label>Tags (comma separated)
+        <input id="tags" maxlength="120" placeholder="react, typescript, remote">
+      </label>
+      <p id="formError" class="error" hidden></p>
+
+      <div class="dialog-actions">
+        <button type="button" id="cancelBtn" class="btn btn-ghost">Cancel</button>
+        <button type="submit" class="btn btn-primary">Save job</button>
+      </div>
+    </form>
+  </dialog>
+
+  <!-- Manage modal -->
+  <dialog id="manageDialog">
+    <h2>Manage jobs</h2>
+    <p class="muted">Your jobs are saved in this browser. Export a backup or move them to another computer with a JSON file.</p>
+    <div class="manage-actions">
+      <button id="exportBtn" class="btn btn-primary">Export JSON</button>
+      <button id="importBtn" class="btn btn-ghost">Import JSON</button>
+      <button id="resetBtn" class="btn btn-danger">Delete all jobs</button>
+      <input id="importFile" type="file" accept="application/json,.json" hidden>
+    </div>
+    <div class="dialog-actions">
+      <button id="closeManageBtn" class="btn btn-ghost">Close</button>
+    </div>
+  </dialog>
+
+  <script src="jobs-data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

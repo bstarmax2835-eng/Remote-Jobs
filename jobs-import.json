@@ -1,0 +1,871 @@
+[
+  {
+    "id": "mercor-backend-pkUeQ",
+    "title": "Senior Software Engineer, Backend (Node.js, TypeScript, Rust)",
+    "company": "Mercor",
+    "category": "Engineering",
+    "type": "Full-time",
+    "region": "United States",
+    "salary": "$50 – $80 / hour",
+    "url": "https://t.mercor.com/pkUeQ",
+    "description": "Full-time (40 hours, weekdays) backend role for a high-scale consumer platform. You'll design, build and maintain Node.js, TypeScript and Rust services, REST and GraphQL APIs, and mentor peers.\nRequires 5+ years of production experience (or a related Bachelor's plus 3+ years), hands-on Node.js/TypeScript and Rust. US only.",
+    "tags": [
+      "nodejs",
+      "typescript",
+      "rust",
+      "backend"
+    ],
+    "createdAt": 1793242553831
+  },
+  {
+    "id": "mercor-source-security-4bx2X",
+    "title": "Source Security Specialist",
+    "company": "Mercor",
+    "category": "Security",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$65 – $75 / task",
+    "url": "https://t.mercor.com/4bx2X",
+    "description": "Per-task contract work red-teaming frontier AI models on radiological source security. You'll write benign, dual-use and adversarial prompts, evaluate model responses against a policy standard, and write reference answers with technical rationale.\nRequires experience assessing how Category 1 and 2 radioactive sources are protected or moved, plus strong technical writing. Red-teaming experience preferred.",
+    "tags": [
+      "security",
+      "red-teaming",
+      "ai",
+      "writing"
+    ],
+    "createdAt": 1790736953831
+  },
+  {
+    "id": "mercor-film-video-90215",
+    "title": "Film & Video Craft Expert (Camera, VFX, Editing & Performance)",
+    "company": "Mercor",
+    "category": "Film & Media",
+    "type": "Part-time",
+    "region": "Remote",
+    "salary": "$70 – $100 / hour",
+    "url": "https://t.mercor.com/90215",
+    "description": "Part-time (20+ hours a week, weekdays) evaluating AI-generated video for a leading AI lab. You'll compare pairs of videos on lighting, framing, camera direction, realism and performance, and write short justifications for each choice.\nRequires professional experience in film, theater, editing, cinematography, VFX or animation. Paid weekly. H-1B and STEM OPT not supported.",
+    "tags": [
+      "film",
+      "video",
+      "vfx",
+      "ai"
+    ],
+    "createdAt": 1792205753831
+  },
+  {
+    "id": "mercor-sales-marketing-tbuid",
+    "title": "Sales and Marketing Expert",
+    "company": "Mercor",
+    "category": "Sales & Marketing",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$60 – $70 / hour",
+    "url": "https://t.mercor.com/tbuid",
+    "description": "Hourly contract on your own schedule, building enterprise sales and marketing evaluation tasks for AI systems. Covers Fortune 500 deal scenarios, account-based marketing, demand gen and RevOps, and writing rubrics for strong GTM judgment.\nRequires 5+ years in selling, marketing or RevOps at a Fortune 500 vendor or brand. Paid weekly. H-1B and STEM OPT not supported.",
+    "tags": [
+      "sales",
+      "marketing",
+      "gtm",
+      "revops"
+    ],
+    "createdAt": 1785552953831
+  },
+  {
+    "id": "mercor-accounting-9fqD7",
+    "title": "Accounting Expert",
+    "company": "Mercor",
+    "category": "Finance & Accounting",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$85 / hour",
+    "url": "https://t.mercor.com/9fqD7",
+    "description": "Flexible contract (10–20 hours a week) comparing two AI-generated answers to accounting questions, explaining which is better on GAAP/IFRS compliance and reasoning, and writing feedback for the research team.\nRequires 2+ years in accounting, audit or tax, and a CPA or accounting/finance degree. Paid weekly. H-1B and STEM OPT not supported.",
+    "tags": [
+      "accounting",
+      "cpa",
+      "gaap",
+      "ifrs"
+    ],
+    "createdAt": 1782960953831
+  },
+  {
+    "id": "mercor-journalists-CXHo6",
+    "title": "News Analysts, Reporters, and Journalists",
+    "company": "Mercor",
+    "category": "Media & Journalism",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$70 – $110 / hour",
+    "url": "https://t.mercor.com/CXHo6",
+    "description": "Contract of about 4–6 weeks (20+ hours a week) evaluating AI-generated news stories and analysis for accuracy, reporting rigor, editorial soundness and clarity. Task-based pay until your first task is approved, then hourly.\nRequires 4+ years as a reporter, anchor, staff writer or journalist and strong written English. US only.",
+    "tags": [
+      "journalism",
+      "news",
+      "writing",
+      "ai"
+    ],
+    "createdAt": 1788144953831
+  },
+  {
+    "id": "mercor-legal-QM4as",
+    "title": "Legal Expert",
+    "company": "Mercor",
+    "category": "Legal",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$90 / hour",
+    "url": "https://t.mercor.com/QM4as",
+    "description": "Flexible contract (10–20 hours a week) comparing two AI-generated answers to legal questions and explaining which is stronger on legal accuracy, reasoning and client-readiness, with written feedback for the research team.\nRequires a J.D., LL.B., LL.M. or equivalent, 2+ years practicing or researching law, and strong legal writing. Paid weekly. H-1B and STEM OPT not supported.",
+    "tags": [
+      "legal",
+      "law",
+      "research",
+      "ai"
+    ],
+    "createdAt": 1782960953831
+  },
+  {
+    "id": "mercor-ai-feedback-study-hyy3Y",
+    "title": "AI Assistant User – Weekly Feedback Study",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$30 – $35 / hour",
+    "url": "https://t.mercor.com/hyy3Y",
+    "description": "Ongoing weekly study where you use an AI assistant (Meta Muse or Instinct) across at least three areas of your life, log and rate the proactive messages it sends, and export your conversations with personal details removed.\nRequires being an everyday user of the app for at least 2 weeks. Paid weekly. H-1B and STEM OPT not supported.",
+    "tags": [
+      "ai",
+      "feedback",
+      "study",
+      "part-time"
+    ],
+    "createdAt": 1792292153831
+  },
+  {
+    "id": "mercor-generalist-d4E06",
+    "title": "Generalist (Must own MacBook)",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$40 – $80 / hour",
+    "url": "https://t.mercor.com/d4E06",
+    "description": "Part-time remote contract (about 10–20 hours a week) on your own schedule, supporting an AI research project with a leading AI lab. You'll write high-quality research questions, answers and evaluation materials to help benchmark and improve language models.\nRequires a Mac (macOS 15+), strong research and writing skills, and a master's degree (in progress or recent) or 2–3 years of relevant experience. Paid weekly. H-1B and STEM OPT not supported.",
+    "tags": [
+      "ai",
+      "research",
+      "writing",
+      "part-time"
+    ],
+    "createdAt": 1785552953831
+  },
+  {
+    "id": "mercor-character-animator-hovOj",
+    "title": "Senior Character Animator",
+    "company": "Mercor",
+    "category": "Film & Media",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$60 – $90 / hour",
+    "url": "https://t.mercor.com/hovOj",
+    "description": "Part-time hourly contract reviewing AI-generated character performances shot by shot and writing actionable notes on body mechanics, facial nuance, timing and emotional intent. You'll also help define the rubric used by human reviewers.\nRequires 10+ years as a senior, lead or principal character animator with feature film, VFX or AAA cinematic credits. Mostly remote, but open only to people in California or New York, with on-site sessions in Los Angeles or New York City once or twice a month. Paid weekly. H-1B and STEM OPT not supported.",
+    "tags": [
+      "animation",
+      "film",
+      "ai",
+      "vfx"
+    ],
+    "createdAt": 1792207913557
+  },
+  {
+    "id": "mercor-anonymization-writer-utmPK",
+    "title": "Anonymization Writer",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$45 – $55 / hour",
+    "url": "https://t.mercor.com/utmPK",
+    "description": "Long-running remote contract (30+ hours a week) on a PII anonymization project. You'll confirm, reject, add and label personal information in business documents and records, group related entities, and catch what automated detection missed.\nRequires prior AI data work (labeling, rating or QA), strong attention to detail and excellent written English. US-based preferred. Paid weekly. H-1B and STEM OPT not supported.",
+    "tags": [
+      "data-labeling",
+      "privacy",
+      "pii",
+      "full-time-hours"
+    ],
+    "createdAt": 1792553512557
+  },
+  {
+    "id": "mercor-project-management-Qvr0Q",
+    "title": "Project Management Specialists",
+    "company": "Mercor",
+    "category": "Project Management",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$70 – $110 / hour",
+    "url": "https://t.mercor.com/Qvr0Q",
+    "description": "Contract of about 4–6 weeks (20+ hours a week) evaluating AI-generated project plans, status reports and stakeholder communications for planning rigor and feasibility. Task-based pay until your first task is approved, then hourly.\nRequires 4+ years in project management or a closely related role and strong written English. US only. H-1B and STEM OPT not supported.",
+    "tags": [
+      "project-management",
+      "planning",
+      "ai"
+    ],
+    "createdAt": 1788147111557
+  },
+  {
+    "id": "mercor-anonymization-reviewer-7ppy0",
+    "title": "Anonymization Quality Reviewer",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$45 – $60 / hour",
+    "url": "https://t.mercor.com/7ppy0",
+    "description": "Remote contract on a long-running PII anonymization project. You'll review completed anonymization tasks against current guidelines, approve them or request edits, and give clear, specific feedback on missed or wrongly labeled personal information.\nRequires QA, editorial or compliance review experience and strong attention to detail. Paid weekly. H-1B and STEM OPT not supported.",
+    "tags": [
+      "qa",
+      "privacy",
+      "pii",
+      "review"
+    ],
+    "createdAt": 1790739110557
+  },
+  {
+    "id": "micro1-finance-specialist-6986a4bc",
+    "title": "Finance Specialist",
+    "company": "micro1",
+    "category": "Finance & Accounting",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/6986a4bc-c11e-4633-a3b0-b7c2cd90f38c?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Remote Finance Specialist opportunity on micro1.\nSkills they're looking for: Microsoft PowerPoint, Slide Reconstruction, Presentation Design, Data Visualization, Visual Storytelling, Content Editing, Critical Thinking, Attention to Detail, Written Communication, Financial Analysis.\nPay, hours and full details are shown on the application page.",
+    "tags": [
+      "microsoft-powerpoint",
+      "slide-reconstruction",
+      "presentation-design",
+      "data-visualization"
+    ],
+    "createdAt": 1793331109557
+  },
+  {
+    "id": "micro1-consulting-specialist-18d2194c",
+    "title": "Consulting Specialist",
+    "company": "micro1",
+    "category": "Business & Consulting",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/18d2194c-f0f2-4b96-9f2f-6346ab2b97da?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Remote Consulting Specialist opportunity on micro1.\nSkills they're looking for: Microsoft PowerPoint, Slide Reconstruction, Presentation Design, Data Visualization, Visual Storytelling, Content Editing, Critical Thinking, Attention to Detail, Written Communication, Management Consulting.\nPay, hours and full details are shown on the application page.",
+    "tags": [
+      "microsoft-powerpoint",
+      "slide-reconstruction",
+      "presentation-design",
+      "data-visualization"
+    ],
+    "createdAt": 1793331108557
+  },
+  {
+    "id": "micro1-data-science-specialist-5607d2ce",
+    "title": "Data Science Specialist",
+    "company": "micro1",
+    "category": "Data & AI",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/5607d2ce-0e94-448c-9e92-7429b18d34e6?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Remote Data Science Specialist opportunity on micro1.\nSkills they're looking for: Microsoft PowerPoint, Slide Reconstruction, Presentation Design, Data Visualization, Visual Storytelling, Content Editing, Critical Thinking, Attention to Detail, Written Communication, Statistical Reasoning.\nPay, hours and full details are shown on the application page.",
+    "tags": [
+      "microsoft-powerpoint",
+      "slide-reconstruction",
+      "presentation-design",
+      "data-visualization"
+    ],
+    "createdAt": 1793331107557
+  },
+  {
+    "id": "micro1-imagery-analyst-imagery-analyst-ai-ml-tr-448f7fb3",
+    "title": "Imagery Analyst – AI/ML Training Data",
+    "company": "micro1",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/448f7fb3-a4cf-44e8-9a13-de2de0f257a1?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Remote Imagery Analyst – AI/ML Training Data opportunity on micro1.\nSkills they're looking for: Data labeling, Data annotation, Labeling accuracy, Attention to detail.\nPay, hours and full details are shown on the application page.",
+    "tags": [
+      "data-labeling",
+      "data-annotation",
+      "labeling-accuracy",
+      "attention-to-detail"
+    ],
+    "createdAt": 1793331106557
+  },
+  {
+    "id": "micro1-intelligence-technology-systems-expert-51766349",
+    "title": "Intelligence Technology & Systems Expert",
+    "company": "micro1",
+    "category": "Engineering",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/51766349-d592-401e-a786-67d0e86c94af?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Remote Intelligence Technology & Systems Expert opportunity on micro1.\nSkills they're looking for: intelligence technology platforms, systems architecture, technical systems evaluation, data engineering, technical documentation review, analytical reasoning, technical judgment, written communication, intelligence information systems, intelligence operations workflows.\nPay, hours and full details are shown on the application page.",
+    "tags": [
+      "systems-architecture",
+      "data-engineering",
+      "analytical-reasoning",
+      "technical-judgment"
+    ],
+    "createdAt": 1793331105557
+  },
+  {
+    "id": "micro1-senior-photographer-a4d53b22",
+    "title": "Senior Photographer",
+    "company": "micro1",
+    "category": "Film & Media",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/a4d53b22-5a99-42c4-b0ed-6e6f41d74ee5?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Remote Senior Photographer opportunity on micro1.\nSkills they're looking for: professional photography, adobe photoshop, adobe lightroom, image labeling and metadata creation, remote work, written and verbal communication, meeting deadlines, following instructions and incorporating feedback, data organization and submission.\nPay, hours and full details are shown on the application page.",
+    "tags": [
+      "adobe-photoshop",
+      "adobe-lightroom",
+      "remote-work",
+      "meeting-deadlines"
+    ],
+    "createdAt": 1793331104557
+  },
+  {
+    "id": "micro1-revenue-operations-specialist-saas-2bfad9ec",
+    "title": "Revenue Operations Specialist (SaaS)",
+    "company": "micro1",
+    "category": "Sales & Marketing",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/2bfad9ec-1ea5-4de1-a40c-6daf7d8869b5?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Remote Revenue Operations Specialist (SaaS) opportunity on micro1.\nSkills they're looking for: Operations, Conflicting Policy Arbitration, CRM Ownership and Data Model, Compliance-Constrained Operations Design, Revenue Data Integrity and Reporting.\nPay, hours and full details are shown on the application page.",
+    "tags": [
+      "operations"
+    ],
+    "createdAt": 1793331103557
+  },
+  {
+    "id": "micro1-ai-agent-tester-real-world-tasks-82ba10ad",
+    "title": "AI Agent Tester - Real-World Tasks",
+    "company": "micro1",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/82ba10ad-8dbd-49ce-bc11-a83b9bb2169f?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Remote AI Agent Tester - Real-World Tasks opportunity on micro1.\nSkills they're looking for: ChatGPT, Muse, AI agents, Attention to Detail, Following Instructions, Screen Recording.\nPay, hours and full details are shown on the application page.",
+    "tags": [
+      "chatgpt",
+      "muse",
+      "ai-agents",
+      "attention-to-detail"
+    ],
+    "createdAt": 1793331102557
+  },
+  {
+    "id": "micro1-machine-learning-researcher-msc-or-phd-16e1c68d",
+    "title": "Machine Learning Researcher (MSc. or PhD)",
+    "company": "micro1",
+    "category": "Data & AI",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/16e1c68d-4f30-431f-a0f8-aa57d4b0893e?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Remote Machine Learning Researcher (MSc. or PhD) opportunity on micro1.\nSkills they're looking for: Machine Learning.\nPay, hours and full details are shown on the application page.",
+    "tags": [
+      "machine-learning"
+    ],
+    "createdAt": 1793331101557
+  },
+  {
+    "id": "micro1-applied-scientists-machine-learning-msc--4307f05a",
+    "title": "Applied Scientists — Machine Learning (MSc. or PhD)",
+    "company": "micro1",
+    "category": "Data & AI",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/4307f05a-fbd1-4913-91a2-432c782023fb?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Remote Applied Scientists — Machine Learning (MSc. or PhD) opportunity on micro1.\nSkills they're looking for: Machine Learning.\nPay, hours and full details are shown on the application page.",
+    "tags": [
+      "machine-learning"
+    ],
+    "createdAt": 1793331100557
+  },
+  {
+    "id": "micro1-generalist-6a124045",
+    "title": "Generalist",
+    "company": "micro1",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/6a124045-dbe2-4435-aadd-e1f1ebaa5e8f?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Remote Generalist opportunity on micro1.\nSkills they're looking for: Generalist, ChatGPT Proficiency, Problem Solving, Attention to Detail, Communication, Task Execution, Documentation.\nPay, hours and full details are shown on the application page.",
+    "tags": [
+      "generalist",
+      "chatgpt-proficiency",
+      "problem-solving",
+      "attention-to-detail"
+    ],
+    "createdAt": 1793331099557
+  },
+  {
+    "id": "micro1-mathematics-expert-msc-phd-9701abf9",
+    "title": "Mathematics Expert (MSc./PhD)",
+    "company": "micro1",
+    "category": "Science & Research",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/9701abf9-febd-4f13-9183-80257478f22a?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Remote Mathematics Expert (MSc./PhD) opportunity on micro1.\nSkills they're looking for: Mathematics, Python, Programming Languages, Research, Applied Math.\nPay, hours and full details are shown on the application page.",
+    "tags": [
+      "mathematics",
+      "python",
+      "programming-languages",
+      "research"
+    ],
+    "createdAt": 1793331098557
+  },
+  {
+    "id": "micro1-life-sciences-research-expert-python-f796a3ec",
+    "title": "Life Sciences Research Expert (Python)",
+    "company": "micro1",
+    "category": "Science & Research",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/f796a3ec-8108-4e21-9497-f70b6d3ff3b1?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Remote Life Sciences Research Expert (Python) opportunity on micro1.\nSkills they're looking for: Python, Biology, Medicine, Materials, Neuroscience, Astronomy.\nPay, hours and full details are shown on the application page.",
+    "tags": [
+      "python",
+      "biology",
+      "medicine",
+      "materials"
+    ],
+    "createdAt": 1793331097557
+  },
+  {
+    "id": "micro1-english-voice-coach-bd0da3d2",
+    "title": "English Voice Coach",
+    "company": "micro1",
+    "category": "Education",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/bd0da3d2-f365-4e57-9a63-58939315b67c?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Remote English Voice Coach opportunity on micro1.\nPay, hours and full details are shown on the application page.",
+    "tags": [],
+    "createdAt": 1793331096557
+  },
+  {
+    "id": "micro1-puzzle-solver-coding-1fdcfc88",
+    "title": "Puzzle Solver (Coding)",
+    "company": "micro1",
+    "category": "Engineering",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/1fdcfc88-24fa-4378-9e5a-2ca0ac983f8e?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Remote Puzzle Solver (Coding) opportunity on micro1.\nSkills they're looking for: Python, C++.\nPay, hours and full details are shown on the application page.",
+    "tags": [
+      "python",
+      "c++"
+    ],
+    "createdAt": 1793331095557
+  },
+  {
+    "id": "micro1-ml-engineer-msc-or-phd-be0ac227",
+    "title": "ML Engineer (MSc. or PhD)",
+    "company": "micro1",
+    "category": "Data & AI",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/be0ac227-30ab-4126-bde8-e1e0660c940f?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Remote ML Engineer (MSc. or PhD) opportunity on micro1.\nSkills they're looking for: Machine Learning.\nPay, hours and full details are shown on the application page.",
+    "tags": [
+      "machine-learning"
+    ],
+    "createdAt": 1793331094557
+  },
+  {
+    "id": "micro1-software-engineer-open-source-contributo-f29dc369",
+    "title": "Software Engineer (Open Source Contributor)",
+    "company": "micro1",
+    "category": "Engineering",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/f29dc369-f46f-443e-986b-7120eebe9225?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Remote Software Engineer (Open Source Contributor) opportunity on micro1.\nSkills they're looking for: Python3, JAVA, Rust, Algorithms, Basics C++, Typescript, codebase refactoring, GitHub, Bug Fixing, Feature Implementation.\nPay, hours and full details are shown on the application page.",
+    "tags": [
+      "python3",
+      "java",
+      "rust",
+      "algorithms"
+    ],
+    "createdAt": 1793331093557
+  },
+  {
+    "id": "micro1-software-engineer-github-contributor-168285a8",
+    "title": "Software Engineer (GitHub Contributor)",
+    "company": "micro1",
+    "category": "Engineering",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/168285a8-8063-447f-b55b-222c1da4c7c2?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Remote Software Engineer (GitHub Contributor) opportunity on micro1.\nSkills they're looking for: Python3, JAVA, Rust, Algorithms, Basics C++, Typescript, codebase refactoring, GitHub, Bug Fixing, Feature Implementation.\nPay, hours and full details are shown on the application page.",
+    "tags": [
+      "python3",
+      "java",
+      "rust",
+      "algorithms"
+    ],
+    "createdAt": 1793331092557
+  },
+  {
+    "id": "micro1-medical-coder-ccs-cic-9461932b",
+    "title": "Medical Coder (CCS / CIC)",
+    "company": "micro1",
+    "category": "Healthcare",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/9461932b-7cfe-41c8-b7db-4d0b0d599187?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Remote Medical Coder (CCS / CIC) opportunity on micro1.\nSkills they're looking for: icd-10-cm coding, icd-10-pcs coding, ms-drg assignment, clinical documentation review, ccs or cic certification, coding guideline interpretation, medical record annotation, written and verbal communication, attention to detail, data quality assurance.\nPay, hours and full details are shown on the application page.",
+    "tags": [
+      "icd-10-cm-coding",
+      "icd-10-pcs-coding",
+      "ms-drg-assignment",
+      "attention-to-detail"
+    ],
+    "createdAt": 1793331091557
+  },
+  {
+    "id": "micro1-video-data-annotator-c00af525",
+    "title": "Video Data Annotator",
+    "company": "micro1",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/c00af525-54b0-4e97-ad41-b6339638d1e9?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Remote Video Data Annotator opportunity on micro1.\nSkills they're looking for: video annotation, audio annotation, data labeling, content moderation, attention to detail, english communication, written feedback, guideline-based evaluation, independent work, adaptability.\nPay, hours and full details are shown on the application page.",
+    "tags": [
+      "video-annotation",
+      "audio-annotation",
+      "data-labeling",
+      "content-moderation"
+    ],
+    "createdAt": 1793331090557
+  },
+  {
+    "id": "micro1-senior-mobile-developer-31dc936e",
+    "title": "Senior Mobile Developer",
+    "company": "micro1",
+    "category": "Engineering",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/31dc936e-0f29-441f-baf9-91c2ff9cc7d4?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Remote Senior Mobile Developer opportunity on micro1.\nSkills they're looking for: Kotlin, Swift, Mobile.\nPay, hours and full details are shown on the application page.",
+    "tags": [
+      "kotlin",
+      "swift",
+      "mobile"
+    ],
+    "createdAt": 1793331089557
+  },
+  {
+    "id": "micro1-car-mounted-360-video-recorder-36e1b1f6",
+    "title": "Car-Mounted 360° Video Recorder",
+    "company": "micro1",
+    "category": "Film & Media",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/36e1b1f6-b8bf-4273-a09a-94116a1f4b39?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Remote Car-Mounted 360° Video Recorder opportunity on micro1.\nSkills they're looking for: 360° Camera Operation, Mounting & Rigging, Video Post-Production, Driving Skills, Quality Assurance, Project/Task Management.\nPay, hours and full details are shown on the application page.",
+    "tags": [
+      "360°-camera-operation",
+      "mounting-&-rigging",
+      "video-post-production",
+      "driving-skills"
+    ],
+    "createdAt": 1793331088557
+  },
+  {
+    "id": "micro1-video-data-annotation-specialist-4256a2e1",
+    "title": "Video Data Annotation Specialist",
+    "company": "micro1",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/4256a2e1-877f-42d5-8fef-20147a0b2db7?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Remote Video Data Annotation Specialist opportunity on micro1.\nSkills they're looking for: video annotation, audio annotation, data labeling, content moderation, attention to detail, english communication, written feedback, guideline-based evaluation, independent work, adaptability.\nPay, hours and full details are shown on the application page.",
+    "tags": [
+      "video-annotation",
+      "audio-annotation",
+      "data-labeling",
+      "content-moderation"
+    ],
+    "createdAt": 1793331087557
+  },
+  {
+    "id": "micro1-general-counsel-15fe5ebb",
+    "title": "General Counsel",
+    "company": "micro1",
+    "category": "Legal",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/15fe5ebb-b057-4a33-b0c3-14510fe1065e?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Remote General Counsel opportunity on micro1.\nSkills they're looking for: Contract Negotiation, Contract Redlining, Contract Drafting, NDAs, MSAs, ISDAs.\nPay, hours and full details are shown on the application page.",
+    "tags": [
+      "contract-negotiation",
+      "contract-redlining",
+      "contract-drafting",
+      "ndas"
+    ],
+    "createdAt": 1793331086557
+  },
+  {
+    "id": "micro1-music-sound-annotation-expert-43067af3",
+    "title": "Music & Sound Annotation Expert",
+    "company": "micro1",
+    "category": "Film & Media",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/43067af3-efeb-435d-aeb9-6d1de8c2af0a?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Remote Music & Sound Annotation Expert opportunity on micro1.\nSkills they're looking for: analytical listening, music theory knowledge, audio annotation, attention to detail, written communication.\nPay, hours and full details are shown on the application page.",
+    "tags": [
+      "analytical-listening",
+      "music-theory-knowledge",
+      "audio-annotation",
+      "attention-to-detail"
+    ],
+    "createdAt": 1793331085557
+  },
+  {
+    "id": "micro1-data-video-generalist-us-based-204600bf",
+    "title": "Data-Video Generalist (US-based)",
+    "company": "micro1",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/204600bf-1abe-4ab0-a474-cd2264999149?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Remote Data-Video Generalist (US-based) opportunity on micro1.\nSkills they're looking for: Video Capturing, IMU (Inertial Measurement Unit), Attention to Detail.\nPay, hours and full details are shown on the application page.",
+    "tags": [
+      "video-capturing",
+      "attention-to-detail"
+    ],
+    "createdAt": 1793331084557
+  },
+  {
+    "id": "micro1-software-engineer-d98ab3b0",
+    "title": "Software Engineer",
+    "company": "micro1",
+    "category": "Engineering",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/d98ab3b0-dfc2-43d6-986a-e75b0d4c35f9?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Remote Software Engineer opportunity on micro1.\nSkills they're looking for: Python3, JAVA, Rust, Algorithms, Basics C++, Typescript, bug fixing, feature implementation, codebase refactoring, performance optimization.\nPay, hours and full details are shown on the application page.",
+    "tags": [
+      "python3",
+      "java",
+      "rust",
+      "algorithms"
+    ],
+    "createdAt": 1793331083557
+  },
+  {
+    "id": "handshake-investment-bankers",
+    "title": "Investment Bankers",
+    "company": "Handshake",
+    "category": "Finance & Accounting",
+    "type": "Part-time",
+    "region": "Remote",
+    "salary": "Up to $175 / hour",
+    "url": "https://joinhandshake.com/fellowship-program/opportunities/investment-banking-expert-ai-trainer?referralCode=40F1DB&utm_source=referral",
+    "description": "Part-time, project-based work in the Handshake AI Fellowship, reviewing AI-generated financial analyses, valuation logic and transaction scenarios. Flexible, asynchronous schedule with no minimum hours.\nRequires at least 2 years as an Analyst or Associate in investment banking or private equity. Pay depends on the project. STEM OPT not supported.",
+    "tags": [
+      "finance",
+      "investment-banking",
+      "ai"
+    ],
+    "createdAt": 1793331082557
+  },
+  {
+    "id": "handshake-data-scientist",
+    "title": "Data Scientist",
+    "company": "Handshake",
+    "category": "Data & AI",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://joinhandshake.com/move-program/referral?referralCode=40F1DB&utm_source=referral",
+    "description": "Join the Handshake AI Fellowship, a program that connects experts with leading AI labs. This link takes you to the sign-up page; the specific project, pay and hours are shown after you create an account.",
+    "tags": [
+      "data-science",
+      "ai"
+    ],
+    "createdAt": 1793331081557
+  },
+  {
+    "id": "handshake-machine-learning-expert",
+    "title": "Machine Learning Expert",
+    "company": "Handshake",
+    "category": "Data & AI",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "Up to $75 / hour",
+    "url": "https://joinhandshake.com/ai/opportunities/machine-learning-expert?referralCode=40F1DB&utm_source=referral",
+    "description": "Flexible, hourly, project-based work (usually 5–20 hours a week) writing rigorous ML questions and reviewing AI responses for accuracy and technical soundness, on topics like optimization and statistical learning.\nOpen to PhD students and graduates in machine learning, statistics, computer science or AI. No prior AI evaluation experience needed. STEM OPT not supported.",
+    "tags": [
+      "machine-learning",
+      "phd",
+      "ai"
+    ],
+    "createdAt": 1793331080557
+  },
+  {
+    "id": "handshake-management-consultant",
+    "title": "Management Consultant",
+    "company": "Handshake",
+    "category": "Business & Consulting",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://joinhandshake.com/move-program/referral?referralCode=40F1DB&utm_source=referral",
+    "description": "Join the Handshake AI Fellowship, a program that connects experts with leading AI labs. This link takes you to the sign-up page; the specific project, pay and hours are shown after you create an account.",
+    "tags": [
+      "consulting",
+      "ai"
+    ],
+    "createdAt": 1793331079557
+  },
+  {
+    "id": "ethos-ai-engineer",
+    "title": "AI Engineer",
+    "company": "Ethos",
+    "category": "Business & Consulting",
+    "type": "Freelance",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://agent.askethos.com/refer/73z885ecepln",
+    "description": "Ethos is an expert network where you earn by sharing your expertise through advisory calls, consulting and research projects. Free to join, no commitment, and you set your own availability.\nThis link is a sign-up invitation rather than a single job post; Ethos matches you with opportunities after you join.",
+    "tags": [
+      "expert-network",
+      "consulting",
+      "freelance"
+    ],
+    "createdAt": 1793331078557
+  },
+  {
+    "id": "turing-benchmark-red-teaming",
+    "title": "AI Benchmark & Red-Teaming Specialist",
+    "company": "Turing",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://work.turing.com/r/d7vUb4YH6i",
+    "description": "Contract engagement of up to 4 weeks (up to 40 hours a week, with 4 hours of overlap with Pacific time). You'll research hard-to-find facts, draft benchmark tasks that expose weaknesses in AI models, and analyze model logs to find where and why they fail.\nRequires 1+ year in investigative research, fact-checking, benchmark task writing or red-teaming, and strong web search and OSINT skills. Pay is not listed.",
+    "tags": [
+      "red-teaming",
+      "research",
+      "benchmarks",
+      "ai"
+    ],
+    "createdAt": 1793331077557
+  },
+  {
+    "id": "turing-business-analyst-gemini",
+    "title": "Business Analyst - US Educational Raters - Gemini",
+    "company": "Turing",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$30 / hour",
+    "url": "https://work.turing.com/r/cxBXZDYuys",
+    "description": "16-week remote project (20 hours a week, up to 40) reviewing AI responses, verifying information and writing explanations that help improve AI models. Up to $1,200 a week.\nRequires an existing Gemini app account with genuine past use (at least 10 learning-related conversations), and a bachelor's degree (in progress is fine) or research, writing or analysis experience. Four hours of overlap with Pacific time.",
+    "tags": [
+      "gemini",
+      "rating",
+      "research",
+      "ai"
+    ],
+    "createdAt": 1793331076557
+  },
+  {
+    "id": "turing-senior-swe-coding-agents",
+    "title": "Senior Software Engineer - AI Evaluation / Coding Agents",
+    "company": "Turing",
+    "category": "Engineering",
+    "type": "Contract",
+    "region": "North America",
+    "salary": "$100 – $150 / hour",
+    "url": "https://work.turing.com/r/vQGCQhG8UO",
+    "description": "Freelance contract of about 3 months (20–40 hours a week, 6+ hours of Pacific time overlap) reviewing the work of coding agents across real repositories, designing evaluation rubrics and building data pipelines.\nRequires 5+ years of software engineering in Python, TypeScript/JavaScript, Go or similar, strong code-review skills and experience with modern LLM tools. North America only.",
+    "tags": [
+      "python",
+      "typescript",
+      "code-review",
+      "llm"
+    ],
+    "createdAt": 1793331075557
+  },
+  {
+    "id": "turing-senior-swe-go",
+    "title": "Senior Software Engineer – Go (LLM Evaluation & Repository Validation)",
+    "company": "Turing",
+    "category": "Engineering",
+    "type": "Part-time",
+    "region": "Select countries",
+    "salary": "",
+    "url": "https://work.turing.com/r/kInwSSZZuf",
+    "description": "Part-time contractor role (20, 30 or 40 hours a week, 4 hours of Pacific time overlap) triaging GitHub issues, setting up and Dockerizing repositories, and testing how well LLMs fix bugs.\nRequires 3+ years of experience, strong Go, Git and Docker. Open to people in India, Pakistan, Nigeria, Kenya, Egypt, Ghana, Bangladesh, Turkey and Mexico. Pay is not listed.",
+    "tags": [
+      "go",
+      "docker",
+      "github",
+      "llm"
+    ],
+    "createdAt": 1793331074557
+  },
+  {
+    "id": "turing-business-analyst-us",
+    "title": "Business Analyst - US",
+    "company": "Turing",
+    "category": "Business & Consulting",
+    "type": "Full-time",
+    "region": "United States",
+    "salary": "",
+    "url": "https://work.turing.com/r/h0ge75d0Li",
+    "description": "16-week remote, project-based role (five days a week, with two weekdays off) comparing chatbot responses and giving structured evaluations against set criteria, on top of standard business analysis work like requirements and process mapping.\nRequires 2+ years as a business analyst or similar. Pay is not listed.",
+    "tags": [
+      "business-analysis",
+      "evaluation",
+      "ai"
+    ],
+    "createdAt": 1793331073557
+  }
+]
