@@ -275,3 +275,6 @@ body:not(.is-admin) .admin-only { display: none !important; }
 ::-webkit-scrollbar-track { background: var(--bg); }
 ::-webkit-scrollbar-thumb { background: #3f4778; border-radius: 10px; }
 ::-webkit-scrollbar-thumb:hover { background: #51599a; }
+
+.footer .muted { display: block; margin-top: 8px; font-size: .8rem; }
+.footer a { color: inherit; text-decoration: underline; }

@@ -183,7 +183,7 @@
       toggle,
       tags,
       el("div", { class: "job-foot" },
-        el("span", { class: "date", text: timeAgo(job.createdAt) }),
+        el("span", { class: "date", text: timeAgo(job.createdAt) + (job.source ? " · via " + job.source : "") }),
         el("div", { class: "job-actions admin-only" },
           el("button", { class: "btn btn-ghost btn-small", type: "button", text: "Edit", onclick: () => openForm(job) }),
           el("button", {
