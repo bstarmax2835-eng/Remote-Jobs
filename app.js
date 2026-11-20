@@ -5,6 +5,10 @@
   // between the quotes. While it is empty the button stays hidden.
   const POST_JOB_URL = "";
 
+  // "Get weekly jobs" newsletter sign-up. Paste your Google Form / Buttondown / Mailchimp sign-up
+  // page URL between the quotes. While it is empty the button stays hidden.
+  const SUBSCRIBE_URL = "https://docs.google.com/forms/d/e/1FAIpQLSccDbR2ebXsC4PdMVEgpzvrWlX3NJ0VATHC3P4_EVWT-8SEYQ/viewform";
+
   const SAMPLE_JOBS = [
     {
       id: "sample-1",
@@ -250,6 +254,12 @@
     els.jobDialog.close();
     render(true);
   });
+
+  const subLink = $("subscribeLink");
+  if (isHttpUrl(SUBSCRIBE_URL)) {
+    subLink.href = SUBSCRIBE_URL;
+    subLink.hidden = false;
+  }
 
   const postLink = $("postJobLink");
   if (isHttpUrl(POST_JOB_URL)) {

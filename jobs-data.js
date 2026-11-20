@@ -2,6 +2,6317 @@
 // automatically by scripts/fetch_jobs.py.
 window.SEED_JOBS = [
   {
+    "id": "mercor-practising-lawyer-korea-spain-germany-france-japan-ai-legal-writing-survey-5AyIFY",
+    "title": "Practising Lawyer (Korea, Spain, Germany, France, Japan) — AI Legal Writing Survey",
+    "company": "Mercor",
+    "category": "Data & AI",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$120 – $150 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABofHGD07UlwjpJg5AyIFY?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABofHGD07UlwjpJg5AyIFY&utm_medium=direct&utm_source=referral",
+    "description": "We're looking for practising lawyers who regularly use AI tools in their legal work to take part in a short paid survey for a legal AI company. You have practised law in one of these language/country pairs: Korean in South Korea, Spanish in Spain, German in Germany, French in France, or Japanese in Japan.\nRefer and earn $620.\nFull details and the application are on Mercor.",
+    "tags": [
+      "practising",
+      "lawyer",
+      "korea",
+      "spain"
+    ],
+    "createdAt": 1795057652000
+  },
+  {
+    "id": "mercor-healthcare-payer-landscape-reimbursement-analyst-rcm-9CV5TO",
+    "title": "Healthcare Payer Landscape & Reimbursement Analyst (RCM)",
+    "company": "Mercor",
+    "category": "Healthcare",
+    "type": "Part-time",
+    "region": "Remote",
+    "salary": "$95 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoeqolT5tlmjFO69CV5TO?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoeqolT5tlmjFO69CV5TO&utm_medium=direct&utm_source=referral",
+    "description": "Remote Healthcare Payer Landscape & Reimbursement Analyst (RCM) opportunity with Mercor.\nAbout 20 hours per week.\nRefer and earn $380.\nFull details and the application are on Mercor.",
+    "tags": [
+      "healthcare",
+      "payer",
+      "landscape",
+      "reimbursement"
+    ],
+    "createdAt": 1794938279000
+  },
+  {
+    "id": "mercor-clinical-documentation-medical-necessity-reviewer-rn-lpn-JPwKEv",
+    "title": "Clinical Documentation & Medical Necessity Reviewer (RN/LPN)",
+    "company": "Mercor",
+    "category": "Healthcare",
+    "type": "Part-time",
+    "region": "Remote",
+    "salary": "$68 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoeqoekvqG0PyJuJPwKEv?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoeqoekvqG0PyJuJPwKEv&utm_medium=direct&utm_source=referral",
+    "description": "Remote Clinical Documentation & Medical Necessity Reviewer (RN/LPN) opportunity with Mercor.\nAbout 20 hours per week.\nRefer and earn $280.\nFull details and the application are on Mercor.",
+    "tags": [
+      "clinical",
+      "documentation",
+      "medical",
+      "necessity"
+    ],
+    "createdAt": 1794938272000
+  },
+  {
+    "id": "mercor-excel-expert-private-equity-FJ_IM5",
+    "title": "Excel Expert — Private Equity",
+    "company": "Mercor",
+    "category": "Finance & Accounting",
+    "type": "Part-time",
+    "region": "Remote",
+    "salary": "$70 – $100 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoeeVTHt-o7DZROFJ_IM5?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoeeVTHt-o7DZROFJ_IM5&utm_medium=direct&utm_source=referral",
+    "description": "Join a leading technology company's GenAI team to be at the core of the AI revolution, where your expertise fuels how the most advanced AI models learn to work in Excel. We are hiring experienced private equity professionals who are advanced Excel users to work directly with a leading technology company's research and program management teams, improving how frontier AI models handle real private equity work in Excel.\nAbout 20 hours per week.\nRefer and earn $1,600.\nFull details and the application are on Mercor.",
+    "tags": [
+      "excel",
+      "expert",
+      "private",
+      "equity"
+    ],
+    "createdAt": 1794886683000
+  },
+  {
+    "id": "mercor-excel-expert-investment-banking-1FYagy",
+    "title": "Excel Expert — Investment Banking",
+    "company": "Mercor",
+    "category": "Finance & Accounting",
+    "type": "Part-time",
+    "region": "Remote",
+    "salary": "$70 – $100 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoeeVQo23tJ87RW1FYagy?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoeeVQo23tJ87RW1FYagy&utm_medium=direct&utm_source=referral",
+    "description": "Join a leading technology company's GenAI team to be at the core of the AI revolution, where your expertise fuels how the most advanced AI models learn to work in Excel. We are hiring experienced investment banking professionals who are advanced Excel users to work directly with a leading technology company's research and program management teams, improving how frontier AI models handle real investment banking work in Excel.\nAbout 20 hours per week.\nRefer and earn $1,600.\nFull details and the application are on Mercor.",
+    "tags": [
+      "excel",
+      "expert",
+      "investment",
+      "banking"
+    ],
+    "createdAt": 1794886681000
+  },
+  {
+    "id": "mercor-excel-expert-asset-management-FDYYiZ",
+    "title": "Excel Expert — Asset Management",
+    "company": "Mercor",
+    "category": "Finance & Accounting",
+    "type": "Part-time",
+    "region": "Remote",
+    "salary": "$70 – $100 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoeeVOPd2MZJP3VFDYYiZ?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoeeVOPd2MZJP3VFDYYiZ&utm_medium=direct&utm_source=referral",
+    "description": "Join a leading technology company's GenAI team to be at the core of the AI revolution, where your expertise fuels how the most advanced AI models learn to work in Excel. We are hiring experienced asset management professionals who are advanced Excel users to work directly with a leading technology company's research and program management teams, improving how frontier AI models handle real asset management work in Excel.\nAbout 20 hours per week.\nRefer and earn $1,600.\nFull details and the application are on Mercor.",
+    "tags": [
+      "excel",
+      "expert",
+      "asset",
+      "management"
+    ],
+    "createdAt": 1794886678000
+  },
+  {
+    "id": "mercor-excel-expert-commercial-banking-lDSZh8",
+    "title": "Excel Expert — Commercial Banking",
+    "company": "Mercor",
+    "category": "Finance & Accounting",
+    "type": "Part-time",
+    "region": "Remote",
+    "salary": "$70 – $100 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoeeVLqg0v2SC7nlDSZh8?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoeeVLqg0v2SC7nlDSZh8&utm_medium=direct&utm_source=referral",
+    "description": "Join a leading technology company's GenAI team to be at the core of the AI revolution, where your expertise fuels how the most advanced AI models learn to work in Excel. We are hiring experienced commercial banking and credit professionals who are advanced Excel users to work directly with a leading technology company's research and program management teams, improving how frontier AI models handle real commercial banking work in Excel.\nAbout 20 hours per week.\nRefer and earn $1,600.\nFull details and the application are on Mercor.",
+    "tags": [
+      "excel",
+      "expert",
+      "commercial",
+      "banking"
+    ],
+    "createdAt": 1794886676000
+  },
+  {
+    "id": "mercor-excel-expert-wealth-management-9KNotk",
+    "title": "Excel Expert — Wealth Management",
+    "company": "Mercor",
+    "category": "Finance & Accounting",
+    "type": "Part-time",
+    "region": "Remote",
+    "salary": "$70 – $100 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoeeVJDIM_xNOuG9KNotk?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoeeVJDIM_xNOuG9KNotk&utm_medium=direct&utm_source=referral",
+    "description": "Join a leading technology company's GenAI team to be at the core of the AI revolution, where your expertise fuels how the most advanced AI models learn to work in Excel. We are hiring experienced wealth management professionals who are advanced Excel users to work directly with a leading technology company's research and program management teams, improving how frontier AI models handle real wealth management work in Excel.\nAbout 20 hours per week.\nRefer and earn $1,600.\nFull details and the application are on Mercor.",
+    "tags": [
+      "excel",
+      "expert",
+      "wealth",
+      "management"
+    ],
+    "createdAt": 1794886673000
+  },
+  {
+    "id": "mercor-marketing-expert-apac-1Pcr5I",
+    "title": "Marketing Expert – APAC",
+    "company": "Mercor",
+    "category": "Sales & Marketing",
+    "type": "Full-time",
+    "region": "Remote",
+    "salary": "$60 – $85 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoeb5ocGOoiT0eb1Pcr5I?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoeb5ocGOoiT0eb1Pcr5I&utm_medium=direct&utm_source=referral",
+    "description": "Remote Marketing Expert – APAC opportunity with Mercor.\nAbout 40 hours per week.\nRefer and earn $1,360.\nFull details and the application are on Mercor.",
+    "tags": [
+      "marketing",
+      "expert",
+      "apac"
+    ],
+    "createdAt": 1794876482000
+  },
+  {
+    "id": "mercor-marketing-expert-emea-hD_64v",
+    "title": "Marketing Expert – EMEA",
+    "company": "Mercor",
+    "category": "Sales & Marketing",
+    "type": "Full-time",
+    "region": "Remote",
+    "salary": "$60 – $85 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoeb5gi0161znu3hD_64v?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoeb5gi0161znu3hD_64v&utm_medium=direct&utm_source=referral",
+    "description": "Remote Marketing Expert – EMEA opportunity with Mercor.\nAbout 40 hours per week.\nRefer and earn $1,360.\nFull details and the application are on Mercor.",
+    "tags": [
+      "marketing",
+      "expert",
+      "emea"
+    ],
+    "createdAt": 1794876474000
+  },
+  {
+    "id": "mercor-finance-expert-fp-a-apac-pOfY29",
+    "title": "Finance Expert (FP&A) – APAC",
+    "company": "Mercor",
+    "category": "Finance & Accounting",
+    "type": "Full-time",
+    "region": "Remote",
+    "salary": "$70 – $100 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoeb5W6iV0vheSypOfY29?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoeb5W6iV0vheSypOfY29&utm_medium=direct&utm_source=referral",
+    "description": "Remote Finance Expert (FP&A) – APAC opportunity with Mercor.\nAbout 40 hours per week.\nRefer and earn $1,600.\nFull details and the application are on Mercor.",
+    "tags": [
+      "finance",
+      "expert",
+      "apac"
+    ],
+    "createdAt": 1794876464000
+  },
+  {
+    "id": "mercor-finance-expert-fp-a-emea-BNPbUW",
+    "title": "Finance Expert (FP&A) – EMEA",
+    "company": "Mercor",
+    "category": "Finance & Accounting",
+    "type": "Full-time",
+    "region": "Remote",
+    "salary": "$70 – $100 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoeb5OZKJV5XRwMBNPbUW?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoeb5OZKJV5XRwMBNPbUW&utm_medium=direct&utm_source=referral",
+    "description": "Remote Finance Expert (FP&A) – EMEA opportunity with Mercor.\nAbout 40 hours per week.\nRefer and earn $1,600.\nFull details and the application are on Mercor.",
+    "tags": [
+      "finance",
+      "expert",
+      "emea"
+    ],
+    "createdAt": 1794876455000
+  },
+  {
+    "id": "mercor-ai-evaluation-rubric-auditor-9DVrUb",
+    "title": "AI Evaluation Rubric Auditor",
+    "company": "Mercor",
+    "category": "Data & AI",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$60 – $85 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoeaZZ5aPp9cXNF9DVrUb?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoeaZZ5aPp9cXNF9DVrUb&utm_medium=direct&utm_source=referral",
+    "description": "We are testing AI agents on realistic shopping and delivery tasks. Your role as a Project Auditor is to audit the work done by our Project Reviewers. You will audit complete tasks (prompt and grading rubric) and determine if their rubric failures are fair: \\- Does the rubric accurately grade what the prompt asked for? \\- Would a valid answer have been marked wrong? \\- Is the rubric structure correct per the guidelines?\nAbout 15 hours per week.\nRefer and earn $340.\nFull details and the application are on Mercor.",
+    "tags": [
+      "evaluation",
+      "rubric",
+      "auditor"
+    ],
+    "createdAt": 1794870175000
+  },
+  {
+    "id": "mercor-insurance-distribution-market-expert-paid-research-interview-NC-5qt",
+    "title": "Insurance Distribution Market Expert – Paid Research Interview",
+    "company": "Mercor",
+    "category": "Other",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$555 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABod-ddE8TIdVeFnNC-5qt?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABod-ddE8TIdVeFnNC-5qt&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is recruiting insurance distribution market experts for a paid, one-hour research interview about the US independent agency software market. Your perspective will inform an industry study on agency management systems (AMS), agency operations and the potential for AI-enabled tools. How the AMS market is structured and how agencies buy and switch systems Typical pricing, contract structures and switching barriers\nRefer and earn $250.\nFull details and the application are on Mercor.",
+    "tags": [
+      "insurance",
+      "distribution",
+      "market",
+      "expert"
+    ],
+    "createdAt": 1794753001000
+  },
+  {
+    "id": "mercor-insurance-agency-group-pe-integration-systems-lead-paid-research-interview-VE3ZQJ",
+    "title": "Insurance Agency Group / PE Integration & Systems Lead – Paid Research Interview",
+    "company": "Mercor",
+    "category": "Finance & Accounting",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$450 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABod-dVhq8uhqw5KVE3ZQJ?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABod-dVhq8uhqw5KVE3ZQJ&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is recruiting integration and systems leaders from private-equity-backed insurance agency groups and agency networks in the United States for a paid, one-hour research interview. Your insights will inform an industry study on how agency groups standardize and manage agency management systems (AMS) across acquired agencies, and where automation and AI could help. How agency management systems are chosen and standardized after acquisitions\nRefer and earn $250.\nFull details and the application are on Mercor.",
+    "tags": [
+      "insurance",
+      "agency",
+      "group",
+      "integration"
+    ],
+    "createdAt": 1794752993000
+  },
+  {
+    "id": "mercor-agency-management-system-administrator-technology-lead-paid-research-interview-BKc7YT",
+    "title": "Agency Management System Administrator / Technology Lead – Paid Research Interview",
+    "company": "Mercor",
+    "category": "Other",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$380 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABod-dMPPOOMe1VJBKc7YT?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABod-dMPPOOMe1VJBKc7YT&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is recruiting agency management system (AMS) administrators and technology leads from US independent insurance agencies for a paid, one-hour research interview. Your insights will inform an industry study on how agencies run their management systems day to day and where automation and AI could help. How your agency's AMS is configured, how many people use it and what integrates with it Manual workarounds, data quality issues and common pain points\nRefer and earn $250.\nFull details and the application are on Mercor.",
+    "tags": [
+      "agency",
+      "management",
+      "system",
+      "administrator"
+    ],
+    "createdAt": 1794752983000
+  },
+  {
+    "id": "mercor-independent-insurance-agency-owner-principal-paid-research-interview-dJTov0",
+    "title": "Independent Insurance Agency Owner / Principal – Paid Research Interview",
+    "company": "Mercor",
+    "category": "Finance & Accounting",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$450 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABod-dElqtLbA4E_dJTov0?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABod-dElqtLbA4E_dJTov0&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is recruiting owners and principals of independent insurance agencies in the United States for a paid, one-hour research interview about agency management software (AMS). Your insights will inform an industry study on how agencies choose, pay for, and use their management systems, and where automation and AI could help. Which agency management system you use and why you chose it Approximate software spend and how purchasing decisions are made\nRefer and earn $250.\nFull details and the application are on Mercor.",
+    "tags": [
+      "independent",
+      "insurance",
+      "agency",
+      "owner"
+    ],
+    "createdAt": 1794752975000
+  },
+  {
+    "id": "mercor-insurance-agency-software-survey-10-minutes-paid-VO8K85",
+    "title": "Insurance Agency Software Survey – 10 Minutes, Paid",
+    "company": "Mercor",
+    "category": "Engineering",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$69 – $118 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABod-cr6QtycCt_RVO8K85?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABod-cr6QtycCt_RVO8K85&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is inviting professionals at US independent insurance agencies to take part in a short, paid online survey (about 10 minutes) about agency management software (AMS). Your answers will inform an industry study on how agencies choose, pay for and use their management systems, and where automation and AI could help. Your agency's current management system and how satisfied you are with it Staffing and outsourcing for service work\nRefer and earn $250.\nFull details and the application are on Mercor.",
+    "tags": [
+      "insurance",
+      "agency",
+      "software",
+      "survey"
+    ],
+    "createdAt": 1794752950000
+  },
+  {
+    "id": "mercor-insurance-agency-service-account-management-lead-paid-research-interview-ZGF5LM",
+    "title": "Insurance Agency Service / Account Management Lead – Paid Research Interview",
+    "company": "Mercor",
+    "category": "Finance & Accounting",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$380 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABod-ca4v5KkTthCZGF5LM?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABod-ca4v5KkTthCZGF5LM&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is recruiting service and account management team leads from US independent insurance agencies for a paid, one-hour research interview. Your insights will inform an industry study on day-to-day agency workflows inside agency management systems (AMS) and where automation and AI could help. How your team handles certificates of insurance, renewals, endorsements, policy checking and data entry\nRefer and earn $250.\nFull details and the application are on Mercor.",
+    "tags": [
+      "insurance",
+      "agency",
+      "service",
+      "account"
+    ],
+    "createdAt": 1794752933000
+  },
+  {
+    "id": "mercor-insurance-agency-operations-finance-leader-paid-research-interview-VBZ73W",
+    "title": "Insurance Agency Operations & Finance Leader – Paid Research Interview",
+    "company": "Mercor",
+    "category": "Finance & Accounting",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$380 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABod-cG2BzHQBcUBVBZ73W?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABod-cG2BzHQBcUBVBZ73W&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is recruiting operations and finance leaders from US independent insurance agencies and brokerages for a paid, one-hour research interview about agency management software (AMS). Your insights will inform an industry study on how agencies choose, pay for, and run their management systems, and where automation and AI could help. Which agency management system your agency uses, who chose it and why\nRefer and earn $250.\nFull details and the application are on Mercor.",
+    "tags": [
+      "insurance",
+      "agency",
+      "operations",
+      "finance"
+    ],
+    "createdAt": 1794752912000
+  },
+  {
+    "id": "mercor-cyber-engineer-3-years-experience-9F8pnR",
+    "title": "Cyber Engineer (3+ Years Experience)",
+    "company": "Mercor",
+    "category": "Engineering",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$400 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABod-XpCFXW1KhVe9F8pnR?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABod-XpCFXW1KhVe9F8pnR&utm_medium=direct&utm_source=referral",
+    "description": "We’re looking for cyber engineers with 3+ years of professional experience in application security, vulnerability research, penetration testing, or secure software engineering. US only.\nRefer and earn $250.\nFull details and the application are on Mercor.",
+    "tags": [
+      "cyber",
+      "engineer",
+      "years",
+      "experience"
+    ],
+    "createdAt": 1794752620000
+  },
+  {
+    "id": "mercor-drug-discovery-translational-science-expert-9LBqVq",
+    "title": "Drug Discovery & Translational Science Expert",
+    "company": "Mercor",
+    "category": "Science & Research",
+    "type": "Full-time",
+    "region": "Remote",
+    "salary": "$70 – $100 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABodwhbMXQuKR3sa9LBqVq?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABodwhbMXQuKR3sa9LBqVq&utm_medium=direct&utm_source=referral",
+    "description": "Join a leading AI lab's cutting-edge GenAI team to be at the core of the AI revolution, where your expertise fuels the development of the most advanced Large Language Models.\nAbout 40 hours per week.\nRefer and earn $1,600.\nFull details and the application are on Mercor.",
+    "tags": [
+      "drug",
+      "discovery",
+      "translational",
+      "science"
+    ],
+    "createdAt": 1794694540000
+  },
+  {
+    "id": "mercor-medical-affairs-commercial-expert-VBaJGw",
+    "title": "Medical Affairs & Commercial Expert",
+    "company": "Mercor",
+    "category": "Healthcare",
+    "type": "Full-time",
+    "region": "Remote",
+    "salary": "$70 – $100 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABodwhWFi4jOyOolVBaJGw?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABodwhWFi4jOyOolVBaJGw&utm_medium=direct&utm_source=referral",
+    "description": "Join a leading AI lab's cutting-edge GenAI team to be at the core of the AI revolution, where your expertise fuels the development of the most advanced Large Language Models.\nAbout 40 hours per week.\nRefer and earn $1,600.\nFull details and the application are on Mercor.",
+    "tags": [
+      "medical",
+      "affairs",
+      "commercial",
+      "expert"
+    ],
+    "createdAt": 1794694535000
+  },
+  {
+    "id": "mercor-cmc-manufacturing-quality-expert-tALZJa",
+    "title": "CMC, Manufacturing & Quality Expert",
+    "company": "Mercor",
+    "category": "Science & Research",
+    "type": "Full-time",
+    "region": "Remote",
+    "salary": "$70 – $100 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABodwhSO6KHR7Vl4tALZJa?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABodwhSO6KHR7Vl4tALZJa&utm_medium=direct&utm_source=referral",
+    "description": "Join a leading AI lab's cutting-edge GenAI team to be at the core of the AI revolution, where your expertise fuels the development of the most advanced Large Language Models.\nAbout 40 hours per week.\nRefer and earn $1,600.\nFull details and the application are on Mercor.",
+    "tags": [
+      "cmc",
+      "manufacturing",
+      "quality",
+      "expert"
+    ],
+    "createdAt": 1794694531000
+  },
+  {
+    "id": "mercor-pharmacovigilance-medical-safety-expert-RIT5kC",
+    "title": "Pharmacovigilance & Medical Safety Expert",
+    "company": "Mercor",
+    "category": "Healthcare",
+    "type": "Full-time",
+    "region": "Remote",
+    "salary": "$70 – $100 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABodwhNcs38ACc-CRIT5kC?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABodwhNcs38ACc-CRIT5kC&utm_medium=direct&utm_source=referral",
+    "description": "Join a leading AI lab's cutting-edge GenAI team to be at the core of the AI revolution, where your expertise fuels the development of the most advanced Large Language Models.\nAbout 40 hours per week.\nRefer and earn $1,600.\nFull details and the application are on Mercor.",
+    "tags": [
+      "pharmacovigilance",
+      "medical",
+      "safety",
+      "expert"
+    ],
+    "createdAt": 1794694526000
+  },
+  {
+    "id": "mercor-clinical-development-operations-expert-ZCbpsk",
+    "title": "Clinical Development & Operations Expert",
+    "company": "Mercor",
+    "category": "Healthcare",
+    "type": "Full-time",
+    "region": "Remote",
+    "salary": "$70 – $100 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABodwhJxxnEH_MCFZCbpsk?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABodwhJxxnEH_MCFZCbpsk&utm_medium=direct&utm_source=referral",
+    "description": "Join a leading AI lab's cutting-edge GenAI team to be at the core of the AI revolution, where your expertise fuels the development of the most advanced Large Language Models.\nAbout 40 hours per week.\nRefer and earn $1,600.\nFull details and the application are on Mercor.",
+    "tags": [
+      "clinical",
+      "development",
+      "operations",
+      "expert"
+    ],
+    "createdAt": 1794694522000
+  },
+  {
+    "id": "mercor-regulatory-affairs-expert-NMTbdJ",
+    "title": "Regulatory Affairs Expert",
+    "company": "Mercor",
+    "category": "Other",
+    "type": "Full-time",
+    "region": "Remote",
+    "salary": "$70 – $100 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABodwhFg-ByligFaNMTbdJ?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABodwhFg-ByligFaNMTbdJ&utm_medium=direct&utm_source=referral",
+    "description": "Join a leading AI lab's cutting-edge GenAI team to be at the core of the AI revolution, where your expertise fuels the development of the most advanced Large Language Models.\nAbout 40 hours per week.\nRefer and earn $1,600.\nFull details and the application are on Mercor.",
+    "tags": [
+      "regulatory",
+      "affairs",
+      "expert"
+    ],
+    "createdAt": 1794694518000
+  },
+  {
+    "id": "mercor-enterprise-sales-manager-ai-training-specialist-ZHg54O",
+    "title": "Enterprise Sales Manager – AI Training Specialist",
+    "company": "Mercor",
+    "category": "Data & AI",
+    "type": "Part-time",
+    "region": "Remote",
+    "salary": "$100 – $125 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABodjkhcin__KeNFZHg54O?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABodjkhcin__KeNFZHg54O&utm_medium=direct&utm_source=referral",
+    "description": "Remote Enterprise Sales Manager – AI Training Specialist opportunity with Mercor.\nAbout 10 hours per week.\nRefer and earn $500.\nFull details and the application are on Mercor.",
+    "tags": [
+      "enterprise",
+      "sales",
+      "manager",
+      "training"
+    ],
+    "createdAt": 1794640218000
+  },
+  {
+    "id": "mercor-fp-a-expert-BD-Y_n",
+    "title": "FP&A Expert",
+    "company": "Mercor",
+    "category": "Finance & Accounting",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$100 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoddaxN8U-VxGZ5BD-Y_n?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoddaxN8U-VxGZ5BD-Y_n&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is hiring experienced FP&A professionals to build and review evaluation tasks for AI agents. Each task is set in a realistic simulated company, with the budgets, forecasts, models, emails and business apps a finance team really uses. You make sure each task reads like a real request, the reference answer holds up against the source data, and the grading rubric checks what a senior FP&A lead would check.\nRefer and earn $400.\nFull details and the application are on Mercor.",
+    "tags": [
+      "expert"
+    ],
+    "createdAt": 1794614413000
+  },
+  {
+    "id": "mercor-swahili-linguistic-expert-JCT7ME",
+    "title": "Swahili Linguistic Expert",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$40 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABodVEHAaAjmbH4iJCT7ME?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABodVEHAaAjmbH4iJCT7ME&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is seeking experienced Swahili Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Swahili-language tasks and on curating high-quality Swahili linguistic data to train and improve the model's understanding and generation capabilities. US only.\nRefer and earn $160.\nFull details and the application are on Mercor.",
+    "tags": [
+      "swahili",
+      "linguistic",
+      "expert"
+    ],
+    "createdAt": 1794579373000
+  },
+  {
+    "id": "mercor-greek-linguistic-expert-JKUJnY",
+    "title": "Greek Linguistic Expert",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$40 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABodVEEpvBK3U18ZJKUJnY?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABodVEEpvBK3U18ZJKUJnY&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is seeking experienced Greek Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Greek-language tasks and on curating high-quality Greek linguistic data to train and improve the model's understanding and generation capabilities. US only.\nRefer and earn $160.\nFull details and the application are on Mercor.",
+    "tags": [
+      "greek",
+      "linguistic",
+      "expert"
+    ],
+    "createdAt": 1794579370000
+  },
+  {
+    "id": "mercor-hebrew-linguistic-expert-dB9IT1",
+    "title": "Hebrew Linguistic Expert",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$40 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABodVECUWPNE5aVVdB9IT1?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABodVECUWPNE5aVVdB9IT1&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is seeking experienced Hebrew Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Hebrew-language tasks and on curating high-quality Hebrew linguistic data to train and improve the model's understanding and generation capabilities. US only.\nRefer and earn $160.\nFull details and the application are on Mercor.",
+    "tags": [
+      "hebrew",
+      "linguistic",
+      "expert"
+    ],
+    "createdAt": 1794579368000
+  },
+  {
+    "id": "mercor-thai-linguistic-expert-ZF0524",
+    "title": "Thai Linguistic Expert",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$40 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABodVD_1Rtf7wdQGZF0524?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABodVD_1Rtf7wdQGZF0524&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is seeking experienced Thai Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Thai-language tasks and on curating high-quality Thai linguistic data to train and improve the model's understanding and generation capabilities. US only.\nRefer and earn $160.\nFull details and the application are on Mercor.",
+    "tags": [
+      "thai",
+      "linguistic",
+      "expert"
+    ],
+    "createdAt": 1794579365000
+  },
+  {
+    "id": "mercor-indonesian-linguistic-expert-5Cdby6",
+    "title": "Indonesian Linguistic Expert",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$40 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABodVD7VTLrW6oW65Cdby6?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABodVD7VTLrW6oW65Cdby6&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is seeking experienced Indonesian Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Indonesian-language tasks and on curating high-quality Indonesian linguistic data to train and improve the model's understanding and generation capabilities. US only.\nRefer and earn $160.\nFull details and the application are on Mercor.",
+    "tags": [
+      "indonesian",
+      "linguistic",
+      "expert"
+    ],
+    "createdAt": 1794579361000
+  },
+  {
+    "id": "mercor-bangla-linguistic-expert-5NjKGR",
+    "title": "Bangla Linguistic Expert",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$40 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABodVD4ylYia6TeD5NjKGR?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABodVD4ylYia6TeD5NjKGR&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is seeking experienced Bangla Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Bangla-language tasks and on curating high-quality Bangla linguistic data to train and improve the model's understanding and generation capabilities. US only.\nRefer and earn $160.\nFull details and the application are on Mercor.",
+    "tags": [
+      "bangla",
+      "linguistic",
+      "expert"
+    ],
+    "createdAt": 1794579358000
+  },
+  {
+    "id": "mercor-hindi-linguistic-expert-FLxLbm",
+    "title": "Hindi Linguistic Expert",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$40 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABodVD2hPOOQf0SUFLxLbm?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABodVD2hPOOQf0SUFLxLbm&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is seeking experienced Hindi Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Hindi-language tasks and on curating high-quality Hindi linguistic data to train and improve the model's understanding and generation capabilities. US only.\nRefer and earn $160.\nFull details and the application are on Mercor.",
+    "tags": [
+      "hindi",
+      "linguistic",
+      "expert"
+    ],
+    "createdAt": 1794579356000
+  },
+  {
+    "id": "mercor-arabic-linguistic-expert-9PYaoR",
+    "title": "Arabic Linguistic Expert",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$40 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABodVD0LKRYKowg_9PYaoR?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABodVD0LKRYKowg_9PYaoR&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is seeking experienced Arabic Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Arabic-language tasks and on curating high-quality Arabic linguistic data to train and improve the model's understanding and generation capabilities. US only.\nRefer and earn $160.\nFull details and the application are on Mercor.",
+    "tags": [
+      "arabic",
+      "linguistic",
+      "expert"
+    ],
+    "createdAt": 1794579353000
+  },
+  {
+    "id": "mercor-traditional-chinese-linguistic-expert-BKN57Y",
+    "title": "Traditional Chinese Linguistic Expert",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$40 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABodVDxV3haXmB00BKN57Y?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABodVDxV3haXmB00BKN57Y&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is seeking experienced Traditional Chinese Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Traditional Chinese-language tasks and on curating high-quality Chinese linguistic data to train and improve the model's understanding and generation capabilities. US only.\nRefer and earn $160.\nFull details and the application are on Mercor.",
+    "tags": [
+      "traditional",
+      "chinese",
+      "linguistic",
+      "expert"
+    ],
+    "createdAt": 1794579350000
+  },
+  {
+    "id": "mercor-simplified-chinese-linguistic-expert-pA9KrD",
+    "title": "Simplified Chinese Linguistic Expert",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$40 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABodVCsxPi5PkD6epA9KrD?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABodVCsxPi5PkD6epA9KrD&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is seeking experienced Simplified Chinese Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Simplified Chinese-language tasks and on curating high-quality Chinese linguistic data to train and improve the model's understanding and generation capabilities. US only.\nRefer and earn $160.\nFull details and the application are on Mercor.",
+    "tags": [
+      "simplified",
+      "chinese",
+      "linguistic",
+      "expert"
+    ],
+    "createdAt": 1794579280000
+  },
+  {
+    "id": "mercor-korean-linguistic-expert-dBo4bW",
+    "title": "Korean Linguistic Expert",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$40 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABodVCqTI3CAevx5dBo4bW?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABodVCqTI3CAevx5dBo4bW&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is seeking experienced Korean Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Korean-language tasks and on curating high-quality Korean linguistic data to train and improve the model's understanding and generation capabilities. US only.\nRefer and earn $160.\nFull details and the application are on Mercor.",
+    "tags": [
+      "korean",
+      "linguistic",
+      "expert"
+    ],
+    "createdAt": 1794579278000
+  },
+  {
+    "id": "mercor-latin-american-spanish-linguistic-expert-RLW7FI",
+    "title": "Latin American Spanish Linguistic Expert",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$40 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABodVCn2A5i2_yVKRLW7FI?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABodVCn2A5i2_yVKRLW7FI&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is seeking experienced Latin American Spanish Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Latin American Spanish-language tasks and on curating high-quality Spanish linguistic data to train and improve the model's understanding and generation capabilities. US only.\nRefer and earn $160.\nFull details and the application are on Mercor.",
+    "tags": [
+      "latin",
+      "american",
+      "spanish",
+      "linguistic"
+    ],
+    "createdAt": 1794579275000
+  },
+  {
+    "id": "mercor-spanish-linguistic-expert-VDmoAr",
+    "title": "Spanish Linguistic Expert",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$40 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABodVCln0c9qn2KKVDmoAr?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABodVCln0c9qn2KKVDmoAr&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is seeking experienced Spanish Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Spanish-language tasks and on curating high-quality Spanish linguistic data to train and improve the model's understanding and generation capabilities. US only.\nRefer and earn $160.\nFull details and the application are on Mercor.",
+    "tags": [
+      "spanish",
+      "linguistic",
+      "expert"
+    ],
+    "createdAt": 1794579273000
+  },
+  {
+    "id": "mercor-polish-linguistic-expert-RIxZxS",
+    "title": "Polish Linguistic Expert",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$40 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABodVCjW1hRgHyHERIxZxS?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABodVCjW1hRgHyHERIxZxS&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is seeking experienced Polish Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Polish-language tasks and on curating high-quality Polish linguistic data to train and improve the model's understanding and generation capabilities. US only.\nRefer and earn $160.\nFull details and the application are on Mercor.",
+    "tags": [
+      "polish",
+      "linguistic",
+      "expert"
+    ],
+    "createdAt": 1794579271000
+  },
+  {
+    "id": "mercor-brazilian-portuguese-linguistic-expert-FA6o09",
+    "title": "Brazilian Portuguese Linguistic Expert",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$40 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABodVCg8d6cjN1PjFA6o09?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABodVCg8d6cjN1PjFA6o09&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is seeking experienced Brazilian Portuguese Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Brazilian Portuguese-language tasks and on curating high-quality Portuguese linguistic data to train and improve the model's understanding and generation capabilities. US only.\nRefer and earn $160.\nFull details and the application are on Mercor.",
+    "tags": [
+      "brazilian",
+      "portuguese",
+      "linguistic",
+      "expert"
+    ],
+    "createdAt": 1794579268000
+  },
+  {
+    "id": "mercor-european-portuguese-linguistic-expert-JOpZXt",
+    "title": "European Portuguese Linguistic Expert",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$40 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABodVCeXSx1dxnKUJOpZXt?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABodVCeXSx1dxnKUJOpZXt&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is seeking experienced European Portuguese Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in European Portuguese-language tasks and on curating high-quality Portuguese linguistic data to train and improve the model's understanding and generation capabilities. US only.\nRefer and earn $160.\nFull details and the application are on Mercor.",
+    "tags": [
+      "european",
+      "portuguese",
+      "linguistic",
+      "expert"
+    ],
+    "createdAt": 1794579265000
+  },
+  {
+    "id": "mercor-spanish-venezuela-linguistic-expert-NIKLpW",
+    "title": "Spanish (Venezuela) Linguistic Expert",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$40 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABodVCb2VrsySQqkNIKLpW?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABodVCb2VrsySQqkNIKLpW&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is seeking experienced Spanish (Venezuela) Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Venezuelan Spanish-language tasks and on curating high-quality Spanish linguistic data to train and improve the model's understanding and generation capabilities. US only.\nRefer and earn $160.\nFull details and the application are on Mercor.",
+    "tags": [
+      "spanish",
+      "venezuela",
+      "linguistic",
+      "expert"
+    ],
+    "createdAt": 1794579263000
+  },
+  {
+    "id": "mercor-spanish-united-states-linguistic-expert-JH2aNY",
+    "title": "Spanish (United States) Linguistic Expert",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$40 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABodVCZOuKONEDI7JH2aNY?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABodVCZOuKONEDI7JH2aNY&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is seeking experienced Spanish (United States) Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in U.S. Spanish-language tasks and on curating high-quality Spanish linguistic data to train and improve the model's understanding and generation capabilities. US only.\nRefer and earn $160.\nFull details and the application are on Mercor.",
+    "tags": [
+      "spanish",
+      "united",
+      "states",
+      "linguistic"
+    ],
+    "createdAt": 1794579260000
+  },
+  {
+    "id": "mercor-spanish-peru-linguistic-expert-lBSKXd",
+    "title": "Spanish (Peru) Linguistic Expert",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$40 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABodVBWftxLW3HzllBSKXd?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABodVBWftxLW3HzllBSKXd&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is seeking experienced Spanish (Peru) Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Peruvian Spanish-language tasks and on curating high-quality Spanish linguistic data to train and improve the model's understanding and generation capabilities. US only.\nRefer and earn $160.\nFull details and the application are on Mercor.",
+    "tags": [
+      "spanish",
+      "peru",
+      "linguistic",
+      "expert"
+    ],
+    "createdAt": 1794579192000
+  },
+  {
+    "id": "mercor-mexican-spanish-linguistic-expert-xN8JHI",
+    "title": "Mexican Spanish Linguistic Expert",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$40 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABodVBTumB5opNDqxN8JHI?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABodVBTumB5opNDqxN8JHI&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is seeking experienced Mexican Spanish Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Mexican Spanish-language tasks and on curating high-quality Spanish linguistic data to train and improve the model's understanding and generation capabilities. US only.\nRefer and earn $160.\nFull details and the application are on Mercor.",
+    "tags": [
+      "mexican",
+      "spanish",
+      "linguistic",
+      "expert"
+    ],
+    "createdAt": 1794579189000
+  },
+  {
+    "id": "mercor-spanish-colombia-linguistic-expert-5NKKpH",
+    "title": "Spanish (Colombia) Linguistic Expert",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$40 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABodVBO0UraY4oL-5NKKpH?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABodVBO0UraY4oL-5NKKpH&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is seeking experienced Spanish (Colombia) Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Colombian Spanish-language tasks and on curating high-quality Spanish linguistic data to train and improve the model's understanding and generation capabilities. US only.\nRefer and earn $160.\nFull details and the application are on Mercor.",
+    "tags": [
+      "spanish",
+      "colombia",
+      "linguistic",
+      "expert"
+    ],
+    "createdAt": 1794579184000
+  },
+  {
+    "id": "mercor-spanish-chile-linguistic-expert-9NPbND",
+    "title": "Spanish (Chile) Linguistic Expert",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$40 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABodVBMXEveX28Yu9NPbND?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABodVBMXEveX28Yu9NPbND&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is seeking experienced Spanish (Chile) Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Chilean Spanish-language tasks and on curating high-quality Spanish linguistic data to train and improve the model's understanding and generation capabilities. US only.\nRefer and earn $160.\nFull details and the application are on Mercor.",
+    "tags": [
+      "spanish",
+      "chile",
+      "linguistic",
+      "expert"
+    ],
+    "createdAt": 1794579181000
+  },
+  {
+    "id": "mercor-spanish-argentina-linguistic-expert-9FQJC_",
+    "title": "Spanish (Argentina) Linguistic Expert",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$40 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABodVBJrvZZX-PNM9FQJC_?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABodVBJrvZZX-PNM9FQJC_&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is seeking experienced Spanish (Argentina) Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Argentine (Rioplatense) Spanish-language tasks and on curating high-quality Spanish linguistic data to train and improve the model's understanding and generation capabilities. US only.\nRefer and earn $160.\nFull details and the application are on Mercor.",
+    "tags": [
+      "spanish",
+      "argentina",
+      "linguistic",
+      "expert"
+    ],
+    "createdAt": 1794579179000
+  },
+  {
+    "id": "mercor-chinese-taiwan-linguistic-expert-FNc5Ie",
+    "title": "Chinese (Taiwan) Linguistic Expert",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$40 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABodVBHR4VvIaF-vFNc5Ie?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABodVBHR4VvIaF-vFNc5Ie&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is seeking experienced Chinese (Taiwan) Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Taiwanese Mandarin (Traditional)-language tasks and on curating high-quality Chinese linguistic data to train and improve the model's understanding and generation capabilities. US only.\nRefer and earn $160.\nFull details and the application are on Mercor.",
+    "tags": [
+      "chinese",
+      "taiwan",
+      "linguistic",
+      "expert"
+    ],
+    "createdAt": 1794579176000
+  },
+  {
+    "id": "mercor-chinese-singapore-linguistic-expert-9NCqxd",
+    "title": "Chinese (Singapore) Linguistic Expert",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$40 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABodVBErvp9YTcPk9NCqxd?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABodVBErvp9YTcPk9NCqxd&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is seeking experienced Chinese (Singapore) Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Singaporean Chinese (Simplified)-language tasks and on curating high-quality Chinese linguistic data to train and improve the model's understanding and generation capabilities. US only.\nRefer and earn $160.\nFull details and the application are on Mercor.",
+    "tags": [
+      "chinese",
+      "singapore",
+      "linguistic",
+      "expert"
+    ],
+    "createdAt": 1794579174000
+  },
+  {
+    "id": "mercor-chinese-hong-kong-sar-china-linguistic-expert-BKbYFD",
+    "title": "Chinese (Hong Kong SAR China) Linguistic Expert",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$40 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABodVBAaw3DBIbloBKbYFD?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABodVBAaw3DBIbloBKbYFD&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is seeking experienced Chinese (Hong Kong SAR China) Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Hong Kong Chinese (Traditional)-language tasks and on curating high-quality Chinese linguistic data to train and improve the model's understanding and generation capabilities. US only.\nRefer and earn $160.\nFull details and the application are on Mercor.",
+    "tags": [
+      "chinese",
+      "hong",
+      "kong",
+      "sar"
+    ],
+    "createdAt": 1794579169000
+  },
+  {
+    "id": "mercor-chinese-china-linguistic-expert-xC6JQ0",
+    "title": "Chinese (China) Linguistic Expert",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$40 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABodVA-AgvfBJiWYxC6JQ0?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABodVA-AgvfBJiWYxC6JQ0&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is seeking experienced Chinese (China) Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Mainland Chinese (Simplified)-language tasks and on curating high-quality Chinese linguistic data to train and improve the model's understanding and generation capabilities. US only.\nRefer and earn $160.\nFull details and the application are on Mercor.",
+    "tags": [
+      "chinese",
+      "china",
+      "linguistic",
+      "expert"
+    ],
+    "createdAt": 1794579167000
+  },
+  {
+    "id": "mercor-german-linguistic-expert-5GOoYT",
+    "title": "German Linguistic Expert",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$40 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABodU_dU4UcjK3q85GOoYT?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABodU_dU4UcjK3q85GOoYT&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is seeking experienced German Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in German-language tasks and on curating high-quality German linguistic data to train and improve the model's understanding and generation capabilities. US only.\nRefer and earn $160.\nFull details and the application are on Mercor.",
+    "tags": [
+      "german",
+      "linguistic",
+      "expert"
+    ],
+    "createdAt": 1794579068000
+  },
+  {
+    "id": "mercor-english-new-zealand-linguistic-expert-ZAt7MR",
+    "title": "English (New Zealand) Linguistic Expert",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$40 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABodU_YtLjYl1xEhZAt7MR?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABodU_YtLjYl1xEhZAt7MR&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is seeking experienced English (New Zealand) Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in New Zealand English-language tasks and on curating high-quality English linguistic data to train and improve the model's understanding and generation capabilities. US only.\nRefer and earn $160.\nFull details and the application are on Mercor.",
+    "tags": [
+      "english",
+      "new",
+      "zealand",
+      "linguistic"
+    ],
+    "createdAt": 1794579063000
+  },
+  {
+    "id": "mercor-canadian-english-linguistic-expert-BPvrtV",
+    "title": "Canadian English Linguistic Expert",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$40 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABodU_StwmvCOcOiBPvrtV?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABodU_StwmvCOcOiBPvrtV&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is seeking experienced Canadian English Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Canadian English-language tasks and on curating high-quality English linguistic data to train and improve the model's understanding and generation capabilities. US only.\nRefer and earn $160.\nFull details and the application are on Mercor.",
+    "tags": [
+      "canadian",
+      "english",
+      "linguistic",
+      "expert"
+    ],
+    "createdAt": 1794579057000
+  },
+  {
+    "id": "mercor-australian-english-linguistic-expert-BGGIxU",
+    "title": "Australian English Linguistic Expert",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$40 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABodU_MnCKJjLcP6BGGIxU?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABodU_MnCKJjLcP6BGGIxU&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is seeking experienced Australian English Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Australian English-language tasks and on curating high-quality English linguistic data to train and improve the model's understanding and generation capabilities. US only.\nRefer and earn $160.\nFull details and the application are on Mercor.",
+    "tags": [
+      "australian",
+      "english",
+      "linguistic",
+      "expert"
+    ],
+    "createdAt": 1794579051000
+  },
+  {
+    "id": "mercor-british-english-linguistic-expert-ZKNrs0",
+    "title": "British English Linguistic Expert",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$40 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABodU_GsvB95piXJZKNrs0?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABodU_GsvB95piXJZKNrs0&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is seeking experienced British English Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in British English-language tasks and on curating high-quality English linguistic data to train and improve the model's understanding and generation capabilities. US only.\nRefer and earn $160.\nFull details and the application are on Mercor.",
+    "tags": [
+      "british",
+      "english",
+      "linguistic",
+      "expert"
+    ],
+    "createdAt": 1794579045000
+  },
+  {
+    "id": "mercor-ukrainian-linguistic-expert-VFm7KS",
+    "title": "Ukrainian Linguistic Expert",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$40 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABodU_Be96xZEg1PVFm7KS?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABodU_Be96xZEg1PVFm7KS&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is seeking experienced Ukrainian Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Ukrainian-language tasks and on curating high-quality Ukrainian linguistic data to train and improve the model's understanding and generation capabilities. US only.\nRefer and earn $160.\nFull details and the application are on Mercor.",
+    "tags": [
+      "ukrainian",
+      "linguistic",
+      "expert"
+    ],
+    "createdAt": 1794579039000
+  },
+  {
+    "id": "mercor-turkish-linguistic-expert-xMz5K3",
+    "title": "Turkish Linguistic Expert",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$40 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABodU-8Ke1nyWj4KxMz5K3?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABodU-8Ke1nyWj4KxMz5K3&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is seeking experienced Turkish Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Turkish-language tasks and on curating high-quality Turkish linguistic data to train and improve the model's understanding and generation capabilities. US only.\nRefer and earn $160.\nFull details and the application are on Mercor.",
+    "tags": [
+      "turkish",
+      "linguistic",
+      "expert"
+    ],
+    "createdAt": 1794579034000
+  },
+  {
+    "id": "mercor-vietnamese-linguistic-expert-FElIoT",
+    "title": "Vietnamese Linguistic Expert",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$40 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABodU-1biYNoQyWeFElIoT?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABodU-1biYNoQyWeFElIoT&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is seeking experienced Vietnamese Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Vietnamese-language tasks and on curating high-quality Vietnamese linguistic data to train and improve the model's understanding and generation capabilities. US only.\nRefer and earn $160.\nFull details and the application are on Mercor.",
+    "tags": [
+      "vietnamese",
+      "linguistic",
+      "expert"
+    ],
+    "createdAt": 1794579027000
+  },
+  {
+    "id": "mercor-russian-linguistic-expert-tED511",
+    "title": "Russian Linguistic Expert",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$40 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABodU-t4hVp4a2yJtED511?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABodU-t4hVp4a2yJtED511&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is seeking experienced Russian Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Russian-language tasks and on curating high-quality Russian linguistic data to train and improve the model's understanding and generation capabilities. US only.\nRefer and earn $160.\nFull details and the application are on Mercor.",
+    "tags": [
+      "russian",
+      "linguistic",
+      "expert"
+    ],
+    "createdAt": 1794579019000
+  },
+  {
+    "id": "mercor-romanian-linguistic-expert-lFd5ib",
+    "title": "Romanian Linguistic Expert",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$40 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABodU8ZHuloRr86KlFd5ib?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABodU8ZHuloRr86KlFd5ib&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is seeking experienced Romanian Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Romanian-language tasks and on curating high-quality Romanian linguistic data to train and improve the model's understanding and generation capabilities. US only.\nRefer and earn $160.\nFull details and the application are on Mercor.",
+    "tags": [
+      "romanian",
+      "linguistic",
+      "expert"
+    ],
+    "createdAt": 1794578867000
+  },
+  {
+    "id": "mercor-finnish-linguistic-expert-pEuosC",
+    "title": "Finnish Linguistic Expert",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$40 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABodU8SN2oa8G_OfpEuosC?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABodU8SN2oa8G_OfpEuosC&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is seeking experienced Finnish Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Finnish-language tasks and on curating high-quality Finnish linguistic data to train and improve the model's understanding and generation capabilities. US only.\nRefer and earn $160.\nFull details and the application are on Mercor.",
+    "tags": [
+      "finnish",
+      "linguistic",
+      "expert"
+    ],
+    "createdAt": 1794578860000
+  },
+  {
+    "id": "mercor-dutch-linguistic-expert-lDo75x",
+    "title": "Dutch Linguistic Expert",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$40 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABodU8NQFNS31S3tlDo75x?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABodU8NQFNS31S3tlDo75x&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is seeking experienced Dutch Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Dutch-language tasks and on curating high-quality Dutch linguistic data to train and improve the model's understanding and generation capabilities. US only.\nRefer and earn $160.\nFull details and the application are on Mercor.",
+    "tags": [
+      "dutch",
+      "linguistic",
+      "expert"
+    ],
+    "createdAt": 1794578855000
+  },
+  {
+    "id": "mercor-danish-linguistic-expert-xHPIyW",
+    "title": "Danish Linguistic Expert",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$40 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABodU8IymE5oUMp2xHPIyW?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABodU8IymE5oUMp2xHPIyW&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is seeking experienced Danish Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Danish-language tasks and on curating high-quality Danish linguistic data to train and improve the model's understanding and generation capabilities. US only.\nRefer and earn $160.\nFull details and the application are on Mercor.",
+    "tags": [
+      "danish",
+      "linguistic",
+      "expert"
+    ],
+    "createdAt": 1794578850000
+  },
+  {
+    "id": "mercor-czech-linguistic-expert-5NL53S",
+    "title": "Czech Linguistic Expert",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$40 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABodU7_yqvwSmNHe5NL53S?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABodU7_yqvwSmNHe5NL53S&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is seeking experienced Czech Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Czech-language tasks and on curating high-quality Czech linguistic data to train and improve the model's understanding and generation capabilities. US only.\nRefer and earn $160.\nFull details and the application are on Mercor.",
+    "tags": [
+      "czech",
+      "linguistic",
+      "expert"
+    ],
+    "createdAt": 1794578841000
+  },
+  {
+    "id": "mercor-armenian-linguistic-expert-ZGZajk",
+    "title": "Armenian Linguistic Expert",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$40 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABodU725g6W3m1meZGZajk?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABodU725g6W3m1meZGZajk&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is seeking experienced Armenian Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Armenian-language tasks and on curating high-quality Armenian linguistic data to train and improve the model's understanding and generation capabilities. US only.\nRefer and earn $160.\nFull details and the application are on Mercor.",
+    "tags": [
+      "armenian",
+      "linguistic",
+      "expert"
+    ],
+    "createdAt": 1794578832000
+  },
+  {
+    "id": "mercor-japanese-linguistic-expert-ZIg6rN",
+    "title": "Japanese Linguistic Expert",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$40 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABodU7yrShFAvmm3ZIg6rN?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABodU7yrShFAvmm3ZIg6rN&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is seeking experienced Japanese Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Japanese-language tasks and on curating high-quality Japanese linguistic data to train and improve the model's understanding and generation capabilities. US only.\nRefer and earn $160.\nFull details and the application are on Mercor.",
+    "tags": [
+      "japanese",
+      "linguistic",
+      "expert"
+    ],
+    "createdAt": 1794578827000
+  },
+  {
+    "id": "mercor-italian-linguistic-expert-VOg43o",
+    "title": "Italian Linguistic Expert",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$40 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABodU7tQE6GRaVyuVOg43o?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABodU7tQE6GRaVyuVOg43o&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is seeking experienced Italian Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Italian-language tasks and on curating high-quality Italian linguistic data to train and improve the model's understanding and generation capabilities. US only.\nRefer and earn $160.\nFull details and the application are on Mercor.",
+    "tags": [
+      "italian",
+      "linguistic",
+      "expert"
+    ],
+    "createdAt": 1794578822000
+  },
+  {
+    "id": "mercor-french-linguistic-expert-RNx5DM",
+    "title": "French Linguistic Expert",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$40 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABodU7lw8bP6UCpLRNx5DM?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABodU7lw8bP6UCpLRNx5DM&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is seeking experienced French Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in French-language tasks and on curating high-quality French linguistic data to train and improve the model's understanding and generation capabilities. US only.\nRefer and earn $160.\nFull details and the application are on Mercor.",
+    "tags": [
+      "french",
+      "linguistic",
+      "expert"
+    ],
+    "createdAt": 1794578814000
+  },
+  {
+    "id": "mercor-enterprise-sales-expert-ae-sales-leader-tJuJhY",
+    "title": "Enterprise Sales Expert (AE / Sales Leader)",
+    "company": "Mercor",
+    "category": "Sales & Marketing",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$50 – $70 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoc3i1VY8MNT4obtJuJhY?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoc3i1VY8MNT4obtJuJhY&utm_medium=direct&utm_source=referral",
+    "description": "An AI company building models for enterprise sales teams needs experienced sellers to show what great deal thinking looks like. You'll review realistic B2B deal rooms (account research, stakeholder notes, deal context) and write the analysis a strong AE or sales leader would bring into the room. Your work becomes training data for a sales-specialized model.\nAbout 10 hours per week.\nRefer and earn $280.\nFull details and the application are on Mercor.",
+    "tags": [
+      "enterprise",
+      "sales",
+      "expert",
+      "sales"
+    ],
+    "createdAt": 1794455557000
+  },
+  {
+    "id": "mercor-fab-safety-and-emergency-response-expert-NJlLpY",
+    "title": "Fab Safety and Emergency Response Expert",
+    "company": "Mercor",
+    "category": "Science & Research",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$85 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABocvmQyKqYVaWnhNJlLpY?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABocvmQyKqYVaWnhNJlLpY&utm_medium=direct&utm_source=referral",
+    "description": "We're looking for semiconductor fab safety and emergency response experts to review and create expert content on fab hazards, emergency procedures, and safety documentation. 3+ years as an EHS engineer, emergency response team (ERT) member, fab facilities or sub-fab engineer, electrical safety engineer, or occupational health nurse/EMT Hands-on work inside an operating semiconductor fab, or fab-floor work for a semiconductor equipment or gas supplier\nAbout 10 hours per week. US only.\nRefer and earn $340.\nFull details and the application are on Mercor.",
+    "tags": [
+      "fab",
+      "safety",
+      "and",
+      "emergency"
+    ],
+    "createdAt": 1794422228000
+  },
+  {
+    "id": "mercor-certified-financial-planner-cfp-cfa-RKf6Mm",
+    "title": "Certified Financial Planner (CFP® / CFA)",
+    "company": "Mercor",
+    "category": "Finance & Accounting",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$130 – $140 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABocs4xIYqLBlbNtRKf6Mm?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABocs4xIYqLBlbNtRKf6Mm&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is seeking experienced financial planners and wealth advisors (CFP® and/or CFA charterholders) to help evaluate and improve advanced AI systems on realistic personal financial planning scenarios. You will work through complex household cases, completing well-scoped tasks that mirror real comprehensive planning and advice work. Build, review, and critique comprehensive financial plans for realistic client households.\nAbout 20 hours per week.\nRefer and earn $560.\nFull details and the application are on Mercor.",
+    "tags": [
+      "certified",
+      "financial",
+      "planner",
+      "cfp"
+    ],
+    "createdAt": 1794410858000
+  },
+  {
+    "id": "mercor-customer-support-success-domain-expert-5G4767",
+    "title": "Customer Support & Success Domain Expert",
+    "company": "Mercor",
+    "category": "Customer Support",
+    "type": "Full-time",
+    "region": "Remote",
+    "salary": "$55 – $80 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABocYnVCQtatrGQj5G4767?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABocYnVCQtatrGQj5G4767&utm_medium=direct&utm_source=referral",
+    "description": "Join a leading AI lab's cutting-edge GenAI team to be at the core of the AI revolution, where your expertise fuels the development of the most advanced Large Language Models.\nAbout 40 hours per week.\nRefer and earn $1,280.\nFull details and the application are on Mercor.",
+    "tags": [
+      "customer",
+      "support",
+      "success",
+      "domain"
+    ],
+    "createdAt": 1794325828000
+  },
+  {
+    "id": "mercor-enterprise-marketing-domain-expert-dL-rIt",
+    "title": "Enterprise Marketing Domain Expert",
+    "company": "Mercor",
+    "category": "Sales & Marketing",
+    "type": "Full-time",
+    "region": "Remote",
+    "salary": "$60 – $90 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABocYnLzYgfj-BoRdL-rIt?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABocYnLzYgfj-BoRdL-rIt&utm_medium=direct&utm_source=referral",
+    "description": "Join a leading AI lab's cutting-edge GenAI team to be at the core of the AI revolution, where your expertise fuels the development of the most advanced Large Language Models.\nAbout 40 hours per week.\nRefer and earn $1,440.\nFull details and the application are on Mercor.",
+    "tags": [
+      "enterprise",
+      "marketing",
+      "domain",
+      "expert"
+    ],
+    "createdAt": 1794325819000
+  },
+  {
+    "id": "mercor-individual-tax-professional-cpa-ea-hGVZVy",
+    "title": "Individual Tax Professional (CPA / EA)",
+    "company": "Mercor",
+    "category": "Other",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$110 – $130 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABocQXRHSLD4MqX_hGVZVy?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABocQXRHSLD4MqX_hGVZVy&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is seeking experienced individual tax professionals to help evaluate advanced AI systems on realistic personal tax scenarios. You will work through a series of tax \"worlds\" built around complex individual taxpayers, completing well-scoped tasks that mirror real return preparation and tax planning work. Apply federal and state (New York and/or California) tax rules to prepare, review, and reason through complex returns.\nRefer and earn $520.\nFull details and the application are on Mercor.",
+    "tags": [
+      "individual",
+      "tax",
+      "professional",
+      "cpa"
+    ],
+    "createdAt": 1794291222000
+  },
+  {
+    "id": "mercor-creative-media-expert-NDVrWt",
+    "title": "Creative & Media Expert",
+    "company": "Mercor",
+    "category": "Other",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$80 – $90 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABocI-OkrOixS81NNDVrWt?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABocI-OkrOixS81NNDVrWt&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is seeking experienced creative, media, and communications professionals to build evaluation tasks for AI systems that produce professional creative work. The tasks are calibrated to the quality a senior professional would deliver to a client, an employer, or a live audience.\nAbout 40 hours per week. US only.\nRefer and earn $360.\nFull details and the application are on Mercor.",
+    "tags": [
+      "creative",
+      "media",
+      "expert"
+    ],
+    "createdAt": 1794260220000
+  },
+  {
+    "id": "mercor-embedded-systems-kernel-engineer-BBdZf7",
+    "title": "Embedded Systems / Kernel Engineer",
+    "company": "Mercor",
+    "category": "Engineering",
+    "type": "Part-time",
+    "region": "Remote",
+    "salary": "$100 – $150 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABocIjoyFBFQFxWfBBdZf7?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABocIjoyFBFQFxWfBBdZf7&utm_medium=direct&utm_source=referral",
+    "description": "Join a leading AI lab's cutting-edge GenAI team to be at the core of the AI revolution, where your expertise fuels the development of the most advanced Large Language Models.\nAbout 20 hours per week.\nRefer and earn $2,000.\nFull details and the application are on Mercor.",
+    "tags": [
+      "embedded",
+      "systems",
+      "kernel",
+      "engineer"
+    ],
+    "createdAt": 1794258477000
+  },
+  {
+    "id": "mercor-business-operations-knowledge-work-specialist-9Cjpj6",
+    "title": "Business Operations / Knowledge Work Specialist",
+    "company": "Mercor",
+    "category": "Operations",
+    "type": "Part-time",
+    "region": "Remote",
+    "salary": "$50 – $80 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABocIjm4tjTaTdpe9Cjpj6?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABocIjm4tjTaTdpe9Cjpj6&utm_medium=direct&utm_source=referral",
+    "description": "Join a leading AI lab's cutting-edge GenAI team to be at the core of the AI revolution, where your expertise fuels the development of the most advanced Large Language Models.\nAbout 20 hours per week.\nRefer and earn $1,280.\nFull details and the application are on Mercor.",
+    "tags": [
+      "business",
+      "operations",
+      "knowledge",
+      "work"
+    ],
+    "createdAt": 1794258475000
+  },
+  {
+    "id": "mercor-clinical-health-domain-expert-dByLg8",
+    "title": "Clinical / Health Domain Expert",
+    "company": "Mercor",
+    "category": "Healthcare",
+    "type": "Part-time",
+    "region": "Remote",
+    "salary": "$90 – $150 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABocIjhdfSM-NMTbdByLg8?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABocIjhdfSM-NMTbdByLg8&utm_medium=direct&utm_source=referral",
+    "description": "Join a leading AI lab's cutting-edge GenAI team to be at the core of the AI revolution, where your expertise fuels the development of the most advanced Large Language Models.\nAbout 20 hours per week.\nRefer and earn $2,000.\nFull details and the application are on Mercor.",
+    "tags": [
+      "clinical",
+      "health",
+      "domain",
+      "expert"
+    ],
+    "createdAt": 1794258470000
+  },
+  {
+    "id": "mercor-scientific-ml-engineer-RAl5UN",
+    "title": "Scientific / ML Engineer",
+    "company": "Mercor",
+    "category": "Data & AI",
+    "type": "Part-time",
+    "region": "Remote",
+    "salary": "$90 – $140 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABocIjXAmzfoIQVvRAl5UN?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABocIjXAmzfoIQVvRAl5UN&utm_medium=direct&utm_source=referral",
+    "description": "Join a leading AI lab's cutting-edge GenAI team to be at the core of the AI revolution, where your expertise fuels the development of the most advanced Large Language Models.\nAbout 20 hours per week.\nRefer and earn $2,000.\nFull details and the application are on Mercor.",
+    "tags": [
+      "scientific",
+      "engineer"
+    ],
+    "createdAt": 1794258459000
+  },
+  {
+    "id": "mercor-finance-domain-expert-ZPmZpw",
+    "title": "Finance Domain Expert",
+    "company": "Mercor",
+    "category": "Finance & Accounting",
+    "type": "Part-time",
+    "region": "Remote",
+    "salary": "$80 – $120 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABocIjT4I9rt3yNzZPmZpw?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABocIjT4I9rt3yNzZPmZpw&utm_medium=direct&utm_source=referral",
+    "description": "Join a leading AI lab's cutting-edge GenAI team to be at the core of the AI revolution, where your expertise fuels the development of the most advanced Large Language Models.\nAbout 20 hours per week.\nRefer and earn $1,920.\nFull details and the application are on Mercor.",
+    "tags": [
+      "finance",
+      "domain",
+      "expert"
+    ],
+    "createdAt": 1794258456000
+  },
+  {
+    "id": "mercor-mechanical-cad-engineer-dEcbJQ",
+    "title": "Mechanical / CAD Engineer",
+    "company": "Mercor",
+    "category": "Engineering",
+    "type": "Part-time",
+    "region": "Remote",
+    "salary": "$60 – $100 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABocIgyHhbiia6DLdEcbJQ?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABocIgyHhbiia6DLdEcbJQ&utm_medium=direct&utm_source=referral",
+    "description": "Join a leading AI lab's cutting-edge GenAI team to be at the core of the AI revolution, where your expertise fuels the development of the most advanced Large Language Models.\nAbout 20 hours per week.\nRefer and earn $1,600.\nFull details and the application are on Mercor.",
+    "tags": [
+      "mechanical",
+      "cad",
+      "engineer"
+    ],
+    "createdAt": 1794258290000
+  },
+  {
+    "id": "mercor-customer-service-e-commerce-specialist-JDdIMD",
+    "title": "Customer Service / E-commerce Specialist",
+    "company": "Mercor",
+    "category": "Customer Support",
+    "type": "Part-time",
+    "region": "Remote",
+    "salary": "$40 – $60 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABocIgrD0zkDkxtaJDdIMD?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABocIgrD0zkDkxtaJDdIMD&utm_medium=direct&utm_source=referral",
+    "description": "Join a leading AI lab's cutting-edge GenAI team to be at the core of the AI revolution, where your expertise fuels the development of the most advanced Large Language Models.\nAbout 20 hours per week.\nRefer and earn $960.\nFull details and the application are on Mercor.",
+    "tags": [
+      "customer",
+      "service",
+      "commerce",
+      "specialist"
+    ],
+    "createdAt": 1794258283000
+  },
+  {
+    "id": "mercor-formal-mathematics-specialist-lean-coq-isabelle-hMXJn5",
+    "title": "Formal Mathematics Specialist (Lean / Coq / Isabelle)",
+    "company": "Mercor",
+    "category": "Science & Research",
+    "type": "Part-time",
+    "region": "Remote",
+    "salary": "$80 – $130 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABocIgqB7Hmstj7KhMXJn5?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABocIgqB7Hmstj7KhMXJn5&utm_medium=direct&utm_source=referral",
+    "description": "Join a leading AI lab's cutting-edge GenAI team to be at the core of the AI revolution, where your expertise fuels the development of the most advanced Large Language Models.\nAbout 20 hours per week.\nRefer and earn $2,000.\nFull details and the application are on Mercor.",
+    "tags": [
+      "formal",
+      "mathematics",
+      "specialist",
+      "lean"
+    ],
+    "createdAt": 1794258282000
+  },
+  {
+    "id": "mercor-responsible-ai-security-specialist-tFJ6u9",
+    "title": "Responsible AI / Security Specialist",
+    "company": "Mercor",
+    "category": "Data & AI",
+    "type": "Part-time",
+    "region": "Remote",
+    "salary": "$90 – $140 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABocIgpV2Ws9LcFgtFJ6u9?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABocIgpV2Ws9LcFgtFJ6u9&utm_medium=direct&utm_source=referral",
+    "description": "Join a leading AI lab's cutting-edge GenAI team to be at the core of the AI revolution, where your expertise fuels the development of the most advanced Large Language Models.\nAbout 20 hours per week.\nRefer and earn $2,000.\nFull details and the application are on Mercor.",
+    "tags": [
+      "responsible",
+      "security",
+      "specialist"
+    ],
+    "createdAt": 1794258281000
+  },
+  {
+    "id": "mercor-devops-infrastructure-engineer-5AiJx-",
+    "title": "DevOps / Infrastructure Engineer",
+    "company": "Mercor",
+    "category": "Engineering",
+    "type": "Part-time",
+    "region": "Remote",
+    "salary": "$80 – $120 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABocIgpgg_Jh7V5E5AiJx-?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABocIgpgg_Jh7V5E5AiJx-&utm_medium=direct&utm_source=referral",
+    "description": "Join a leading AI lab's cutting-edge GenAI team to be at the core of the AI revolution, where your expertise fuels the development of the most advanced Large Language Models.\nAbout 20 hours per week.\nRefer and earn $1,920.\nFull details and the application are on Mercor.",
+    "tags": [
+      "devops",
+      "infrastructure",
+      "engineer"
+    ],
+    "createdAt": 1794258281000
+  },
+  {
+    "id": "mercor-software-engineer-foundational-JBlZPV",
+    "title": "Software Engineer (Foundational)",
+    "company": "Mercor",
+    "category": "Engineering",
+    "type": "Part-time",
+    "region": "Remote",
+    "salary": "$80 – $120 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABocIcueulJNT7JWJBlZPV?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABocIcueulJNT7JWJBlZPV&utm_medium=direct&utm_source=referral",
+    "description": "Join a leading AI lab's cutting-edge GenAI team to be at the core of the AI revolution, where your expertise fuels the development of the most advanced Large Language Models.\nAbout 20 hours per week.\nRefer and earn $1,920.\nFull details and the application are on Mercor.",
+    "tags": [
+      "software",
+      "engineer",
+      "foundational"
+    ],
+    "createdAt": 1794258024000
+  },
+  {
+    "id": "mercor-fab-safety-and-emergency-response-expert-japanese-lM7qeZ",
+    "title": "Fab Safety and Emergency Response Expert (Japanese)",
+    "company": "Mercor",
+    "category": "Science & Research",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$85 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABocH7WsSchpN0-_lM7qeZ?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABocH7WsSchpN0-_lM7qeZ&utm_medium=direct&utm_source=referral",
+    "description": "We're looking for Japanese-speaking semiconductor fab safety and emergency response experts to review and create expert content on fab hazards, emergency procedures, and safety documentation. 3+ years as an EHS engineer, emergency response team (ERT) member, fab facilities or sub-fab engineer, electrical safety engineer, or occupational health nurse/EMT Native Japanese speaker or JLPT N1 (N2 acceptable with Japanese fab experience)\nAbout 10 hours per week. US only.\nRefer and earn $340.\nFull details and the application are on Mercor.",
+    "tags": [
+      "fab",
+      "safety",
+      "and",
+      "emergency"
+    ],
+    "createdAt": 1794255838000
+  },
+  {
+    "id": "mercor-music-producer-audio-post-specialist-ai-evaluation-RFUqbI",
+    "title": "Music Producer & Audio Post Specialist (AI Evaluation)",
+    "company": "Mercor",
+    "category": "Data & AI",
+    "type": "Full-time",
+    "region": "Remote",
+    "salary": "$70 – $120 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoa1sLA0lq8iNfmRFUqbI?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoa1sLA0lq8iNfmRFUqbI&utm_medium=direct&utm_source=referral",
+    "description": "Join a leading AI lab's cutting-edge GenAI team to be at the core of the AI revolution, where your expertise fuels the development of the most advanced generative AI models.\nAbout 40 hours per week.\nRefer and earn $1,920.\nFull details and the application are on Mercor.",
+    "tags": [
+      "music",
+      "producer",
+      "audio",
+      "post"
+    ],
+    "createdAt": 1793910909000
+  },
+  {
+    "id": "mercor-architectural-interior-visualization-specialist-ai-evaluation-dMB4BX",
+    "title": "Architectural & Interior Visualization Specialist (AI Evaluation)",
+    "company": "Mercor",
+    "category": "Data & AI",
+    "type": "Full-time",
+    "region": "Remote",
+    "salary": "$70 – $120 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoa1sG_xxohFZc4dMB4BX?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoa1sG_xxohFZc4dMB4BX&utm_medium=direct&utm_source=referral",
+    "description": "Join a leading AI lab's cutting-edge GenAI team to be at the core of the AI revolution, where your expertise fuels the development of the most advanced generative AI models.\nAbout 40 hours per week.\nRefer and earn $1,920.\nFull details and the application are on Mercor.",
+    "tags": [
+      "architectural",
+      "interior",
+      "visualization",
+      "specialist"
+    ],
+    "createdAt": 1793910905000
+  },
+  {
+    "id": "mercor-3d-generalist-modeling-rigging-animation-ai-evaluation-pCHLux",
+    "title": "3D Generalist: Modeling, Rigging & Animation (AI Evaluation)",
+    "company": "Mercor",
+    "category": "Data & AI",
+    "type": "Full-time",
+    "region": "Remote",
+    "salary": "$70 – $120 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoa1sCbPwvr1_PhpCHLux?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoa1sCbPwvr1_PhpCHLux&utm_medium=direct&utm_source=referral",
+    "description": "Join a leading AI lab's cutting-edge GenAI team to be at the core of the AI revolution, where your expertise fuels the development of the most advanced generative AI models.\nAbout 40 hours per week.\nRefer and earn $1,920.\nFull details and the application are on Mercor.",
+    "tags": [
+      "generalist",
+      "modeling",
+      "rigging",
+      "animation"
+    ],
+    "createdAt": 1793910901000
+  },
+  {
+    "id": "mercor-editorial-deck-document-designer-ai-evaluation-NIq6eg",
+    "title": "Editorial, Deck & Document Designer (AI Evaluation)",
+    "company": "Mercor",
+    "category": "Data & AI",
+    "type": "Full-time",
+    "region": "Remote",
+    "salary": "$70 – $120 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoa1r6s480sXRHpNIq6eg?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoa1r6s480sXRHpNIq6eg&utm_medium=direct&utm_source=referral",
+    "description": "Join a leading AI lab's cutting-edge GenAI team to be at the core of the AI revolution, where your expertise fuels the development of the most advanced generative AI models.\nAbout 40 hours per week.\nRefer and earn $1,920.\nFull details and the application are on Mercor.",
+    "tags": [
+      "editorial",
+      "deck",
+      "document",
+      "designer"
+    ],
+    "createdAt": 1793910893000
+  },
+  {
+    "id": "mercor-brand-advertising-art-director-ai-evaluation-JGq7d-",
+    "title": "Brand & Advertising Art Director (AI Evaluation)",
+    "company": "Mercor",
+    "category": "Data & AI",
+    "type": "Full-time",
+    "region": "Remote",
+    "salary": "$70 – $120 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoa1r0Q2Xlj69bvJGq7d-?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoa1r0Q2Xlj69bvJGq7d-&utm_medium=direct&utm_source=referral",
+    "description": "Join a leading AI lab's cutting-edge GenAI team to be at the core of the AI revolution, where your expertise fuels the development of the most advanced generative AI models.\nAbout 40 hours per week.\nRefer and earn $1,920.\nFull details and the application are on Mercor.",
+    "tags": [
+      "brand",
+      "advertising",
+      "art",
+      "director"
+    ],
+    "createdAt": 1793910886000
+  },
+  {
+    "id": "mercor-senior-motion-designer-creative-technologist-ai-evaluation-NP7KJ4",
+    "title": "Senior Motion Designer & Creative Technologist (AI Evaluation)",
+    "company": "Mercor",
+    "category": "Data & AI",
+    "type": "Full-time",
+    "region": "Remote",
+    "salary": "$70 – $120 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoa1rvJBdN-DTyENP7KJ4?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoa1rvJBdN-DTyENP7KJ4&utm_medium=direct&utm_source=referral",
+    "description": "Join a leading AI lab's cutting-edge GenAI team to be at the core of the AI revolution, where your expertise fuels the development of the most advanced generative AI models.\nAbout 40 hours per week.\nRefer and earn $1,920.\nFull details and the application are on Mercor.",
+    "tags": [
+      "senior",
+      "motion",
+      "designer",
+      "creative"
+    ],
+    "createdAt": 1793910881000
+  },
+  {
+    "id": "mercor-commercial-video-editor-post-production-lead-ai-evaluation-dBXK5J",
+    "title": "Commercial Video Editor & Post-Production Lead (AI Evaluation)",
+    "company": "Mercor",
+    "category": "Data & AI",
+    "type": "Full-time",
+    "region": "Remote",
+    "salary": "$70 – $120 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoa1gUkpcGLZXlqdBXK5J?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoa1gUkpcGLZXlqdBXK5J&utm_medium=direct&utm_source=referral",
+    "description": "Join a leading AI lab's cutting-edge GenAI team to be at the core of the AI revolution, where your expertise fuels the development of the most advanced generative AI models.\nAbout 40 hours per week.\nRefer and earn $1,920.\nFull details and the application are on Mercor.",
+    "tags": [
+      "commercial",
+      "video",
+      "editor",
+      "post"
+    ],
+    "createdAt": 1793910133000
+  },
+  {
+    "id": "mercor-mechanical-engineer-reviewer-JAnooH",
+    "title": "Mechanical Engineer Reviewer",
+    "company": "Mercor",
+    "category": "Engineering",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$90 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoa1JzxXUAzyb5dJAnooH?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoa1JzxXUAzyb5dJAnooH&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is seeking senior mechanical engineering professionals to review evaluation tasks for AI systems operating in Fortune 500 enterprise product design and manufacturing contexts. The workflows are calibrated to the design complexity, safety stakes, and production scale of Fortune 500 and large industrial manufacturers.\nAbout 40 hours per week. US only.\nRefer and earn $360.\nFull details and the application are on Mercor.",
+    "tags": [
+      "mechanical",
+      "engineer",
+      "reviewer"
+    ],
+    "createdAt": 1793908658000
+  },
+  {
+    "id": "mercor-mechanical-engineering-writer-tG0bN2",
+    "title": "Mechanical Engineering Writer",
+    "company": "Mercor",
+    "category": "Writing",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$80 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoa1Jr97bxLyOdZtG0bN2?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoa1Jr97bxLyOdZtG0bN2&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is seeking senior mechanical engineering professionals to build evaluation tasks for AI systems operating in Fortune 500 enterprise product design and manufacturing contexts. The workflows are calibrated to the design complexity, safety stakes, and production scale of Fortune 500 and large industrial manufacturers.\nAbout 40 hours per week. US only.\nRefer and earn $320.\nFull details and the application are on Mercor.",
+    "tags": [
+      "mechanical",
+      "engineering",
+      "writer"
+    ],
+    "createdAt": 1793908650000
+  },
+  {
+    "id": "mercor-electrical-engineer-reviewer-VJtLt9",
+    "title": "Electrical Engineer Reviewer",
+    "company": "Mercor",
+    "category": "Engineering",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$90 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoa1JnHFUNfFP2nVJtLt9?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoa1JnHFUNfFP2nVJtLt9&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is seeking senior electrical engineering professionals to review evaluation tasks for AI systems operating in Fortune 500 enterprise electrical systems and product design contexts. The workflows are calibrated to the design complexity, safety stakes, and production scale of Fortune 500 and large industrial and technology manufacturers.\nAbout 40 hours per week. US only.\nRefer and earn $360.\nFull details and the application are on Mercor.",
+    "tags": [
+      "electrical",
+      "engineer",
+      "reviewer"
+    ],
+    "createdAt": 1793908645000
+  },
+  {
+    "id": "mercor-electrical-engineering-writer-9P_5YJ",
+    "title": "Electrical Engineering Writer",
+    "company": "Mercor",
+    "category": "Writing",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$80 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoa1Jif2oV4hlV79P_5YJ?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoa1Jif2oV4hlV79P_5YJ&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is seeking senior electrical engineering professionals to build evaluation tasks for AI systems operating in Fortune 500 enterprise electrical systems and product design contexts. The workflows are calibrated to the design complexity, safety stakes, and production scale of Fortune 500 and large industrial and technology manufacturers.\nAbout 40 hours per week. US only.\nRefer and earn $320.\nFull details and the application are on Mercor.",
+    "tags": [
+      "electrical",
+      "engineering",
+      "writer"
+    ],
+    "createdAt": 1793908640000
+  },
+  {
+    "id": "mercor-civil-engineer-reviewer-ZBYqSo",
+    "title": "Civil Engineer Reviewer",
+    "company": "Mercor",
+    "category": "Engineering",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$90 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoa1JdtVScGh5y5ZBYqSo?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoa1JdtVScGh5y5ZBYqSo&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is seeking senior civil engineering professionals to review evaluation tasks for AI systems operating in large-scale infrastructure and construction contexts. The workflows are calibrated to the design complexity, public safety stakes, and regulatory scope of major infrastructure projects and large public/private construction programs.\nAbout 40 hours per week. US only.\nRefer and earn $360.\nFull details and the application are on Mercor.",
+    "tags": [
+      "civil",
+      "engineer",
+      "reviewer"
+    ],
+    "createdAt": 1793908635000
+  },
+  {
+    "id": "mercor-civil-engineering-writer-dJKalo",
+    "title": "Civil Engineering Writer",
+    "company": "Mercor",
+    "category": "Writing",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$80 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoa1GFaJczza3I9dJKalo?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoa1GFaJczza3I9dJKalo&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is seeking senior civil engineering professionals to build evaluation tasks for AI systems operating in large-scale infrastructure and construction contexts. The workflows are calibrated to the design complexity, public safety stakes, and regulatory scope of major infrastructure projects and large public/private construction programs.\nAbout 40 hours per week. US only.\nRefer and earn $320.\nFull details and the application are on Mercor.",
+    "tags": [
+      "civil",
+      "engineering",
+      "writer"
+    ],
+    "createdAt": 1793908414000
+  },
+  {
+    "id": "mercor-network-engineering-simulation-expert-hephaestus-hBP7gf",
+    "title": "Network Engineering & Simulation Expert — Hephaestus",
+    "company": "Mercor",
+    "category": "Engineering",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$70 – $90 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoakzFm6BA01wrmhBP7gf?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoakzFm6BA01wrmhBP7gf&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is seeking experienced network engineers to build and validate technical tasks for AI systems working with enterprise, data-center, and service-provider networks.\nAbout 40 hours per week. US only.\nRefer and earn $360.\nFull details and the application are on Mercor.",
+    "tags": [
+      "network",
+      "engineering",
+      "simulation",
+      "expert"
+    ],
+    "createdAt": 1793840060000
+  },
+  {
+    "id": "mercor-electrical-engineering-simulation-expert-hephaestus-tGOZK0",
+    "title": "Electrical Engineering & Simulation Expert — Hephaestus",
+    "company": "Mercor",
+    "category": "Engineering",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$70 – $90 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoakydlDLb6-BB6tGOZK0?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoakydlDLb6-BB6tGOZK0&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is seeking experienced electrical engineers to build and validate technical tasks for AI systems working with circuits, power electronics, control systems, and electrical infrastructure. The work centers on executable engineering models, simulation, debugging, and measurable verification.\nAbout 40 hours per week. US only.\nRefer and earn $360.\nFull details and the application are on Mercor.",
+    "tags": [
+      "electrical",
+      "engineering",
+      "simulation",
+      "expert"
+    ],
+    "createdAt": 1793840019000
+  },
+  {
+    "id": "mercor-mechanical-engineering-simulation-expert-hephaestus-VELrab",
+    "title": "Mechanical Engineering & Simulation Expert — Hephaestus",
+    "company": "Mercor",
+    "category": "Engineering",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$70 – $90 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoakxrPXaSjQJyZVELrab?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoakxrPXaSjQJyZVELrab&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is seeking experienced mechanical engineers to build and validate technical tasks for AI systems working on product design, engineering analysis, and simulation. The work focuses on native CAD and analysis artifacts, physically sound models, reproducible solver runs, and measurable design outcomes.\nAbout 40 hours per week. US only.\nRefer and earn $360.\nFull details and the application are on Mercor.",
+    "tags": [
+      "mechanical",
+      "engineering",
+      "simulation",
+      "expert"
+    ],
+    "createdAt": 1793839967000
+  },
+  {
+    "id": "mercor-lifestyle-travel-concierge-expert-ZIepKI",
+    "title": "Lifestyle & Travel Concierge Expert",
+    "company": "Mercor",
+    "category": "Other",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$65 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoaeNrWp59rmBuyZIepKI?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoaeNrWp59rmBuyZIepKI&utm_medium=direct&utm_source=referral",
+    "description": "We're looking for senior concierges, lifestyle managers and luxury travel advisors who recommend places to high-net-worth clients for a living. You'll bring the judgment a seasoned concierge uses every day to help shape the next generation of travel and hospitality recommendations. Apply your firsthand knowledge of restaurants, hotels and experiences in the cities you know best\nRefer and earn $260.\nFull details and the application are on Mercor.",
+    "tags": [
+      "lifestyle",
+      "travel",
+      "concierge",
+      "expert"
+    ],
+    "createdAt": 1793812442000
+  },
+  {
+    "id": "mercor-loan-underwriter-loan-officer-paid-research-survey-us-VDcas_",
+    "title": "Loan Underwriter / Loan Officer — Paid Research Survey (US)",
+    "company": "Mercor",
+    "category": "Finance & Accounting",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$50 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoaOWz1A9HHs5C2VDcas_?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoaOWz1A9HHs5C2VDcas_&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is recruiting US-based loan underwriters and loan officers for an academic research study run by researchers at Stanford University. This is a survey study, not data labeling or annotation: you'll share your professional judgment and experience through online surveys. You work (or have recently worked) as a loan underwriter or loan officer You have at least 3–4 years of experience in lending — more experience is a plus\nRefer and earn $50.\nFull details and the application are on Mercor.",
+    "tags": [
+      "loan",
+      "underwriter",
+      "loan",
+      "officer"
+    ],
+    "createdAt": 1793745932000
+  },
+  {
+    "id": "mercor-open-source-maintainer-core-contributor-software-engineer-BBDKW2",
+    "title": "Open Source Maintainer / Core Contributor – Software Engineer",
+    "company": "Mercor",
+    "category": "Engineering",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$150 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoZ5Af5H0GMoyXaBBDKW2?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoZ5Af5H0GMoyXaBBDKW2&utm_medium=direct&utm_source=referral",
+    "description": "Join a leading AI lab's cutting-edge GenAI team to be at the core of the AI revolution, where your expertise fuels the development of the most advanced Large Language Models.\nAbout 40 hours per week.\nRefer and earn $2,000.\nFull details and the application are on Mercor.",
+    "tags": [
+      "open",
+      "source",
+      "maintainer",
+      "core"
+    ],
+    "createdAt": 1793656389000
+  },
+  {
+    "id": "mercor-market-research-insights-experts-5ADJMG",
+    "title": "Market Research & Insights Experts",
+    "company": "Mercor",
+    "category": "Other",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$120 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoZp0wzuyh1qXnV5ADJMG?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoZp0wzuyh1qXnV5ADJMG&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is partnering with a leading AI research lab to engage experienced Market Research, Consumer Insights, and Marketing Strategy professionals to act as end-users of a cutting-edge AI product. In this role, you will interact with the product as if you were using it in your day-to-day work—evaluating outputs, providing feedback, and helping improve how the system supports real-world decision-making.\nAbout 40 hours per week. US only.\nRefer and earn $480.\nFull details and the application are on Mercor.",
+    "tags": [
+      "market",
+      "research",
+      "insights",
+      "experts"
+    ],
+    "createdAt": 1793592706000
+  },
+  {
+    "id": "mercor-us-patent-attorney-prosecution-litigation-JGgZW-",
+    "title": "US Patent Attorney — Prosecution & Litigation",
+    "company": "Mercor",
+    "category": "Legal",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$180 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoZQFI1_FwyFlEzJGgZW-?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoZQFI1_FwyFlEzJGgZW-&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is partnering with a leading AI lab to train frontier models on high-quality legal reasoning data. We're hiring US patent attorneys with prosecution and/or litigation experience for a focused evaluation project. You'll review model-generated work product on patent matters, judge its quality, and mark legal, technical, factual and citation errors directly in the materials.\nAbout 20 hours per week.\nRefer and earn $720.\nFull details and the application are on Mercor.",
+    "tags": [
+      "patent",
+      "attorney",
+      "prosecution",
+      "litigation"
+    ],
+    "createdAt": 1793484727000
+  },
+  {
+    "id": "mercor-mathematics-domain-expert-FMIrdv",
+    "title": "Mathematics Domain Expert",
+    "company": "Mercor",
+    "category": "Science & Research",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$90 – $140 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoYr34sDSXamCPtFMIrdv?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoYr34sDSXamCPtFMIrdv&utm_medium=direct&utm_source=referral",
+    "description": "Help define how frontier AI models reason about mathematics. We are looking for senior mathematicians to improve how frontier AI models reason about real mathematical research.\nRefer and earn $2,000.\nFull details and the application are on Mercor.",
+    "tags": [
+      "mathematics",
+      "domain",
+      "expert"
+    ],
+    "createdAt": 1793332864000
+  },
+  {
+    "id": "mercor-biology-life-sciences-domain-expert-FKEZxq",
+    "title": "Biology & Life Sciences Domain Expert",
+    "company": "Mercor",
+    "category": "Science & Research",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$90 – $140 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoYr3vuO4cXwvq0FKEZxq?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoYr3vuO4cXwvq0FKEZxq&utm_medium=direct&utm_source=referral",
+    "description": "Help define how frontier AI models reason about biology and the life sciences. We are looking for senior biologists and life scientists to improve how frontier AI models reason about real life sciences research.\nRefer and earn $2,000.\nFull details and the application are on Mercor.",
+    "tags": [
+      "biology",
+      "life",
+      "sciences",
+      "domain"
+    ],
+    "createdAt": 1793332855000
+  },
+  {
+    "id": "mercor-chemistry-domain-expert-tHTK36",
+    "title": "Chemistry Domain Expert",
+    "company": "Mercor",
+    "category": "Science & Research",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$90 – $140 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoYr3mMPdrm41A5tHTK36?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoYr3mMPdrm41A5tHTK36&utm_medium=direct&utm_source=referral",
+    "description": "Help define how frontier AI models reason about chemistry. We are looking for senior chemists to improve how frontier AI models reason about real chemistry research.\nRefer and earn $2,000.\nFull details and the application are on Mercor.",
+    "tags": [
+      "chemistry",
+      "domain",
+      "expert"
+    ],
+    "createdAt": 1793332845000
+  },
+  {
+    "id": "mercor-physics-domain-expert-9Bgp3k",
+    "title": "Physics Domain Expert",
+    "company": "Mercor",
+    "category": "Science & Research",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$90 – $140 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoYr3SG3-4yi5ct9Bgp3k?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoYr3SG3-4yi5ct9Bgp3k&utm_medium=direct&utm_source=referral",
+    "description": "Help define how frontier AI models reason about physics. We are looking for senior physicists to improve how frontier AI models reason about real physics research.\nRefer and earn $2,000.\nFull details and the application are on Mercor.",
+    "tags": [
+      "physics",
+      "domain",
+      "expert"
+    ],
+    "createdAt": 1793332824000
+  },
+  {
+    "id": "mercor-luxury-automotive-strategy-expert-JFA62D",
+    "title": "Luxury Automotive Strategy Expert",
+    "company": "Mercor",
+    "category": "Other",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$300 – $350 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoYQqZfrpr7vPO4JFA62D?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoYQqZfrpr7vPO4JFA62D&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is seeking a senior business strategy expert with deep experience in the luxury automotive sector (e.g., Ferrari, Lamborghini, Porsche, Bentley, Rolls-Royce, Aston Martin, McLaren, Maserati) for a short, focused advisory engagement. You will review strategy materials, market insights, and recommendations and give a candid, C-suite-level perspective on how executives at leading luxury automakers would react to them.\nAbout 10 hours per week. US only.\nRefer and earn $1,400.\nFull details and the application are on Mercor.",
+    "tags": [
+      "luxury",
+      "automotive",
+      "strategy",
+      "expert"
+    ],
+    "createdAt": 1793218734000
+  },
+  {
+    "id": "mercor-spanish-spain-linguistic-expert-BExJ8r",
+    "title": "Spanish (Spain) Linguistic Expert",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$40 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoYIA_JerHWae4sBExJ8r?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoYIA_JerHWae4sBExJ8r&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is seeking experienced Spanish (Spain) Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Peninsular Spanish-language tasks and on curating high-quality Spanish linguistic data to train and improve the model's understanding and generation capabilities. US only.\nRefer and earn $160.\nFull details and the application are on Mercor.",
+    "tags": [
+      "spanish",
+      "spain",
+      "linguistic",
+      "expert"
+    ],
+    "createdAt": 1793182465000
+  },
+  {
+    "id": "mercor-certified-pharmacy-technician-cpht-ZCaJ4q",
+    "title": "Certified Pharmacy Technician (CPhT)",
+    "company": "Mercor",
+    "category": "Operations",
+    "type": "Part-time",
+    "region": "Remote",
+    "salary": "$35 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoXuFI1cFQY7IcqZCaJ4q?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoXuFI1cFQY7IcqZCaJ4q&utm_medium=direct&utm_source=referral",
+    "description": "Remote Certified Pharmacy Technician (CPhT) opportunity with Mercor.\nRefer and earn $140.\nFull details and the application are on Mercor.",
+    "tags": [
+      "certified",
+      "pharmacy",
+      "technician",
+      "cpht"
+    ],
+    "createdAt": 1793073685000
+  },
+  {
+    "id": "mercor-licensed-us-pharmacist-VDPpQa",
+    "title": "Licensed US Pharmacist",
+    "company": "Mercor",
+    "category": "Other",
+    "type": "Part-time",
+    "region": "Remote",
+    "salary": "$70 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoXuE96XzQVNYx-VDPpQa?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoXuE96XzQVNYx-VDPpQa&utm_medium=direct&utm_source=referral",
+    "description": "Remote Licensed US Pharmacist opportunity with Mercor.\nRefer and earn $280.\nFull details and the application are on Mercor.",
+    "tags": [
+      "licensed",
+      "pharmacist"
+    ],
+    "createdAt": 1793073674000
+  },
+  {
+    "id": "mercor-vietnamese-linguistic-experts-NMkrR1",
+    "title": "Vietnamese Linguistic Experts",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$30 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoXlzElsOghL6D6NMkrR1?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoXlzElsOghL6D6NMkrR1&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is seeking experienced Vietnamese Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Vietnamese-language tasks and on curating high-quality Vietnamese linguistic data to train and improve the model's understanding and generation capabilities. US only.\nRefer and earn $120.\nFull details and the application are on Mercor.",
+    "tags": [
+      "vietnamese",
+      "linguistic",
+      "experts"
+    ],
+    "createdAt": 1793038947000
+  },
+  {
+    "id": "mercor-indonesian-linguistic-experts-tBMpdx",
+    "title": "Indonesian Linguistic Experts",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$30 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoXlzADizwRyyDutBMpdx?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoXlzADizwRyyDutBMpdx&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is seeking experienced Indonesian Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Indonesian-language tasks and on curating high-quality Indonesian linguistic data to train and improve the model's understanding and generation capabilities. US only.\nRefer and earn $120.\nFull details and the application are on Mercor.",
+    "tags": [
+      "indonesian",
+      "linguistic",
+      "experts"
+    ],
+    "createdAt": 1793038942000
+  },
+  {
+    "id": "mercor-malay-linguistic-experts-RKWZqJ",
+    "title": "Malay Linguistic Experts",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$30 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoXly0nwFAwR_xQRKWZqJ?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoXly0nwFAwR_xQRKWZqJ&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is seeking experienced Malay Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Malay-language tasks and on curating high-quality Malay linguistic data to train and improve the model's understanding and generation capabilities. US only.\nRefer and earn $120.\nFull details and the application are on Mercor.",
+    "tags": [
+      "malay",
+      "linguistic",
+      "experts"
+    ],
+    "createdAt": 1793038931000
+  },
+  {
+    "id": "mercor-japanese-linguistic-experts-JPw4yP",
+    "title": "Japanese Linguistic Experts",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$50 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoXlytUOfloSDF6JPw4yP?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoXlytUOfloSDF6JPw4yP&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is seeking experienced Japanese Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Japanese-language tasks and on curating high-quality Japanese linguistic data to train and improve the model's understanding and generation capabilities. US only.\nRefer and earn $200.\nFull details and the application are on Mercor.",
+    "tags": [
+      "japanese",
+      "linguistic",
+      "experts"
+    ],
+    "createdAt": 1793038923000
+  },
+  {
+    "id": "mercor-chinese-linguistic-experts-ZC0qz9",
+    "title": "Chinese Linguistic Experts",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$50 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoXlygrOU-ta0mvZC0qz9?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoXlygrOU-ta0mvZC0qz9&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is seeking experienced Chinese Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Chinese-language tasks and on curating high-quality Chinese linguistic data to train and improve the model's understanding and generation capabilities. US only.\nRefer and earn $200.\nFull details and the application are on Mercor.",
+    "tags": [
+      "chinese",
+      "linguistic",
+      "experts"
+    ],
+    "createdAt": 1793038910000
+  },
+  {
+    "id": "mercor-telugu-linguistic-experts-NMvars",
+    "title": "Telugu Linguistic Experts",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$30 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoXlycrggl4K-OZNMvars?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoXlycrggl4K-OZNMvars&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is seeking experienced Telugu Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Telugu-language tasks and on curating high-quality Telugu linguistic data to train and improve the model's understanding and generation capabilities. US only.\nRefer and earn $120.\nFull details and the application are on Mercor.",
+    "tags": [
+      "telugu",
+      "linguistic",
+      "experts"
+    ],
+    "createdAt": 1793038906000
+  },
+  {
+    "id": "mercor-hindi-linguistic-experts-FG05Qu",
+    "title": "Hindi Linguistic Experts",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$30 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoXlyYOQK6mM0D4FG05Qu?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoXlyYOQK6mM0D4FG05Qu&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is seeking experienced Hindi Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Hindi-language tasks and on curating high-quality Hindi linguistic data to train and improve the model's understanding and generation capabilities. US only.\nRefer and earn $120.\nFull details and the application are on Mercor.",
+    "tags": [
+      "hindi",
+      "linguistic",
+      "experts"
+    ],
+    "createdAt": 1793038901000
+  },
+  {
+    "id": "mercor-arabic-linguistic-experts-5D2ZLc",
+    "title": "Arabic Linguistic Experts",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$50 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoXlyRHc9GXoJIl5D2ZLc?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoXlyRHc9GXoJIl5D2ZLc&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is seeking experienced Arabic Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Arabic-language tasks and on curating high-quality Arabic linguistic data to train and improve the model's understanding and generation capabilities. US only.\nRefer and earn $200.\nFull details and the application are on Mercor.",
+    "tags": [
+      "arabic",
+      "linguistic",
+      "experts"
+    ],
+    "createdAt": 1793038894000
+  },
+  {
+    "id": "mercor-turkish-linguistic-experts-BHMY1G",
+    "title": "Turkish Linguistic Experts",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$50 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoXlyK9PwfCExhuBHMY1G?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoXlyK9PwfCExhuBHMY1G&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is seeking experienced Turkish Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Turkish-language tasks and on curating high-quality Turkish linguistic data to train and improve the model's understanding and generation capabilities. US only.\nRefer and earn $200.\nFull details and the application are on Mercor.",
+    "tags": [
+      "turkish",
+      "linguistic",
+      "experts"
+    ],
+    "createdAt": 1793038888000
+  },
+  {
+    "id": "mercor-russian-linguistic-experts-VGaYCZ",
+    "title": "Russian Linguistic Experts",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$50 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoXlxmGVod2040vVGaYCZ?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoXlxmGVod2040vVGaYCZ&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is seeking experienced Russian Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Russian-language tasks and on curating high-quality Russian linguistic data to train and improve the model's understanding and generation capabilities. US only.\nRefer and earn $200.\nFull details and the application are on Mercor.",
+    "tags": [
+      "russian",
+      "linguistic",
+      "experts"
+    ],
+    "createdAt": 1793038850000
+  },
+  {
+    "id": "mercor-german-linguistic-experts-JMQpjn",
+    "title": "German Linguistic Experts",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$50 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoXlxes1TY58ozMJMQpjn?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoXlxes1TY58ozMJMQpjn&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is seeking experienced German Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in German-language tasks and on curating high-quality German linguistic data to train and improve the model's understanding and generation capabilities. US only.\nRefer and earn $200.\nFull details and the application are on Mercor.",
+    "tags": [
+      "german",
+      "linguistic",
+      "experts"
+    ],
+    "createdAt": 1793038843000
+  },
+  {
+    "id": "mercor-portuguese-linguistic-experts-ROgpw8",
+    "title": "Portuguese Linguistic Experts",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$50 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoXlxYDftYp_n8FROgpw8?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoXlxYDftYp_n8FROgpw8&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is seeking experienced Portuguese Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Portuguese-language tasks and on curating high-quality Portuguese linguistic data to train and improve the model's understanding and generation capabilities. US only.\nRefer and earn $200.\nFull details and the application are on Mercor.",
+    "tags": [
+      "portuguese",
+      "linguistic",
+      "experts"
+    ],
+    "createdAt": 1793038836000
+  },
+  {
+    "id": "mercor-spanish-linguistic-experts-RKwpJ2",
+    "title": "Spanish Linguistic Experts",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$50 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoXlxQ1_U0AdHynRKwpJ2?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoXlxQ1_U0AdHynRKwpJ2&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is seeking experienced Spanish Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in Spanish-language tasks and on curating high-quality Spanish linguistic data to train and improve the model's understanding and generation capabilities. US only.\nRefer and earn $200.\nFull details and the application are on Mercor.",
+    "tags": [
+      "spanish",
+      "linguistic",
+      "experts"
+    ],
+    "createdAt": 1793038828000
+  },
+  {
+    "id": "mercor-english-linguistic-experts-tJ6IMb",
+    "title": "English Linguistic Experts",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$50 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoXlxJUZCaSZmMttJ6IMb?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoXlxJUZCaSZmMttJ6IMb&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is seeking experienced English Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in English-language tasks and on curating high-quality English linguistic data to train and improve the model's understanding and generation capabilities. US only.\nRefer and earn $200.\nFull details and the application are on Mercor.",
+    "tags": [
+      "english",
+      "linguistic",
+      "experts"
+    ],
+    "createdAt": 1793038821000
+  },
+  {
+    "id": "mercor-french-linguistic-experts-pJg6wm",
+    "title": "French Linguistic Experts",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$50 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoXlvyUH1tzlT-IpJg6wm?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoXlvyUH1tzlT-IpJg6wm&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is seeking experienced French Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM) performs in French-language tasks and on curating high-quality French linguistic data to train and improve the model's understanding and generation capabilities. US only.\nRefer and earn $200.\nFull details and the application are on Mercor.",
+    "tags": [
+      "french",
+      "linguistic",
+      "experts"
+    ],
+    "createdAt": 1793038732000
+  },
+  {
+    "id": "mercor-radiologist-FELrjZ",
+    "title": "Radiologist",
+    "company": "Mercor",
+    "category": "Other",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$350 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoWtwzY78zzncm-FELrjZ?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoWtwzY78zzncm-FELrjZ&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is hiring board-certified radiologists (MDs and DOs) to evaluate health AI models in partnership with a leading AI lab. You will read de-identified patient charts and judge AI answers to clinical questions in radiology. Evaluate AI answers to radiology questions for clinical accuracy, safety and alignment with current standards of care Check each answer against the patient chart and decide which of two responses is stronger\nAbout 20 hours per week. US only.\nRefer and earn $1,400.\nFull details and the application are on Mercor.",
+    "tags": [
+      "radiologist"
+    ],
+    "createdAt": 1792803917000
+  },
+  {
+    "id": "mercor-cardiologist-JDu7wl",
+    "title": "Cardiologist",
+    "company": "Mercor",
+    "category": "Healthcare",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$350 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoWtwvCp5G7Swt0JDu7wl?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoWtwvCp5G7Swt0JDu7wl&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is hiring board-certified cardiologists (MDs and DOs) to evaluate health AI models in partnership with a leading AI lab. You will read de-identified patient charts and judge AI answers to clinical questions in cardiology. Evaluate AI answers to cardiology questions for clinical accuracy, safety and alignment with current standards of care Check each answer against the patient chart and decide which of two responses is stronger\nAbout 20 hours per week. US only.\nRefer and earn $1,400.\nFull details and the application are on Mercor.",
+    "tags": [
+      "cardiologist"
+    ],
+    "createdAt": 1792803912000
+  },
+  {
+    "id": "mercor-anesthesiologist-NK6KyX",
+    "title": "Anesthesiologist",
+    "company": "Mercor",
+    "category": "Healthcare",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$350 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoWtwpFEaRuHYqcNK6KyX?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoWtwpFEaRuHYqcNK6KyX&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is hiring board-certified anesthesiologists (MDs and DOs) to evaluate health AI models in partnership with a leading AI lab. You will read de-identified patient charts and judge AI answers to clinical questions in anesthesiology. Evaluate AI answers to anesthesiology questions for clinical accuracy, safety and alignment with current standards of care Check each answer against the patient chart and decide which of two responses is stronger\nAbout 20 hours per week. US only.\nRefer and earn $1,400.\nFull details and the application are on Mercor.",
+    "tags": [
+      "anesthesiologist"
+    ],
+    "createdAt": 1792803906000
+  },
+  {
+    "id": "mercor-orthopedic-surgeon-FKNLAQ",
+    "title": "Orthopedic Surgeon",
+    "company": "Mercor",
+    "category": "Healthcare",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$350 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoWtwmMBbLnGYAPFKNLAQ?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoWtwmMBbLnGYAPFKNLAQ&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is hiring board-certified orthopedic surgeons (MDs and DOs) to evaluate health AI models in partnership with a leading AI lab. You will read de-identified patient charts and judge AI answers to clinical questions in orthopedic surgery. Evaluate AI answers to orthopedic surgery questions for clinical accuracy, safety and alignment with current standards of care Check each answer against the patient chart and decide which of two responses is stronger\nAbout 20 hours per week. US only.\nRefer and earn $1,400.\nFull details and the application are on Mercor.",
+    "tags": [
+      "orthopedic",
+      "surgeon"
+    ],
+    "createdAt": 1792803903000
+  },
+  {
+    "id": "mercor-dermatologist-pPf7U3",
+    "title": "Dermatologist",
+    "company": "Mercor",
+    "category": "Healthcare",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$275 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoWtwjZ8YPP1X8zpPf7U3?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoWtwjZ8YPP1X8zpPf7U3&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is hiring board-certified dermatologists (MDs and DOs) to evaluate health AI models in partnership with a leading AI lab. You will read de-identified patient charts and judge AI answers to clinical questions in dermatology. Evaluate AI answers to dermatology questions for clinical accuracy, safety and alignment with current standards of care Check each answer against the patient chart and decide which of two responses is stronger\nAbout 20 hours per week. US only.\nRefer and earn $1,100.\nFull details and the application are on Mercor.",
+    "tags": [
+      "dermatologist"
+    ],
+    "createdAt": 1792803900000
+  },
+  {
+    "id": "mercor-general-surgeon-VJi7wH",
+    "title": "General Surgeon",
+    "company": "Mercor",
+    "category": "Healthcare",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$200 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoWtwgexs-u2gvjVJi7wH?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoWtwgexs-u2gvjVJi7wH&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is hiring board-certified general surgeons (MDs and DOs) to evaluate health AI models in partnership with a leading AI lab. You will read de-identified patient charts and judge AI answers to clinical questions in general surgery. Evaluate AI answers to general surgery questions for clinical accuracy, safety and alignment with current standards of care Check each answer against the patient chart and decide which of two responses is stronger\nAbout 20 hours per week. US only.\nRefer and earn $800.\nFull details and the application are on Mercor.",
+    "tags": [
+      "general",
+      "surgeon"
+    ],
+    "createdAt": 1792803897000
+  },
+  {
+    "id": "mercor-critical-care-physician-ZPDawT",
+    "title": "Critical Care Physician",
+    "company": "Mercor",
+    "category": "Healthcare",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$200 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoWtwdnkg16LT79ZPDawT?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoWtwdnkg16LT79ZPDawT&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is hiring board-certified critical care physicians (MDs and DOs) to evaluate health AI models in partnership with a leading AI lab. You will read de-identified patient charts and judge AI answers to clinical questions in critical care. Evaluate AI answers to critical care questions for clinical accuracy, safety and alignment with current standards of care Check each answer against the patient chart and decide which of two responses is stronger\nAbout 20 hours per week. US only.\nRefer and earn $800.\nFull details and the application are on Mercor.",
+    "tags": [
+      "critical",
+      "care",
+      "physician"
+    ],
+    "createdAt": 1792803894000
+  },
+  {
+    "id": "mercor-obstetrician-gynecologist-ob-gyn-FDHa0o",
+    "title": "Obstetrician-Gynecologist (OB/GYN)",
+    "company": "Mercor",
+    "category": "Other",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$200 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoWtwYkSInwja94FDHa0o?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoWtwYkSInwja94FDHa0o&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is hiring board-certified obstetrician-gynecologists (MDs and DOs) to evaluate health AI models in partnership with a leading AI lab. You will read de-identified patient charts and judge AI answers to clinical questions in obstetrics and gynecology. Evaluate AI answers to obstetrics and gynecology questions for clinical accuracy, safety and alignment with current standards of care\nAbout 20 hours per week. US only.\nRefer and earn $800.\nFull details and the application are on Mercor.",
+    "tags": [
+      "obstetrician",
+      "gynecologist",
+      "gyn"
+    ],
+    "createdAt": 1792803889000
+  },
+  {
+    "id": "mercor-neurologist-5Gp7qo",
+    "title": "Neurologist",
+    "company": "Mercor",
+    "category": "Other",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$200 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoWtwVok0kLHc4h5Gp7qo?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoWtwVok0kLHc4h5Gp7qo&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is hiring board-certified neurologists (MDs and DOs) to evaluate health AI models in partnership with a leading AI lab. You will read de-identified patient charts and judge AI answers to clinical questions in neurology. Evaluate AI answers to neurology questions for clinical accuracy, safety and alignment with current standards of care Check each answer against the patient chart and decide which of two responses is stronger\nAbout 20 hours per week. US only.\nRefer and earn $800.\nFull details and the application are on Mercor.",
+    "tags": [
+      "neurologist"
+    ],
+    "createdAt": 1792803886000
+  },
+  {
+    "id": "mercor-rheumatologist-5BY6j1",
+    "title": "Rheumatologist",
+    "company": "Mercor",
+    "category": "Other",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$200 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoWtwTAuXPK49ZE5BY6j1?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoWtwTAuXPK49ZE5BY6j1&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is hiring board-certified rheumatologists (MDs and DOs) to evaluate health AI models in partnership with a leading AI lab. You will read de-identified patient charts and judge AI answers to clinical questions in rheumatology. Evaluate AI answers to rheumatology questions for clinical accuracy, safety and alignment with current standards of care Check each answer against the patient chart and decide which of two responses is stronger\nAbout 20 hours per week. US only.\nRefer and earn $800.\nFull details and the application are on Mercor.",
+    "tags": [
+      "rheumatologist"
+    ],
+    "createdAt": 1792803884000
+  },
+  {
+    "id": "mercor-nephrologist-5M26Cl",
+    "title": "Nephrologist",
+    "company": "Mercor",
+    "category": "Other",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$200 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoWtwOLHV8_xCHd5M26Cl?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoWtwOLHV8_xCHd5M26Cl&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is hiring board-certified nephrologists (MDs and DOs) to evaluate health AI models in partnership with a leading AI lab. You will read de-identified patient charts and judge AI answers to clinical questions in nephrology. Evaluate AI answers to nephrology questions for clinical accuracy, safety and alignment with current standards of care Check each answer against the patient chart and decide which of two responses is stronger\nAbout 20 hours per week. US only.\nRefer and earn $800.\nFull details and the application are on Mercor.",
+    "tags": [
+      "nephrologist"
+    ],
+    "createdAt": 1792803879000
+  },
+  {
+    "id": "mercor-infectious-disease-physician-dOwaZX",
+    "title": "Infectious Disease Physician",
+    "company": "Mercor",
+    "category": "Healthcare",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$200 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoWtwJGwIgnnW9BdOwaZX?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoWtwJGwIgnnW9BdOwaZX&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is hiring board-certified infectious disease physicians (MDs and DOs) to evaluate health AI models in partnership with a leading AI lab. You will read de-identified patient charts and judge AI answers to clinical questions in infectious disease. Evaluate AI answers to infectious disease questions for clinical accuracy, safety and alignment with current standards of care\nAbout 20 hours per week. US only.\nRefer and earn $800.\nFull details and the application are on Mercor.",
+    "tags": [
+      "infectious",
+      "disease",
+      "physician"
+    ],
+    "createdAt": 1792803873000
+  },
+  {
+    "id": "mercor-endocrinologist-FOP4OG",
+    "title": "Endocrinologist",
+    "company": "Mercor",
+    "category": "Healthcare",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$200 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoWtwGWHBJHEIwBFOP4OG?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoWtwGWHBJHEIwBFOP4OG&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is hiring board-certified endocrinologists (MDs and DOs) to evaluate health AI models in partnership with a leading AI lab. You will read de-identified patient charts and judge AI answers to clinical questions in endocrinology. Evaluate AI answers to endocrinology questions for clinical accuracy, safety and alignment with current standards of care Check each answer against the patient chart and decide which of two responses is stronger\nAbout 20 hours per week. US only.\nRefer and earn $800.\nFull details and the application are on Mercor.",
+    "tags": [
+      "endocrinologist"
+    ],
+    "createdAt": 1792803871000
+  },
+  {
+    "id": "mercor-ophthalmologist-1KxL5m",
+    "title": "Ophthalmologist",
+    "company": "Mercor",
+    "category": "Other",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$175 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoWtwCj4E5CDOjQ1KxL5m?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoWtwCj4E5CDOjQ1KxL5m&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is hiring board-certified ophthalmologists (MDs and DOs) to evaluate health AI models in partnership with a leading AI lab. You will read de-identified patient charts and judge AI answers to clinical questions in ophthalmology. Evaluate AI answers to ophthalmology questions for clinical accuracy, safety and alignment with current standards of care Check each answer against the patient chart and decide which of two responses is stronger\nAbout 20 hours per week. US only.\nRefer and earn $700.\nFull details and the application are on Mercor.",
+    "tags": [
+      "ophthalmologist"
+    ],
+    "createdAt": 1792803867000
+  },
+  {
+    "id": "mercor-otolaryngologist-ent-5ELp_E",
+    "title": "Otolaryngologist (ENT)",
+    "company": "Mercor",
+    "category": "Other",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$150 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoWtv9pI6MJtsV35ELp_E?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoWtv9pI6MJtsV35ELp_E&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is hiring board-certified otolaryngologists (ENT) (MDs and DOs) to evaluate health AI models in partnership with a leading AI lab. You will read de-identified patient charts and judge AI answers to clinical questions in otolaryngology. Evaluate AI answers to otolaryngology questions for clinical accuracy, safety and alignment with current standards of care Check each answer against the patient chart and decide which of two responses is stronger\nAbout 20 hours per week. US only.\nRefer and earn $600.\nFull details and the application are on Mercor.",
+    "tags": [
+      "otolaryngologist",
+      "ent"
+    ],
+    "createdAt": 1792803862000
+  },
+  {
+    "id": "mercor-geriatrician-dDAocK",
+    "title": "Geriatrician",
+    "company": "Mercor",
+    "category": "Healthcare",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$150 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoWtv69DhD_Gd84dDAocK?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoWtv69DhD_Gd84dDAocK&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is hiring board-certified geriatricians (MDs and DOs) to evaluate health AI models in partnership with a leading AI lab. You will read de-identified patient charts and judge AI answers to clinical questions in geriatric medicine. Evaluate AI answers to geriatric medicine questions for clinical accuracy, safety and alignment with current standards of care Check each answer against the patient chart and decide which of two responses is stronger\nAbout 20 hours per week. US only.\nRefer and earn $600.\nFull details and the application are on Mercor.",
+    "tags": [
+      "geriatrician"
+    ],
+    "createdAt": 1792803859000
+  },
+  {
+    "id": "mercor-psychiatrist-dGyKTt",
+    "title": "Psychiatrist",
+    "company": "Mercor",
+    "category": "Other",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$150 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoWtv330pzH8496dGyKTt?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoWtv330pzH8496dGyKTt&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is hiring board-certified psychiatrists (MDs and DOs) to evaluate health AI models in partnership with a leading AI lab. You will read de-identified patient charts and judge AI answers to clinical questions in psychiatry. Evaluate AI answers to psychiatry questions for clinical accuracy, safety and alignment with current standards of care Check each answer against the patient chart and decide which of two responses is stronger\nAbout 20 hours per week. US only.\nRefer and earn $600.\nFull details and the application are on Mercor.",
+    "tags": [
+      "psychiatrist"
+    ],
+    "createdAt": 1792803856000
+  },
+  {
+    "id": "mercor-retail-trader-dLEoVO",
+    "title": "Retail Trader",
+    "company": "Mercor",
+    "category": "Finance & Accounting",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$400 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoWsjEohggV1F8gdLEoVO?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoWsjEohggV1F8gdLEoVO&utm_medium=direct&utm_source=referral",
+    "description": "We are building a dataset of real retail trading behavior: complete brokerage trade histories, paired with the trader's own explanation of how they trade and why they made their biggest decisions. This is a one-time task, paid a flat $400 on completion. Trading experience: at least 2 years of active trading on your own account, and at least 1,000 trades over that period (about 2 per trading day).\nRefer and earn $250.\nFull details and the application are on Mercor.",
+    "tags": [
+      "retail",
+      "trader"
+    ],
+    "createdAt": 1792798823000
+  },
+  {
+    "id": "mercor-us-contract-attorney-litigation-tCkJsp",
+    "title": "US Contract Attorney — Litigation",
+    "company": "Mercor",
+    "category": "Legal",
+    "type": "Part-time",
+    "region": "Remote",
+    "salary": "$100 – $120 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoWoZmUZ_SLUqJNtCkJsp?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoWoZmUZ_SLUqJNtCkJsp&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is partnering with a leading AI lab to train frontier models on high-quality legal reasoning data. This is an evergreen talent pool for experienced US Litigation attorneys — by applying, you join a standing bench and are considered for ongoing and upcoming legal-AI projects as they launch. We review applications on a rolling basis and reach out when work that fits your background comes up.\nRefer and earn $480.\nFull details and the application are on Mercor.",
+    "tags": [
+      "contract",
+      "attorney",
+      "litigation"
+    ],
+    "createdAt": 1792781425000
+  },
+  {
+    "id": "mercor-us-contract-attorney-in-house-counsel-9DzbZ7",
+    "title": "US Contract Attorney — In-House Counsel",
+    "company": "Mercor",
+    "category": "Legal",
+    "type": "Part-time",
+    "region": "Remote",
+    "salary": "$100 – $120 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoWoHuWaDFZD8pR9DzbZ7?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoWoHuWaDFZD8pR9DzbZ7&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is partnering with a leading AI lab to train frontier models on high-quality legal reasoning data. This is an evergreen talent pool for experienced US In-House Counsel — by applying, you join a standing bench and are considered for ongoing and upcoming legal-AI projects as they launch. We review applications on a rolling basis and reach out when work that fits your background comes up.\nRefer and earn $480.\nFull details and the application are on Mercor.",
+    "tags": [
+      "contract",
+      "attorney",
+      "house",
+      "counsel"
+    ],
+    "createdAt": 1792780254000
+  },
+  {
+    "id": "mercor-us-contract-attorney-transactional-5MdZXj",
+    "title": "US Contract Attorney — Transactional",
+    "company": "Mercor",
+    "category": "Legal",
+    "type": "Part-time",
+    "region": "Remote",
+    "salary": "$100 – $120 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoWoHm--lhpCWq05MdZXj?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoWoHm--lhpCWq05MdZXj&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is partnering with a leading AI lab to train frontier models on high-quality legal reasoning data. This is an evergreen talent pool for experienced US Transactional attorneys — by applying, you join a standing bench and are considered for ongoing and upcoming legal-AI projects as they launch. We review applications on a rolling basis and reach out when work that fits your background comes up.\nRefer and earn $480.\nFull details and the application are on Mercor.",
+    "tags": [
+      "contract",
+      "attorney",
+      "transactional"
+    ],
+    "createdAt": 1792780246000
+  },
+  {
+    "id": "mercor-us-contract-attorney-federal-litigation-tFPbpS",
+    "title": "US Contract Attorney — Federal Litigation",
+    "company": "Mercor",
+    "category": "Legal",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$110 – $125 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoWoHfr1BOfMq7LtFPbpS?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoWoHfr1BOfMq7LtFPbpS&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is partnering with a leading AI lab to train frontier models on high-quality legal reasoning data. We're hiring US litigators with federal court experience for a focused motion-brief evaluation project. For each review, you'll read two motion briefs written for the same case, decide which one you prefer, score both on several quality dimensions and mark errors directly in the PDFs.\nAbout 40 hours per week.\nRefer and earn $500.\nFull details and the application are on Mercor.",
+    "tags": [
+      "contract",
+      "attorney",
+      "federal",
+      "litigation"
+    ],
+    "createdAt": 1792780239000
+  },
+  {
+    "id": "mercor-software-engineer-retail-investing-platforms-paid-expert-interview-ZNLqEJ",
+    "title": "Software Engineer – Retail Investing Platforms (Paid Expert Interview)",
+    "company": "Mercor",
+    "category": "Engineering",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$100 – $120 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoWa5lPEq7jlqhxZNLqEJ?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoWa5lPEq7jlqhxZNLqEJ&utm_medium=direct&utm_source=referral",
+    "description": "Remote Software Engineer – Retail Investing Platforms (Paid Expert Interview) opportunity with Mercor.\nRefer and earn $480.\nFull details and the application are on Mercor.",
+    "tags": [
+      "software",
+      "engineer",
+      "retail",
+      "investing"
+    ],
+    "createdAt": 1792724801000
+  },
+  {
+    "id": "mercor-genomics-cell-biology-specialist-1GS6Dh",
+    "title": "Genomics & Cell Biology Specialist",
+    "company": "Mercor",
+    "category": "Science & Research",
+    "type": "Part-time",
+    "region": "Remote",
+    "salary": "$70 – $100 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoWVP6g3Jos-M1D1GS6Dh?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoWVP6g3Jos-M1D1GS6Dh&utm_medium=direct&utm_source=referral",
+    "description": "Join a leading AI lab's cutting-edge research team to be at the core of the AI revolution, where your expertise fuels the development of the most advanced LLMs.\nAbout 20 hours per week.\nRefer and earn $1,600.\nFull details and the application are on Mercor.",
+    "tags": [
+      "genomics",
+      "cell",
+      "biology",
+      "specialist"
+    ],
+    "createdAt": 1792701098000
+  },
+  {
+    "id": "mercor-drug-discovery-specialist-pharmacology-adme-tox-lNs4H0",
+    "title": "Drug Discovery Specialist, Pharmacology & ADME/Tox",
+    "company": "Mercor",
+    "category": "Science & Research",
+    "type": "Part-time",
+    "region": "Remote",
+    "salary": "$70 – $100 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoWVP2LVSRCNBUUlNs4H0?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoWVP2LVSRCNBUUlNs4H0&utm_medium=direct&utm_source=referral",
+    "description": "Join a leading AI lab's cutting-edge research team to be at the core of the AI revolution, where your expertise fuels the development of the most advanced LLMs.\nAbout 20 hours per week.\nRefer and earn $1,600.\nFull details and the application are on Mercor.",
+    "tags": [
+      "drug",
+      "discovery",
+      "specialist",
+      "pharmacology"
+    ],
+    "createdAt": 1792701094000
+  },
+  {
+    "id": "mercor-chemistry-specialist-synthetic-analytical-chemistry-tD4aTU",
+    "title": "Chemistry Specialist, Synthetic & Analytical Chemistry",
+    "company": "Mercor",
+    "category": "Science & Research",
+    "type": "Part-time",
+    "region": "Remote",
+    "salary": "$70 – $100 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoWVPxZB7iQd_P8tD4aTU?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoWVPxZB7iQd_P8tD4aTU&utm_medium=direct&utm_source=referral",
+    "description": "Join a leading AI lab's cutting-edge research team to be at the core of the AI revolution, where your expertise fuels the development of the most advanced LLMs.\nAbout 20 hours per week.\nRefer and earn $1,600.\nFull details and the application are on Mercor.",
+    "tags": [
+      "chemistry",
+      "specialist",
+      "synthetic",
+      "analytical"
+    ],
+    "createdAt": 1792701089000
+  },
+  {
+    "id": "mercor-mlops-engineer-llm-performance-kernels-profiling-serving-5Nkon1",
+    "title": "MLOps Engineer, LLM Performance (Kernels, Profiling, Serving)",
+    "company": "Mercor",
+    "category": "Data & AI",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$90 – $120 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoWUVTB6QpgVqdb5Nkon1?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoWUVTB6QpgVqdb5Nkon1&utm_medium=direct&utm_source=referral",
+    "description": "Join a leading AI lab's cutting-edge GenAI team to be at the core of the AI revolution, where your expertise fuels the development of the most advanced Large Language Models.\nAbout 40 hours per week. US only.\nRefer and earn $1,920.\nFull details and the application are on Mercor.",
+    "tags": [
+      "mlops",
+      "engineer",
+      "llm",
+      "performance"
+    ],
+    "createdAt": 1792697256000
+  },
+  {
+    "id": "mercor-colorist-finishing-editor-BI_brn",
+    "title": "Colorist & Finishing Editor",
+    "company": "Mercor",
+    "category": "Writing",
+    "type": "Full-time",
+    "region": "Remote",
+    "salary": "$70 – $110 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoWTgVrfzF78gL6BI_brn?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoWTgVrfzF78gL6BI_brn&utm_medium=direct&utm_source=referral",
+    "description": "Join a leading AI lab's cutting-edge GenAI team to be at the core of the AI revolution, where your expertise fuels the development of the most advanced AI models.\nAbout 40 hours per week.\nRefer and earn $1,760.\nFull details and the application are on Mercor.",
+    "tags": [
+      "colorist",
+      "finishing",
+      "editor"
+    ],
+    "createdAt": 1792693786000
+  },
+  {
+    "id": "mercor-vfx-compositing-supervisor-dEJ5Z3",
+    "title": "VFX & Compositing Supervisor",
+    "company": "Mercor",
+    "category": "Other",
+    "type": "Full-time",
+    "region": "Remote",
+    "salary": "$70 – $110 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoWTgSJZkV8di89dEJ5Z3?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoWTgSJZkV8di89dEJ5Z3&utm_medium=direct&utm_source=referral",
+    "description": "Join a leading AI lab's cutting-edge GenAI team to be at the core of the AI revolution, where your expertise fuels the development of the most advanced AI models.\nAbout 40 hours per week.\nRefer and earn $1,760.\nFull details and the application are on Mercor.",
+    "tags": [
+      "vfx",
+      "compositing",
+      "supervisor"
+    ],
+    "createdAt": 1792693782000
+  },
+  {
+    "id": "mercor-performance-directing-supervisor-NK9YsE",
+    "title": "Performance & Directing Supervisor",
+    "company": "Mercor",
+    "category": "Other",
+    "type": "Full-time",
+    "region": "Remote",
+    "salary": "$70 – $110 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoWTgOSL7w8GZCUNK9YsE?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoWTgOSL7w8GZCUNK9YsE&utm_medium=direct&utm_source=referral",
+    "description": "Join a leading AI lab's cutting-edge GenAI team to be at the core of the AI revolution, where your expertise fuels the development of the most advanced AI models.\nAbout 40 hours per week.\nRefer and earn $1,760.\nFull details and the application are on Mercor.",
+    "tags": [
+      "performance",
+      "directing",
+      "supervisor"
+    ],
+    "createdAt": 1792693778000
+  },
+  {
+    "id": "mercor-cinematographer-hBDpYR",
+    "title": "Cinematographer",
+    "company": "Mercor",
+    "category": "Film & Media",
+    "type": "Full-time",
+    "region": "Remote",
+    "salary": "$70 – $110 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoWTgIFc6PljFQHhBDpYR?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoWTgIFc6PljFQHhBDpYR&utm_medium=direct&utm_source=referral",
+    "description": "Join a leading AI lab's cutting-edge GenAI team to be at the core of the AI revolution, where your expertise fuels the development of the most advanced AI models.\nAbout 40 hours per week.\nRefer and earn $1,760.\nFull details and the application are on Mercor.",
+    "tags": [
+      "cinematographer"
+    ],
+    "createdAt": 1792693772000
+  },
+  {
+    "id": "mercor-clinical-survey-research-methodology-expert-physician-phd-FOiZkF",
+    "title": "Clinical Survey Research & Methodology Expert (Physician / PhD)",
+    "company": "Mercor",
+    "category": "Healthcare",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$200 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoVXp4Fza5Tp6BWFOiZkF?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoVXp4Fza5Tp6BWFOiZkF&utm_medium=direct&utm_source=referral",
+    "description": "Remote Clinical Survey Research & Methodology Expert (Physician / PhD) opportunity with Mercor.\nAbout 40 hours per week. US only.\nRefer and earn $800.\nFull details and the application are on Mercor.",
+    "tags": [
+      "clinical",
+      "survey",
+      "research",
+      "methodology"
+    ],
+    "createdAt": 1792442753000
+  },
+  {
+    "id": "mercor-customer-experience-operations-india-VMfZES",
+    "title": "Customer Experience Operations (India)",
+    "company": "Mercor",
+    "category": "Operations",
+    "type": "Full-time",
+    "region": "Remote",
+    "salary": "$35,000 – $50,000 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoVRd9P1zaUo4VyVMfZES?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoVRd9P1zaUo4VyVMfZES&utm_medium=direct&utm_source=referral",
+    "description": "This is a full-time internal role at Mercor, open to candidates based in India only. You will work directly as part of Mercor's team. Mercor is looking for a Customer Experience Operations specialist to own how experts experience our platform end to end. You will be required to get things done by coordinating several owners across Engineering, Operations, Product and Talent Success, and making sure problems that cross teams actually get fixed.\nRefer and earn $110.\nFull details and the application are on Mercor.",
+    "tags": [
+      "customer",
+      "experience",
+      "operations",
+      "india"
+    ],
+    "createdAt": 1792416806000
+  },
+  {
+    "id": "mercor-computer-power-users-automation-builders-must-own-macbook-tF4Y_k",
+    "title": "Computer Power Users & Automation Builders (Must own MacBook)",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$50 – $60 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoVBme63yIgVpzitF4Y_k?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoVBme63yIgVpzitF4Y_k&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is looking for computer power users and automation builders with 2-3 years of relevant experience, or currently enrolled postgrad students, to support a research project with a leading AI lab. You will work through real productivity and automation workflows on your own Mac to help benchmark and improve cutting-edge AI models.\nAbout 40 hours per week. US only.\nRefer and earn $240.\nFull details and the application are on Mercor.",
+    "tags": [
+      "computer",
+      "power",
+      "users",
+      "automation"
+    ],
+    "createdAt": 1792350256000
+  },
+  {
+    "id": "mercor-stem-researchers-msc-phd-must-own-macbook-9FpJre",
+    "title": "STEM Researchers - MSc/PhD (Must own MacBook)",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$50 – $60 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoVBmcJCOy6nGBz9FpJre?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoVBmcJCOy6nGBz9FpJre&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is looking for STEM researchers who hold or are currently pursuing an MSc or PhD to support a research project with a leading AI lab. You will work through real research workflows on your own Mac to help benchmark and improve cutting-edge AI models. Required: You must own a MacBook or Mac with an Apple M-series chip or Intel processor, running macOS 15 or higher. Applicants without a Mac cannot be considered.\nAbout 40 hours per week. US only.\nRefer and earn $240.\nFull details and the application are on Mercor.",
+    "tags": [
+      "stem",
+      "researchers",
+      "msc",
+      "phd"
+    ],
+    "createdAt": 1792350253000
+  },
+  {
+    "id": "mercor-industrial-manufacturing-engineers-must-own-macbook-ZIa4th",
+    "title": "Industrial & Manufacturing Engineers (Must own MacBook)",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$50 – $60 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoVBmX0ZP9cQMwYZIa4th?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoVBmX0ZP9cQMwYZIa4th&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is looking for industrial and manufacturing engineers with 2-3 years of professional experience, or currently enrolled postgrad engineering students, to support a research project with a leading AI lab. You will work through real process, operations, and production engineering workflows on your own Mac to help benchmark and improve cutting-edge AI models.\nAbout 40 hours per week. US only.\nRefer and earn $240.\nFull details and the application are on Mercor.",
+    "tags": [
+      "industrial",
+      "manufacturing",
+      "engineers",
+      "must"
+    ],
+    "createdAt": 1792350248000
+  },
+  {
+    "id": "mercor-civil-engineers-architects-must-own-macbook-ZFaofM",
+    "title": "Civil Engineers & Architects (Must own MacBook)",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$50 – $60 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoVBmUnuxLt2htNZFaofM?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoVBmUnuxLt2htNZFaofM&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is looking for civil engineers and architects with 2-3 years of professional experience, or currently enrolled postgrad students in civil engineering or architecture, to support a research project with a leading AI lab. You will work through real design and drafting workflows on your own Mac to help benchmark and improve cutting-edge AI models.\nAbout 40 hours per week. US only.\nRefer and earn $240.\nFull details and the application are on Mercor.",
+    "tags": [
+      "civil",
+      "engineers",
+      "architects",
+      "must"
+    ],
+    "createdAt": 1792350245000
+  },
+  {
+    "id": "mercor-mechanical-cad-engineers-must-own-macbook-RNHYQl",
+    "title": "Mechanical & CAD Engineers (Must own MacBook)",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$50 – $60 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoVBmP03TuNxFesRNHYQl?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoVBmP03TuNxFesRNHYQl&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is looking for mechanical and CAD engineers with 2-3 years of professional experience, or currently enrolled postgrad engineering students, to support a research project with a leading AI lab. You will work through real engineering design workflows on your own Mac to help benchmark and improve cutting-edge AI models.\nAbout 40 hours per week. US only.\nRefer and earn $240.\nFull details and the application are on Mercor.",
+    "tags": [
+      "mechanical",
+      "cad",
+      "engineers",
+      "must"
+    ],
+    "createdAt": 1792350240000
+  },
+  {
+    "id": "mercor-3d-artists-video-editors-must-own-macbook-pPDpVL",
+    "title": "3D Artists & Video Editors (Must own MacBook)",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$50 – $60 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoVBmLAccb_kWwapPDpVL?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoVBmLAccb_kWwapPDpVL&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is looking for 3D artists and video editors with 2-3 years of professional or freelance experience, or currently enrolled postgrad students in film, animation, or digital media, to support a research project with a leading AI lab. You will work through real 3D and video production workflows on your own Mac to help benchmark and improve cutting-edge AI models.\nAbout 40 hours per week. US only.\nRefer and earn $240.\nFull details and the application are on Mercor.",
+    "tags": [
+      "artists",
+      "video",
+      "editors",
+      "must"
+    ],
+    "createdAt": 1792350235000
+  },
+  {
+    "id": "mercor-ui-ux-designers-must-own-macbook-9H6b0i",
+    "title": "UI/UX Designers (Must own MacBook)",
+    "company": "Mercor",
+    "category": "Design",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$50 – $60 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoVBmIvUp8Kr6Fy9H6b0i?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoVBmIvUp8Kr6Fy9H6b0i&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is looking for UI/UX designers with 2-3 years of professional experience, or currently enrolled postgrad HCI/design students, to support a research project with a leading AI lab. You will work through real product design workflows on your own Mac to help benchmark and improve cutting-edge AI models.\nAbout 40 hours per week. US only.\nRefer and earn $240.\nFull details and the application are on Mercor.",
+    "tags": [
+      "designers",
+      "must",
+      "own",
+      "macbook"
+    ],
+    "createdAt": 1792350233000
+  },
+  {
+    "id": "mercor-graphic-designers-must-own-macbook-dDBrXW",
+    "title": "Graphic Designers (Must own MacBook)",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$50 – $60 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoVBmFZ_RhmSVwadDBrXW?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoVBmFZ_RhmSVwadDBrXW&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is looking for graphic designers with 2-3 years of professional or freelance experience, or currently enrolled postgrad design students, to support a research project with a leading AI lab. You will work through real design workflows on your own Mac to help benchmark and improve cutting-edge AI models.\nAbout 40 hours per week. US only.\nRefer and earn $240.\nFull details and the application are on Mercor.",
+    "tags": [
+      "graphic",
+      "designers",
+      "must",
+      "own"
+    ],
+    "createdAt": 1792350229000
+  },
+  {
+    "id": "mercor-data-analysts-spreadsheet-specialists-must-own-macbook-FPpbKC",
+    "title": "Data Analysts & Spreadsheet Specialists (Must own MacBook)",
+    "company": "Mercor",
+    "category": "Data & AI",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$50 – $60 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoVBmAZXakCzG0MFPpbKC?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoVBmAZXakCzG0MFPpbKC&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is looking for data analysts and spreadsheet specialists with 2-3 years of experience, or currently enrolled postgrad students in a quantitative field, to support a research project with a leading AI lab. You will work through real data analysis workflows on your own Mac to help benchmark and improve cutting-edge AI models.\nAbout 40 hours per week. US only.\nRefer and earn $240.\nFull details and the application are on Mercor.",
+    "tags": [
+      "data",
+      "analysts",
+      "spreadsheet",
+      "specialists"
+    ],
+    "createdAt": 1792350224000
+  },
+  {
+    "id": "mercor-software-developers-must-own-macbook-hGapwb",
+    "title": "Software Developers (Must own MacBook)",
+    "company": "Mercor",
+    "category": "Engineering",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$50 – $60 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoVBl9Qiee5DoU-hGapwb?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoVBl9Qiee5DoU-hGapwb&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is looking for software developers with 2-3 years of professional coding experience, or currently enrolled postgrad Computer Science students, to support a research project with a leading AI lab. You will work through real development workflows on your own Mac to help benchmark and improve cutting-edge AI models.\nAbout 40 hours per week. US only.\nRefer and earn $240.\nFull details and the application are on Mercor.",
+    "tags": [
+      "software",
+      "developers",
+      "must",
+      "own"
+    ],
+    "createdAt": 1792350221000
+  },
+  {
+    "id": "mercor-electrical-engineer-tGkabI",
+    "title": "Electrical Engineer",
+    "company": "Mercor",
+    "category": "Engineering",
+    "type": "Full-time",
+    "region": "Remote",
+    "salary": "$80 – $120 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoUCyCieEKxAsNFtGkabI?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoUCyCieEKxAsNFtGkabI&utm_medium=direct&utm_source=referral",
+    "description": "Join a leading AI lab's cutting-edge GenAI team to be at the core of the AI revolution, where your expertise fuels the development of the most advanced Large Language Models.\nAbout 40 hours per week.\nRefer and earn $1,920.\nFull details and the application are on Mercor.",
+    "tags": [
+      "electrical",
+      "engineer"
+    ],
+    "createdAt": 1792086772000
+  },
+  {
+    "id": "mercor-pediatrician-md-NPm6-H",
+    "title": "Pediatrician (MD)",
+    "company": "Mercor",
+    "category": "Other",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$150 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoT1vGd94TFFDINNPm6-H?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoT1vGd94TFFDINNPm6-H&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is hiring pediatricians (MD) on behalf of a healthcare AI partner building advanced clinical documentation tools. In this role you will apply your pediatric clinical expertise to review, annotate, and evaluate clinical documentation, directly shaping the accuracy, safety, and clinical usefulness of medical AI systems. Review pediatric clinical documentation and patient charts for accuracy, completeness, and clinical soundness\nAbout 10 hours per week.\nRefer and earn $680.\nFull details and the application are on Mercor.",
+    "tags": [
+      "pediatrician"
+    ],
+    "createdAt": 1792032054000
+  },
+  {
+    "id": "mercor-pediatric-emergency-urgent-care-physician-md-9FdpXK",
+    "title": "Pediatric Emergency / Urgent Care Physician (MD)",
+    "company": "Mercor",
+    "category": "Healthcare",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$150 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoTw2X50MatW_D09FdpXK?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoTw2X50MatW_D09FdpXK&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is hiring physicians (MD) with pediatric emergency department or pediatric urgent care experience on behalf of a healthcare AI partner building advanced clinical documentation tools. In this role you will apply your pediatric acute-care expertise to review, annotate, and evaluate clinical documentation, directly shaping the accuracy, safety, and clinical usefulness of medical AI systems.\nAbout 10 hours per week.\nRefer and earn $760.\nFull details and the application are on Mercor.",
+    "tags": [
+      "pediatric",
+      "emergency",
+      "urgent",
+      "care"
+    ],
+    "createdAt": 1792011559000
+  },
+  {
+    "id": "mercor-program-lead-ZCnrvq",
+    "title": "Program Lead",
+    "company": "Mercor",
+    "category": "Other",
+    "type": "Full-time",
+    "region": "Remote",
+    "salary": "$45 – $70 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoTaaCqWbv9-5L3ZCnrvq?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoTaaCqWbv9-5L3ZCnrvq&utm_medium=direct&utm_source=referral",
+    "description": "Join a leading AI lab's cutting-edge GenAI team to be at the core of the AI revolution, where your expertise fuels the development of the most advanced Large Language Models.\nAbout 40 hours per week.\nRefer and earn $1,120.\nFull details and the application are on Mercor.",
+    "tags": [
+      "program",
+      "lead"
+    ],
+    "createdAt": 1791917427000
+  },
+  {
+    "id": "mercor-audio-engineer-speech-tts-audio-specialist-brazilian-portuguese-VFA6I-",
+    "title": "Audio Engineer (Speech / TTS Audio Specialist) – Brazilian Portuguese",
+    "company": "Mercor",
+    "category": "Engineering",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$20 – $30 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoTSnXon2NKOaCWVFA6I-?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoTSnXon2NKOaCWVFA6I-&utm_medium=direct&utm_source=referral",
+    "description": "Remote Audio Engineer (Speech / TTS Audio Specialist) – Brazilian Portuguese opportunity with Mercor. US only.\nRefer and earn $280.\nFull details and the application are on Mercor.",
+    "tags": [
+      "audio",
+      "engineer",
+      "speech",
+      "tts"
+    ],
+    "createdAt": 1791884746000
+  },
+  {
+    "id": "mercor-general-physician-VK85GA",
+    "title": "General Physician",
+    "company": "Mercor",
+    "category": "Healthcare",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$150 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoRnCSK6MhF7a8UVK85GA?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoRnCSK6MhF7a8UVK85GA&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is hiring experienced Medical Practitioners (MDs and DOs) to evaluate health AI models in partnership with a leading AI lab. You will assess model outputs across diagnosis, clinical reasoning, and care workflows. \\- Evaluate AI model outputs for clinical accuracy, safety, and alignment with medical standards \\- Score diagnoses, case reasoning, and care recommendations against expert judgment\nAbout 40 hours per week. US only.\nRefer and earn $600.\nFull details and the application are on Mercor.",
+    "tags": [
+      "general",
+      "physician"
+    ],
+    "createdAt": 1791433525000
+  },
+  {
+    "id": "mercor-infrastructure-site-reliability-engineer-sre-FLRrSi",
+    "title": "Infrastructure / Site Reliability Engineer (SRE)",
+    "company": "Mercor",
+    "category": "Engineering",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$200 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoRePE1qiY1-aJqFLRrSi?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoRePE1qiY1-aJqFLRrSi&utm_medium=direct&utm_source=referral",
+    "description": "Remote Infrastructure / Site Reliability Engineer (SRE) opportunity with Mercor.\nAbout 40 hours per week. US only.\nRefer and earn $800.\nFull details and the application are on Mercor.",
+    "tags": [
+      "infrastructure",
+      "site",
+      "reliability",
+      "engineer"
+    ],
+    "createdAt": 1791396615000
+  },
+  {
+    "id": "mercor-behavioral-health-expert-ai-safety-and-model-evaluation-hLrYa3",
+    "title": "Behavioral Health Expert, AI Safety and Model Evaluation",
+    "company": "Mercor",
+    "category": "Data & AI",
+    "type": "Part-time",
+    "region": "Remote",
+    "salary": "$45 – $70 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoP3B8SkA4VcfExhLrYa3?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoP3B8SkA4VcfExhLrYa3&utm_medium=direct&utm_source=referral",
+    "description": "Help a leading AI lab ensure its models respond to people with care, balance and sound judgment.\nAbout 20 hours per week.\nRefer and earn $1,120.\nFull details and the application are on Mercor.",
+    "tags": [
+      "behavioral",
+      "health",
+      "expert",
+      "safety"
+    ],
+    "createdAt": 1790963741000
+  },
+  {
+    "id": "mercor-neurologists-md-do-paid-research-study-migraine-1K5oxH",
+    "title": "Neurologists (MD/DO) – Paid Research Study (Migraine)",
+    "company": "Mercor",
+    "category": "Other",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$150 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoO9-ZN2SY-OreZ1K5oxH?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoO9-ZN2SY-OreZ1K5oxH&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is conducting a paid research study in collaboration with a leading AI research lab focused on improving healthcare. We are seeking physicians specializing in Neurology in the United States who treat adult patients with migraine to take part in a short online survey. Complete a structured ~30-minute online survey Share perspectives on how you treat and manage adult patients with migraine Submit all responses within the given timeline\nRefer and earn $50.\nFull details and the application are on Mercor.",
+    "tags": [
+      "neurologists",
+      "paid",
+      "research",
+      "study"
+    ],
+    "createdAt": 1790724433000
+  },
+  {
+    "id": "mercor-urologists-medical-oncologists-prostate-cancer-paid-research-study-1A07Rq",
+    "title": "Urologists & Medical Oncologists (Prostate Cancer) – Paid Research Study",
+    "company": "Mercor",
+    "category": "Healthcare",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$175 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoO94SrBCWFrRmM1A07Rq?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoO94SrBCWFrRmM1A07Rq&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is conducting a paid research study in collaboration with a leading AI research lab focused on improving healthcare. We are seeking board-certified urologists and medical oncologists in the United States who manage patients with metastatic prostate cancer to take part in a short online survey about treatment decision-making. Complete a structured ~30-minute online survey\nRefer and earn $50.\nFull details and the application are on Mercor.",
+    "tags": [
+      "urologists",
+      "medical",
+      "oncologists",
+      "prostate"
+    ],
+    "createdAt": 1790724033000
+  },
+  {
+    "id": "mercor-economics-research-expert-RHP4rK",
+    "title": "Economics Research Expert",
+    "company": "Mercor",
+    "category": "Finance & Accounting",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$150 – $160 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoOppU3x5v3XMbLRHP4rK?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoOppU3x5v3XMbLRHP4rK&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is recruiting Economics Research Experts for a research project with a leading foundational model AI lab. Have at least 2 years of experience working for top institutions, leading economics research (e.g. World Bank, IMF, Fed, Graduate Schools) You must be able to commit at least 10 hours per week for this role Successful contributions increase the odds that you are selected on future projects with Mercor\nAbout 40 hours per week. US only.\nRefer and earn $1,000.\nFull details and the application are on Mercor.",
+    "tags": [
+      "economics",
+      "research",
+      "expert"
+    ],
+    "createdAt": 1790639166000
+  },
+  {
+    "id": "mercor-systems-integration-engineering-experts-dMFJqm",
+    "title": "Systems & Integration Engineering Experts",
+    "company": "Mercor",
+    "category": "Engineering",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$100 – $120 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoN3f7l-LB1Be6AdMFJqm?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoN3f7l-LB1Be6AdMFJqm&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is seeking experienced Systems & Integration Engineers to support an advanced engineering and AI research initiative with a leading technology organization. We are looking for deeply hands-on engineers who have integrated, tested, validated, debugged, qualified, or analyzed complex real-world hardware and electromechanical systems in production environments. Reliability / Failure Analysis Engineering\nAbout 40 hours per week. US only.\nRefer and earn $480.\nFull details and the application are on Mercor.",
+    "tags": [
+      "systems",
+      "integration",
+      "engineering",
+      "experts"
+    ],
+    "createdAt": 1790428835000
+  },
+  {
+    "id": "mercor-software-firmware-engineering-experts-dGkJ7M",
+    "title": "Software & Firmware Engineering Experts",
+    "company": "Mercor",
+    "category": "Engineering",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$100 – $120 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoN3XEiwdzQPPxfdGkJ7M?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoN3XEiwdzQPPxfdGkJ7M&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is seeking experienced Software and Firmware Engineers to support an advanced engineering and AI research initiative with a leading technology organization. We are looking for deeply hands-on engineers who have designed, implemented, integrated, tested, debugged, or validated software and firmware that directly interfaces with real-world hardware systems.\nAbout 40 hours per week. US only.\nRefer and earn $480.\nFull details and the application are on Mercor.",
+    "tags": [
+      "software",
+      "firmware",
+      "engineering",
+      "experts"
+    ],
+    "createdAt": 1790428255000
+  },
+  {
+    "id": "mercor-mechanical-engineering-experts-RBErDP",
+    "title": "Mechanical Engineering Experts",
+    "company": "Mercor",
+    "category": "Engineering",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$100 – $120 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoN3On6pC5dA5aDRBErDP?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoN3On6pC5dA5aDRBErDP&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is seeking experienced Mechanical Engineers to support an advanced engineering and AI research initiative with a leading technology organisation. We are looking for deeply hands-on engineers who have designed, analysed, built, tested, validated, or troubleshot real-world mechanical and electromechanical systems in production environments.\nAbout 40 hours per week. US only.\nRefer and earn $480.\nFull details and the application are on Mercor.",
+    "tags": [
+      "mechanical",
+      "engineering",
+      "experts"
+    ],
+    "createdAt": 1790427701000
+  },
+  {
+    "id": "mercor-electrical-hardware-engineering-experts-dGFICd",
+    "title": "Electrical & Hardware Engineering Experts",
+    "company": "Mercor",
+    "category": "Engineering",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$100 – $120 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoN2AhG3DPZYg43dGFICd?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoN2AhG3DPZYg43dGFICd&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is seeking experienced Electrical and Hardware Engineers to support an advanced engineering and AI research initiative with a leading technology organisation. We are looking for deeply hands-on engineers who have designed, built, tested, brought up, debugged, or validated real-world hardware systems in production environments.\nAbout 40 hours per week. US only.\nRefer and earn $480.\nFull details and the application are on Mercor.",
+    "tags": [
+      "electrical",
+      "hardware",
+      "engineering",
+      "experts"
+    ],
+    "createdAt": 1790422582000
+  },
+  {
+    "id": "mercor-voice-actor-cx-agent-voice-cloning-south-african-english-pE4ZlF",
+    "title": "Voice Actor: CX Agent Voice Cloning (South African English)",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$50 – $100 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoNLsLfvO46zBcIpE4ZlF?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoNLsLfvO46zBcIpE4ZlF&utm_medium=direct&utm_source=referral",
+    "description": "Remote Voice Actor: CX Agent Voice Cloning (South African English) opportunity with Mercor.\nRefer and earn $400.\nFull details and the application are on Mercor.",
+    "tags": [
+      "voice",
+      "actor",
+      "agent",
+      "voice"
+    ],
+    "createdAt": 1790245088000
+  },
+  {
+    "id": "mercor-securities-commodities-and-financial-services-sales-agents-JC0ar3",
+    "title": "Securities, Commodities, and Financial Services Sales Agents",
+    "company": "Mercor",
+    "category": "Sales & Marketing",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$70 – $110 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoNEASAHvBkQQfdJC0ar3?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoNEASAHvBkQQfdJC0ar3&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is hiring experienced Securities, Commodities, and Financial Services Sales Agents to help evaluate and improve cutting-edge AI systems. In this role, you'll evaluate AI-generated securities, commodities, and financial services content and workflows, leveraging your real-world expertise in buying and selling securities or commodities and advising clients on investments and market conditions.\nRefer and earn $440.\nFull details and the application are on Mercor.",
+    "tags": [
+      "securities",
+      "commodities",
+      "and",
+      "financial"
+    ],
+    "createdAt": 1790212851000
+  },
+  {
+    "id": "mercor-brazil-personal-cross-border-finance-paid-research-study-ZPMo7Q",
+    "title": "Brazil Personal & Cross-Border Finance – Paid Research Study",
+    "company": "Mercor",
+    "category": "Finance & Accounting",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$100 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoMpfJwEz6JAEUZZPMo7Q?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoMpfJwEz6JAEUZZPMo7Q&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is conducting a paid research study in collaboration with a leading research partner. We are seeking people in Brazil who manage their personal finances and have financial ties to the United States to take part in a short online survey about banking, spending, and cross-border money management. Insights gathered will help inform research into how people manage their finances. Complete a structured ~20-minute online survey\nRefer and earn $50.\nFull details and the application are on Mercor.",
+    "tags": [
+      "brazil",
+      "personal",
+      "cross",
+      "border"
+    ],
+    "createdAt": 1790101629000
+  },
+  {
+    "id": "mercor-lawyers-legal-experts-global-talent-pool-usa-uk-germany-france-spain-australia-japan-korea-pCtI2L",
+    "title": "Lawyers & Legal Experts — Global Talent Pool (USA, UK, Germany, France, Spain, Australia, Japan, Korea)",
+    "company": "Mercor",
+    "category": "Human Resources",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$100 – $140 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoLA_3WENxZ1c_rpCtI2L?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoLA_3WENxZ1c_rpCtI2L&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is partnering with leading AI companies to evaluate and improve how well AI systems handle real questions of law across multiple jurisdictions. We keep an ongoing talent pool of qualified, practising lawyers who serve as expert reviewers on these projects. This is a rolling listing: we review applications on a continuous basis and reach out as new work comes up. The exact tasks vary by project.\nRefer and earn $640.\nFull details and the application are on Mercor.",
+    "tags": [
+      "lawyers",
+      "legal",
+      "experts",
+      "global"
+    ],
+    "createdAt": 1789663371000
+  },
+  {
+    "id": "mercor-generalist-expert-FCAo_G",
+    "title": "Generalist Expert",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$40 – $70 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoKORCF2dakrez4FCAo_G?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoKORCF2dakrez4FCAo_G&utm_medium=direct&utm_source=referral",
+    "description": "The research teams behind the best-known AI models come to Mercor for careful human judgment they can't generate on their own. Your standards and attention become the rubric that frontier AI is graded against. This is a standing listing for generalists who want AI training and evaluation work, not a specific job opening. It stays open whether or not a matching project is running this week.\nAbout 40 hours per week. US only.\nRefer and earn $280.\nFull details and the application are on Mercor.",
+    "tags": [
+      "generalist",
+      "expert"
+    ],
+    "createdAt": 1789450586000
+  },
+  {
+    "id": "mercor-data-analysis-expert-NIAZJt",
+    "title": "Data Analysis Expert",
+    "company": "Mercor",
+    "category": "Data & AI",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$70 – $120 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoKOQ-XTPt9-0CBNIAZJt?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoKOQ-XTPt9-0CBNIAZJt&utm_medium=direct&utm_source=referral",
+    "description": "The research teams behind the best-known AI models come to Mercor for data judgment they can't generate on their own. Your standards and expertise become the rubric that frontier AI is graded against. This is a standing listing for analysts and data practitioners who want AI training and evaluation work, not a specific job opening. It stays open whether or not a matching project is running this week.\nAbout 40 hours per week. US only.\nRefer and earn $480.\nFull details and the application are on Mercor.",
+    "tags": [
+      "data",
+      "analysis",
+      "expert"
+    ],
+    "createdAt": 1789450582000
+  },
+  {
+    "id": "mercor-education-training-expert-FOdLPr",
+    "title": "Education & Training Expert",
+    "company": "Mercor",
+    "category": "Education",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$30 – $85 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoKOQxMW5nhNVUkFOdLPr?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoKOQxMW5nhNVUkFOdLPr&utm_medium=direct&utm_source=referral",
+    "description": "The research teams behind the best-known AI models come to Mercor for teaching judgment they can't generate on their own. Your standards and expertise become the rubric that frontier AI is graded against. This is a standing listing for educators who want AI training and evaluation work, not a specific job opening. It stays open whether or not a matching project is running this week.\nAbout 40 hours per week. US only.\nRefer and earn $340.\nFull details and the application are on Mercor.",
+    "tags": [
+      "education",
+      "training",
+      "expert"
+    ],
+    "createdAt": 1789450568000
+  },
+  {
+    "id": "mercor-office-productivity-software-expert-hGnL5Z",
+    "title": "Office & Productivity Software Expert",
+    "company": "Mercor",
+    "category": "Engineering",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$60 – $70 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoKOQsxXSV5vKwxhGnL5Z?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoKOQsxXSV5vKwxhGnL5Z&utm_medium=direct&utm_source=referral",
+    "description": "The research teams behind the best-known AI models come to Mercor for judgment about how office and productivity software is actually used. Your standards and expertise become the rubric that frontier AI is graded against. This is a standing listing for people who work in these tools all day and who want AI training and evaluation work, not a specific job opening. It stays open whether or not a matching project is running this week.\nAbout 40 hours per week. US only.\nRefer and earn $280.\nFull details and the application are on Mercor.",
+    "tags": [
+      "office",
+      "productivity",
+      "software",
+      "expert"
+    ],
+    "createdAt": 1789450564000
+  },
+  {
+    "id": "mercor-finance-expert-xLb7qN",
+    "title": "Finance Expert",
+    "company": "Mercor",
+    "category": "Finance & Accounting",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$60 – $180 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoKOQo_tcpjmZ2_xLb7qN?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoKOQo_tcpjmZ2_xLb7qN&utm_medium=direct&utm_source=referral",
+    "description": "The research teams behind the best-known AI models come to Mercor for financial judgment they can't generate on their own. Your standards and expertise become the rubric that frontier AI is graded against. This is a standing listing for finance professionals who want AI training and evaluation work, not a specific job opening. It stays open whether or not a matching project is running this week.\nAbout 40 hours per week. US only.\nRefer and earn $720.\nFull details and the application are on Mercor.",
+    "tags": [
+      "finance",
+      "expert"
+    ],
+    "createdAt": 1789450560000
+  },
+  {
+    "id": "mercor-humanities-expert-FGHq7W",
+    "title": "Humanities Expert",
+    "company": "Mercor",
+    "category": "Science & Research",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$45 – $60 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoKOQcWLb5MeHmbFGHq7W?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoKOQcWLb5MeHmbFGHq7W&utm_medium=direct&utm_source=referral",
+    "description": "The research teams behind the best-known AI models come to Mercor for humanities judgment they can't generate on their own. Your standards and expertise become the rubric that frontier AI is graded against. This is a standing listing for humanities scholars who want AI training and evaluation work, not a specific job opening. It stays open whether or not a matching project is running this week.\nAbout 40 hours per week. US only.\nRefer and earn $240.\nFull details and the application are on Mercor.",
+    "tags": [
+      "humanities",
+      "expert"
+    ],
+    "createdAt": 1789450547000
+  },
+  {
+    "id": "mercor-arts-design-expert-tHKYnW",
+    "title": "Arts & Design Expert",
+    "company": "Mercor",
+    "category": "Design",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$60 – $80 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoKOQYnwSIWKGcHtHKYnW?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoKOQYnwSIWKGcHtHKYnW&utm_medium=direct&utm_source=referral",
+    "description": "The research teams behind the best-known AI models come to Mercor for design and creative judgment they can't generate on their own. Your standards and expertise become the rubric that frontier AI is graded against. This is a standing listing for designers and creative professionals who want AI training and evaluation work, not a specific job opening. It stays open whether or not a matching project is running this week.\nAbout 40 hours per week. US only.\nRefer and earn $320.\nFull details and the application are on Mercor.",
+    "tags": [
+      "arts",
+      "design",
+      "expert"
+    ],
+    "createdAt": 1789450543000
+  },
+  {
+    "id": "mercor-legal-expert-tGK64s",
+    "title": "Legal Expert",
+    "company": "Mercor",
+    "category": "Legal",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$60 – $150 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoKOQUds_uf4uJMtGK64s?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoKOQUds_uf4uJMtGK64s&utm_medium=direct&utm_source=referral",
+    "description": "The research teams behind the best-known AI models come to Mercor for legal judgment they can't generate on their own. Your standards and expertise become the rubric that frontier AI is graded against. This is a standing listing for legal professionals who want AI training and evaluation work, not a specific job opening. It stays open whether or not a matching project is running this week.\nAbout 40 hours per week. US only.\nRefer and earn $600.\nFull details and the application are on Mercor.",
+    "tags": [
+      "legal",
+      "expert"
+    ],
+    "createdAt": 1789450539000
+  },
+  {
+    "id": "mercor-engineering-expert-FH-Ljn",
+    "title": "Engineering Expert",
+    "company": "Mercor",
+    "category": "Engineering",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$60 – $125 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoKOQBVjEtnDVZPFH-Ljn?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoKOQBVjEtnDVZPFH-Ljn&utm_medium=direct&utm_source=referral",
+    "description": "The research teams behind the best-known AI models come to Mercor for engineering judgment they can't generate on their own. Your standards and expertise become the rubric that frontier AI is graded against. This is a standing listing for engineers who want AI training and evaluation work, not a specific job opening. It stays open whether or not a matching project is running this week.\nAbout 40 hours per week. US only.\nRefer and earn $500.\nFull details and the application are on Mercor.",
+    "tags": [
+      "engineering",
+      "expert"
+    ],
+    "createdAt": 1789450519000
+  },
+  {
+    "id": "mercor-software-engineering-expert-NBCqS7",
+    "title": "Software Engineering Expert",
+    "company": "Mercor",
+    "category": "Engineering",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$70 – $150 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoKOP6g9ZUjU9LdNBCqS7?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoKOP6g9ZUjU9LdNBCqS7&utm_medium=direct&utm_source=referral",
+    "description": "The research teams behind the best-known AI models come to Mercor for software engineering judgment they can't generate on their own. Your standards and expertise become the rubric that frontier AI is graded against. This is a standing listing for engineers who want AI training and evaluation work, not a specific job opening. It stays open whether or not a matching project is running this week.\nAbout 40 hours per week. US only.\nRefer and earn $600.\nFull details and the application are on Mercor.",
+    "tags": [
+      "software",
+      "engineering",
+      "expert"
+    ],
+    "createdAt": 1789450512000
+  },
+  {
+    "id": "mercor-consumer-lifestyle-expert-xFwpQh",
+    "title": "Consumer & Lifestyle Expert",
+    "company": "Mercor",
+    "category": "Other",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$50 – $75 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoKOP0J3agGkWShxFwpQh?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoKOP0J3agGkWShxFwpQh&utm_medium=direct&utm_source=referral",
+    "description": "The research teams behind the best-known AI models come to Mercor for consumer and lifestyle judgment they can't generate on their own. Your standards and expertise become the rubric that frontier AI is graded against. This is a standing listing for specialists in consumer categories who want AI training and evaluation work, not a specific job opening. It stays open whether or not a matching project is running this week.\nAbout 40 hours per week. US only.\nRefer and earn $300.\nFull details and the application are on Mercor.",
+    "tags": [
+      "consumer",
+      "lifestyle",
+      "expert"
+    ],
+    "createdAt": 1789450506000
+  },
+  {
+    "id": "mercor-medical-expert-NNjKxo",
+    "title": "Medical Expert",
+    "company": "Mercor",
+    "category": "Healthcare",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$60 – $180 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoKOPjbVqcleYq1NNjKxo?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoKOPjbVqcleYq1NNjKxo&utm_medium=direct&utm_source=referral",
+    "description": "The research teams behind the best-known AI models come to Mercor for medical judgment they can't generate on their own. Your standards and expertise become the rubric that frontier AI is graded against. This is a standing listing for clinicians and health professionals who want AI training and evaluation work, not a specific job opening. It stays open whether or not a matching project is running this week.\nAbout 40 hours per week. US only.\nRefer and earn $720.\nFull details and the application are on Mercor.",
+    "tags": [
+      "medical",
+      "expert"
+    ],
+    "createdAt": 1789450489000
+  },
+  {
+    "id": "mercor-life-physical-social-science-expert-NJDbi1",
+    "title": "Life, Physical & Social Science Expert",
+    "company": "Mercor",
+    "category": "Other",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$60 – $120 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoKOPfaLb80VeraNJDbi1?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoKOPfaLb80VeraNJDbi1&utm_medium=direct&utm_source=referral",
+    "description": "The research teams behind the best-known AI models come to Mercor for scientific judgment they can't generate on their own. Your standards and expertise become the rubric that frontier AI is graded against. This is a standing listing for researchers who want AI training and evaluation work, not a specific job opening. It stays open whether or not a matching project is running this week.\nAbout 40 hours per week. US only.\nRefer and earn $480.\nFull details and the application are on Mercor.",
+    "tags": [
+      "life",
+      "physical",
+      "social",
+      "science"
+    ],
+    "createdAt": 1789450485000
+  },
+  {
+    "id": "mercor-business-operations-expert-5OZZ9P",
+    "title": "Business Operations Expert",
+    "company": "Mercor",
+    "category": "Operations",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$90 – $120 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoKOPRz9oSu7S565OZZ9P?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoKOPRz9oSu7S565OZZ9P&utm_medium=direct&utm_source=referral",
+    "description": "The research teams behind the best-known AI models come to Mercor for business operations judgment they can't generate on their own. Your standards and expertise become the rubric that frontier AI is graded against. This is a standing listing for operators who want AI training and evaluation work, not a specific job opening. It stays open whether or not a matching project is running this week.\nAbout 40 hours per week. US only.\nRefer and earn $480.\nFull details and the application are on Mercor.",
+    "tags": [
+      "business",
+      "operations",
+      "expert"
+    ],
+    "createdAt": 1789450471000
+  },
+  {
+    "id": "mercor-language-audio-expert-ZBH634",
+    "title": "Language & Audio Expert",
+    "company": "Mercor",
+    "category": "Other",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$35 – $50 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoKOPMUFnRCU8QMZBH634?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoKOPMUFnRCU8QMZBH634&utm_medium=direct&utm_source=referral",
+    "description": "The research teams behind the best-known AI models come to Mercor for language and audio judgment they can't generate on their own. Your standards and expertise become the rubric that frontier AI is graded against. This is a standing listing for linguists, translators, and audio professionals who want AI training and evaluation work, not a specific job opening. It stays open whether or not a matching project is running this week.\nAbout 40 hours per week. US only.\nRefer and earn $200.\nFull details and the application are on Mercor.",
+    "tags": [
+      "language",
+      "audio",
+      "expert"
+    ],
+    "createdAt": 1789450465000
+  },
+  {
+    "id": "mercor-electrical-engineering-expert-FJq6Ox",
+    "title": "Electrical Engineering Expert",
+    "company": "Mercor",
+    "category": "Engineering",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$70 – $120 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoKMj8ATHeyLKYLFJq6Ox?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoKMj8ATHeyLKYLFJq6Ox&utm_medium=direct&utm_source=referral",
+    "description": "The research teams behind the best-known AI models come to Mercor for electrical engineering judgment they can't generate on their own. Your standards and expertise become the rubric that frontier AI is graded against. This is a standing listing for electrical engineers who want AI training and evaluation work, not a specific job opening. It stays open whether or not a matching project is running this week.\nAbout 40 hours per week. US only.\nRefer and earn $480.\nFull details and the application are on Mercor.",
+    "tags": [
+      "electrical",
+      "engineering",
+      "expert"
+    ],
+    "createdAt": 1789443436000
+  },
+  {
+    "id": "mercor-mechanical-engineering-expert-BJobfe",
+    "title": "Mechanical Engineering Expert",
+    "company": "Mercor",
+    "category": "Engineering",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$70 – $125 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoKMj4F2A8dtbrHBJobfe?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoKMj4F2A8dtbrHBJobfe&utm_medium=direct&utm_source=referral",
+    "description": "The research teams behind the best-known AI models come to Mercor for mechanical engineering judgment they can't generate on their own. Your standards and expertise become the rubric that frontier AI is graded against. This is a standing listing for mechanical engineers who want AI training and evaluation work, not a specific job opening. It stays open whether or not a matching project is running this week.\nAbout 40 hours per week. US only.\nRefer and earn $500.\nFull details and the application are on Mercor.",
+    "tags": [
+      "mechanical",
+      "engineering",
+      "expert"
+    ],
+    "createdAt": 1789443432000
+  },
+  {
+    "id": "mercor-mathematics-expert-dIZ6TO",
+    "title": "Mathematics Expert",
+    "company": "Mercor",
+    "category": "Science & Research",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$40 – $75 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoKMjug1fFXpwuDdIZ6TO?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoKMjug1fFXpwuDdIZ6TO&utm_medium=direct&utm_source=referral",
+    "description": "The research teams behind the best-known AI models come to Mercor for mathematical judgment they can't generate on their own. Your standards and expertise become the rubric that frontier AI is graded against. This is a standing listing for mathematicians who want AI training and evaluation work, not a specific job opening. It stays open whether or not a matching project is running this week.\nAbout 40 hours per week. US only.\nRefer and earn $300.\nFull details and the application are on Mercor.",
+    "tags": [
+      "mathematics",
+      "expert"
+    ],
+    "createdAt": 1789443422000
+  },
+  {
+    "id": "mercor-physics-expert-1EnL82",
+    "title": "Physics Expert",
+    "company": "Mercor",
+    "category": "Science & Research",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$70 – $100 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoKMjqUMNbxdYam1EnL82?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoKMjqUMNbxdYam1EnL82&utm_medium=direct&utm_source=referral",
+    "description": "The research teams behind the best-known AI models come to Mercor for physics judgment they can't generate on their own. Your standards and expertise become the rubric that frontier AI is graded against. This is a standing listing for physicists who want AI training and evaluation work, not a specific job opening. It stays open whether or not a matching project is running this week.\nAbout 40 hours per week. US only.\nRefer and earn $400.\nFull details and the application are on Mercor.",
+    "tags": [
+      "physics",
+      "expert"
+    ],
+    "createdAt": 1789443418000
+  },
+  {
+    "id": "mercor-materials-science-expert-RHVqJN",
+    "title": "Materials Science Expert",
+    "company": "Mercor",
+    "category": "Other",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$60 – $120 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoKMjfcock4TYWyRHVqJN?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoKMjfcock4TYWyRHVqJN&utm_medium=direct&utm_source=referral",
+    "description": "The research teams behind the best-known AI models come to Mercor for materials science judgment they can't generate on their own. Your standards and expertise become the rubric that frontier AI is graded against. This is a standing listing for materials scientists who want AI training and evaluation work, not a specific job opening. It stays open whether or not a matching project is running this week.\nAbout 40 hours per week. US only.\nRefer and earn $480.\nFull details and the application are on Mercor.",
+    "tags": [
+      "materials",
+      "science",
+      "expert"
+    ],
+    "createdAt": 1789443407000
+  },
+  {
+    "id": "mercor-chemistry-expert-tE4p1n",
+    "title": "Chemistry Expert",
+    "company": "Mercor",
+    "category": "Science & Research",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$65 – $105 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoKMjbmWSx1ImOhtE4p1n?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoKMjbmWSx1ImOhtE4p1n&utm_medium=direct&utm_source=referral",
+    "description": "The research teams behind the best-known AI models come to Mercor for chemistry judgment they can't generate on their own. Your standards and expertise become the rubric that frontier AI is graded against. This is a standing listing for chemists who want AI training and evaluation work, not a specific job opening. It stays open whether or not a matching project is running this week.\nAbout 40 hours per week. US only.\nRefer and earn $420.\nFull details and the application are on Mercor.",
+    "tags": [
+      "chemistry",
+      "expert"
+    ],
+    "createdAt": 1789443403000
+  },
+  {
+    "id": "mercor-biotechnology-expert-JJarhw",
+    "title": "Biotechnology Expert",
+    "company": "Mercor",
+    "category": "Science & Research",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$110 – $125 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoKMjXpTwPaIwAcJJarhw?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoKMjXpTwPaIwAcJJarhw&utm_medium=direct&utm_source=referral",
+    "description": "The research teams behind the best-known AI models come to Mercor for biotechnology judgment they can't generate on their own. Your standards and expertise become the rubric that frontier AI is graded against. This is a standing listing for biotech scientists who want AI training and evaluation work, not a specific job opening. It stays open whether or not a matching project is running this week.\nAbout 40 hours per week. US only.\nRefer and earn $500.\nFull details and the application are on Mercor.",
+    "tags": [
+      "biotechnology",
+      "expert"
+    ],
+    "createdAt": 1789443399000
+  },
+  {
+    "id": "mercor-biology-expert-xLf7pG",
+    "title": "Biology Expert",
+    "company": "Mercor",
+    "category": "Science & Research",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$70 – $105 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoKMjUBDgN45J6XxLf7pG?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoKMjUBDgN45J6XxLf7pG&utm_medium=direct&utm_source=referral",
+    "description": "The research teams behind the best-known AI models come to Mercor for biology judgment they can't generate on their own. Your standards and expertise become the rubric that frontier AI is graded against. This is a standing listing for biologists who want AI training and evaluation work, not a specific job opening. It stays open whether or not a matching project is running this week.\nAbout 40 hours per week. US only.\nRefer and earn $420.\nFull details and the application are on Mercor.",
+    "tags": [
+      "biology",
+      "expert"
+    ],
+    "createdAt": 1789443395000
+  },
+  {
+    "id": "mercor-machine-learning-expert-FCtp1w",
+    "title": "Machine Learning Expert",
+    "company": "Mercor",
+    "category": "Data & AI",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$70 – $120 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoKMjIsiYWQM6KQFCtp1w?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoKMjIsiYWQM6KQFCtp1w&utm_medium=direct&utm_source=referral",
+    "description": "The research teams behind the best-known AI models come to Mercor for machine learning judgment they can't generate on their own. Your standards and expertise become the rubric that frontier AI is graded against. This is a standing listing for machine learning practitioners who want AI training and evaluation work, not a specific job opening. It stays open whether or not a matching project is running this week.\nAbout 40 hours per week. US only.\nRefer and earn $480.\nFull details and the application are on Mercor.",
+    "tags": [
+      "machine",
+      "learning",
+      "expert"
+    ],
+    "createdAt": 1789443384000
+  },
+  {
+    "id": "mercor-asset-wealth-management-expert-tOUZox",
+    "title": "Asset & Wealth Management Expert",
+    "company": "Mercor",
+    "category": "Finance & Accounting",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$100 – $130 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoKMi5yd-bKOyjYtOUZox?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoKMi5yd-bKOyjYtOUZox&utm_medium=direct&utm_source=referral",
+    "description": "The research teams behind the best-known AI models come to Mercor for investment management judgment they can't generate on their own. Your standards and expertise become the rubric that frontier AI is graded against. This is a standing listing for asset and wealth managers who want AI training and evaluation work, not a specific job opening. It stays open whether or not a matching project is running this week.\nAbout 40 hours per week. US only.\nRefer and earn $520.\nFull details and the application are on Mercor.",
+    "tags": [
+      "asset",
+      "wealth",
+      "management",
+      "expert"
+    ],
+    "createdAt": 1789443368000
+  },
+  {
+    "id": "mercor-management-consulting-expert-VA55nH",
+    "title": "Management Consulting Expert",
+    "company": "Mercor",
+    "category": "Other",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$90 – $120 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoKMiq5IG9oGdNZVA55nH?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoKMiq5IG9oGdNZVA55nH&utm_medium=direct&utm_source=referral",
+    "description": "The research teams behind the best-known AI models come to Mercor for management consulting judgment they can't generate on their own. Your standards and expertise become the rubric that frontier AI is graded against. This is a standing listing for consultants who want AI training and evaluation work, not a specific job opening. It stays open whether or not a matching project is running this week.\nAbout 40 hours per week. US only.\nRefer and earn $480.\nFull details and the application are on Mercor.",
+    "tags": [
+      "management",
+      "consulting",
+      "expert"
+    ],
+    "createdAt": 1789443353000
+  },
+  {
+    "id": "mercor-legal-expert-j-d-ll-b-tBOLFn",
+    "title": "Legal Expert (J.D./LL.B.)",
+    "company": "Mercor",
+    "category": "Legal",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$100 – $150 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoKMimtHLeNSrQLtBOLFn?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoKMimtHLeNSrQLtBOLFn&utm_medium=direct&utm_source=referral",
+    "description": "The research teams behind the best-known AI models come to Mercor for legal judgment they can't generate on their own. Your standards and expertise become the rubric that frontier AI is graded against. This is a standing listing for lawyers who want AI training and evaluation work, not a specific job opening. It stays open whether or not a matching project is running this week.\nAbout 40 hours per week. US only.\nRefer and earn $600.\nFull details and the application are on Mercor.",
+    "tags": [
+      "legal",
+      "expert"
+    ],
+    "createdAt": 1789443349000
+  },
+  {
+    "id": "mercor-medical-expert-m-d-d-o-BLhoVI",
+    "title": "Medical Expert (M.D./D.O.)",
+    "company": "Mercor",
+    "category": "Healthcare",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$115 – $150 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoKMig9vns0-qeYBLhoVI?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoKMig9vns0-qeYBLhoVI&utm_medium=direct&utm_source=referral",
+    "description": "The research teams behind the best-known AI models come to Mercor for clinical judgment they can't generate on their own. Your standards and expertise become the rubric that frontier AI is graded against. This is a standing listing for physicians who want AI training and evaluation work, not a specific job opening. It stays open whether or not a matching project is running this week.\nAbout 40 hours per week. US only.\nRefer and earn $600.\nFull details and the application are on Mercor.",
+    "tags": [
+      "medical",
+      "expert"
+    ],
+    "createdAt": 1789443343000
+  },
+  {
+    "id": "mercor-investment-banking-expert-tAD7Jq",
+    "title": "Investment Banking Expert",
+    "company": "Mercor",
+    "category": "Finance & Accounting",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$100 – $130 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoKMhfQur1DCRx9tAD7Jq?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoKMhfQur1DCRx9tAD7Jq&utm_medium=direct&utm_source=referral",
+    "description": "The research teams behind the best-known AI models come to Mercor for investment banking judgment they can't generate on their own. Your standards and expertise become the rubric that frontier AI is graded against. This is a standing listing for investment bankers who want AI training and evaluation work, not a specific job opening. It stays open whether or not a matching project is running this week.\nAbout 40 hours per week. US only.\nRefer and earn $520.\nFull details and the application are on Mercor.",
+    "tags": [
+      "investment",
+      "banking",
+      "expert"
+    ],
+    "createdAt": 1789443276000
+  },
+  {
+    "id": "mercor-audiobook-qa-expert-italian-VCkpZ0",
+    "title": "Audiobook QA Expert — Italian",
+    "company": "Mercor",
+    "category": "Engineering",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$15 – $20 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoKG8GjdxpvxX3XVCkpZ0?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoKG8GjdxpvxX3XVCkpZ0&utm_medium=direct&utm_source=referral",
+    "description": "Help make the next generation of AI-narrated audiobooks sound genuinely human. We're building a team of native Italian speakers who love audiobooks to help evaluate AI-narrated (text-to-speech) audiobooks in Italian (Italy). You'll listen the way a real audiobook fan does — but with a careful, analytical ear — and flag the moments where the narration slips, so the underlying models can be made better.\nAbout 20 hours per week.\nRefer and earn $320.\nFull details and the application are on Mercor.",
+    "tags": [
+      "audiobook",
+      "expert",
+      "italian"
+    ],
+    "createdAt": 1789419854000
+  },
+  {
+    "id": "mercor-audiobook-qa-expert-dutch-JKvIXg",
+    "title": "Audiobook QA Expert — Dutch",
+    "company": "Mercor",
+    "category": "Engineering",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$15 – $20 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoKG77n0dWZQMP1JKvIXg?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoKG77n0dWZQMP1JKvIXg&utm_medium=direct&utm_source=referral",
+    "description": "Help make the next generation of AI-narrated audiobooks sound genuinely human. We're building a team of native Dutch speakers who love audiobooks to help evaluate AI-narrated (text-to-speech) audiobooks in Dutch (Netherlands). You'll listen the way a real audiobook fan does — but with a careful, analytical ear — and flag the moments where the narration slips, so the underlying models can be made better.\nAbout 20 hours per week.\nRefer and earn $320.\nFull details and the application are on Mercor.",
+    "tags": [
+      "audiobook",
+      "expert",
+      "dutch"
+    ],
+    "createdAt": 1789419843000
+  },
+  {
+    "id": "mercor-audiobook-qa-expert-portuguese-portugal-xKM4Zy",
+    "title": "Audiobook QA Expert — Portuguese (Portugal)",
+    "company": "Mercor",
+    "category": "Engineering",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$15 – $20 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoKG7xggAw8Psh2xKM4Zy?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoKG7xggAw8Psh2xKM4Zy&utm_medium=direct&utm_source=referral",
+    "description": "Help make the next generation of AI-narrated audiobooks sound genuinely human. We're building a team of native Portuguese speakers who love audiobooks to help evaluate AI-narrated (text-to-speech) audiobooks in European Portuguese. You'll listen the way a real audiobook fan does — but with a careful, analytical ear — and flag the moments where the narration slips, so the underlying models can be made better.\nAbout 20 hours per week.\nRefer and earn $320.\nFull details and the application are on Mercor.",
+    "tags": [
+      "audiobook",
+      "expert",
+      "portuguese",
+      "portugal"
+    ],
+    "createdAt": 1789419833000
+  },
+  {
+    "id": "mercor-audiobook-qa-expert-portuguese-brazil-pBUruN",
+    "title": "Audiobook QA Expert — Portuguese (Brazil)",
+    "company": "Mercor",
+    "category": "Engineering",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$15 – $20 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoKG7mYlTL1lmfwpBUruN?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoKG7mYlTL1lmfwpBUruN&utm_medium=direct&utm_source=referral",
+    "description": "Help make the next generation of AI-narrated audiobooks sound genuinely human. We're building a team of native Portuguese speakers who love audiobooks to help evaluate AI-narrated (text-to-speech) audiobooks in Brazilian Portuguese. You'll listen the way a real audiobook fan does — but with a careful, analytical ear — and flag the moments where the narration slips, so the underlying models can be made better.\nAbout 20 hours per week.\nRefer and earn $320.\nFull details and the application are on Mercor.",
+    "tags": [
+      "audiobook",
+      "expert",
+      "portuguese",
+      "brazil"
+    ],
+    "createdAt": 1789419821000
+  },
+  {
+    "id": "mercor-audiobook-qa-expert-german-pIvKZk",
+    "title": "Audiobook QA Expert — German",
+    "company": "Mercor",
+    "category": "Engineering",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$15 – $20 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoKG7bkQv4SyfVepIvKZk?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoKG7bkQv4SyfVepIvKZk&utm_medium=direct&utm_source=referral",
+    "description": "Help make the next generation of AI-narrated audiobooks sound genuinely human. We're building a team of native German speakers who love audiobooks to help evaluate AI-narrated (text-to-speech) audiobooks in German (Germany). You'll listen the way a real audiobook fan does — but with a careful, analytical ear — and flag the moments where the narration slips, so the underlying models can be made better.\nAbout 20 hours per week.\nRefer and earn $320.\nFull details and the application are on Mercor.",
+    "tags": [
+      "audiobook",
+      "expert",
+      "german"
+    ],
+    "createdAt": 1789419810000
+  },
+  {
+    "id": "mercor-audiobook-qa-expert-french-dC6ZVZ",
+    "title": "Audiobook QA Expert — French",
+    "company": "Mercor",
+    "category": "Engineering",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$15 – $20 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoKG7RuaQAsAF3hdC6ZVZ?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoKG7RuaQAsAF3hdC6ZVZ&utm_medium=direct&utm_source=referral",
+    "description": "Help make the next generation of AI-narrated audiobooks sound genuinely human. We're building a team of native French speakers who love audiobooks to help evaluate AI-narrated (text-to-speech) audiobooks in French (France). You'll listen the way a real audiobook fan does — but with a careful, analytical ear — and flag the moments where the narration slips, so the underlying models can be made better.\nAbout 20 hours per week.\nRefer and earn $320.\nFull details and the application are on Mercor.",
+    "tags": [
+      "audiobook",
+      "expert",
+      "french"
+    ],
+    "createdAt": 1789419800000
+  },
+  {
+    "id": "mercor-audiobook-qa-expert-spanish-us-tEJrTz",
+    "title": "Audiobook QA Expert — Spanish (US)",
+    "company": "Mercor",
+    "category": "Engineering",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$15 – $20 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoKG7GdqIa94EzktEJrTz?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoKG7GdqIa94EzktEJrTz&utm_medium=direct&utm_source=referral",
+    "description": "Help make the next generation of AI-narrated audiobooks sound genuinely human. We're building a team of native Spanish speakers who love audiobooks to help evaluate AI-narrated (text-to-speech) audiobooks in US / North American Spanish. You'll listen the way a real audiobook fan does — but with a careful, analytical ear — and flag the moments where the narration slips, so the underlying models can be made better.\nAbout 20 hours per week.\nRefer and earn $320.\nFull details and the application are on Mercor.",
+    "tags": [
+      "audiobook",
+      "expert",
+      "spanish"
+    ],
+    "createdAt": 1789419789000
+  },
+  {
+    "id": "mercor-audiobook-qa-expert-english-us-dPq7FS",
+    "title": "Audiobook QA Expert — English (US)",
+    "company": "Mercor",
+    "category": "Engineering",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$20 – $25 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoKG68a2Ye1PiakdPq7FS?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoKG68a2Ye1PiakdPq7FS&utm_medium=direct&utm_source=referral",
+    "description": "Help make the next generation of AI-narrated audiobooks sound genuinely human. We're building a team of native English speakers who love audiobooks to help evaluate AI-narrated (text-to-speech) audiobooks in US / North American English. You'll listen the way a real audiobook fan does — but with a careful, analytical ear — and flag the moments where the narration slips, so the underlying models can be made better.\nAbout 20 hours per week.\nRefer and earn $400.\nFull details and the application are on Mercor.",
+    "tags": [
+      "audiobook",
+      "expert",
+      "english"
+    ],
+    "createdAt": 1789419778000
+  },
+  {
+    "id": "mercor-application-users-linux-ubuntu-24-04-expert-professionals-ZJpq-m",
+    "title": "Application Users - Linux Ubuntu 24.04 Expert - Professionals",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$60 – $70 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoJgvqc1gDoK02dZJpq-m?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoJgvqc1gDoK02dZJpq-m&utm_medium=direct&utm_source=referral",
+    "description": "We're looking for professionals with hands-on, real-world experience in specialized applications. You must already be running Linux Ubuntu 24.04 as your own day-to-day desktop operating system, and be able to work in it today. We do not provide software licenses, virtual machines, or hardware. \\- Linux Ubuntu 24.04 — as your primary desktop OS\nAbout 40 hours per week. US only.\nRefer and earn $280.\nFull details and the application are on Mercor.",
+    "tags": [
+      "application",
+      "users",
+      "linux",
+      "ubuntu"
+    ],
+    "createdAt": 1789259655000
+  },
+  {
+    "id": "mercor-application-users-macos-sonoma-14-5-expert-professionals-FMXJv8",
+    "title": "Application Users - macOS Sonoma 14.5 Expert - Professionals",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$60 – $70 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoJgvmGStTJPb_JFMXJv8?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoJgvmGStTJPb_JFMXJv8&utm_medium=direct&utm_source=referral",
+    "description": "We're looking for professionals with hands-on, real-world experience in specialized applications. You must already be running macOS Sonoma 14.5 as your own day-to-day desktop operating system, and be able to work in it today. We do not provide software licenses, virtual machines, or hardware. \\- macOS Sonoma 14.5 — as your primary desktop OS\nAbout 40 hours per week. US only.\nRefer and earn $280.\nFull details and the application are on Mercor.",
+    "tags": [
+      "application",
+      "users",
+      "macos",
+      "sonoma"
+    ],
+    "createdAt": 1789259651000
+  },
+  {
+    "id": "mercor-application-users-windows-11-professional-expert-professionals-dNPJ9_",
+    "title": "Application Users - Windows 11 Professional Expert - Professionals",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$60 – $70 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoJgviY0u8KpFgcdNPJ9_?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoJgviY0u8KpFgcdNPJ9_&utm_medium=direct&utm_source=referral",
+    "description": "We're looking for professionals with hands-on, real-world experience in specialized applications. You must already be running Windows 11 Professional as your own day-to-day desktop operating system, and be able to work in it today. We do not provide software licenses, virtual machines, or hardware. \\- Windows 11 Professional — as your primary desktop OS\nAbout 40 hours per week. US only.\nRefer and earn $280.\nFull details and the application are on Mercor.",
+    "tags": [
+      "application",
+      "users",
+      "windows",
+      "professional"
+    ],
+    "createdAt": 1789259647000
+  },
+  {
+    "id": "mercor-application-users-excel-on-macos-professionals-dNWbCo",
+    "title": "Application Users - Excel on macOS - Professionals",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$60 – $70 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoJgvejt9L0cNECdNWbCo?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoJgvejt9L0cNECdNWbCo&utm_medium=direct&utm_source=referral",
+    "description": "We're looking for professionals with hands-on, real-world experience in specialized applications. You must already have Excel installed/available on your own Mac running macOS, and be able to open it today. We do not provide software licenses, virtual machines, or hardware. Excel | Spreadsheet modelling, formulas, pivot tables and charting | Financial analysts, accountants, operations and business analysts |\nAbout 40 hours per week. US only.\nRefer and earn $280.\nFull details and the application are on Mercor.",
+    "tags": [
+      "application",
+      "users",
+      "excel",
+      "macos"
+    ],
+    "createdAt": 1789259643000
+  },
+  {
+    "id": "mercor-application-users-powerpoint-on-windows-professionals-NJF5O8",
+    "title": "Application Users - PowerPoint on Windows - Professionals",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$60 – $70 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoJgvaf2xJcx9tANJF5O8?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoJgvaf2xJcx9tANJF5O8&utm_medium=direct&utm_source=referral",
+    "description": "We're looking for professionals with hands-on, real-world experience in specialized applications. You must already have PowerPoint installed/available on your own PC running Windows, and be able to open it today. We do not provide software licenses, virtual machines, or hardware. PowerPoint | Presentation design, slide masters and animation | Consultants, analysts, marketers, corporate and sales professionals |\nAbout 40 hours per week. US only.\nRefer and earn $280.\nFull details and the application are on Mercor.",
+    "tags": [
+      "application",
+      "users",
+      "powerpoint",
+      "windows"
+    ],
+    "createdAt": 1789259639000
+  },
+  {
+    "id": "mercor-application-users-word-on-macos-professionals-1KAbxf",
+    "title": "Application Users - Word on macOS - Professionals",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$60 – $70 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoJgvVburs2LBFu1KAbxf?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoJgvVburs2LBFu1KAbxf&utm_medium=direct&utm_source=referral",
+    "description": "We're looking for professionals with hands-on, real-world experience in specialized applications. You must already have Word installed/available on your own Mac running macOS, and be able to open it today. We do not provide software licenses, virtual machines, or hardware. Word | Long-form document authoring, styles, referencing and review | Legal, policy, consulting and administrative professionals, technical writers |\nAbout 40 hours per week. US only.\nRefer and earn $280.\nFull details and the application are on Mercor.",
+    "tags": [
+      "application",
+      "users",
+      "word",
+      "macos"
+    ],
+    "createdAt": 1789259634000
+  },
+  {
+    "id": "mercor-application-users-eviews-on-windows-stem-1MS64I",
+    "title": "Application Users - EViews on Windows - STEM",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$45 – $55 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoJgqg0I8vqrLJG1MS64I?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoJgqg0I8vqrLJG1MS64I&utm_medium=direct&utm_source=referral",
+    "description": "We're looking for professionals with hands-on, real-world experience in specialized applications. You must already have EViews installed/available on your own PC running Windows, and be able to open it today. We do not provide software licenses, virtual machines, or hardware. Statistics, Econometrics & Data Analysis\nAbout 40 hours per week. US only.\nRefer and earn $220.\nFull details and the application are on Mercor.",
+    "tags": [
+      "application",
+      "users",
+      "eviews",
+      "windows"
+    ],
+    "createdAt": 1789259318000
+  },
+  {
+    "id": "mercor-application-users-stata-se-on-windows-stem-BPeriH",
+    "title": "Application Users - Stata SE on Windows - STEM",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$45 – $55 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoJgqdG410r7FsbBPeriH?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoJgqdG410r7FsbBPeriH&utm_medium=direct&utm_source=referral",
+    "description": "We're looking for professionals with hands-on, real-world experience in specialized applications. You must already have Stata SE installed/available on your own PC running Windows, and be able to open it today. We do not provide software licenses, virtual machines, or hardware. Statistics, Econometrics & Data Analysis\nAbout 40 hours per week. US only.\nRefer and earn $220.\nFull details and the application are on Mercor.",
+    "tags": [
+      "application",
+      "users",
+      "stata",
+      "windows"
+    ],
+    "createdAt": 1789259314000
+  },
+  {
+    "id": "mercor-application-users-origin-on-windows-stem-RD14vu",
+    "title": "Application Users - Origin on Windows - STEM",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$45 – $55 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoJgqZViwfNhv2ORD14vu?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoJgqZViwfNhv2ORD14vu&utm_medium=direct&utm_source=referral",
+    "description": "We're looking for professionals with hands-on, real-world experience in specialized applications. You must already have Origin installed/available on your own PC running Windows, and be able to open it today. We do not provide software licenses, virtual machines, or hardware. Statistics, Econometrics & Data Analysis Origin / OriginPro | Scientific graphing, curve and peak fitting | Experimental physicists, chemists, materials scientists, lab researchers |\nAbout 40 hours per week. US only.\nRefer and earn $220.\nFull details and the application are on Mercor.",
+    "tags": [
+      "application",
+      "users",
+      "origin",
+      "windows"
+    ],
+    "createdAt": 1789259310000
+  },
+  {
+    "id": "mercor-application-users-matlab-on-windows-stem-FM47qw",
+    "title": "Application Users - MATLAB on Windows - STEM",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$45 – $55 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoJgqVi3F6XhyxPFM47qw?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoJgqVi3F6XhyxPFM47qw&utm_medium=direct&utm_source=referral",
+    "description": "We're looking for professionals with hands-on, real-world experience in specialized applications. You must already have MATLAB installed/available on your own PC running Windows, and be able to open it today. We do not provide software licenses, virtual machines, or hardware. MATLAB | Numerical computing, simulation, signal and image processing | Electrical, mechanical, control-systems and aerospace engineers |\nAbout 40 hours per week. US only.\nRefer and earn $220.\nFull details and the application are on Mercor.",
+    "tags": [
+      "application",
+      "users",
+      "matlab",
+      "windows"
+    ],
+    "createdAt": 1789259306000
+  },
+  {
+    "id": "mercor-application-users-vivado-on-windows-stem-BNQLNa",
+    "title": "Application Users - Vivado on Windows - STEM",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$45 – $55 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoJgqRhQMEa_UPABNQLNa?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoJgqRhQMEa_UPABNQLNa&utm_medium=direct&utm_source=referral",
+    "description": "We're looking for professionals with hands-on, real-world experience in specialized applications. You must already have Vivado installed/available on your own PC running Windows, and be able to open it today. We do not provide software licenses, virtual machines, or hardware. Vivado | AMD/Xilinx FPGA and SoC design, synthesis and timing | FPGA and RTL design and verification engineers |\nAbout 40 hours per week. US only.\nRefer and earn $220.\nFull details and the application are on Mercor.",
+    "tags": [
+      "application",
+      "users",
+      "vivado",
+      "windows"
+    ],
+    "createdAt": 1789259302000
+  },
+  {
+    "id": "mercor-application-users-solidworks-premium-on-windows-stem-tEQLnu",
+    "title": "Application Users - SolidWorks Premium on Windows - STEM",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$45 – $55 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoJgqNtzoVh5hqmtEQLnu?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoJgqNtzoVh5hqmtEQLnu&utm_medium=direct&utm_source=referral",
+    "description": "We're looking for professionals with hands-on, real-world experience in specialized applications. You must already have SolidWorks Premium installed/available on your own PC running Windows, and be able to open it today. We do not provide software licenses, virtual machines, or hardware. SolidWorks Premium | 3D parts, assemblies and simulation | Mechanical and manufacturing engineers, tooling designers |\nAbout 40 hours per week. US only.\nRefer and earn $220.\nFull details and the application are on Mercor.",
+    "tags": [
+      "application",
+      "users",
+      "solidworks",
+      "premium"
+    ],
+    "createdAt": 1789259298000
+  },
+  {
+    "id": "mercor-application-users-autocad-mechanical-stem-xERLZR",
+    "title": "Application Users - AutoCAD Mechanical - STEM",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$45 – $55 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoJgqKEnGDYqhKlxERLZR?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoJgqKEnGDYqhKlxERLZR&utm_medium=direct&utm_source=referral",
+    "description": "We're looking for professionals with hands-on, real-world experience in specialized applications. You must already have AutoCAD Mechanical installed/available on your own PC running Windows, and be able to open it today. We do not provide software licenses, virtual machines, or hardware. AutoCAD Mechanical | 2D mechanical drafting and detailing to engineering standards | Mechanical designers, drafters, manufacturing and tooling engineers |\nAbout 40 hours per week. US only.\nRefer and earn $220.\nFull details and the application are on Mercor.",
+    "tags": [
+      "application",
+      "users",
+      "autocad",
+      "mechanical"
+    ],
+    "createdAt": 1789259294000
+  },
+  {
+    "id": "mercor-application-users-davinci-resolve-on-macos-generalist-NP9JUX",
+    "title": "Application Users - DaVinci Resolve on macOS - Generalist",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$30 – $40 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoJgnF8j710kq7tNP9JUX?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoJgnF8j710kq7tNP9JUX&utm_medium=direct&utm_source=referral",
+    "description": "We're looking for professionals with hands-on, real-world experience in specialized applications. You must already have DaVinci Resolve installed/available on your own Mac running macOS, and be able to open it today. We do not provide software licenses, virtual machines, or hardware. DaVinci Resolve | Colour grading and video editing | Colorists, video editors, post-production professionals |\nAbout 40 hours per week. US only.\nRefer and earn $160.\nFull details and the application are on Mercor.",
+    "tags": [
+      "application",
+      "users",
+      "davinci",
+      "resolve"
+    ],
+    "createdAt": 1789259093000
+  },
+  {
+    "id": "mercor-application-users-unreal-engine-on-windows-generalist-hKjZfq",
+    "title": "Application Users - Unreal Engine on Windows - Generalist",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$30 – $40 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoJgnCdIMK4tluUhKjZfq?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoJgnCdIMK4tluUhKjZfq&utm_medium=direct&utm_source=referral",
+    "description": "We're looking for professionals with hands-on, real-world experience in specialized applications. You must already have Unreal Engine installed/available on your own PC running Windows, and be able to open it today. We do not provide software licenses, virtual machines, or hardware. Unreal Engine | Real-time 3D for games, virtual production and visualisation | Game developers, technical artists, virtual production and archviz specialists |\nAbout 40 hours per week. US only.\nRefer and earn $160.\nFull details and the application are on Mercor.",
+    "tags": [
+      "application",
+      "users",
+      "unreal",
+      "engine"
+    ],
+    "createdAt": 1789259090000
+  },
+  {
+    "id": "mercor-application-users-fruitloops-studio-on-windows-generalist-9Hy7mI",
+    "title": "Application Users - FruitLoops Studio on Windows - Generalist",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$30 – $40 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoJgm-80LGK_vet9Hy7mI?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoJgm-80LGK_vet9Hy7mI&utm_medium=direct&utm_source=referral",
+    "description": "We're looking for professionals with hands-on, real-world experience in specialized applications. You must already have FruitLoops Studio installed/available on your own PC running Windows, and be able to open it today. We do not provide software licenses, virtual machines, or hardware. FruitLoops Studio | Digital audio workstation for music production, sequencing and mixing | Music producers, beatmakers, audio engineers, sound designers |\nAbout 40 hours per week. US only.\nRefer and earn $160.\nFull details and the application are on Mercor.",
+    "tags": [
+      "application",
+      "users",
+      "fruitloops",
+      "studio"
+    ],
+    "createdAt": 1789259086000
+  },
+  {
+    "id": "mercor-application-users-blender-on-windows-generalist-BCw71A",
+    "title": "Application Users - Blender on Windows - Generalist",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$30 – $40 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoJgm6x9CphybYGBCw71A?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoJgm6x9CphybYGBCw71A&utm_medium=direct&utm_source=referral",
+    "description": "We're looking for professionals with hands-on, real-world experience in specialized applications. You must already have Blender installed/available on your own PC running Windows, and be able to open it today. We do not provide software licenses, virtual machines, or hardware. Blender | Open-source 3D modelling, sculpting, animation and rendering | 3D artists, animators, motion designers, technical artists |\nAbout 40 hours per week. US only.\nRefer and earn $160.\nFull details and the application are on Mercor.",
+    "tags": [
+      "application",
+      "users",
+      "blender",
+      "windows"
+    ],
+    "createdAt": 1789259082000
+  },
+  {
+    "id": "mercor-application-users-adobe-illustrator-on-windows-generalist-tHu76n",
+    "title": "Application Users - Adobe Illustrator on Windows - Generalist",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$30 – $40 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoJgm29LSpSu7mYtHu76n?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoJgm29LSpSu7mYtHu76n&utm_medium=direct&utm_source=referral",
+    "description": "We're looking for professionals with hands-on, real-world experience in specialized applications. You must already have Adobe Illustrator installed/available on your own PC running Windows, and be able to open it today. We do not provide software licenses, virtual machines, or hardware. Adobe Illustrator | Vector illustration, logo and layout design | Graphic designers, illustrators, brand and packaging designers |\nAbout 40 hours per week. US only.\nRefer and earn $160.\nFull details and the application are on Mercor.",
+    "tags": [
+      "application",
+      "users",
+      "adobe",
+      "illustrator"
+    ],
+    "createdAt": 1789259078000
+  },
+  {
+    "id": "mercor-application-users-premiere-on-windows-generalist-NEj7ws",
+    "title": "Application Users - Premiere on Windows - Generalist",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$30 – $40 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoJgmzdVdKtb1bdNEj7ws?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoJgmzdVdKtb1bdNEj7ws&utm_medium=direct&utm_source=referral",
+    "description": "We're looking for professionals with hands-on, real-world experience in specialized applications. You must already have Premiere installed/available on your own PC running Windows, and be able to open it today. We do not provide software licenses, virtual machines, or hardware. Premiere | Timeline video editing and sequence assembly | Video editors, content producers, post-production professionals |\nAbout 40 hours per week. US only.\nRefer and earn $160.\nFull details and the application are on Mercor.",
+    "tags": [
+      "application",
+      "users",
+      "premiere",
+      "windows"
+    ],
+    "createdAt": 1789259075000
+  },
+  {
+    "id": "mercor-application-users-photoshop-on-windows-generalist-1Ez4MZ",
+    "title": "Application Users - Photoshop on Windows - Generalist",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$30 – $40 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoJgmvv154mBck81Ez4MZ?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoJgmvv154mBck81Ez4MZ&utm_medium=direct&utm_source=referral",
+    "description": "We're looking for professionals with hands-on, real-world experience in specialized applications. You must already have Photoshop installed/available on your own PC running Windows, and be able to open it today. We do not provide software licenses, virtual machines, or hardware. Photoshop | Raster image editing, retouching and compositing | Photographers, retouchers, graphic and digital designers |\nAbout 40 hours per week. US only.\nRefer and earn $160.\nFull details and the application are on Mercor.",
+    "tags": [
+      "application",
+      "users",
+      "photoshop",
+      "windows"
+    ],
+    "createdAt": 1789259071000
+  },
+  {
+    "id": "mercor-application-users-vmware-fusion-on-macos-code-NIVqx5",
+    "title": "Application Users - VMware Fusion on macOS - Code",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$55 – $65 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoJglE3JYEeYxjXNIVqx5?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoJglE3JYEeYxjXNIVqx5&utm_medium=direct&utm_source=referral",
+    "description": "We're looking for professionals with hands-on, real-world experience in specialized applications. You must already have VMware Fusion installed/available on your own Mac running macOS, and be able to open it today. We do not provide software licenses, virtual machines, or hardware. VMware Fusion | Runs virtual machines on macOS | Mac-based IT administrators, sysadmins, DevOps engineers, cross-platform developers |\nAbout 40 hours per week. US only.\nRefer and earn $260.\nFull details and the application are on Mercor.",
+    "tags": [
+      "application",
+      "users",
+      "vmware",
+      "fusion"
+    ],
+    "createdAt": 1789258961000
+  },
+  {
+    "id": "mercor-application-users-quartus-ii-on-windows-code-NNkaI6",
+    "title": "Application Users - Quartus II on Windows - Code",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$55 – $65 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoJglBEavX4Se3gNNkaI6?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoJglBEavX4Se3gNNkaI6&utm_medium=direct&utm_source=referral",
+    "description": "We're looking for professionals with hands-on, real-world experience in specialized applications. You must already have Quartus II installed/available on your own PC running Windows, and be able to open it today. We do not provide software licenses, virtual machines, or hardware. Quartus II | Intel/Altera FPGA and CPLD design | FPGA, digital design and embedded hardware engineers |\nAbout 40 hours per week. US only.\nRefer and earn $260.\nFull details and the application are on Mercor.",
+    "tags": [
+      "application",
+      "users",
+      "quartus",
+      "windows"
+    ],
+    "createdAt": 1789258957000
+  },
+  {
+    "id": "mercor-application-users-android-studio-on-macos-code-REbK2c",
+    "title": "Application Users - Android Studio on macOS - Code",
+    "company": "Mercor",
+    "category": "Engineering",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$55 – $65 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoJgk9ki2WVxQqaREbK2c?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoJgk9ki2WVxQqaREbK2c&utm_medium=direct&utm_source=referral",
+    "description": "We're looking for professionals with hands-on, real-world experience in specialized applications. You must already have Android Studio installed/available on your own Mac running macOS, and be able to open it today. We do not provide software licenses, virtual machines, or hardware. Android Studio | Android application development environment | Android and mobile developers (Kotlin, Java) |\nAbout 40 hours per week. US only.\nRefer and earn $260.\nFull details and the application are on Mercor.",
+    "tags": [
+      "application",
+      "users",
+      "android",
+      "studio"
+    ],
+    "createdAt": 1789258954000
+  },
+  {
+    "id": "mercor-application-users-pycharm-on-macos-code-dLfqET",
+    "title": "Application Users - PyCharm on macOS - Code",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$55 – $65 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoJgk59Ut_nllXvdLfqET?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoJgk59Ut_nllXvdLfqET&utm_medium=direct&utm_source=referral",
+    "description": "We're looking for professionals with hands-on, real-world experience in specialized applications. You must already have PyCharm installed/available on your own Mac running macOS, and be able to open it today. We do not provide software licenses, virtual machines, or hardware. PyCharm | Python IDE with debugging, refactoring and virtual-environment management | Python developers, backend engineers, data and ML practitioners |\nAbout 40 hours per week. US only.\nRefer and earn $260.\nFull details and the application are on Mercor.",
+    "tags": [
+      "application",
+      "users",
+      "pycharm",
+      "macos"
+    ],
+    "createdAt": 1789258950000
+  },
+  {
+    "id": "mercor-application-users-visual-studio-code-on-macos-code-BFarRo",
+    "title": "Application Users - Visual Studio Code on macOS - Code",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$55 – $65 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoJgjQYnM_TpzFYBFarRo?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoJgjQYnM_TpzFYBFarRo&utm_medium=direct&utm_source=referral",
+    "description": "We're looking for professionals with hands-on, real-world experience in specialized applications. You must already have Visual Studio Code installed/available on your own Mac running macOS, and be able to open it today. We do not provide software licenses, virtual machines, or hardware. Visual Studio Code | Cross-language code editor with extensions, debugging and an integrated terminal | Software developers across any stack |\nAbout 40 hours per week. US only.\nRefer and earn $260.\nFull details and the application are on Mercor.",
+    "tags": [
+      "application",
+      "users",
+      "visual",
+      "studio"
+    ],
+    "createdAt": 1789258842000
+  },
+  {
+    "id": "mercor-application-users-inventor-professional-on-windows-stem-lOAaFG",
+    "title": "Application Users - Inventor Professional on Windows - STEM",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$45 – $55 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoJgYdke25i__9elOAaFG?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoJgYdke25i__9elOAaFG&utm_medium=direct&utm_source=referral",
+    "description": "We're looking for professionals with hands-on, real-world experience in specialized applications. You must already have Inventor Professional installed/available on your own PC running Windows, and be able to open it today. We do not provide software licenses, virtual machines, or hardware. Inventor Professional | Autodesk 3D mechanical design and assembly modelling | Mechanical engineers, machine and equipment designers |\nAbout 40 hours per week. US only.\nRefer and earn $220.\nFull details and the application are on Mercor.",
+    "tags": [
+      "application",
+      "users",
+      "inventor",
+      "professional"
+    ],
+    "createdAt": 1789258135000
+  },
+  {
+    "id": "mercor-excel-expert-finance-BPibPw",
+    "title": "Excel Expert — Finance",
+    "company": "Mercor",
+    "category": "Finance & Accounting",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$70 – $100 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoJf8KuWQJj-RjEBPibPw?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoJf8KuWQJj-RjEBPibPw&utm_medium=direct&utm_source=referral",
+    "description": "Join a leading technology company's GenAI initiative and put your financial-modeling expertise at the core of how the next generation of AI models learns to work in Excel.\nAbout 40 hours per week.\nRefer and earn $1,600.\nFull details and the application are on Mercor.",
+    "tags": [
+      "excel",
+      "expert",
+      "finance"
+    ],
+    "createdAt": 1789256281000
+  },
+  {
+    "id": "mercor-excel-expert-general-ZFnIec",
+    "title": "Excel Expert — General",
+    "company": "Mercor",
+    "category": "Finance & Accounting",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$70 – $100 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoJf7our4yArt1RZFnIec?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoJf7our4yArt1RZFnIec&utm_medium=direct&utm_source=referral",
+    "description": "Join a leading technology company's GenAI initiative and put your Excel expertise at the core of how the next generation of AI models learns to work in spreadsheets.\nAbout 40 hours per week.\nRefer and earn $1,600.\nFull details and the application are on Mercor.",
+    "tags": [
+      "excel",
+      "expert",
+      "general"
+    ],
+    "createdAt": 1789256246000
+  },
+  {
+    "id": "mercor-survey-research-consumer-insights-expert-9J4o1I",
+    "title": "Survey Research & Consumer Insights Expert",
+    "company": "Mercor",
+    "category": "Other",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$120 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoGvWRUT2estOlP9J4o1I?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoGvWRUT2estOlP9J4o1I&utm_medium=direct&utm_source=referral",
+    "description": "Remote Survey Research & Consumer Insights Expert opportunity with Mercor.\nAbout 40 hours per week. US only.\nRefer and earn $480.\nFull details and the application are on Mercor.",
+    "tags": [
+      "survey",
+      "research",
+      "consumer",
+      "insights"
+    ],
+    "createdAt": 1788515600000
+  },
+  {
+    "id": "mercor-bilingual-hindi-generalist-expert-ai-safety-1CsZFO",
+    "title": "Bilingual Hindi Generalist Expert — AI Safety",
+    "company": "Mercor",
+    "category": "Data & AI",
+    "type": "Part-time",
+    "region": "Remote",
+    "salary": "$18 – $22 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoGol-kkiUPOQvn1CsZFO?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoGol-kkiUPOQvn1CsZFO&utm_medium=direct&utm_source=referral",
+    "description": "We're hiring proficient bilingual speakers (English & Hindi) to help make advanced AI models safer. You'll apply your language fluency and cultural judgment to evaluate and strengthen how these models handle sensitive topics in Hindi. No prior AI/ML experience is required — we'll train you on the workflow. Write expert-level prompts in Hindi across a range of sensitive subject areas. Apply structured guidelines to classify prompts and conversations.\nAbout 7 hours per week.\nRefer and earn $90.\nFull details and the application are on Mercor.",
+    "tags": [
+      "bilingual",
+      "hindi",
+      "generalist",
+      "expert"
+    ],
+    "createdAt": 1788487269000
+  },
+  {
+    "id": "mercor-bilingual-spanish-generalist-expert-ai-safety-RLCaH-",
+    "title": "Bilingual Spanish Generalist Expert — AI Safety",
+    "company": "Mercor",
+    "category": "Data & AI",
+    "type": "Part-time",
+    "region": "Remote",
+    "salary": "$43 – $47 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoGolujPeojikHWRLCaH-?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoGolujPeojikHWRLCaH-&utm_medium=direct&utm_source=referral",
+    "description": "We're hiring proficient bilingual speakers (English & Spanish) to help make advanced AI models safer. You'll apply your language fluency and cultural judgment to evaluate and strengthen how these models handle sensitive topics in Spanish. No prior AI/ML experience is required — we'll train you on the workflow. Write expert-level prompts in Spanish across a range of sensitive subject areas. Apply structured guidelines to classify prompts and conversations.\nAbout 7 hours per week.\nRefer and earn $190.\nFull details and the application are on Mercor.",
+    "tags": [
+      "bilingual",
+      "spanish",
+      "generalist",
+      "expert"
+    ],
+    "createdAt": 1788487253000
+  },
+  {
+    "id": "mercor-bilingual-chinese-generalist-expert-ai-safety-lD5qqF",
+    "title": "Bilingual Chinese Generalist Expert — AI Safety",
+    "company": "Mercor",
+    "category": "Data & AI",
+    "type": "Part-time",
+    "region": "Remote",
+    "salary": "$48 – $52 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoGoju-Gn415PNTlD5qqF?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoGoju-Gn415PNTlD5qqF&utm_medium=direct&utm_source=referral",
+    "description": "We're hiring proficient bilingual speakers (English & Chinese) to help make advanced AI models safer. You'll apply your language fluency and cultural judgment to evaluate and strengthen how these models handle sensitive topics in Chinese. No prior AI/ML experience is required — we'll train you on the workflow. Write expert-level prompts in Chinese across a range of sensitive subject areas. Apply structured guidelines to classify prompts and conversations.\nAbout 7 hours per week.\nRefer and earn $210.\nFull details and the application are on Mercor.",
+    "tags": [
+      "bilingual",
+      "chinese",
+      "generalist",
+      "expert"
+    ],
+    "createdAt": 1788487122000
+  },
+  {
+    "id": "mercor-certified-medical-coder-icd-10-multilingual-clinical-documentation-ai-evaluation-dC84s-",
+    "title": "Certified Medical Coder (ICD-10) — Multilingual Clinical Documentation & AI Evaluation",
+    "company": "Mercor",
+    "category": "Data & AI",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$45 – $65 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoGYcR_Q8k7gMhOdC84s-?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoGYcR_Q8k7gMhOdC84s-&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is hiring certified medical coders on behalf of a healthcare AI partner building advanced clinical documentation tools. In this role you will apply your coding and documentation expertise to review, annotate, and evaluate clinical documentation and AI-generated clinical notes, directly shaping the accuracy and reliability of medical AI systems.\nAbout 10 hours per week.\nRefer and earn $260.\nFull details and the application are on Mercor.",
+    "tags": [
+      "certified",
+      "medical",
+      "coder",
+      "icd"
+    ],
+    "createdAt": 1788419525000
+  },
+  {
+    "id": "mercor-multilingual-inpatient-hospitalist-md-clinical-documentation-ai-evaluation-ZB_p5e",
+    "title": "Multilingual Inpatient Hospitalist (MD) — Clinical Documentation & AI Evaluation",
+    "company": "Mercor",
+    "category": "Data & AI",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$170 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoGQSiGKJ1DuAHBZB_p5e?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoGQSiGKJ1DuAHBZB_p5e&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is hiring practicing Inpatient Hospitalists (MD) on behalf of a healthcare AI partner building advanced clinical documentation and decision-support tools. In this role you will apply your active inpatient expertise to review, annotate, and evaluate hospital clinical documentation, directly shaping the accuracy, safety, and clinical usefulness of medical AI systems.\nAbout 10 hours per week.\nRefer and earn $760.\nFull details and the application are on Mercor.",
+    "tags": [
+      "multilingual",
+      "inpatient",
+      "hospitalist",
+      "clinical"
+    ],
+    "createdAt": 1788385331000
+  },
+  {
+    "id": "mercor-multilingual-primary-care-physician-md-clinical-documentation-ai-evaluation-FO-Z0n",
+    "title": "Multilingual Primary Care Physician (MD) — Clinical Documentation & AI Evaluation",
+    "company": "Mercor",
+    "category": "Data & AI",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$170 – $190 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoGQSNXPZAh8oJJFO-Z0n?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoGQSNXPZAh8oJJFO-Z0n&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is hiring practicing Primary Care Physicians (MD) on behalf of a healthcare AI partner building advanced clinical documentation and decision-support tools. In this role you will apply your day-to-day outpatient expertise to review, annotate, and evaluate clinical documentation, directly shaping the accuracy, safety, and clinical usefulness of medical AI systems.\nAbout 10 hours per week.\nRefer and earn $760.\nFull details and the application are on Mercor.",
+    "tags": [
+      "multilingual",
+      "primary",
+      "care",
+      "physician"
+    ],
+    "createdAt": 1788385310000
+  },
+  {
+    "id": "mercor-pediatric-inpatient-nurses-rn-9PQoR0",
+    "title": "Pediatric Inpatient Nurses (RN)",
+    "company": "Mercor",
+    "category": "Healthcare",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$55 – $65 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoF6Jhh_gEMICBt9PQoR0?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoF6Jhh_gEMICBt9PQoR0&utm_medium=direct&utm_source=referral",
+    "description": "We're hiring experienced Pediatric Inpatient Nurses (RNs) to help train and evaluate AI systems used in clinical and healthcare settings. This role is ideal for nurses who want to apply their frontline pediatric bedside experience to improve the accuracy, safety, and reliability of medical AI tools.\nRefer and earn $260.\nFull details and the application are on Mercor.",
+    "tags": [
+      "pediatric",
+      "inpatient",
+      "nurses"
+    ],
+    "createdAt": 1788292466000
+  },
+  {
+    "id": "mercor-electrical-test-automation-engineer-ZMPKgR",
+    "title": "Electrical Test Automation Engineer",
+    "company": "Mercor",
+    "category": "Engineering",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$70 – $85 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoEwwgpr7smpYapZMPKgR?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoEwwgpr7smpYapZMPKgR&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is partnering with a leading technology organization to recruit experienced Electrical Test Automation Engineers for a short-term project. Engineers will apply hands-on industry experience in electrical testing, automation, instrumentation, and hardware validation to solve complex technical problems. Design and implement automated test systems, procedures, and test sequences for electrical and electronic hardware.\nAbout 40 hours per week. US only.\nRefer and earn $340.\nFull details and the application are on Mercor.",
+    "tags": [
+      "electrical",
+      "test",
+      "automation",
+      "engineer"
+    ],
+    "createdAt": 1787984643000
+  },
+  {
+    "id": "mercor-electrical-design-specialist-FGlLhi",
+    "title": "Electrical Design Specialist",
+    "company": "Mercor",
+    "category": "Design",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$70 – $85 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoEwusCviAsvZ_2FGlLhi?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoEwusCviAsvZ_2FGlLhi&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is partnering with a leading technology organization to recruit experienced Electrical Design Specialists for a short-term project. Specialists will apply their hands-on industry experience to analyze, evaluate, and solve complex electrical design and system-level engineering problems across a range of applications. Develop, analyze, and evaluate electrical designs based on technical requirements, specifications, and system performance.\nAbout 40 hours per week. US only.\nRefer and earn $340.\nFull details and the application are on Mercor.",
+    "tags": [
+      "electrical",
+      "design",
+      "specialist"
+    ],
+    "createdAt": 1787984523000
+  },
+  {
+    "id": "mercor-radio-frequency-and-electromagnetic-engineering-expert-ZGQ7J5",
+    "title": "Radio Frequency and Electromagnetic Engineering Expert",
+    "company": "Mercor",
+    "category": "Engineering",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$80 – $95 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoEwrcU6hfpIC_pZGQ7J5?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoEwrcU6hfpIC_pZGQ7J5&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is partnering with a leading technology organization to recruit experienced Radio Frequency (RF) and Electromagnetic (EM) Engineering Experts for a short-term project. Experts will apply their hands-on industry experience to analyze and solve complex problems involving RF systems, electromagnetics, antennas, propagation, and related engineering applications. Solve complex technical problems involving RF and electromagnetic engineering.\nAbout 40 hours per week. US only.\nRefer and earn $380.\nFull details and the application are on Mercor.",
+    "tags": [
+      "radio",
+      "frequency",
+      "and",
+      "electromagnetic"
+    ],
+    "createdAt": 1787984311000
+  },
+  {
+    "id": "mercor-ai-developer-trace-task-auditor-NKaJl4",
+    "title": "AI Developer Trace Task Auditor",
+    "company": "Mercor",
+    "category": "Data & AI",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$70 – $90 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoEpz0r9yxMsCwGNKaJl4?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoEpz0r9yxMsCwGNKaJl4&utm_medium=direct&utm_source=referral",
+    "description": "Evaluate the quality and correctness of AI-assisted software-development traces used to train and evaluate a frontier AI lab's models. You'll assess end-to-end coding sessions produced with AI-assisted developer tools — judging correctness, workflow soundness, and reasoning — and provide clear, rubric-based written feedback. 3+ years professional software development\nAbout 40 hours per week.\nRefer and earn $1,440.\nFull details and the application are on Mercor.",
+    "tags": [
+      "developer",
+      "trace",
+      "task",
+      "auditor"
+    ],
+    "createdAt": 1787955500000
+  },
+  {
+    "id": "mercor-swe-bench-task-auditor-ZAV5rw",
+    "title": "SWE-Bench Task Auditor",
+    "company": "Mercor",
+    "category": "Other",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$70 – $90 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoEpzuF806Dv0eAZAV5rw?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoEpzuF806Dv0eAZAV5rw&utm_medium=direct&utm_source=referral",
+    "description": "Evaluate the quality, correctness, and reproducibility of software-engineering benchmark tasks used to train and evaluate a frontier AI lab's models. You'll assess repository-level tasks, reference patches, test harnesses, and grading integrity — and provide clear, rubric-based written feedback. 3+ years professional software engineering Real open-source contribution or maintainer experience (merged PRs, committer / maintainer roles)\nAbout 40 hours per week.\nRefer and earn $1,440.\nFull details and the application are on Mercor.",
+    "tags": [
+      "swe",
+      "bench",
+      "task",
+      "auditor"
+    ],
+    "createdAt": 1787955493000
+  },
+  {
+    "id": "mercor-ml-challenge-task-auditor-NFkJZb",
+    "title": "ML Challenge Task Auditor",
+    "company": "Mercor",
+    "category": "Data & AI",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$70 – $90 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoEpzlEigUmznqXNFkJZb?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoEpzlEigUmznqXNFkJZb&utm_medium=direct&utm_source=referral",
+    "description": "Evaluate the quality, correctness, and methodological rigor of applied machine-learning tasks used to train and evaluate a frontier AI lab's models. You'll assess experiment design, model-selection reasoning, and evaluation methodology — and provide clear, rubric-based written feedback. 3+ years hands-on applied/experimental ML (experiment design, model selection, hyperparameter tuning, evaluation methodology)\nAbout 40 hours per week.\nRefer and earn $1,440.\nFull details and the application are on Mercor.",
+    "tags": [
+      "challenge",
+      "task",
+      "auditor"
+    ],
+    "createdAt": 1787955484000
+  },
+  {
+    "id": "mercor-aws-serverless-infrastructure-as-code-task-auditor-tJf4aW",
+    "title": "AWS Serverless & Infrastructure-as-Code Task Auditor",
+    "company": "Mercor",
+    "category": "Engineering",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$70 – $90 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoEpzcMQTPW8KRotJf4aW?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoEpzcMQTPW8KRotJf4aW&utm_medium=direct&utm_source=referral",
+    "description": "Evaluate the quality, correctness, and cloud-architecture soundness of AWS serverless and infrastructure-as-code tasks used to train and evaluate a frontier AI lab's models. You'll assess multi-service serverless designs, IaC fidelity, and cross-service integration correctness — and provide clear, rubric-based written feedback.\nAbout 40 hours per week.\nRefer and earn $1,440.\nFull details and the application are on Mercor.",
+    "tags": [
+      "aws",
+      "serverless",
+      "infrastructure",
+      "code"
+    ],
+    "createdAt": 1787955475000
+  },
+  {
+    "id": "mercor-kubernetes-task-auditor-9GZ6_u",
+    "title": "Kubernetes Task Auditor",
+    "company": "Mercor",
+    "category": "Other",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$70 – $90 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoEpy3lTX4ecyqy9GZ6_u?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoEpy3lTX4ecyqy9GZ6_u&utm_medium=direct&utm_source=referral",
+    "description": "Evaluate the quality, correctness, and production-readiness of Kubernetes tasks used to train and evaluate a frontier AI lab's models. You'll assess cluster-operations scenarios, manifest correctness, and failure-mode troubleshooting — and provide clear, rubric-based written feedback. 3+ years hands-on production Kubernetes experience (EKS/GKE/AKS or self-managed)\nAbout 40 hours per week.\nRefer and earn $1,440.\nFull details and the application are on Mercor.",
+    "tags": [
+      "kubernetes",
+      "task",
+      "auditor"
+    ],
+    "createdAt": 1787955437000
+  },
+  {
+    "id": "mercor-spanish-tutors-dAloi6",
+    "title": "Spanish Tutors",
+    "company": "Mercor",
+    "category": "Other",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$60 – $65 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoEkE3Fx5nN65LndAloi6?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoEkE3Fx5nN65LndAloi6&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is partnering with a leading language-learning platform to recruit experienced Spanish tutors for a short-term project involving recorded, one-on-one tutoring sessions. Tutors will conduct genuine Spanish lessons with native English-speaking learners at different proficiency levels. The goal is to produce natural, high-quality conversations that reflect authentic language-learning experiences. Lead engaging, one-on-one Spanish tutoring sessions.\nAbout 40 hours per week. US only.\nRefer and earn $280.\nFull details and the application are on Mercor.",
+    "tags": [
+      "spanish",
+      "tutors"
+    ],
+    "createdAt": 1787931450000
+  },
+  {
+    "id": "mercor-expert-interviewer-lOo4e9",
+    "title": "Expert Interviewer",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Part-time",
+    "region": "Remote",
+    "salary": "$50 – $60 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoDrYQdAJqq6xRalOo4e9?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoDrYQdAJqq6xRalOo4e9&utm_medium=direct&utm_source=referral",
+    "description": "Support a high-priority technical-expert panel for a frontier AI lab as an Expert Interviewer. We're seeking an experienced interviewer to help vet shortlisted engineers across GPU kernel development, security & vulnerability research, and ML-compiler / accelerator domains for an AI model training-and-evaluation engagement. You'll run short, structured interviews and give our team a clear, evidence-based read on each expert's fit.\nAbout 10 hours per week.\nRefer and earn $960.\nFull details and the application are on Mercor.",
+    "tags": [
+      "expert",
+      "interviewer"
+    ],
+    "createdAt": 1787693646000
+  },
+  {
+    "id": "mercor-trainium-nki-kernel-expert-dLDIZ6",
+    "title": "Trainium (NKI) Kernel Expert",
+    "company": "Mercor",
+    "category": "Other",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$70 – $90 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoDrL07CqmjVBGadLDIZ6?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoDrL07CqmjVBGadLDIZ6&utm_medium=direct&utm_source=referral",
+    "description": "Evaluate the quality, correctness, and hardware-appropriateness of Neuron Kernel Interface (NKI) development tasks used to train and evaluate a frontier AI lab's models. You'll assess CUDA→NKI migration fidelity, Trainium-specific performance-optimization quality, and cross-platform numerical-correctness standards — and provide clear, rubric-based written feedback.\nAbout 40 hours per week.\nRefer and earn $1,440.\nFull details and the application are on Mercor.",
+    "tags": [
+      "trainium",
+      "nki",
+      "kernel",
+      "expert"
+    ],
+    "createdAt": 1787692832000
+  },
+  {
+    "id": "mercor-gpu-kernel-expert-pECa5L",
+    "title": "GPU Kernel Expert",
+    "company": "Mercor",
+    "category": "Engineering",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$70 – $90 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoDrLqkDg31vugrpECa5L?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoDrLqkDg31vugrpECa5L&utm_medium=direct&utm_source=referral",
+    "description": "Evaluate the quality, correctness, and completeness of GPU/accelerator kernel development tasks used to train and evaluate a frontier AI lab's models. You'll assess numerical correctness, performance-benchmarking fairness, task scoping, and compilation/runtime validity across diverse kernel task types — and provide clear, rubric-based written feedback.\nAbout 40 hours per week.\nRefer and earn $1,440.\nFull details and the application are on Mercor.",
+    "tags": [
+      "gpu",
+      "kernel",
+      "expert"
+    ],
+    "createdAt": 1787692821000
+  },
+  {
+    "id": "mercor-cve-vulnerability-expert-NK5rFh",
+    "title": "CVE Vulnerability Expert",
+    "company": "Mercor",
+    "category": "Security",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$70 – $90 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoDrLTtVzOBh5_cNK5rFh?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoDrLTtVzOBh5_cNK5rFh&utm_medium=direct&utm_source=referral",
+    "description": "Evaluate the quality, fidelity, and completeness of vulnerability-reproduction and remediation tasks used to train and evaluate a frontier AI lab's models. You'll assess whether CVE reproductions are faithful, fixes are sound, verification logic is rigorous, and Docker-based lab environments accurately recreate exploitable conditions — and provide clear, rubric-based written feedback.\nAbout 40 hours per week.\nRefer and earn $1,440.\nFull details and the application are on Mercor.",
+    "tags": [
+      "cve",
+      "vulnerability",
+      "expert"
+    ],
+    "createdAt": 1787692798000
+  },
+  {
+    "id": "mercor-legacy-codebase-migration-expert-9Oh44S",
+    "title": "Legacy Codebase Migration Expert",
+    "company": "Mercor",
+    "category": "Other",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$200 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoCl905TW9jWTfs9Oh44S?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoCl905TW9jWTfs9Oh44S&utm_medium=direct&utm_source=referral",
+    "description": "Remote Legacy Codebase Migration Expert opportunity with Mercor.\nAbout 40 hours per week. US only.\nRefer and earn $800.\nFull details and the application are on Mercor.",
+    "tags": [
+      "legacy",
+      "codebase",
+      "migration",
+      "expert"
+    ],
+    "createdAt": 1787402507000
+  },
+  {
+    "id": "mercor-clinicians-xE9pIU",
+    "title": "Clinicians",
+    "company": "Mercor",
+    "category": "Healthcare",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$120 – $150 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoCWZLgyS_XMeXVxE9pIU?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoCWZLgyS_XMeXVxE9pIU&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is hiring experienced Nurse Practitioners to help evaluate and improve cutting-edge AI systems. In this role, you'll evaluate AI-generated clinical content and workflows, leveraging your real-world expertise in diagnosing, treating, and managing patient care across acute and chronic conditions. Evaluate AI-generated clinical assessments, treatment plans, patient education materials, and other healthcare artifacts for quality and accuracy.\nRefer and earn $600.\nFull details and the application are on Mercor.",
+    "tags": [
+      "clinicians"
+    ],
+    "createdAt": 1787337190000
+  },
+  {
+    "id": "mercor-sales-representatives-wholesale-and-manufacturing-except-technical-and-scientific-products-dM2LBU",
+    "title": "Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",
+    "company": "Mercor",
+    "category": "Sales & Marketing",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$70 – $110 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoCWVcMofSHRAcwdM2LBU?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoCWVcMofSHRAcwdM2LBU&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is hiring experienced Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products to help evaluate and improve cutting-edge AI systems. In this role, you'll evaluate AI-generated sales content and workflows, leveraging your real-world expertise in B2B wholesale and manufacturing sales. Evaluate AI-generated sales conversations, product recommendations, quotes, and other commercial artifacts for quality and accuracy.\nRefer and earn $440.\nFull details and the application are on Mercor.",
+    "tags": [
+      "sales",
+      "representatives",
+      "wholesale",
+      "and"
+    ],
+    "createdAt": 1787336945000
+  },
+  {
+    "id": "mercor-financial-managers-ZDmbSP",
+    "title": "Financial Managers",
+    "company": "Mercor",
+    "category": "Finance & Accounting",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$70 – $110 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoCWSTbhgejc0oLZDmbSP?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoCWSTbhgejc0oLZDmbSP&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is hiring experienced Financial Managers to help evaluate and improve cutting-edge AI systems. In this role, you'll evaluate AI-generated financial management content and workflows, leveraging your real-world expertise in overseeing accounting, banking, credit, and financial planning activities across branches, offices, or departments.\nRefer and earn $440.\nFull details and the application are on Mercor.",
+    "tags": [
+      "financial",
+      "managers"
+    ],
+    "createdAt": 1787336740000
+  },
+  {
+    "id": "mercor-sales-representatives-wholesale-and-manufacturing-technical-and-scientific-products-pLTKHA",
+    "title": "Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",
+    "company": "Mercor",
+    "category": "Sales & Marketing",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$70 – $110 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoCVpVbx3Il0MJIpLTKHA?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoCVpVbx3Il0MJIpLTKHA&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is hiring experienced Sales Representatives specializing in Wholesale, Manufacturing, Technical, and Scientific Products to help evaluate and improve cutting-edge AI systems. In this role, you'll evaluate AI-generated sales content and workflows, leveraging your real-world expertise in technical sales. Evaluate AI-generated sales conversations, emails, proposals, and other commercial materials for quality and accuracy.\nRefer and earn $440.\nFull details and the application are on Mercor.",
+    "tags": [
+      "sales",
+      "representatives",
+      "wholesale",
+      "and"
+    ],
+    "createdAt": 1787334055000
+  },
+  {
+    "id": "mercor-business-sales-operations-domain-expert-tBYYIf",
+    "title": "Business & Sales Operations Domain Expert",
+    "company": "Mercor",
+    "category": "Sales & Marketing",
+    "type": "Full-time",
+    "region": "Remote",
+    "salary": "$60 – $100 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoBt9Gyyhs3BhJitBYYIf?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoBt9Gyyhs3BhJitBYYIf&utm_medium=direct&utm_source=referral",
+    "description": "Join a leading AI lab's cutting-edge GenAI team to be at the core of the AI revolution, where your expertise fuels the development of the most advanced AI models. We are hiring a senior business and sales operations domain expert to work directly with a leading AI lab's research and program management teams, improving how frontier AI models reason about real business operations work.\nAbout 40 hours per week.\nRefer and earn $1,600.\nFull details and the application are on Mercor.",
+    "tags": [
+      "business",
+      "sales",
+      "operations",
+      "domain"
+    ],
+    "createdAt": 1787167578000
+  },
+  {
+    "id": "mercor-insurance-domain-expert-hHDYhe",
+    "title": "Insurance Domain Expert",
+    "company": "Mercor",
+    "category": "Other",
+    "type": "Full-time",
+    "region": "Remote",
+    "salary": "$60 – $100 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoBt9DOoFFFxe6OhHDYhe?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoBt9DOoFFFxe6OhHDYhe&utm_medium=direct&utm_source=referral",
+    "description": "Join a leading AI lab's cutting-edge GenAI team to be at the core of the AI revolution, where your expertise fuels the development of the most advanced AI models. We are hiring a senior insurance and actuarial domain expert to work directly with a leading AI lab's research and program management teams, improving how frontier AI models reason about real insurance work.\nAbout 40 hours per week.\nRefer and earn $1,600.\nFull details and the application are on Mercor.",
+    "tags": [
+      "insurance",
+      "domain",
+      "expert"
+    ],
+    "createdAt": 1787167575000
+  },
+  {
+    "id": "mercor-accounting-audit-domain-expert-xMCqGe",
+    "title": "Accounting & Audit Domain Expert",
+    "company": "Mercor",
+    "category": "Finance & Accounting",
+    "type": "Full-time",
+    "region": "Remote",
+    "salary": "$60 – $100 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoBt89Pf5xMUItbxMCqGe?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoBt89Pf5xMUItbxMCqGe&utm_medium=direct&utm_source=referral",
+    "description": "Join a leading AI lab's cutting-edge GenAI team to be at the core of the AI revolution, where your expertise fuels the development of the most advanced AI models. We are hiring a senior accounting and audit domain expert to work directly with a leading AI lab's research and program management teams, improving how frontier AI models reason about real accounting and audit work.\nAbout 40 hours per week.\nRefer and earn $1,600.\nFull details and the application are on Mercor.",
+    "tags": [
+      "accounting",
+      "audit",
+      "domain",
+      "expert"
+    ],
+    "createdAt": 1787167569000
+  },
+  {
+    "id": "mercor-clinical-medicine-domain-expert-FE0r4e",
+    "title": "Clinical Medicine Domain Expert",
+    "company": "Mercor",
+    "category": "Healthcare",
+    "type": "Full-time",
+    "region": "Remote",
+    "salary": "$70 – $110 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoBt85EtAs4-vl_FE0r4e?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoBt85EtAs4-vl_FE0r4e&utm_medium=direct&utm_source=referral",
+    "description": "Join a leading AI lab's cutting-edge GenAI team to be at the core of the AI revolution, where your expertise fuels the development of the most advanced AI models. We are hiring a senior clinical medicine domain expert to work directly with a leading AI lab's research and program management teams, improving how frontier AI models reason about real clinical work.\nAbout 40 hours per week.\nRefer and earn $1,760.\nFull details and the application are on Mercor.",
+    "tags": [
+      "clinical",
+      "medicine",
+      "domain",
+      "expert"
+    ],
+    "createdAt": 1787167564000
+  },
+  {
+    "id": "mercor-pharmaceutical-r-d-domain-expert-FCOYBm",
+    "title": "Pharmaceutical R&D Domain Expert",
+    "company": "Mercor",
+    "category": "Other",
+    "type": "Full-time",
+    "region": "Remote",
+    "salary": "$75 – $115 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoBt8iAkrN7-29JFCOYBm?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoBt8iAkrN7-29JFCOYBm&utm_medium=direct&utm_source=referral",
+    "description": "Join a leading AI lab's cutting-edge GenAI team to be at the core of the AI revolution, where your expertise fuels the development of the most advanced AI models. We are hiring a senior pharmaceutical R&D domain expert to work directly with a leading AI lab's research and program management teams, improving how frontier AI models reason about real pharmaceutical research and development work.\nAbout 40 hours per week.\nRefer and earn $1,840.\nFull details and the application are on Mercor.",
+    "tags": [
+      "pharmaceutical",
+      "domain",
+      "expert"
+    ],
+    "createdAt": 1787167541000
+  },
+  {
+    "id": "mercor-biochemistry-life-sciences-domain-expert-hMPqh8",
+    "title": "Biochemistry & Life Sciences Domain Expert",
+    "company": "Mercor",
+    "category": "Science & Research",
+    "type": "Full-time",
+    "region": "Remote",
+    "salary": "$65 – $105 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoBt8bMBAKZ7C0OhMPqh8?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoBt8bMBAKZ7C0OhMPqh8&utm_medium=direct&utm_source=referral",
+    "description": "Join a leading AI lab's cutting-edge GenAI team to be at the core of the AI revolution, where your expertise fuels the development of the most advanced AI models. We are hiring a senior biochemistry and life sciences domain expert to work directly with a leading AI lab's research and program management teams, improving how frontier AI models reason about real life sciences research work.\nAbout 40 hours per week.\nRefer and earn $1,680.\nFull details and the application are on Mercor.",
+    "tags": [
+      "biochemistry",
+      "life",
+      "sciences",
+      "domain"
+    ],
+    "createdAt": 1787167534000
+  },
+  {
+    "id": "mercor-materials-science-domain-expert-pDh4AF",
+    "title": "Materials Science Domain Expert",
+    "company": "Mercor",
+    "category": "Other",
+    "type": "Full-time",
+    "region": "Remote",
+    "salary": "$70 – $110 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoBt8Xf0go3Q6ISpDh4AF?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoBt8Xf0go3Q6ISpDh4AF&utm_medium=direct&utm_source=referral",
+    "description": "Join a leading AI lab's cutting-edge GenAI team to be at the core of the AI revolution, where your expertise fuels the development of the most advanced AI models. We are hiring a senior materials science domain expert to work directly with a leading AI lab's research and program management teams, improving how frontier AI models reason about real materials science and materials engineering work.\nAbout 40 hours per week.\nRefer and earn $1,760.\nFull details and the application are on Mercor.",
+    "tags": [
+      "materials",
+      "science",
+      "domain",
+      "expert"
+    ],
+    "createdAt": 1787167530000
+  },
+  {
+    "id": "mercor-engineering-software-domain-expert-BCzY6E",
+    "title": "Engineering & Software Domain Expert",
+    "company": "Mercor",
+    "category": "Engineering",
+    "type": "Full-time",
+    "region": "Remote",
+    "salary": "$65 – $105 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoBt8RxNstvLu_zBCzY6E?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoBt8RxNstvLu_zBCzY6E&utm_medium=direct&utm_source=referral",
+    "description": "Join a leading AI lab's cutting-edge GenAI team to be at the core of the AI revolution, where your expertise fuels the development of the most advanced AI models. We are hiring a senior engineering and software domain expert to work directly with a leading AI lab's research and program management teams, improving how frontier AI models reason about real engineering and software development work.\nAbout 40 hours per week.\nRefer and earn $1,680.\nFull details and the application are on Mercor.",
+    "tags": [
+      "engineering",
+      "software",
+      "domain",
+      "expert"
+    ],
+    "createdAt": 1787167524000
+  },
+  {
+    "id": "mercor-preclinical-r-d-expert-in-house-drug-development-BEq52k",
+    "title": "Preclinical R&D Expert – In-house Drug Development",
+    "company": "Mercor",
+    "category": "Other",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$60 – $100 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoAcnNYJrBQ1cXOBEq52k?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoAcnNYJrBQ1cXOBEq52k&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is partnering with a venture-backed AI lab building frontier AI platforms and physics-based foundation models for chemistry, materials science, and drug discovery. They're extending their platform into new areas of pharmaceutical development and are looking for hands-on preclinical R&D experts across drug modalities to help guide what they build.\nAbout 40 hours per week. US only.\nRefer and earn $570.\nFull details and the application are on Mercor.",
+    "tags": [
+      "preclinical",
+      "expert",
+      "house",
+      "drug"
+    ],
+    "createdAt": 1786826405000
+  },
+  {
+    "id": "mercor-network-engineer-talent-network-data-for-autonomous-systems-tENYja",
+    "title": "Network Engineer - Talent Network (Data for Autonomous Systems)",
+    "company": "Mercor",
+    "category": "Data & AI",
+    "type": "Part-time",
+    "region": "Remote",
+    "salary": "$50 – $70 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABoAA0CcB7r_IpsvtENYja?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABoAA0CcB7r_IpsvtENYja&utm_medium=direct&utm_source=referral",
+    "description": "Remote Network Engineer - Talent Network (Data for Autonomous Systems) opportunity with Mercor.\nRefer and earn $500.\nFull details and the application are on Mercor.",
+    "tags": [
+      "network",
+      "engineer",
+      "talent",
+      "network"
+    ],
+    "createdAt": 1786709805000
+  },
+  {
+    "id": "mercor-agent-engineer-tByK05",
+    "title": "Agent Engineer",
+    "company": "Mercor",
+    "category": "Engineering",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$100 – $500 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABn_hJu3e9hgqimAtByK05?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABn_hJu3e9hgqimAtByK05&utm_medium=direct&utm_source=referral",
+    "description": "We are looking for engineers who build and operate LLM agents in production, and who have real visibility into how agents are actually used inside a company. Shipped an agent that real users depended on, and been on the hook when it broke. Figured out how to tell whether an agent got better or worse after a change. Run agents that outlive a single request: scheduled jobs, long-running work, cloud sandboxes. US only.\nRefer and earn $250.\nFull details and the application are on Mercor.",
+    "tags": [
+      "agent",
+      "engineer"
+    ],
+    "createdAt": 1786577010000
+  },
+  {
+    "id": "mercor-investment-banking-m-a-finance-domain-expert-ZIK5rB",
+    "title": "Investment Banking & M&A - Finance Domain Expert",
+    "company": "Mercor",
+    "category": "Finance & Accounting",
+    "type": "Full-time",
+    "region": "Remote",
+    "salary": "$100 – $150 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABn_cnGneX3MsXDwZIK5rB?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABn_cnGneX3MsXDwZIK5rB&utm_medium=direct&utm_source=referral",
+    "description": "Join a leading AI lab's cutting-edge GenAI team to be at the core of the AI revolution, where your expertise fuels the development of the most advanced AI models. We are hiring a senior finance domain expert to work directly with a leading AI lab's research and program management teams, improving how frontier AI models reason about real financial work.\nAbout 40 hours per week.\nRefer and earn $2,000.\nFull details and the application are on Mercor.",
+    "tags": [
+      "investment",
+      "banking",
+      "finance",
+      "domain"
+    ],
+    "createdAt": 1786557962000
+  },
+  {
+    "id": "mercor-partner-general-counsel-legal-domain-expert-pHz7lE",
+    "title": "Partner & General Counsel - Legal Domain Expert",
+    "company": "Mercor",
+    "category": "Legal",
+    "type": "Full-time",
+    "region": "Remote",
+    "salary": "$100 – $150 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABn_cm_oIN381KOgpHz7lE?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABn_cm_oIN381KOgpHz7lE&utm_medium=direct&utm_source=referral",
+    "description": "Join a leading AI lab's cutting-edge GenAI team to be at the core of the AI revolution, where your expertise fuels the development of the most advanced AI models. We are hiring a senior legal domain expert to work directly with a leading AI lab's research and program management teams, improving how frontier AI models reason about real legal work.\nAbout 40 hours per week.\nRefer and earn $2,000.\nFull details and the application are on Mercor.",
+    "tags": [
+      "partner",
+      "general",
+      "counsel",
+      "legal"
+    ],
+    "createdAt": 1786557955000
+  },
+  {
+    "id": "mercor-private-equity-venture-capital-finance-domain-expert-xMZ56E",
+    "title": "Private Equity & Venture Capital - Finance Domain Expert",
+    "company": "Mercor",
+    "category": "Finance & Accounting",
+    "type": "Full-time",
+    "region": "Remote",
+    "salary": "$110 – $150 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABn_cmmRN6Ktqn67xMZ56E?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABn_cmmRN6Ktqn67xMZ56E&utm_medium=direct&utm_source=referral",
+    "description": "Join a leading AI lab's cutting-edge GenAI team to be at the core of the AI revolution, where your expertise fuels the development of the most advanced AI models. We are hiring a senior finance domain expert to work directly with a leading AI lab's research and program management teams, improving how frontier AI models reason about real financial work.\nAbout 40 hours per week.\nRefer and earn $2,000.\nFull details and the application are on Mercor.",
+    "tags": [
+      "private",
+      "equity",
+      "venture",
+      "capital"
+    ],
+    "createdAt": 1786557929000
+  },
+  {
+    "id": "mercor-senior-counsel-legal-domain-expert-tNu7Dh",
+    "title": "Senior Counsel — Legal Domain Expert",
+    "company": "Mercor",
+    "category": "Legal",
+    "type": "Full-time",
+    "region": "Remote",
+    "salary": "$85 – $120 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABn_cmfyK8fYxPzZtNu7Dh?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABn_cmfyK8fYxPzZtNu7Dh&utm_medium=direct&utm_source=referral",
+    "description": "Join a leading AI lab's cutting-edge GenAI team to be at the core of the AI revolution, where your expertise fuels the development of the most advanced AI models. We are hiring an experienced counsel-level lawyer to work directly with a leading AI lab's research and program management teams, improving how frontier AI models reason about real legal work.\nAbout 40 hours per week.\nRefer and earn $1,920.\nFull details and the application are on Mercor.",
+    "tags": [
+      "senior",
+      "counsel",
+      "legal",
+      "domain"
+    ],
+    "createdAt": 1786557923000
+  },
+  {
+    "id": "mercor-preclinical-r-d-expert-adc-bispecifics-BNoqrS",
+    "title": "Preclinical R&D Expert – ADC & Bispecifics",
+    "company": "Mercor",
+    "category": "Other",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$60 – $100 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABn_cBCuQM7WBSR_BNoqrS?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABn_cBCuQM7WBSR_BNoqrS&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is partnering with a venture-backed AI lab building frontier AI platforms and physics-based foundation models for chemistry, materials science, and drug discovery. They're extending their platform into new areas of pharmaceutical development and are looking for hands-on ADC and/or bispecific experts to help guide what they build.\nAbout 40 hours per week. US only.\nRefer and earn $1,000.\nFull details and the application are on Mercor.",
+    "tags": [
+      "preclinical",
+      "expert",
+      "adc",
+      "bispecifics"
+    ],
+    "createdAt": 1786555469000
+  },
+  {
+    "id": "mercor-finance-domain-expert-ai-training-evaluation-5Gdot8",
+    "title": "Finance Domain Expert — AI Training & Evaluation",
+    "company": "Mercor",
+    "category": "Data & AI",
+    "type": "Full-time",
+    "region": "Remote",
+    "salary": "$60 – $100 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABn_Iz3TRXq5o1-J5Gdot8?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABn_Iz3TRXq5o1-J5Gdot8&utm_medium=direct&utm_source=referral",
+    "description": "Join a leading AI lab's cutting-edge GenAI team to be at the core of the AI revolution, where your expertise fuels the development of the most advanced AI models. We are hiring a senior finance domain expert to work directly with a leading AI lab's research and program management teams, improving how frontier AI models reason about real financial work.\nAbout 40 hours per week.\nRefer and earn $1,600.\nFull details and the application are on Mercor.",
+    "tags": [
+      "finance",
+      "domain",
+      "expert",
+      "training"
+    ],
+    "createdAt": 1786474913000
+  },
+  {
+    "id": "mercor-legal-domain-expert-ai-training-evaluation-lGZ7p2",
+    "title": "Legal Domain Expert — AI Training & Evaluation",
+    "company": "Mercor",
+    "category": "Data & AI",
+    "type": "Full-time",
+    "region": "Remote",
+    "salary": "$60 – $100 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABn_IzT2flOAEpVdlGZ7p2?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABn_IzT2flOAEpVdlGZ7p2&utm_medium=direct&utm_source=referral",
+    "description": "Join a leading AI lab's cutting-edge GenAI team to be at the core of the AI revolution, where your expertise fuels the development of the most advanced AI models. We are hiring a senior legal domain expert to work directly with a leading AI lab's research and program management teams, improving how frontier AI models reason about real legal work.\nAbout 40 hours per week.\nRefer and earn $1,600.\nFull details and the application are on Mercor.",
+    "tags": [
+      "legal",
+      "domain",
+      "expert",
+      "training"
+    ],
+    "createdAt": 1786474877000
+  },
+  {
+    "id": "mercor-medicare-advantage-brokers-survey-agent-enrollment-insights-xIjp8i",
+    "title": "Medicare Advantage Brokers Survey – Agent & Enrollment Insights",
+    "company": "Mercor",
+    "category": "Healthcare",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$140 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABn9frMRn_uyjbOmxIjp8i?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABn9frMRn_uyjbOmxIjp8i&utm_medium=direct&utm_source=referral",
+    "description": "Remote Medicare Advantage Brokers Survey – Agent & Enrollment Insights opportunity with Mercor.\nRefer and earn $50.\nFull details and the application are on Mercor.",
+    "tags": [
+      "medicare",
+      "advantage",
+      "brokers",
+      "survey"
+    ],
+    "createdAt": 1786033943000
+  },
+  {
+    "id": "mercor-voice-actor-cx-agent-voice-cloning-uk-english-xHXrxt",
+    "title": "Voice Actor: CX Agent Voice Cloning (UK English)",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$50 – $100 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABn9OLr3-vOTm_VcxHXrxt?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABn9OLr3-vOTm_VcxHXrxt&utm_medium=direct&utm_source=referral",
+    "description": "Remote Voice Actor: CX Agent Voice Cloning (UK English) opportunity with Mercor.\nRefer and earn $400.\nFull details and the application are on Mercor.",
+    "tags": [
+      "voice",
+      "actor",
+      "agent",
+      "voice"
+    ],
+    "createdAt": 1785960575000
+  },
+  {
+    "id": "mercor-llm-research-scientist-pre-training-computer-vision-adversarial-robustness-ZGvpVY",
+    "title": "LLM Research Scientist (Pre-training & Computer Vision & Adversarial Robustness)",
+    "company": "Mercor",
+    "category": "Data & AI",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$100 – $120 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABn9G5kyvGTlH1jQZGvpVY?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABn9G5kyvGTlH1jQZGvpVY&utm_medium=direct&utm_source=referral",
+    "description": "We're looking for experienced machine learning researchers with hands-on experience training and improving deep learning models end-to-end, across vision and language. You'll work on well-scoped empirical open-ended ML research problems. Train image classifiers and generative image models from scratch, and fine-tune open-weight language models. Get the most out of limited data, compute, and model-size budgets.\nAbout 40 hours per week. US only.\nRefer and earn $480.\nFull details and the application are on Mercor.",
+    "tags": [
+      "llm",
+      "research",
+      "scientist",
+      "pre"
+    ],
+    "createdAt": 1785930028000
+  },
+  {
+    "id": "mercor-disease-area-clinician-trial-endpoints-prescribing-hOSohQ",
+    "title": "Disease-Area Clinician — Trial Endpoints & Prescribing",
+    "company": "Mercor",
+    "category": "Healthcare",
+    "type": "Part-time",
+    "region": "Remote",
+    "salary": "$150 – $230 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABn9FsCZc6Mg0uj9hOSohQ?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABn9FsCZc6Mg0uj9hOSohQ&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is partnering with a biotech and pharma research team on expert human-evaluation work — creating and critiquing rubrics that analyze commercial drugs and drug-development programs. We're seeking a disease-area clinician for a paid pilot, with the potential to continue as the work scales. Create and critique rubrics that analyze commercial drugs and drug-development programs\nAbout 15 hours per week.\nRefer and earn $920.\nFull details and the application are on Mercor.",
+    "tags": [
+      "disease",
+      "area",
+      "clinician",
+      "trial"
+    ],
+    "createdAt": 1785924946000
+  },
+  {
+    "id": "mercor-pharma-commercial-forecasting-expert-launch-curves-5KqbF3",
+    "title": "Pharma Commercial Forecasting Expert — Launch Curves",
+    "company": "Mercor",
+    "category": "Other",
+    "type": "Part-time",
+    "region": "Remote",
+    "salary": "$130 – $210 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABn9Fr4y9bpcGSiR5KqbF3?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABn9Fr4y9bpcGSiR5KqbF3&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is partnering with a biotech and pharma research team on expert human-evaluation work — creating and critiquing rubrics that analyze commercial drugs and drug-development programs. We're seeking a pharma commercial / forecasting expert for a paid pilot, with the potential to continue as the work scales. Create and critique rubrics that analyze commercial drugs and drug-development programs\nAbout 15 hours per week.\nRefer and earn $840.\nFull details and the application are on Mercor.",
+    "tags": [
+      "pharma",
+      "commercial",
+      "forecasting",
+      "expert"
+    ],
+    "createdAt": 1785924936000
+  },
+  {
+    "id": "mercor-payer-market-access-expert-gross-to-net-formulary-strategy-tAX7FV",
+    "title": "Payer & Market Access Expert — Gross-to-Net & Formulary Strategy",
+    "company": "Mercor",
+    "category": "Other",
+    "type": "Part-time",
+    "region": "Remote",
+    "salary": "$175 – $200 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABn9FrqwkKOQjZxPtAX7FV?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABn9FrqwkKOQjZxPtAX7FV&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is partnering with a biotech and pharma research team on expert human-evaluation work — creating and critiquing rubrics that analyze commercial drugs and drug-development programs. We're seeking a payer / market access expert for a paid pilot, with the potential to continue as the work scales. Create and critique rubrics that analyze commercial drugs and drug-development programs\nAbout 15 hours per week.\nRefer and earn $1,200.\nFull details and the application are on Mercor.",
+    "tags": [
+      "payer",
+      "market",
+      "access",
+      "expert"
+    ],
+    "createdAt": 1785924922000
+  },
+  {
+    "id": "mercor-epidemiologist-patient-population-sizing-JAiYZu",
+    "title": "Epidemiologist — Patient Population Sizing",
+    "company": "Mercor",
+    "category": "Healthcare",
+    "type": "Part-time",
+    "region": "Remote",
+    "salary": "$150 – $175 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABn9Frhef3j5d5wCJAiYZu?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABn9Frhef3j5d5wCJAiYZu&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is partnering with a biotech and pharma research team on expert human-evaluation work — creating and critiquing rubrics that analyze commercial drugs and drug-development programs. We're seeking an epidemiologist for a paid pilot, with the potential to continue as the work scales. Create and critique rubrics that analyze commercial drugs and drug-development programs\nAbout 15 hours per week.\nRefer and earn $1,080.\nFull details and the application are on Mercor.",
+    "tags": [
+      "epidemiologist",
+      "patient",
+      "population",
+      "sizing"
+    ],
+    "createdAt": 1785924913000
+  },
+  {
+    "id": "mercor-biotech-investment-analyst-drug-asset-company-assessment-xK1Ith",
+    "title": "Biotech Investment Analyst — Drug Asset & Company Assessment",
+    "company": "Mercor",
+    "category": "Science & Research",
+    "type": "Part-time",
+    "region": "Remote",
+    "salary": "$120 – $200 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABn9FrSs0e5EnJo3xK1Ith?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABn9FrSs0e5EnJo3xK1Ith&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is partnering with a biotech and pharma research team on expert human-evaluation work — creating and critiquing rubrics that analyze commercial drugs and drug-development programs. We're seeking a biotech investment analyst (specialist-fund background) for a paid pilot, with the potential to continue as the work scales. Create and critique rubrics that analyze commercial drugs and drug-development programs\nAbout 15 hours per week.\nRefer and earn $800.\nFull details and the application are on Mercor.",
+    "tags": [
+      "biotech",
+      "investment",
+      "analyst",
+      "drug"
+    ],
+    "createdAt": 1785924897000
+  },
+  {
+    "id": "mercor-cybersecurity-research-expert-offensive-security-vulnerability-research-BJyrdM",
+    "title": "Cybersecurity Research Expert – Offensive Security & Vulnerability Research",
+    "company": "Mercor",
+    "category": "Security",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$200 – $250 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABn8s_5pBqtFNJEKBJyrdM?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABn8s_5pBqtFNJEKBJyrdM&utm_medium=direct&utm_source=referral",
+    "description": "We're looking for highly accomplished Cybersecurity Research Experts to help evaluate cutting-edge AI systems in advanced security reasoning, vulnerability analysis, exploit development, and secure software engineering. This project is ideal for practitioners with a strong track record in offensive security research and publicly recognised technical contributions.\nAbout 40 hours per week. US only.\nRefer and earn $1,000.\nFull details and the application are on Mercor.",
+    "tags": [
+      "cybersecurity",
+      "research",
+      "expert",
+      "offensive"
+    ],
+    "createdAt": 1785821390000
+  },
+  {
+    "id": "mercor-inorganic-materials-semiconductor-superconductor-experts-hIF6Zt",
+    "title": "Inorganic Materials, Semiconductor & Superconductor Experts",
+    "company": "Mercor",
+    "category": "Other",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$84 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABn7y1hc_w_rS_H_hIF6Zt?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABn7y1hc_w_rS_H_hIF6Zt&utm_medium=direct&utm_source=referral",
+    "description": "Remote Inorganic Materials, Semiconductor & Superconductor Experts opportunity with Mercor.\nAbout 40 hours per week.\nRefer and earn $340.\nFull details and the application are on Mercor.",
+    "tags": [
+      "inorganic",
+      "materials",
+      "semiconductor",
+      "superconductor"
+    ],
+    "createdAt": 1785577441000
+  },
+  {
+    "id": "mercor-atomic-layer-deposition-ald-experts-VOOb7u",
+    "title": "Atomic Layer Deposition (ALD) Experts",
+    "company": "Mercor",
+    "category": "Science & Research",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$84 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABn7y1ZuugFnqTDzVOOb7u?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABn7y1ZuugFnqTDzVOOb7u&utm_medium=direct&utm_source=referral",
+    "description": "Remote Atomic Layer Deposition (ALD) Experts opportunity with Mercor.\nAbout 40 hours per week.\nRefer and earn $340.\nFull details and the application are on Mercor.",
+    "tags": [
+      "atomic",
+      "layer",
+      "deposition",
+      "ald"
+    ],
+    "createdAt": 1785577433000
+  },
+  {
+    "id": "mercor-software-engineer-agentic-search-systems-pIpIpu",
+    "title": "Software Engineer — Agentic Search Systems",
+    "company": "Mercor",
+    "category": "Engineering",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$80 – $150 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABn7sbKWVBevHeOepIpIpu?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABn7sbKWVBevHeOepIpIpu&utm_medium=direct&utm_source=referral",
+    "description": "We're looking for engineers who have shipped production search systems (especially agentic ones now that we're in the era of LLMs and agents) and are thinking hard about the requirements and optimizations of those systems. Owned relevance or retrieval on a system real users depended on Decided how to quantify impact and improvements with these systems. Built out systems related to agentic search. Scaled data infrastructure to power modern search systems.\nAbout 40 hours per week. US only.\nRefer and earn $600.\nFull details and the application are on Mercor.",
+    "tags": [
+      "software",
+      "engineer",
+      "agentic",
+      "search"
+    ],
+    "createdAt": 1785550547000
+  },
+  {
+    "id": "mercor-voice-actor-cx-agent-voice-cloning-swiss-german-5BB6R1",
+    "title": "Voice Actor: CX Agent Voice Cloning (Swiss German)",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$50 – $150 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABn7QFFl-KZetwbZ5BB6R1?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABn7QFFl-KZetwbZ5BB6R1&utm_medium=direct&utm_source=referral",
+    "description": "Remote Voice Actor: CX Agent Voice Cloning (Swiss German) opportunity with Mercor.\nRefer and earn $600.\nFull details and the application are on Mercor.",
+    "tags": [
+      "voice",
+      "actor",
+      "agent",
+      "voice"
+    ],
+    "createdAt": 1785431660000
+  },
+  {
+    "id": "mercor-data-scientist-talent-network-xP7rqG",
+    "title": "Data Scientist Talent Network",
+    "company": "Mercor",
+    "category": "Data & AI",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$100 – $150 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABn6vGkxZngsMTe7xP7rqG?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABn6vGkxZngsMTe7xP7rqG&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is building a network of experienced data scientists for potential future projects with leading AI research organizations. These projects may focus on evaluating how effectively AI systems perform real-world data science work. There is no immediate project opening, but qualified applicants may be contacted as relevant opportunities become available.\nAbout 40 hours per week. US only.\nRefer and earn $600.\nFull details and the application are on Mercor.",
+    "tags": [
+      "data",
+      "scientist",
+      "talent",
+      "network"
+    ],
+    "createdAt": 1785293345000
+  },
+  {
+    "id": "mercor-stanford-youth-study-us-parents-kids-age-9-13-1PSKFO",
+    "title": "Stanford Youth Study — US Parents & Kids (Age 9–13)",
+    "company": "Mercor",
+    "category": "Other",
+    "type": "Part-time",
+    "region": "Remote",
+    "salary": "$110 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABn6i483EoSNpFPh1PSKFO?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABn6i483EoSNpFPh1PSKFO&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is recruiting participants for the Youth Well-being Project, a research study led by Stanford University in collaboration with Bocconi University, focused on how smartphones and digital tools affect children and families. You can learn more about the study at [youthwellbeing.stanford.edu](https://youthwellbeing.stanford.edu).\nRefer and earn $480.\nFull details and the application are on Mercor.",
+    "tags": [
+      "stanford",
+      "youth",
+      "study",
+      "parents"
+    ],
+    "createdAt": 1785242121000
+  },
+  {
+    "id": "mercor-management-consultant-talent-network-1HsIWl",
+    "title": "Management Consultant Talent Network",
+    "company": "Mercor",
+    "category": "Other",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$100 – $150 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABn6cbz1DVowHS5z1HsIWl?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABn6cbz1DVowHS5z1HsIWl&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is building a network of experienced management consultants for potential future projects with leading AI research organizations. These projects may focus on evaluating how effectively AI systems perform real-world consulting work. There is no immediate project opening, but qualified applicants may be contacted as relevant opportunities become available.\nAbout 40 hours per week. US only.\nRefer and earn $600.\nFull details and the application are on Mercor.",
+    "tags": [
+      "management",
+      "consultant",
+      "talent",
+      "network"
+    ],
+    "createdAt": 1785215045000
+  },
+  {
+    "id": "mercor-expert-project-manager-RP6L2k",
+    "title": "Expert Project Manager",
+    "company": "Mercor",
+    "category": "Project Management",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$50 – $60 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABn6TCgs826CBSyVRP6L2k?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABn6TCgs826CBSyVRP6L2k&utm_medium=direct&utm_source=referral",
+    "description": "We're hiring an Expert Project Manager to help run projects that push the frontier of LLM browsing capabilities. Day to day: tracking project and annotator performance in Google Sheets, reviewing annotator quality, handling contributor communications, and more. We're looking for someone with high agency, strong organization, an analytical mindset, and real investment in seeing LLM training projects succeed.\nAbout 40 hours per week. US only.\nRefer and earn $240.\nFull details and the application are on Mercor.",
+    "tags": [
+      "expert",
+      "project",
+      "manager"
+    ],
+    "createdAt": 1785175639000
+  },
+  {
+    "id": "mercor-voice-actor-cx-agent-voice-cloning-african-american-dC65kk",
+    "title": "Voice Actor: CX Agent Voice Cloning (African American)",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$50 – $100 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABn2445JJgOdUpk4dC65kk?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABn2445JJgOdUpk4dC65kk&utm_medium=direct&utm_source=referral",
+    "description": "Remote Voice Actor: CX Agent Voice Cloning (African American) opportunity with Mercor.\nRefer and earn $600.\nFull details and the application are on Mercor.",
+    "tags": [
+      "voice",
+      "actor",
+      "agent",
+      "voice"
+    ],
+    "createdAt": 1784260650000
+  },
+  {
+    "id": "mercor-music-production-expert-german-hEWL_h",
+    "title": "Music Production Expert - German",
+    "company": "Mercor",
+    "category": "Other",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$11.37 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABnzhzhwBMMeMWHlhEWL_h?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABnzhzhwBMMeMWHlhEWL_h&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is hiring experienced music producers and audio engineers to evaluate generative music AI models, in partnership with a leading AI lab. You will assess AI-generated music across a wide range of genres and rate it against detailed quality standards, working in German and English. Compare AI-generated songs head-to-head on musicality, creativity, prompt adherence, vocal quality, and production/mix quality\nAbout 20 hours per week. US only.\nRefer and earn $250.\nFull details and the application are on Mercor.",
+    "tags": [
+      "music",
+      "production",
+      "expert",
+      "german"
+    ],
+    "createdAt": 1783358523000
+  },
+  {
+    "id": "mercor-voice-actor-cx-agent-voice-cloning-southern-usa-JBp7IO",
+    "title": "Voice Actor: CX Agent Voice Cloning (Southern USA)",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$50 – $100 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABnxIY9_U0wUIMB3JBp7IO?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABnxIY9_U0wUIMB3JBp7IO&utm_medium=direct&utm_source=referral",
+    "description": "Remote Voice Actor: CX Agent Voice Cloning (Southern USA) opportunity with Mercor.\nRefer and earn $400.\nFull details and the application are on Mercor.",
+    "tags": [
+      "voice",
+      "actor",
+      "agent",
+      "voice"
+    ],
+    "createdAt": 1782715054000
+  },
+  {
+    "id": "mercor-voice-actor-cx-agent-voice-cloning-spanish-peru-dP54sj",
+    "title": "Voice Actor: CX Agent Voice Cloning (Spanish - Peru)",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$50 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABnuqXOR2GIV_EIudP54sj?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABnuqXOR2GIV_EIudP54sj&utm_medium=direct&utm_source=referral",
+    "description": "Remote Voice Actor: CX Agent Voice Cloning (Spanish - Peru) opportunity with Mercor.\nRefer and earn $600.\nFull details and the application are on Mercor.",
+    "tags": [
+      "voice",
+      "actor",
+      "agent",
+      "voice"
+    ],
+    "createdAt": 1782052240000
+  },
+  {
+    "id": "mercor-voice-actor-cx-agent-voice-cloning-standard-french-BF77Ec",
+    "title": "Voice Actor: CX Agent Voice Cloning (Standard French)",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$50 – $100 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABnt-8MlDeId9gbqBF77Ec?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABnt-8MlDeId9gbqBF77Ec&utm_medium=direct&utm_source=referral",
+    "description": "Remote Voice Actor: CX Agent Voice Cloning (Standard French) opportunity with Mercor. US only.\nRefer and earn $600.\nFull details and the application are on Mercor.",
+    "tags": [
+      "voice",
+      "actor",
+      "agent",
+      "voice"
+    ],
+    "createdAt": 1781870113000
+  },
+  {
+    "id": "mercor-audio-engineer-speech-tts-audio-specialist-french-xG17qd",
+    "title": "Audio Engineer (Speech / TTS Audio Specialist) – French",
+    "company": "Mercor",
+    "category": "Engineering",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$50 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABnoTi00jc2tVdQ0xG17qd?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABnoTi00jc2tVdQ0xG17qd&utm_medium=direct&utm_source=referral",
+    "description": "Remote Audio Engineer (Speech / TTS Audio Specialist) – French opportunity with Mercor. US only.\nRefer and earn $280.\nFull details and the application are on Mercor.",
+    "tags": [
+      "audio",
+      "engineer",
+      "speech",
+      "tts"
+    ],
+    "createdAt": 1780345918000
+  },
+  {
+    "id": "mercor-voice-actor-cx-agent-voice-cloning-german-ZCQoF7",
+    "title": "Voice Actor: CX Agent Voice Cloning (German)",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$50 – $100 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABnoSOAS3oXw_3jyZCQoF7?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABnoSOAS3oXw_3jyZCQoF7&utm_medium=direct&utm_source=referral",
+    "description": "Remote Voice Actor: CX Agent Voice Cloning (German) opportunity with Mercor.\nRefer and earn $600.\nFull details and the application are on Mercor.",
+    "tags": [
+      "voice",
+      "actor",
+      "agent",
+      "voice"
+    ],
+    "createdAt": 1780340359000
+  },
+  {
+    "id": "mercor-voice-actor-cx-agent-voice-cloning-northern-uk-tK-Z3q",
+    "title": "Voice Actor: CX Agent Voice Cloning - Northern UK",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$50 – $100 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABnoRPKUEJGDN6gxtK-Z3q?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABnoRPKUEJGDN6gxtK-Z3q&utm_medium=direct&utm_source=referral",
+    "description": "Remote Voice Actor: CX Agent Voice Cloning - Northern UK opportunity with Mercor.\nRefer and earn $600.\nFull details and the application are on Mercor.",
+    "tags": [
+      "voice",
+      "actor",
+      "agent",
+      "voice"
+    ],
+    "createdAt": 1780336241000
+  },
+  {
+    "id": "mercor-voice-actor-cx-agent-voice-cloning-spanish-peninsular-hOsZTH",
+    "title": "Voice Actor: CX Agent Voice Cloning (Spanish - Peninsular)",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$50 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABnoQDCpLznP-zEwhOsZTH?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABnoQDCpLznP-zEwhOsZTH&utm_medium=direct&utm_source=referral",
+    "description": "Remote Voice Actor: CX Agent Voice Cloning (Spanish - Peninsular) opportunity with Mercor.\nRefer and earn $600.\nFull details and the application are on Mercor.",
+    "tags": [
+      "voice",
+      "actor",
+      "agent",
+      "voice"
+    ],
+    "createdAt": 1780331252000
+  },
+  {
+    "id": "mercor-voice-actor-cx-agent-voice-cloning-spanish-mexico-BC9oHw",
+    "title": "Voice Actor: CX Agent Voice Cloning (Spanish - Mexico)",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$50 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABnoQC-dC2MUckZJBC9oHw?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABnoQC-dC2MUckZJBC9oHw&utm_medium=direct&utm_source=referral",
+    "description": "Remote Voice Actor: CX Agent Voice Cloning (Spanish - Mexico) opportunity with Mercor.\nRefer and earn $600.\nFull details and the application are on Mercor.",
+    "tags": [
+      "voice",
+      "actor",
+      "agent",
+      "voice"
+    ],
+    "createdAt": 1780331248000
+  },
+  {
+    "id": "mercor-voice-actor-cx-agent-voice-cloning-spanish-latin-america-JHzIPK",
+    "title": "Voice Actor: CX Agent Voice Cloning (Spanish - Latin America)",
+    "company": "Mercor",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$50 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABnoQC2bLQ9YaeK3JHzIPK?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABnoQC2bLQ9YaeK3JHzIPK&utm_medium=direct&utm_source=referral",
+    "description": "Remote Voice Actor: CX Agent Voice Cloning (Spanish - Latin America) opportunity with Mercor.\nRefer and earn $600.\nFull details and the application are on Mercor.",
+    "tags": [
+      "voice",
+      "actor",
+      "agent",
+      "voice"
+    ],
+    "createdAt": 1780331240000
+  },
+  {
+    "id": "mercor-clinicians-survey-ambulatory-community-care-insights-xGQ7NX",
+    "title": "Clinicians Survey – Ambulatory & Community Care Insights",
+    "company": "Mercor",
+    "category": "Healthcare",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$90 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABnlNc5vKNKKMWYLxGQ7NX?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABnlNc5vKNKKMWYLxGQ7NX&utm_medium=direct&utm_source=referral",
+    "description": "Remote Clinicians Survey – Ambulatory & Community Care Insights opportunity with Mercor.\nAbout 40 hours per week.\nRefer and earn $50.\nFull details and the application are on Mercor.",
+    "tags": [
+      "clinicians",
+      "survey",
+      "ambulatory",
+      "community"
+    ],
+    "createdAt": 1779515058000
+  },
+  {
+    "id": "mercor-customer-success-engineer-latam-lLT79a",
+    "title": "Customer Success Engineer (LatAm)",
+    "company": "Mercor",
+    "category": "Engineering",
+    "type": "Full-time",
+    "region": "Remote",
+    "salary": "$35,000 – $50,000 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABnfiedfZUWZxgc0lLT79a?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABnfiedfZUWZxgc0lLT79a&utm_medium=direct&utm_source=referral",
+    "description": "Mercor’s Talent Success team is hiring! Our Talent Success team is responsible for ensuring everyone using our platform has a delightful experience end to end, from applying to job listings, taking our AI-led interviews, accepting offers on our platform, and getting paid for their hard work. Note: This role is open only to candidates currently residing in Latin America. Applicants outside Latin America will not be considered.\nRefer and earn $100.\nFull details and the application are on Mercor.",
+    "tags": [
+      "customer",
+      "success",
+      "engineer",
+      "latam"
+    ],
+    "createdAt": 1777992627000
+  },
+  {
+    "id": "mercor-customer-success-engineer-india-dF5rx2",
+    "title": "Customer Success Engineer (India)",
+    "company": "Mercor",
+    "category": "Engineering",
+    "type": "Full-time",
+    "region": "United States",
+    "salary": "$30,000 – $45,000 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABnOP9NgGZSJmIf4dF5rx2?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABnOP9NgGZSJmIf4dF5rx2&utm_medium=direct&utm_source=referral",
+    "description": "Mercor’s Talent Success team is hiring! Our Talent Success team is responsible for ensuring everyone using our platform has a delightful experience end to end, from applying to job listings, taking our AI-led interviews, accepting offers on our platform, and getting paid for their hard work. US only.\nRefer and earn $90.\nFull details and the application are on Mercor.",
+    "tags": [
+      "customer",
+      "success",
+      "engineer",
+      "india"
+    ],
+    "createdAt": 1773351548000
+  },
+  {
+    "id": "mercor-compliance-risk-specialist-talent-network-VMBZB6",
+    "title": "Compliance & Risk Specialist Talent Network",
+    "company": "Mercor",
+    "category": "Legal",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$60 – $80 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABnJ0Tj07Vgzf7imVMBZB6?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABnJ0Tj07Vgzf7imVMBZB6&utm_medium=direct&utm_source=referral",
+    "description": "Join our Compliance & Risk Specialist Expert Network to connect with leading AI labs and companies seeking your expertise. This is an open application for future contract opportunities that match your background and interests. Once you complete your profile and pass our AI interview, you'll be eligible for relevant projects as they become available. We match experts to opportunities on a rolling basis. Training and evaluating AI models in Compliance & Risk US only.\nRefer and earn $320.\nFull details and the application are on Mercor.",
+    "tags": [
+      "compliance",
+      "risk",
+      "specialist",
+      "talent"
+    ],
+    "createdAt": 1772161831000
+  },
+  {
+    "id": "mercor-management-consultant-talent-network-1Ad60d",
+    "title": "Management Consultant Talent Network",
+    "company": "Mercor",
+    "category": "Other",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$60 – $100 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABnJ0O3XD6A34Rv91Ad60d?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABnJ0O3XD6A34Rv91Ad60d&utm_medium=direct&utm_source=referral",
+    "description": "Join our Management Consultant Expert Network to connect with leading AI labs and companies seeking your expertise. This is an open application for future contract opportunities that match your background and interests. Once you complete your profile and pass our AI interview, you'll be eligible for relevant projects as they become available. We match experts to opportunities on a rolling basis. Training and evaluating AI models in Management Consulting US only.\nRefer and earn $400.\nFull details and the application are on Mercor.",
+    "tags": [
+      "management",
+      "consultant",
+      "talent",
+      "network"
+    ],
+    "createdAt": 1772161523000
+  },
+  {
+    "id": "mercor-physical-scientist-talent-network-1MT759",
+    "title": "Physical Scientist Talent Network",
+    "company": "Mercor",
+    "category": "Data & AI",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$60 – $80 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABnJ0M26ceiz86vu1MT759?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABnJ0M26ceiz86vu1MT759&utm_medium=direct&utm_source=referral",
+    "description": "Join our Physical Scientist Expert Network to connect with leading AI labs and companies seeking your expertise. This is an open application for future contract opportunities that match your background and interests. Once you complete your profile and pass our AI interview, you'll be eligible for relevant projects as they become available. We match experts to opportunities on a rolling basis. Training and evaluating AI models in Physical Sciences US only.\nRefer and earn $320.\nFull details and the application are on Mercor.",
+    "tags": [
+      "physical",
+      "scientist",
+      "talent",
+      "network"
+    ],
+    "createdAt": 1772161392000
+  },
+  {
+    "id": "mercor-graphic-ux-ui-designer-talent-network-9Iib8_",
+    "title": "Graphic & UX/UI Designer Talent Network",
+    "company": "Mercor",
+    "category": "Design",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$60 – $80 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABnJ0LvLdNuRT_1I9Iib8_?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABnJ0LvLdNuRT_1I9Iib8_&utm_medium=direct&utm_source=referral",
+    "description": "Join our Graphic & UX/UI Designer Expert Network to connect with leading AI labs and companies seeking your expertise. This is an open application for future contract opportunities that match your background and interests. Once you complete your profile and pass our AI interview, you'll be eligible for relevant projects as they become available. We match experts to opportunities on a rolling basis. Training and evaluating AI models in Graphic & UX/UI Design US only.\nRefer and earn $320.\nFull details and the application are on Mercor.",
+    "tags": [
+      "graphic",
+      "designer",
+      "talent",
+      "network"
+    ],
+    "createdAt": 1772161318000
+  },
+  {
+    "id": "mercor-marketing-specialist-talent-network-xI1ZX9",
+    "title": "Marketing Specialist Talent Network",
+    "company": "Mercor",
+    "category": "Sales & Marketing",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$60 – $80 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABnJ0Inam2YWpSD1xI1ZX9?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABnJ0Inam2YWpSD1xI1ZX9&utm_medium=direct&utm_source=referral",
+    "description": "Join our Marketing Specialist Expert Network to connect with leading AI labs and companies seeking your expertise. This is an open application for future contract opportunities that match your background and interests. Once you complete your profile and pass our AI interview, you'll be eligible for relevant projects as they become available. We match experts to opportunities on a rolling basis. Training and evaluating AI models in Marketing US only.\nRefer and earn $320.\nFull details and the application are on Mercor.",
+    "tags": [
+      "marketing",
+      "specialist",
+      "talent",
+      "network"
+    ],
+    "createdAt": 1772161114000
+  },
+  {
+    "id": "mercor-hr-administration-specialist-talent-network-tKbrNa",
+    "title": "HR & Administration Specialist Talent Network",
+    "company": "Mercor",
+    "category": "Human Resources",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$60 – $80 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABnJ0HTJ8DWBVFUwtKbrNa?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABnJ0HTJ8DWBVFUwtKbrNa&utm_medium=direct&utm_source=referral",
+    "description": "Join our HR & Administration Specialist Expert Network to connect with leading AI labs and companies seeking your expertise. This is an open application for future contract opportunities that match your background and interests. Once you complete your profile and pass our AI interview, you'll be eligible for relevant projects as they become available. We match experts to opportunities on a rolling basis. US only.\nRefer and earn $320.\nFull details and the application are on Mercor.",
+    "tags": [
+      "administration",
+      "specialist",
+      "talent",
+      "network"
+    ],
+    "createdAt": 1772161027000
+  },
+  {
+    "id": "mercor-financial-analyst-talent-network-hHKrzF",
+    "title": "Financial Analyst Talent Network",
+    "company": "Mercor",
+    "category": "Finance & Accounting",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$60 – $180 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABnJ0GDeo6y-KRhahHKrzF?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABnJ0GDeo6y-KRhahHKrzF&utm_medium=direct&utm_source=referral",
+    "description": "Join our Financial Analyst Expert Network to connect with leading AI labs and companies seeking your expertise. This is an open application for future contract opportunities that match your background and interests. Once you complete your profile and pass our AI interview, you'll be eligible for relevant projects as they become available. We match experts to opportunities on a rolling basis. Training and evaluating AI models in Finance US only.\nRefer and earn $720.\nFull details and the application are on Mercor.",
+    "tags": [
+      "financial",
+      "analyst",
+      "talent",
+      "network"
+    ],
+    "createdAt": 1772160946000
+  },
+  {
+    "id": "mercor-chemist-talent-network-JJXKpS",
+    "title": "Chemist Talent Network",
+    "company": "Mercor",
+    "category": "Science & Research",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$60 – $80 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABnJ0EyzP13xP26dJJXKpS?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABnJ0EyzP13xP26dJJXKpS&utm_medium=direct&utm_source=referral",
+    "description": "Join our Chemist Expert Network to connect with leading AI labs and companies seeking your expertise. This is an open application for future contract opportunities that match your background and interests. Once you complete your profile and pass our AI interview, you'll be eligible for relevant projects as they become available. We match experts to opportunities on a rolling basis. Training and evaluating AI models in Chemistry US only.\nRefer and earn $320.\nFull details and the application are on Mercor.",
+    "tags": [
+      "chemist",
+      "talent",
+      "network"
+    ],
+    "createdAt": 1772160863000
+  },
+  {
+    "id": "mercor-biologist-talent-network-9Bf6jc",
+    "title": "Biologist Talent Network",
+    "company": "Mercor",
+    "category": "Science & Research",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$60 – $80 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABnJ0CrCN6LLqupi9Bf6jc?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABnJ0CrCN6LLqupi9Bf6jc&utm_medium=direct&utm_source=referral",
+    "description": "Join our Biologist Expert Network to connect with leading AI labs and companies seeking your expertise. This is an open application for future contract opportunities that match your background and interests. Once you complete your profile and pass our AI interview, you'll be eligible for relevant projects as they become available. We match experts to opportunities on a rolling basis. Training and evaluating AI models in Biology US only.\nRefer and earn $320.\nFull details and the application are on Mercor.",
+    "tags": [
+      "biologist",
+      "talent",
+      "network"
+    ],
+    "createdAt": 1772160724000
+  },
+  {
+    "id": "mercor-mathematician-talent-network-hH_5wP",
+    "title": "Mathematician Talent Network",
+    "company": "Mercor",
+    "category": "Science & Research",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$60 – $80 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABnJ0BfkepVYhBI7hH_5wP?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABnJ0BfkepVYhBI7hH_5wP&utm_medium=direct&utm_source=referral",
+    "description": "Join our Mathematician Expert Network to connect with leading AI labs and companies seeking your expertise. This is an open application for future contract opportunities that match your background and interests. Once you complete your profile and pass our AI interview, you'll be eligible for relevant projects as they become available. We match experts to opportunities on a rolling basis. Training and evaluating AI models in Mathematics US only.\nRefer and earn $320.\nFull details and the application are on Mercor.",
+    "tags": [
+      "mathematician",
+      "talent",
+      "network"
+    ],
+    "createdAt": 1772160647000
+  },
+  {
+    "id": "mercor-lawyer-talent-network-xHK6LT",
+    "title": "Lawyer Talent Network",
+    "company": "Mercor",
+    "category": "Legal",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$60 – $150 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABnJz6-RP8K0Qe1IxHK6LT?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABnJz6-RP8K0Qe1IxHK6LT&utm_medium=direct&utm_source=referral",
+    "description": "Join our Law Expert Network to connect with leading AI labs and companies seeking your expertise. This is an open application for future contract opportunities that match your background and interests. Once you complete your profile and pass our AI interview, you'll be eligible for relevant projects as they become available. We match experts to opportunities on a rolling basis. Training and evaluating AI models in Law US only.\nRefer and earn $600.\nFull details and the application are on Mercor.",
+    "tags": [
+      "lawyer",
+      "talent",
+      "network"
+    ],
+    "createdAt": 1772160219000
+  },
+  {
+    "id": "mercor-physicist-talent-network-BLq6pS",
+    "title": "Physicist Talent Network",
+    "company": "Mercor",
+    "category": "Other",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$60 – $80 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABnJzhSEoldeI_qvBLq6pS?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABnJzhSEoldeI_qvBLq6pS&utm_medium=direct&utm_source=referral",
+    "description": "Join our Physicist Expert Network to connect with leading AI labs and companies seeking your expertise. This is an open application for future contract opportunities that match your background and interests. Once you complete your profile and pass our AI interview, you'll be eligible for relevant projects as they become available. We match experts to opportunities on a rolling basis. Training and evaluating AI models in Physics US only.\nRefer and earn $320.\nFull details and the application are on Mercor.",
+    "tags": [
+      "physicist",
+      "talent",
+      "network"
+    ],
+    "createdAt": 1772158536000
+  },
+  {
+    "id": "mercor-nursing-talent-network-VFkqqc",
+    "title": "Nursing Talent Network",
+    "company": "Mercor",
+    "category": "Other",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$60 – $120 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABnJzRBPRcrO1IUeVFkqqc?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABnJzRBPRcrO1IUeVFkqqc&utm_medium=direct&utm_source=referral",
+    "description": "Join our Nursing Expert Network to connect with leading AI labs and companies seeking your expertise. This is an open application for future contract opportunities that match your background and interests. Once you complete your profile and pass our AI interview, you'll be eligible for relevant projects as they become available. We match experts to opportunities on a rolling basis. Training and evaluating AI models in Nursing US only.\nRefer and earn $480.\nFull details and the application are on Mercor.",
+    "tags": [
+      "nursing",
+      "talent",
+      "network"
+    ],
+    "createdAt": 1772157470000
+  },
+  {
+    "id": "mercor-physician-talent-network-RAAb9m",
+    "title": "Physician Talent Network",
+    "company": "Mercor",
+    "category": "Healthcare",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$110 – $250 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABnJzK0z1CNefOyERAAb9m?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABnJzK0z1CNefOyERAAb9m&utm_medium=direct&utm_source=referral",
+    "description": "Join our Physician Expert Network to connect with leading AI labs and companies seeking your expertise. This is an open application for future contract opportunities that match your background and interests. Once you complete your profile and pass our AI interview, you'll be eligible for relevant projects as they become available. We match experts to opportunities on a rolling basis. Training and evaluating AI models in Medicine US only.\nRefer and earn $1,000.\nFull details and the application are on Mercor.",
+    "tags": [
+      "physician",
+      "talent",
+      "network"
+    ],
+    "createdAt": 1772157064000
+  },
+  {
+    "id": "mercor-machine-learning-engineer-talent-network-5Ebarf",
+    "title": "Machine Learning Engineer Talent Network",
+    "company": "Mercor",
+    "category": "Data & AI",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$70 – $250 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABnJzIt-SOsdwOeF5Ebarf?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABnJzIt-SOsdwOeF5Ebarf&utm_medium=direct&utm_source=referral",
+    "description": "Join our Machine Learning Engineer Expert Network to connect with leading AI labs and companies seeking your expertise. This is an open application for future contract opportunities that match your background and interests. Once you complete your profile and pass our AI interview, you'll be eligible for relevant projects as they become available. We match experts to opportunities on a rolling basis. US only.\nRefer and earn $1,000.\nFull details and the application are on Mercor.",
+    "tags": [
+      "machine",
+      "learning",
+      "engineer",
+      "talent"
+    ],
+    "createdAt": 1772156926000
+  },
+  {
+    "id": "mercor-business-intelligence-analyst-talent-network-hMxLnv",
+    "title": "Business Intelligence Analyst Talent Network",
+    "company": "Mercor",
+    "category": "Government & Defense",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$70 – $120 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABnJyE_If_2vn0hvhMxLnv?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABnJyE_If_2vn0hvhMxLnv&utm_medium=direct&utm_source=referral",
+    "description": "Join our Business Intelligence Analyst Expert Network to connect with leading AI labs and companies seeking your expertise. This is an open application for future contract opportunities that match your background and interests. Once you complete your profile and pass our AI interview, you'll be eligible for relevant projects as they become available. We match experts to opportunities on a rolling basis. US only.\nRefer and earn $480.\nFull details and the application are on Mercor.",
+    "tags": [
+      "business",
+      "intelligence",
+      "analyst",
+      "talent"
+    ],
+    "createdAt": 1772152487000
+  },
+  {
+    "id": "mercor-software-engineer-ai-native-platform-integrations-NOCrGk",
+    "title": "Software Engineer (AI-Native Platform & Integrations)",
+    "company": "Mercor",
+    "category": "Data & AI",
+    "type": "Part-time",
+    "region": "Remote",
+    "salary": "$70 – $110 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABnJxZFVfIEAN0_ZNOCrGk?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABnJxZFVfIEAN0_ZNOCrGk&utm_medium=direct&utm_source=referral",
+    "description": "This is an open application for future contract opportunities that match your background and interests. Once you complete your profile and pass our AI interview, you'll be eligible for relevant projects as they become available. We match experts to opportunities on a rolling basis.\nRefer and earn $1,760.\nFull details and the application are on Mercor.",
+    "tags": [
+      "software",
+      "engineer",
+      "native",
+      "platform"
+    ],
+    "createdAt": 1772149610000
+  },
+  {
+    "id": "mercor-frontend-engineer-talent-network-RHh7T3",
+    "title": "Frontend Engineer Talent Network",
+    "company": "Mercor",
+    "category": "Engineering",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$70 – $150 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABnHwqmLo6wvviVuRHh7T3?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABnHwqmLo6wvviVuRHh7T3&utm_medium=direct&utm_source=referral",
+    "description": "Join our Frontend Engineer Expert Network to connect with leading AI labs and companies seeking your expertise. This is an open application for future contract opportunities that match your background and interests. Once you complete your profile and pass our AI interview, you'll be eligible for relevant projects as they become available. We match experts to opportunities on a rolling basis. Training and evaluating AI models in Frontend Engineering US only.\nRefer and earn $600.\nFull details and the application are on Mercor.",
+    "tags": [
+      "frontend",
+      "engineer",
+      "talent",
+      "network"
+    ],
+    "createdAt": 1771609692000
+  },
+  {
+    "id": "mercor-devops-platform-engineer-talent-network-ZK5Yz0",
+    "title": "DevOps / Platform Engineer Talent Network",
+    "company": "Mercor",
+    "category": "Engineering",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$70 – $150 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABnHwmotmNJkvkSDZK5Yz0?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABnHwmotmNJkvkSDZK5Yz0&utm_medium=direct&utm_source=referral",
+    "description": "Join our DevOps / Platform Engineer Expert Network to connect with leading AI labs and companies seeking your expertise. This is an open application for future contract opportunities that match your background and interests. Once you complete your profile and pass our AI interview, you'll be eligible for relevant projects as they become available. We match experts to opportunities on a rolling basis. US only.\nRefer and earn $600.\nFull details and the application are on Mercor.",
+    "tags": [
+      "devops",
+      "platform",
+      "engineer",
+      "talent"
+    ],
+    "createdAt": 1771609433000
+  },
+  {
+    "id": "mercor-backend-engineer-talent-network-hBkZCW",
+    "title": "Backend Engineer Talent Network",
+    "company": "Mercor",
+    "category": "Engineering",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$70 – $150 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABnHwex35o5QBU_FhBkZCW?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABnHwex35o5QBU_FhBkZCW&utm_medium=direct&utm_source=referral",
+    "description": "Join our Backend Engineer Expert Network to connect with leading AI labs and companies seeking your expertise. This is an open application for future contract opportunities that match your background and interests. Once you complete your profile and pass our AI interview, you'll be eligible for relevant projects as they become available. We match experts to opportunities on a rolling basis. Training and evaluating AI models in Backend Engineering US only.\nRefer and earn $600.\nFull details and the application are on Mercor.",
+    "tags": [
+      "backend",
+      "engineer",
+      "talent",
+      "network"
+    ],
+    "createdAt": 1771608918000
+  },
+  {
+    "id": "mercor-full-stack-engineer-talent-network-lMq6-9",
+    "title": "Full-Stack Engineer Talent Network",
+    "company": "Mercor",
+    "category": "Engineering",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$70 – $150 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABnHwUEBQJcy230-lMq6-9?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABnHwUEBQJcy230-lMq6-9&utm_medium=direct&utm_source=referral",
+    "description": "Join our Full-Stack Engineer Expert Network to connect with leading AI labs and companies seeking Full-Stack Engineering expertise. This is an open application for future contract opportunities that match your background and interests. Once you complete your profile and pass our AI interview, you'll be eligible for relevant projects as they become available. We match experts to opportunities on a rolling basis. US only.\nRefer and earn $600.\nFull details and the application are on Mercor.",
+    "tags": [
+      "full",
+      "stack",
+      "engineer",
+      "talent"
+    ],
+    "createdAt": 1771608216000
+  },
+  {
+    "id": "mercor-soc-investigation-specialist-talent-network-NE9Ylz",
+    "title": "SOC Investigation Specialist Talent Network",
+    "company": "Mercor",
+    "category": "Other",
+    "type": "Part-time",
+    "region": "Remote",
+    "salary": "$70 – $95 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABm9Edxc-X1o57aoNE9Ylz?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABm9Edxc-X1o57aoNE9Ylz&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is hiring SOC Investigation Specialist on behalf of high-growth technology and enterprise partners building next-generation SOC automation and AI-driven investigation systems. This role is ideal for experienced SOC analysts who can apply real-world investigative judgment to review, validate, and construct high-quality security investigations across SIEM, endpoint, cloud, and identity environments.\nRefer and earn $500.\nFull details and the application are on Mercor.",
+    "tags": [
+      "soc",
+      "investigation",
+      "specialist",
+      "talent"
+    ],
+    "createdAt": 1768739948000
+  },
+  {
+    "id": "mercor-applied-engineer-evaluations-role-NNEa6l",
+    "title": "Applied Engineer, Evaluations Role",
+    "company": "Mercor",
+    "category": "Engineering",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$100 – $120 / hour",
+    "url": "https://work.mercor.com/jobs/list_AAABlzI3p6G_LDaGWuNNEa6l?referralCode=94a1c170-3d75-4bd7-8dfa-2035b9f0a900&utm_campaign=job&utm_content=list_AAABlzI3p6G_LDaGWuNNEa6l&utm_medium=direct&utm_source=referral",
+    "description": "Mercor is seeking software engineers to build and refine evaluations. You’ll turn completed pull requests into engineering tasks and use our in-house evaluation framework to multiple  frontier coding agents, including Claude Code, Codex and more. We work alongside an in-house research team and have produced industry leading benchmarks to compare the performance of frontier large language models. US only.\nRefer and earn $600.\nFull details and the application are on Mercor.",
+    "tags": [
+      "applied",
+      "engineer",
+      "evaluations",
+      "role"
+    ],
+    "createdAt": 1748895358000
+  },
+  {
     "id": "micro1-gpu-programming-software-engineer-32f53086",
     "title": "GPU Programming Software Engineer",
     "company": "micro1",
@@ -6308,24 +12619,6 @@ window.SEED_JOBS = [
     "createdAt": 1793242553831
   },
   {
-    "id": "mercor-source-security-4bx2X",
-    "title": "Source Security Specialist",
-    "company": "Mercor",
-    "category": "Security",
-    "type": "Contract",
-    "region": "Remote",
-    "salary": "$65 – $75 / task",
-    "url": "https://t.mercor.com/4bx2X",
-    "description": "Per-task contract work red-teaming frontier AI models on radiological source security. You'll write benign, dual-use and adversarial prompts, evaluate model responses against a policy standard, and write reference answers with technical rationale.\nRequires experience assessing how Category 1 and 2 radioactive sources are protected or moved, plus strong technical writing. Red-teaming experience preferred.",
-    "tags": [
-      "security",
-      "red-teaming",
-      "ai",
-      "writing"
-    ],
-    "createdAt": 1790736953831
-  },
-  {
     "id": "mercor-film-video-90215",
     "title": "Film & Video Craft Expert (Camera, VFX, Editing & Performance)",
     "company": "Mercor",
@@ -6362,96 +12655,6 @@ window.SEED_JOBS = [
     "createdAt": 1785552953831
   },
   {
-    "id": "mercor-accounting-9fqD7",
-    "title": "Accounting Expert",
-    "company": "Mercor",
-    "category": "Finance & Accounting",
-    "type": "Contract",
-    "region": "Remote",
-    "salary": "$85 / hour",
-    "url": "https://t.mercor.com/9fqD7",
-    "description": "Flexible contract (10–20 hours a week) comparing two AI-generated answers to accounting questions, explaining which is better on GAAP/IFRS compliance and reasoning, and writing feedback for the research team.\nRequires 2+ years in accounting, audit or tax, and a CPA or accounting/finance degree. Paid weekly. H-1B and STEM OPT not supported.",
-    "tags": [
-      "accounting",
-      "cpa",
-      "gaap",
-      "ifrs"
-    ],
-    "createdAt": 1782960953831
-  },
-  {
-    "id": "mercor-journalists-CXHo6",
-    "title": "News Analysts, Reporters, and Journalists",
-    "company": "Mercor",
-    "category": "Media & Journalism",
-    "type": "Contract",
-    "region": "United States",
-    "salary": "$70 – $110 / hour",
-    "url": "https://t.mercor.com/CXHo6",
-    "description": "Contract of about 4–6 weeks (20+ hours a week) evaluating AI-generated news stories and analysis for accuracy, reporting rigor, editorial soundness and clarity. Task-based pay until your first task is approved, then hourly.\nRequires 4+ years as a reporter, anchor, staff writer or journalist and strong written English. US only.",
-    "tags": [
-      "journalism",
-      "news",
-      "writing",
-      "ai"
-    ],
-    "createdAt": 1788144953831
-  },
-  {
-    "id": "mercor-legal-QM4as",
-    "title": "Legal Expert",
-    "company": "Mercor",
-    "category": "Legal",
-    "type": "Contract",
-    "region": "Remote",
-    "salary": "$90 / hour",
-    "url": "https://t.mercor.com/QM4as",
-    "description": "Flexible contract (10–20 hours a week) comparing two AI-generated answers to legal questions and explaining which is stronger on legal accuracy, reasoning and client-readiness, with written feedback for the research team.\nRequires a J.D., LL.B., LL.M. or equivalent, 2+ years practicing or researching law, and strong legal writing. Paid weekly. H-1B and STEM OPT not supported.",
-    "tags": [
-      "legal",
-      "law",
-      "research",
-      "ai"
-    ],
-    "createdAt": 1782960953831
-  },
-  {
-    "id": "mercor-ai-feedback-study-hyy3Y",
-    "title": "AI Assistant User – Weekly Feedback Study",
-    "company": "Mercor",
-    "category": "AI Training",
-    "type": "Contract",
-    "region": "Remote",
-    "salary": "$30 – $35 / hour",
-    "url": "https://t.mercor.com/hyy3Y",
-    "description": "Ongoing weekly study where you use an AI assistant (Meta Muse or Instinct) across at least three areas of your life, log and rate the proactive messages it sends, and export your conversations with personal details removed.\nRequires being an everyday user of the app for at least 2 weeks. Paid weekly. H-1B and STEM OPT not supported.",
-    "tags": [
-      "ai",
-      "feedback",
-      "study",
-      "part-time"
-    ],
-    "createdAt": 1792292153831
-  },
-  {
-    "id": "mercor-generalist-d4E06",
-    "title": "Generalist (Must own MacBook)",
-    "company": "Mercor",
-    "category": "AI Training",
-    "type": "Contract",
-    "region": "Remote",
-    "salary": "$40 – $80 / hour",
-    "url": "https://t.mercor.com/d4E06",
-    "description": "Part-time remote contract (about 10–20 hours a week) on your own schedule, supporting an AI research project with a leading AI lab. You'll write high-quality research questions, answers and evaluation materials to help benchmark and improve language models.\nRequires a Mac (macOS 15+), strong research and writing skills, and a master's degree (in progress or recent) or 2–3 years of relevant experience. Paid weekly. H-1B and STEM OPT not supported.",
-    "tags": [
-      "ai",
-      "research",
-      "writing",
-      "part-time"
-    ],
-    "createdAt": 1785552953831
-  },
-  {
     "id": "mercor-character-animator-hovOj",
     "title": "Senior Character Animator",
     "company": "Mercor",
@@ -6468,24 +12671,6 @@ window.SEED_JOBS = [
       "vfx"
     ],
     "createdAt": 1792207913557
-  },
-  {
-    "id": "mercor-anonymization-writer-utmPK",
-    "title": "Anonymization Writer",
-    "company": "Mercor",
-    "category": "AI Training",
-    "type": "Contract",
-    "region": "Remote",
-    "salary": "$45 – $55 / hour",
-    "url": "https://t.mercor.com/utmPK",
-    "description": "Long-running remote contract (30+ hours a week) on a PII anonymization project. You'll confirm, reject, add and label personal information in business documents and records, group related entities, and catch what automated detection missed.\nRequires prior AI data work (labeling, rating or QA), strong attention to detail and excellent written English. US-based preferred. Paid weekly. H-1B and STEM OPT not supported.",
-    "tags": [
-      "data-labeling",
-      "privacy",
-      "pii",
-      "full-time-hours"
-    ],
-    "createdAt": 1792553512557
   },
   {
     "id": "mercor-project-management-Qvr0Q",
@@ -6505,78 +12690,6 @@ window.SEED_JOBS = [
     "createdAt": 1788147111557
   },
   {
-    "id": "mercor-anonymization-reviewer-7ppy0",
-    "title": "Anonymization Quality Reviewer",
-    "company": "Mercor",
-    "category": "AI Training",
-    "type": "Contract",
-    "region": "Remote",
-    "salary": "$45 – $60 / hour",
-    "url": "https://t.mercor.com/7ppy0",
-    "description": "Remote contract on a long-running PII anonymization project. You'll review completed anonymization tasks against current guidelines, approve them or request edits, and give clear, specific feedback on missed or wrongly labeled personal information.\nRequires QA, editorial or compliance review experience and strong attention to detail. Paid weekly. H-1B and STEM OPT not supported.",
-    "tags": [
-      "qa",
-      "privacy",
-      "pii",
-      "review"
-    ],
-    "createdAt": 1790739110557
-  },
-  {
-    "id": "micro1-finance-specialist-6986a4bc",
-    "title": "Finance Specialist",
-    "company": "micro1",
-    "category": "Finance & Accounting",
-    "type": "Contract",
-    "region": "Remote",
-    "salary": "",
-    "url": "https://jobs.micro1.ai/post/6986a4bc-c11e-4633-a3b0-b7c2cd90f38c?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
-    "description": "Remote Finance Specialist opportunity on micro1.\nSkills they're looking for: Microsoft PowerPoint, Slide Reconstruction, Presentation Design, Data Visualization, Visual Storytelling, Content Editing, Critical Thinking, Attention to Detail, Written Communication, Financial Analysis.\nPay, hours and full details are shown on the application page.",
-    "tags": [
-      "microsoft-powerpoint",
-      "slide-reconstruction",
-      "presentation-design",
-      "data-visualization"
-    ],
-    "createdAt": 1793331109557
-  },
-  {
-    "id": "micro1-consulting-specialist-18d2194c",
-    "title": "Consulting Specialist",
-    "company": "micro1",
-    "category": "Business & Consulting",
-    "type": "Contract",
-    "region": "Remote",
-    "salary": "",
-    "url": "https://jobs.micro1.ai/post/18d2194c-f0f2-4b96-9f2f-6346ab2b97da?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
-    "description": "Remote Consulting Specialist opportunity on micro1.\nSkills they're looking for: Microsoft PowerPoint, Slide Reconstruction, Presentation Design, Data Visualization, Visual Storytelling, Content Editing, Critical Thinking, Attention to Detail, Written Communication, Management Consulting.\nPay, hours and full details are shown on the application page.",
-    "tags": [
-      "microsoft-powerpoint",
-      "slide-reconstruction",
-      "presentation-design",
-      "data-visualization"
-    ],
-    "createdAt": 1793331108557
-  },
-  {
-    "id": "micro1-data-science-specialist-5607d2ce",
-    "title": "Data Science Specialist",
-    "company": "micro1",
-    "category": "Data & AI",
-    "type": "Contract",
-    "region": "Remote",
-    "salary": "",
-    "url": "https://jobs.micro1.ai/post/5607d2ce-0e94-448c-9e92-7429b18d34e6?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
-    "description": "Remote Data Science Specialist opportunity on micro1.\nSkills they're looking for: Microsoft PowerPoint, Slide Reconstruction, Presentation Design, Data Visualization, Visual Storytelling, Content Editing, Critical Thinking, Attention to Detail, Written Communication, Statistical Reasoning.\nPay, hours and full details are shown on the application page.",
-    "tags": [
-      "microsoft-powerpoint",
-      "slide-reconstruction",
-      "presentation-design",
-      "data-visualization"
-    ],
-    "createdAt": 1793331107557
-  },
-  {
     "id": "micro1-imagery-analyst-imagery-analyst-ai-ml-tr-448f7fb3",
     "title": "Imagery Analyst – AI/ML Training Data",
     "company": "micro1",
@@ -6593,24 +12706,6 @@ window.SEED_JOBS = [
       "attention-to-detail"
     ],
     "createdAt": 1793331106557
-  },
-  {
-    "id": "micro1-intelligence-technology-systems-expert-51766349",
-    "title": "Intelligence Technology & Systems Expert",
-    "company": "micro1",
-    "category": "Engineering",
-    "type": "Contract",
-    "region": "Remote",
-    "salary": "",
-    "url": "https://jobs.micro1.ai/post/51766349-d592-401e-a786-67d0e86c94af?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
-    "description": "Remote Intelligence Technology & Systems Expert opportunity on micro1.\nSkills they're looking for: intelligence technology platforms, systems architecture, technical systems evaluation, data engineering, technical documentation review, analytical reasoning, technical judgment, written communication, intelligence information systems, intelligence operations workflows.\nPay, hours and full details are shown on the application page.",
-    "tags": [
-      "systems-architecture",
-      "data-engineering",
-      "analytical-reasoning",
-      "technical-judgment"
-    ],
-    "createdAt": 1793331105557
   },
   {
     "id": "micro1-senior-photographer-a4d53b22",
@@ -6664,36 +12759,6 @@ window.SEED_JOBS = [
     "createdAt": 1793331102557
   },
   {
-    "id": "micro1-machine-learning-researcher-msc-or-phd-16e1c68d",
-    "title": "Machine Learning Researcher (MSc. or PhD)",
-    "company": "micro1",
-    "category": "Data & AI",
-    "type": "Contract",
-    "region": "Remote",
-    "salary": "",
-    "url": "https://jobs.micro1.ai/post/16e1c68d-4f30-431f-a0f8-aa57d4b0893e?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
-    "description": "Remote Machine Learning Researcher (MSc. or PhD) opportunity on micro1.\nSkills they're looking for: Machine Learning.\nPay, hours and full details are shown on the application page.",
-    "tags": [
-      "machine-learning"
-    ],
-    "createdAt": 1793331101557
-  },
-  {
-    "id": "micro1-applied-scientists-machine-learning-msc--4307f05a",
-    "title": "Applied Scientists — Machine Learning (MSc. or PhD)",
-    "company": "micro1",
-    "category": "Data & AI",
-    "type": "Contract",
-    "region": "Remote",
-    "salary": "",
-    "url": "https://jobs.micro1.ai/post/4307f05a-fbd1-4913-91a2-432c782023fb?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
-    "description": "Remote Applied Scientists — Machine Learning (MSc. or PhD) opportunity on micro1.\nSkills they're looking for: Machine Learning.\nPay, hours and full details are shown on the application page.",
-    "tags": [
-      "machine-learning"
-    ],
-    "createdAt": 1793331100557
-  },
-  {
     "id": "micro1-generalist-6a124045",
     "title": "Generalist",
     "company": "micro1",
@@ -6728,104 +12793,6 @@ window.SEED_JOBS = [
       "research"
     ],
     "createdAt": 1793331098557
-  },
-  {
-    "id": "micro1-life-sciences-research-expert-python-f796a3ec",
-    "title": "Life Sciences Research Expert (Python)",
-    "company": "micro1",
-    "category": "Science & Research",
-    "type": "Contract",
-    "region": "Remote",
-    "salary": "",
-    "url": "https://jobs.micro1.ai/post/f796a3ec-8108-4e21-9497-f70b6d3ff3b1?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
-    "description": "Remote Life Sciences Research Expert (Python) opportunity on micro1.\nSkills they're looking for: Python, Biology, Medicine, Materials, Neuroscience, Astronomy.\nPay, hours and full details are shown on the application page.",
-    "tags": [
-      "python",
-      "biology",
-      "medicine",
-      "materials"
-    ],
-    "createdAt": 1793331097557
-  },
-  {
-    "id": "micro1-english-voice-coach-bd0da3d2",
-    "title": "English Voice Coach",
-    "company": "micro1",
-    "category": "Education",
-    "type": "Contract",
-    "region": "Remote",
-    "salary": "",
-    "url": "https://jobs.micro1.ai/post/bd0da3d2-f365-4e57-9a63-58939315b67c?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
-    "description": "Remote English Voice Coach opportunity on micro1.\nPay, hours and full details are shown on the application page.",
-    "tags": [],
-    "createdAt": 1793331096557
-  },
-  {
-    "id": "micro1-puzzle-solver-coding-1fdcfc88",
-    "title": "Puzzle Solver (Coding)",
-    "company": "micro1",
-    "category": "Engineering",
-    "type": "Contract",
-    "region": "Remote",
-    "salary": "",
-    "url": "https://jobs.micro1.ai/post/1fdcfc88-24fa-4378-9e5a-2ca0ac983f8e?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
-    "description": "Remote Puzzle Solver (Coding) opportunity on micro1.\nSkills they're looking for: Python, C++.\nPay, hours and full details are shown on the application page.",
-    "tags": [
-      "python",
-      "c++"
-    ],
-    "createdAt": 1793331095557
-  },
-  {
-    "id": "micro1-ml-engineer-msc-or-phd-be0ac227",
-    "title": "ML Engineer (MSc. or PhD)",
-    "company": "micro1",
-    "category": "Data & AI",
-    "type": "Contract",
-    "region": "Remote",
-    "salary": "",
-    "url": "https://jobs.micro1.ai/post/be0ac227-30ab-4126-bde8-e1e0660c940f?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
-    "description": "Remote ML Engineer (MSc. or PhD) opportunity on micro1.\nSkills they're looking for: Machine Learning.\nPay, hours and full details are shown on the application page.",
-    "tags": [
-      "machine-learning"
-    ],
-    "createdAt": 1793331094557
-  },
-  {
-    "id": "micro1-software-engineer-open-source-contributo-f29dc369",
-    "title": "Software Engineer (Open Source Contributor)",
-    "company": "micro1",
-    "category": "Engineering",
-    "type": "Contract",
-    "region": "Remote",
-    "salary": "",
-    "url": "https://jobs.micro1.ai/post/f29dc369-f46f-443e-986b-7120eebe9225?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
-    "description": "Remote Software Engineer (Open Source Contributor) opportunity on micro1.\nSkills they're looking for: Python3, JAVA, Rust, Algorithms, Basics C++, Typescript, codebase refactoring, GitHub, Bug Fixing, Feature Implementation.\nPay, hours and full details are shown on the application page.",
-    "tags": [
-      "python3",
-      "java",
-      "rust",
-      "algorithms"
-    ],
-    "createdAt": 1793331093557
-  },
-  {
-    "id": "micro1-software-engineer-github-contributor-168285a8",
-    "title": "Software Engineer (GitHub Contributor)",
-    "company": "micro1",
-    "category": "Engineering",
-    "type": "Contract",
-    "region": "Remote",
-    "salary": "",
-    "url": "https://jobs.micro1.ai/post/168285a8-8063-447f-b55b-222c1da4c7c2?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
-    "description": "Remote Software Engineer (GitHub Contributor) opportunity on micro1.\nSkills they're looking for: Python3, JAVA, Rust, Algorithms, Basics C++, Typescript, codebase refactoring, GitHub, Bug Fixing, Feature Implementation.\nPay, hours and full details are shown on the application page.",
-    "tags": [
-      "python3",
-      "java",
-      "rust",
-      "algorithms"
-    ],
-    "createdAt": 1793331092557
   },
   {
     "id": "micro1-medical-coder-ccs-cic-9461932b",
@@ -6935,24 +12902,6 @@ window.SEED_JOBS = [
     "createdAt": 1793331086557
   },
   {
-    "id": "micro1-music-sound-annotation-expert-43067af3",
-    "title": "Music & Sound Annotation Expert",
-    "company": "micro1",
-    "category": "Film & Media",
-    "type": "Contract",
-    "region": "Remote",
-    "salary": "",
-    "url": "https://jobs.micro1.ai/post/43067af3-efeb-435d-aeb9-6d1de8c2af0a?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
-    "description": "Remote Music & Sound Annotation Expert opportunity on micro1.\nSkills they're looking for: analytical listening, music theory knowledge, audio annotation, attention to detail, written communication.\nPay, hours and full details are shown on the application page.",
-    "tags": [
-      "analytical-listening",
-      "music-theory-knowledge",
-      "audio-annotation",
-      "attention-to-detail"
-    ],
-    "createdAt": 1793331085557
-  },
-  {
     "id": "micro1-data-video-generalist-us-based-204600bf",
     "title": "Data-Video Generalist (US-based)",
     "company": "micro1",
@@ -6967,24 +12916,6 @@ window.SEED_JOBS = [
       "attention-to-detail"
     ],
     "createdAt": 1793331084557
-  },
-  {
-    "id": "micro1-software-engineer-d98ab3b0",
-    "title": "Software Engineer",
-    "company": "micro1",
-    "category": "Engineering",
-    "type": "Contract",
-    "region": "Remote",
-    "salary": "",
-    "url": "https://jobs.micro1.ai/post/d98ab3b0-dfc2-43d6-986a-e75b0d4c35f9?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
-    "description": "Remote Software Engineer opportunity on micro1.\nSkills they're looking for: Python3, JAVA, Rust, Algorithms, Basics C++, Typescript, bug fixing, feature implementation, codebase refactoring, performance optimization.\nPay, hours and full details are shown on the application page.",
-    "tags": [
-      "python3",
-      "java",
-      "rust",
-      "algorithms"
-    ],
-    "createdAt": 1793331083557
   },
   {
     "id": "ethos-ai-engineer",
