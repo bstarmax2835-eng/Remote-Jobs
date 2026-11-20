@@ -1,6 +1,10 @@
 (() => {
   const STORAGE_KEY = "remoteJobs.v1";
 
+  // Paid "Post a job" button for companies. Paste your Stripe Payment Link / Gumroad / PayPal.me URL
+  // between the quotes. While it is empty the button stays hidden.
+  const POST_JOB_URL = "";
+
   const SAMPLE_JOBS = [
     {
       id: "sample-1",
@@ -137,9 +141,10 @@
     });
     const sort = els.fSort.value;
     out.sort((a, b) =>
-      sort === "old" ? a.createdAt - b.createdAt
+      (b.featured ? 1 : 0) - (a.featured ? 1 : 0) ||   // paid "featured" listings always first
+      (sort === "old" ? a.createdAt - b.createdAt
       : sort === "company" ? (a.company || "").localeCompare(b.company || "")
-      : b.createdAt - a.createdAt);
+      : b.createdAt - a.createdAt));
     return out;
   }
 
@@ -157,6 +162,7 @@
       : null;
 
     const meta = el("div", { class: "meta" },
+      job.featured && el("span", { class: "pill featured-pill", text: "⭐ Featured" }),
       job.category && el("span", { class: "pill", text: job.category }),
       job.type && el("span", { class: "pill", text: job.type }),
       job.region && el("span", { class: "pill region", text: "🌍 " + job.region }),
@@ -170,7 +176,7 @@
       ? el("a", { class: "apply", href: job.url, target: "_blank", rel: "noopener noreferrer nofollow", text: "Apply →" })
       : null;
 
-    return el("article", { class: "job" },
+    return el("article", { class: job.featured ? "job featured" : "job" },
       el("div", { class: "job-head" },
         el("div", { class: "job-title" },
           el("div", { class: "avatar", style: `--h:${hue(job.company)}`, text: (job.company || "?").trim().charAt(0).toUpperCase() }),
@@ -245,6 +251,12 @@
     render(true);
   });
 
+  const postLink = $("postJobLink");
+  if (isHttpUrl(POST_JOB_URL)) {
+    postLink.href = POST_JOB_URL;
+    postLink.hidden = false;
+  }
+
   $("addBtn").addEventListener("click", () => openForm(null));
   $("cancelBtn").addEventListener("click", () => els.jobDialog.close());
 
@@ -277,6 +289,7 @@
           url: String(j.url || ""), description: String(j.description || ""),
           tags: Array.isArray(j.tags) ? j.tags.map(String) : [],
           createdAt: Number(j.createdAt) || Date.now(),
+          ...(j.featured ? { featured: true } : {}),
         }));
       const existing = new Set(jobs.map((j) => j.id));
       const fresh = valid.filter((j) => !existing.has(j.id));

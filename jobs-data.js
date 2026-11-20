@@ -2,6 +2,6276 @@
 // automatically by scripts/fetch_jobs.py.
 window.SEED_JOBS = [
   {
+    "id": "micro1-gpu-programming-software-engineer-32f53086",
+    "title": "GPU Programming Software Engineer",
+    "company": "micro1",
+    "category": "Engineering",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/32f53086-51ef-4e17-8865-0b8f0bf8a6fa?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "In this role, you will apply your expertise as a GPU programmer to design GPU related tasks to train LLMs, focusing on performance and architecture. Design, implement, and optimize GPU-based software solutions using CUDA, WebGPU or GLSL. Profile and fine-tune GPU kernels and shaders for maximum performance and efficiency. Develop host-side logic and integrations in C++ Advanced experience with any GPU programming language that can run on NVIDIA chips.\nSkills they're looking for: CUDA, WebGPU, GLSL, C++.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "cuda",
+      "webgpu",
+      "glsl",
+      "c"
+    ],
+    "createdAt": 1795192566000
+  },
+  {
+    "id": "micro1-cuda-engineering-expert-76b0e621",
+    "title": "CUDA Engineering Expert",
+    "company": "micro1",
+    "category": "Engineering",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/76b0e621-b4f4-4fa4-bd7b-c4fe96f96610?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging CUDA Engineering Experts to contribute to a cutting-edge customer project focused on GPU kernel optimization in collaboration with a leading AI lab. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.\nSkills they're looking for: CUDA, C++, GLSL, WebGPU.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "cuda",
+      "c",
+      "glsl",
+      "webgpu"
+    ],
+    "createdAt": 1795192103000
+  },
+  {
+    "id": "micro1-music-teacher-a9b8446c",
+    "title": "Music Teacher",
+    "company": "micro1",
+    "category": "Education",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/a9b8446c-a093-40bd-933d-6c17d62fa88a?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Music Teachers to contribute their expertise to a dynamic customer project in the field of AI development. In this role, you'll apply your expertise to help train next-generation AI systems. This opportunity allows you to influence the future of music technology by sharing your practical experience with chord and key progressions, music composition, and classroom or private teaching. If you have a passion for clear communication and a deep understanding of…\nSkills they're looking for: Chord Progression, Key Progressions, Music Teaching, Composing, Instrument Proficiency.\nRefer and earn $100.\nFull details and the application are on micro1.",
+    "tags": [
+      "chord-progression",
+      "key-progressions",
+      "music-teaching",
+      "composing"
+    ],
+    "createdAt": 1795182287000
+  },
+  {
+    "id": "micro1-telecommunications-customer-support-specialist-8530dd0e",
+    "title": "Telecommunications Customer Support Specialist",
+    "company": "micro1",
+    "category": "Customer Support",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/8530dd0e-d167-4c96-9f90-afc9d089a796?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Telecommunications Customer Support Specialists to contribute their expertise to a customer's project focused on elevating client interaction and satisfaction within the telecommunications sector. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.…\nSkills they're looking for: telecommunications customer support, troubleshooting, written communication, verbal communication, help documentation creation, analytical thinking, problem-solving, voip.\nRefer and earn $100.\nFull details and the application are on micro1.",
+    "tags": [
+      "telecommunications-customer-support",
+      "troubleshooting",
+      "written-communication",
+      "verbal-communication"
+    ],
+    "createdAt": 1795172805000
+  },
+  {
+    "id": "micro1-retail-customer-support-specialist-62dcfd2e",
+    "title": "Retail Customer Support Specialist",
+    "company": "micro1",
+    "category": "Customer Support",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/62dcfd2e-e321-47c9-9e5c-450b29adf67f?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Retail Customer Support Specialists to contribute to a customer's project focused on elevating the customer experience in retail service interactions. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.\nSkills they're looking for: retail customer support, order and return process knowledge, complaint resolution, data annotation, documentation, written communication, verbal communication, attention to detail.\nRefer and earn $300.\nFull details and the application are on micro1.",
+    "tags": [
+      "retail-customer-support",
+      "order-and-return-process-knowledge",
+      "complaint-resolution",
+      "data-annotation"
+    ],
+    "createdAt": 1795172743000
+  },
+  {
+    "id": "micro1-airline-customer-service-specialist-7449e726",
+    "title": "Airline Customer Service Specialist",
+    "company": "micro1",
+    "category": "Customer Support",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/7449e726-31ec-44cd-b457-435e14e083dc?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Airline Customer Service Specialists to contribute their industry knowledge to a specialized customer project. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.\nSkills they're looking for: airline customer service, flight reservation management, baggage issue resolution, customer complaint resolution, verbal and written communication, empathy, active listening, scenario documentation.\nRefer and earn $300.\nFull details and the application are on micro1.",
+    "tags": [
+      "airline-customer-service",
+      "flight-reservation-management",
+      "baggage-issue-resolution",
+      "customer-complaint-resolution"
+    ],
+    "createdAt": 1795172659000
+  },
+  {
+    "id": "micro1-senior-hematologist-oncologist-06614178",
+    "title": "Senior Hematologist-Oncologist",
+    "company": "micro1",
+    "category": "Healthcare",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/06614178-bc75-4fd3-ad14-4a2c1e09bbd5?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Senior Hematologist-Oncologists to contribute their expertise to a customer's innovative healthcare project. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.\nSkills they're looking for: Hematology, Oncology, Outpatient Care, History of Present Illness, Chemotherapy Cycles.\nRefer and earn $2,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "hematology",
+      "oncology",
+      "outpatient-care",
+      "history-of-present-illness"
+    ],
+    "createdAt": 1795119251000
+  },
+  {
+    "id": "micro1-hematology-oncology-physician-3eb00a85",
+    "title": "Hematology/Oncology Physician",
+    "company": "micro1",
+    "category": "Healthcare",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/3eb00a85-16d4-41c8-abc8-5e3b26658f4f?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Hematology/Oncology Physicians to contribute expertise and insights to a forward-thinking customer project. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. This is an exciting opportunity for professionals who have recently practiced outpatient hematology/oncology after fellowship, and who are passionate about accurate…\nSkills they're looking for: Hematology, Oncology, Outpatient Care, History of Present Illness, Chemotherapy Cycles.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "hematology",
+      "oncology",
+      "outpatient-care",
+      "history-of-present-illness"
+    ],
+    "createdAt": 1795119141000
+  },
+  {
+    "id": "micro1-social-work-community-services-professional-domain-expert-73f171be",
+    "title": "Social Work & Community Services Professional (Domain Expert)",
+    "company": "micro1",
+    "category": "Business & Consulting",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/73f171be-bee6-43d5-8288-94be542da4af?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Job Title: Social Work & Community Services Professional (Domain Expert) Job Summary: In this role, you’ll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required. Your professional experience in helping people is what matters.\nSkills they're looking for: case management, confidentiality, critical thinking, written communication, verbal communication.\nRefer and earn $100.\nFull details and the application are on micro1.",
+    "tags": [
+      "case-management",
+      "confidentiality",
+      "critical-thinking",
+      "written-communication"
+    ],
+    "createdAt": 1795055030000
+  },
+  {
+    "id": "micro1-creative-professional-domain-expert-77822f84",
+    "title": "Creative Professional (Domain Expert)",
+    "company": "micro1",
+    "category": "Film & Media",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/77822f84-13a2-4ff0-a106-abf2176d0397?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Job Title: Creative Professional (Domain Expert) Job Summary: In this role, you’ll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required. Your creative and professional judgment is what matters. Draw on your experience in a creative role to evaluate real-world briefs, concepts, and finished work.\nSkills they're looking for: creative judgment, portfolio development, written and verbal communication, feedback and critique, ai tools for creative workflows.\nRefer and earn $100.\nFull details and the application are on micro1.",
+    "tags": [
+      "creative-judgment",
+      "portfolio-development",
+      "written-and-verbal-communication",
+      "feedback-and-critique"
+    ],
+    "createdAt": 1795053837000
+  },
+  {
+    "id": "micro1-teacher-us-can-based-16976333",
+    "title": "Teacher (US/CAN based)",
+    "company": "micro1",
+    "category": "Design",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/16976333-465a-41b8-ac6e-c168e958f423?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Job Title: Teacher & Education Professional (Domain Expert) Job Summary: In this role, you’ll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required. Your classroom and professional knowledge is what matters. Draw on your day-to-day teaching experience to evaluate real-world lesson plans, explanations, and learning materials.\nSkills they're looking for: lesson plan evaluation, curriculum design, assessment writing, written communication, verbal communication.\nRefer and earn $100.\nFull details and the application are on micro1.",
+    "tags": [
+      "lesson-plan-evaluation",
+      "curriculum-design",
+      "assessment-writing",
+      "written-communication"
+    ],
+    "createdAt": 1795053625000
+  },
+  {
+    "id": "micro1-travel-operations-specialist-33e8cb50",
+    "title": "Travel Operations Specialist",
+    "company": "micro1",
+    "category": "Operations",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/33e8cb50-49fd-4fb9-996c-0b2d1744e069?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Travel Operations Specialists to contribute expertise to a customer's project focused on delivering exceptional travel support and solutions. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.\nSkills they're looking for: Travel Booking, Customer Experience, Itinerary Planning, Reservations.\nRefer and earn $100.\nFull details and the application are on micro1.",
+    "tags": [
+      "travel-booking",
+      "customer-experience",
+      "itinerary-planning",
+      "reservations"
+    ],
+    "createdAt": 1795018207000
+  },
+  {
+    "id": "micro1-legal-expert-human-rights-law-7e5d9c72",
+    "title": "Legal Expert (Human Rights Law)",
+    "company": "micro1",
+    "category": "Legal",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/7e5d9c72-cf06-4f90-a38a-5837ef0b7fd5?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Legal Experts (Human Rights Law) to participate in a unique opportunity supporting a customer's project focused on real-world human rights issues. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters. This engagement is ideal for US-based professionals…\nSkills they're looking for: International Human Rights Law, Human Rights Litigation.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "international-human-rights-law",
+      "human-rights-litigation"
+    ],
+    "createdAt": 1795003609000
+  },
+  {
+    "id": "micro1-legal-expert-property-law-2d55bd3f",
+    "title": "Legal Expert (Property Law)",
+    "company": "micro1",
+    "category": "Legal",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/2d55bd3f-8c9e-4cac-8a5f-d7d843994c96?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Legal Expert (Property Law)s to contribute to a customer's initiative centered on real estate law. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters. This unique engagement seeks US-based property lawyers to create and review legal data annotation…\nSkills they're looking for: Real Property Law, Real Estate Transactions.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "real-property-law",
+      "real-estate-transactions"
+    ],
+    "createdAt": 1795003372000
+  },
+  {
+    "id": "micro1-legal-expert-estate-planning-law-b2bd0e48",
+    "title": "Legal Expert (Estate Planning Law)",
+    "company": "micro1",
+    "category": "Legal",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/b2bd0e48-9dfe-47e4-9e9d-db26c1667c2f?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Legal Expert (Estate Planning Law)s to contribute to a customer project focused on estate planning and trust law. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters. This opportunity is ideal for US-based estate planning practitioners enthusiastic…\nSkills they're looking for: Estate Planning, Trusts and Estates Law, Estate Tax Planning.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "estate-planning",
+      "trusts-and-estates-law",
+      "estate-tax-planning"
+    ],
+    "createdAt": 1795003194000
+  },
+  {
+    "id": "micro1-legal-expert-copyright-law-2839c105",
+    "title": "Legal Expert (Copyright Law)",
+    "company": "micro1",
+    "category": "Legal",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/2839c105-29ba-4fa4-b5db-c75ac97ace2b?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Legal Experts specializing in Copyright Law to participate in a customer’s project centered on the development and validation of legal data annotation tasks. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters. This engagement is tailored for US-based…\nSkills they're looking for: Copyright Law, Copyright Infringement.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "copyright-law",
+      "copyright-infringement"
+    ],
+    "createdAt": 1795002879000
+  },
+  {
+    "id": "micro1-legal-expert-constitutional-f7e23d01",
+    "title": "Legal Expert (Constitutional)",
+    "company": "micro1",
+    "category": "Legal",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/f7e23d01-7573-4c4b-990c-fa3febc4b36a?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Legal Expert (Constitutional)s to contribute to a customer's project focused on high-impact legal data annotation and review. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters. This engagement seeks US-based constitutional lawyers adept at issues…\nSkills they're looking for: Constitutional Law, Constitutional Litigation.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "constitutional-law",
+      "constitutional-litigation"
+    ],
+    "createdAt": 1795002621000
+  },
+  {
+    "id": "micro1-ui-ux-designer-094f341c",
+    "title": "UI/UX Designer",
+    "company": "micro1",
+    "category": "Design",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/094f341c-e550-41cf-b489-e75d35e7d90e?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "We're looking for a UI/UX Designer with exceptional visual taste, strong product instincts, and a passion for crafting intuitive digital experiences. You'll own design across our websites, platforms, and digital products, translating complex workflows into elegant, intuitive, and scalable interfaces.\nSkills they're looking for: UI/UX & Product Design, Visual Design & Design Systems, Figma & Interactive Prototyping, AI-Assisted Design Workflows.\nRefer and earn $1,500.\nFull details and the application are on micro1.",
+    "tags": [
+      "ui-ux-product-design",
+      "visual-design-design-systems",
+      "figma-interactive-prototyping",
+      "ai-assisted-design-workflows"
+    ],
+    "createdAt": 1794992399000
+  },
+  {
+    "id": "micro1-customer-experience-cx-specialist-06058dd9",
+    "title": "Customer Experience (CX) Specialist",
+    "company": "micro1",
+    "category": "Engineering",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/06058dd9-0415-4c0d-a638-9f359cbe8d76?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Customer Experience (CX) Specialists to contribute expertise in Shopping QA, Concierge Services, and Product Discovery for a customer-facing project. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. Deliver detailed assessments of shopping experiences, identifying friction points and opportunities for improvement.\nSkills they're looking for: Shopping QA, Concierge Services, Product Discovery.\nRefer and earn $100.\nFull details and the application are on micro1.",
+    "tags": [
+      "shopping-qa",
+      "concierge-services",
+      "product-discovery"
+    ],
+    "createdAt": 1794969341000
+  },
+  {
+    "id": "micro1-professional-shopper-708edbc2",
+    "title": "Professional Shopper",
+    "company": "micro1",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/708edbc2-6ef7-487d-a41b-0fb0603f06a8?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Professional Shoppers to contribute expert insights and analyses for a high-impact customer project. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters. Through detailed product research, comparison, and evaluation, you'll play a key part in…\nSkills they're looking for: Product Research, Price Comparison, Consumer Insights, Market Research, Product Evaluation.\nRefer and earn $100.\nFull details and the application are on micro1.",
+    "tags": [
+      "product-research",
+      "price-comparison",
+      "consumer-insights",
+      "market-research"
+    ],
+    "createdAt": 1794968996000
+  },
+  {
+    "id": "micro1-category-manager-9a74b7b0",
+    "title": "Category Manager",
+    "company": "micro1",
+    "category": "Operations",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/9a74b7b0-b1c3-4aae-b673-b821f7731daa?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Category Managers with expertise in Grocery, Travel, or Electronics to contribute to an impactful customer project. In this role, you’ll apply your commercial expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required. Your domain knowledge is what matters.\nSkills they're looking for: Grocery, Electronics, Travel, Pricing Strategy, Supplier Negotiation, Demand Forecasting.\nRefer and earn $100.\nFull details and the application are on micro1.",
+    "tags": [
+      "grocery",
+      "electronics",
+      "travel",
+      "pricing-strategy"
+    ],
+    "createdAt": 1794968156000
+  },
+  {
+    "id": "micro1-professional-photographer-sony-a1-ii-remote-project-based-24119d95",
+    "title": "Professional Photographer – Sony A1 II (Remote, Project-Based)",
+    "company": "micro1",
+    "category": "Film & Media",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$500",
+    "url": "https://jobs.micro1.ai/post/24119d95-0db7-463e-9137-ee958c847c6e?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Equipment Required: Sony Alpha 1 II (Sony A1 II) micro1 is looking for professional photographers who own or have reliable access to a Sony Alpha 1 II camera to participate in a photography project supporting AI development. Selected candidates will be responsible for capturing high-quality photographs of various objects across different environments, including indoor and outdoor locations, urban settings, and rural or natural surroundings.\nSkills they're looking for: sony alpha 1 ii operation, digital photography, photo editing, attention to detail, following instructions.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "sony-alpha-1-ii-operation",
+      "digital-photography",
+      "photo-editing",
+      "attention-to-detail"
+    ],
+    "createdAt": 1794954255000
+  },
+  {
+    "id": "micro1-veterans-program-b3a3b6bc",
+    "title": "Veterans Program",
+    "company": "micro1",
+    "category": "Government & Defense",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/b3a3b6bc-ce14-4231-84c2-94a836311a42?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is launching a dedicated Veterans Program, inviting U.S. military veterans from all professional backgrounds to contribute their knowledge and real-world experience to high-impact AI projects. Whether your experience is in combat, intelligence, technology, logistics, administration, legal affairs, or any other military specialty, we want to hear from you.\nSkills they're looking for: analytical thinking, problem-solving, decision-making, constructive feedback, written communication, remote collaboration, scenario development, attention to detail.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "analytical-thinking",
+      "problem-solving",
+      "decision-making",
+      "constructive-feedback"
+    ],
+    "createdAt": 1794921432000
+  },
+  {
+    "id": "micro1-veterans-legal-and-human-rights-expert-c192a6ae",
+    "title": "Veterans Legal and Human Rights Expert",
+    "company": "micro1",
+    "category": "Legal",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/c192a6ae-864f-4e73-8bcb-011061f60eb3?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging U.S. military veterans with expertise in military law, operational law, and human rights to contribute to a high-impact customer project addressing legal and ethical considerations in military operations, armed conflict, and security-related activities. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input.\nSkills they're looking for: military law, operational law, international humanitarian law, legal analysis, human rights law, law of armed conflict (loac), rules of engagement (roe), legal writing.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "military-law",
+      "operational-law",
+      "international-humanitarian-law",
+      "legal-analysis"
+    ],
+    "createdAt": 1794920927000
+  },
+  {
+    "id": "micro1-veterans-combat-and-defense-expert-f6225bb8",
+    "title": "Veterans Combat and Defense Expert",
+    "company": "micro1",
+    "category": "Operations",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/f6225bb8-4009-4135-8c21-8ae5db9b9324?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging U.S. military veterans with combat, defense, and operational backgrounds to contribute to a high-impact customer project focused on military operations, defense strategies, and operational decision-making. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input.\nSkills they're looking for: military operations expertise, operational planning, tactical decision-making, risk assessment, military doctrine knowledge, critical thinking, analytical skills, written communication.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "military-operations-expertise",
+      "operational-planning",
+      "tactical-decision-making",
+      "risk-assessment"
+    ],
+    "createdAt": 1794920541000
+  },
+  {
+    "id": "micro1-veterans-intelligence-expert-a9390089",
+    "title": "Veterans Intelligence Expert",
+    "company": "micro1",
+    "category": "Government & Defense",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/a9390089-b803-4bb8-b331-464dbee77842?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging U.S. military veterans with intelligence backgrounds to contribute to a high-impact customer project focused on evaluating intelligence analysis, operational reasoning, and military decision-making. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input.\nSkills they're looking for: military intelligence analysis, threat assessment, operational planning, analytical methodologies, critical thinking, analytical writing, intelligence scenario development, evaluating ai-generated content.\nRefer and earn $500.\nFull details and the application are on micro1.",
+    "tags": [
+      "military-intelligence-analysis",
+      "threat-assessment",
+      "operational-planning",
+      "analytical-methodologies"
+    ],
+    "createdAt": 1794920259000
+  },
+  {
+    "id": "micro1-ml-engineer-cf351411",
+    "title": "ML Engineer",
+    "company": "micro1",
+    "category": "Data & AI",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$60 – $120 / hour",
+    "url": "https://jobs.micro1.ai/post/cf351411-3ea6-400b-ae57-369d9b2884c5?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Job Type: Contractor (~15 hours per week) We are looking for highly skilled Machine Learning Experts to contribute to an AI training project involving model development, training and inference systems, numerical computing, performance optimization, and Python.\nSkills they're looking for: Machine Learning.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "machine-learning"
+    ],
+    "createdAt": 1794856498000
+  },
+  {
+    "id": "micro1-generalist-us-only-2c46e489",
+    "title": "Generalist (US Only)",
+    "company": "micro1",
+    "category": "Data & AI",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/2c46e489-6e77-42a6-a4f3-750ebb7ace5f?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is looking for detail-oriented individuals to support an AI image evaluation project. You'll upload your own original images and compare them with AI-generated versions, identifying visual differences, flaws, and inconsistencies. This role is ideal for someone with a sharp eye for detail, strong writing skills, and the patience to evaluate images thoroughly. Basic familiarity with AI-generated images is required, but specialized AI experience is not.\nSkills they're looking for: image data annotation, attention to detail, written and verbal communication, remote collaboration, annotation tools, quality assurance, documentation, adaptability.\nRefer and earn $100.\nFull details and the application are on micro1.",
+    "tags": [
+      "image-data-annotation",
+      "attention-to-detail",
+      "written-and-verbal-communication",
+      "remote-collaboration"
+    ],
+    "createdAt": 1794853187000
+  },
+  {
+    "id": "micro1-french-language-expert-belgium-and-switzerland-bf94339a",
+    "title": "French Language Expert (Belgium and Switzerland)",
+    "company": "micro1",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/bf94339a-4c13-4562-a645-bf7e47e6ed99?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging French Language Experts (Belgium and Switzerland) to contribute to a customer’s audio annotation project focused on Belgian and Swiss French. In this role, you’ll apply your expertise to help train next-generation AI systems. This engagement is ideal for those with extensive experience in language-related fields such as teaching, transcription, editing, translation, or journalism, or any background that demonstrates a deep familiarity with the nuances of…\nSkills they're looking for: French, Linguistics, Transcription, FrenchTeaching, Dialect.\nRefer and earn $100.\nFull details and the application are on micro1.",
+    "tags": [
+      "french",
+      "linguistics",
+      "transcription",
+      "frenchteaching"
+    ],
+    "createdAt": 1794851267000
+  },
+  {
+    "id": "micro1-french-language-expert-canada-a5b9de19",
+    "title": "French Language Expert (Canada)",
+    "company": "micro1",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/a5b9de19-aa08-4b4f-ae5f-55dd5588d33a?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging French Language Experts (Canada) to contribute to a customer’s audio annotation project focused on Canadian French. In this role, you’ll apply your expertise to help train next-generation AI systems. This engagement is ideal for those with extensive experience in language-related fields such as teaching, transcription, editing, translation, or journalism, or any background that demonstrates a deep familiarity with the nuances of Canadian French.\nSkills they're looking for: Canadian French, French, Linguistics, Transcription, French Teaching.\nRefer and earn $100.\nFull details and the application are on micro1.",
+    "tags": [
+      "canadian-french",
+      "french",
+      "linguistics",
+      "transcription"
+    ],
+    "createdAt": 1794850269000
+  },
+  {
+    "id": "micro1-french-language-expert-france-ddcdd544",
+    "title": "French Language Expert (France)",
+    "company": "micro1",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/ddcdd544-5643-4cbf-8b01-08a083d4ec36?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging French Language Experts (France) to contribute to a customer’s audio annotation project focused on French as spoken in France. In this role, you’ll apply your expertise to help train next-generation AI systems. This engagement is ideal for those with extensive experience in language-related fields such as teaching, transcription, editing, translation, or journalism, or any background that demonstrates a deep familiarity with the nuances of French as spoken…\nSkills they're looking for: French, Dialect, Linguistics, Transcription, French Teaching.\nRefer and earn $100.\nFull details and the application are on micro1.",
+    "tags": [
+      "french",
+      "dialect",
+      "linguistics",
+      "transcription"
+    ],
+    "createdAt": 1794849605000
+  },
+  {
+    "id": "micro1-portuguese-language-expert-portugal-12a7895e",
+    "title": "Portuguese Language Expert (Portugal)",
+    "company": "micro1",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/12a7895e-f1d8-4831-bf45-47a5d4fced8b?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Portuguese Language Experts (Portugal) to contribute to a customer’s audio annotation project focused on European Portuguese. In this role, you’ll apply your expertise to help train next-generation AI systems. This engagement is ideal for those with extensive experience in language-related fields such as teaching, transcription, editing, translation, or journalism, or any background that demonstrates a deep familiarity with the nuances of European…\nSkills they're looking for: Portuguese, Dialect, Linguistics, Transcription, Portuguese Teaching.\nRefer and earn $100.\nFull details and the application are on micro1.",
+    "tags": [
+      "portuguese",
+      "dialect",
+      "linguistics",
+      "transcription"
+    ],
+    "createdAt": 1794848985000
+  },
+  {
+    "id": "micro1-physionet-competitor-biomedical-signal-processing-ml-539bd8bc",
+    "title": "PhysioNet Competitor (Biomedical Signal Processing & ML)",
+    "company": "micro1",
+    "category": "Data & AI",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$60 – $120 / hour",
+    "url": "https://jobs.micro1.ai/post/539bd8bc-374f-4c75-bf03-0648c3b9c47d?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Job Type: Contractor (~15 hours per week) micro1 is engaging specialists with experience in the PhysioNet Challenge or comparable biomedical signal processing and machine learning competitions. In this role, you will apply your scientific programming, signal processing, and modeling expertise to create, solve, and evaluate advanced technical problems that help improve next-generation AI systems.\nSkills they're looking for: Biotechnology, Biology, Machine Learning.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "biotechnology",
+      "biology",
+      "machine-learning"
+    ],
+    "createdAt": 1794847041000
+  },
+  {
+    "id": "micro1-competitive-data-scientist-kaggle-ef804d87",
+    "title": "Competitive Data Scientist (Kaggle)",
+    "company": "micro1",
+    "category": "Data & AI",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$60 – $120 / hour",
+    "url": "https://jobs.micro1.ai/post/ef804d87-812e-4f58-ab40-768af005ae11?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Job Type: Contractor (~15 hours per week) We're looking for data scientists, machine learning practitioners, and applied mathematics experts with competitive Data Science experience on Kaggle or other platforms.\nSkills they're looking for: ML Engineering, Data Science, Mathematics, Coding.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "ml-engineering",
+      "data-science",
+      "mathematics",
+      "coding"
+    ],
+    "createdAt": 1794846741000
+  },
+  {
+    "id": "micro1-aerodynamics-expert-fe5f2aeb",
+    "title": "Aerodynamics Expert",
+    "company": "micro1",
+    "category": "Science & Research",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$80 – $120 / hour",
+    "url": "https://jobs.micro1.ai/post/fe5f2aeb-ec81-4511-8309-9ae96bab37f6?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Job Type: Contractor (~15 hours per week) We are looking for a highly skilled Aerodynamics Expert to contribute to an AI training project involving computational fluid dynamics, aerodynamic analysis, engineering simulation, and Python.\nSkills they're looking for: Python, Aerodynamics.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "python",
+      "aerodynamics"
+    ],
+    "createdAt": 1794846501000
+  },
+  {
+    "id": "micro1-hardware-expert-9b4ec396",
+    "title": "Hardware Expert",
+    "company": "micro1",
+    "category": "Science & Research",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$60 – $120 / hour",
+    "url": "https://jobs.micro1.ai/post/9b4ec396-e531-477e-b879-67ed14ecff4f?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Job Type: Contractor (~15 hours per week) micro1 is engaging experienced Hardware Engineers to contribute to AI training projects built around complex, real-world engineering problems. In this role, you will use your technical expertise to create, solve, and evaluate engineering challenges that require sound judgment, quantitative reasoning, and reproducible answers.\nSkills they're looking for: RTL, Hardware.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "rtl",
+      "hardware"
+    ],
+    "createdAt": 1794846472000
+  },
+  {
+    "id": "micro1-mechanical-engineering-expert-bb9f4d6d",
+    "title": "Mechanical Engineering Expert",
+    "company": "micro1",
+    "category": "Engineering",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$60 – $120 / hour",
+    "url": "https://jobs.micro1.ai/post/bb9f4d6d-ac5b-4cc6-b17d-db1a60d3b754?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Job Type: Contractor (~15 hours per week) We are looking for a highly skilled Mechanical Engineering Expert to contribute to an AI training project involving engineering design, physical modeling, simulation, technical problem-solving, and Python.\nSkills they're looking for: Python, Mechanical Engineering.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "python",
+      "mechanical-engineering"
+    ],
+    "createdAt": 1794846378000
+  },
+  {
+    "id": "micro1-stem-expert-366e3893",
+    "title": "STEM Expert",
+    "company": "micro1",
+    "category": "Science & Research",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$60 – $120 / hour",
+    "url": "https://jobs.micro1.ai/post/366e3893-3656-4be7-8c6b-c236447b45b3?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Job Type: Contractor (~15 hours per week) We are looking for highly skilled STEM and scientific-domain experts to contribute to an AI training project involving technical problem-solving, scientific reasoning, data analysis, and Python.\nSkills they're looking for: Biology.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "biology"
+    ],
+    "createdAt": 1794846308000
+  },
+  {
+    "id": "micro1-portuguese-language-expert-brazil-3a6cc6dd",
+    "title": "Portuguese Language Expert (Brazil)",
+    "company": "micro1",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/3a6cc6dd-2765-4261-b282-a2451272d62b?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Portuguese Language Experts (Brazil) to contribute their deep understanding of Brazilian Portuguese language, dialects, and pedagogy to a customer's project. In this role, you'll apply your expertise to help train next-generation AI systems. Listen to and analyze multi-speaker conversational audio samples featuring a range of Brazilian Portuguese dialects and accents.\nSkills they're looking for: Brazilian Portuguese, Dialect, Linguistics, Transcription, Portuguese Teaching.\nRefer and earn $100.\nFull details and the application are on micro1.",
+    "tags": [
+      "brazilian-portuguese",
+      "dialect",
+      "linguistics",
+      "transcription"
+    ],
+    "createdAt": 1794846148000
+  },
+  {
+    "id": "micro1-spanish-language-expert-latam-077f11f6",
+    "title": "Spanish Language Expert (LATAM)",
+    "company": "micro1",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/077f11f6-9326-483c-be15-bdfd37544daa?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Spanish Language Experts (LATAM) to participate in a dynamic project for a valued customer. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. Listen to and analyze multi-speaker conversational audio samples featuring a range of Latin American Spanish dialects and accents.\nSkills they're looking for: LATAM Spanish, Dialect, Linguistics, Transcription, Spanish Teaching.\nRefer and earn $100.\nFull details and the application are on micro1.",
+    "tags": [
+      "latam-spanish",
+      "dialect",
+      "linguistics",
+      "transcription"
+    ],
+    "createdAt": 1794844630000
+  },
+  {
+    "id": "micro1-spanish-language-expert-mexico-909317e2",
+    "title": "Spanish Language Expert (Mexico)",
+    "company": "micro1",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/909317e2-a084-453a-8e79-9670d891b1cd?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Spanish Language Experts (Mexico) to contribute to an impactful customer project. In this role, you’ll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. Listen to multi-speaker conversational audio recordings, identifying and tagging key speaker and audio metadata such as dialect, accent, audio quality, background noise, age, and speaking style.\nSkills they're looking for: Mexican Spanish, Dialect, Linguistics, Transcription, Spanish Teaching.\nRefer and earn $100.\nFull details and the application are on micro1.",
+    "tags": [
+      "mexican-spanish",
+      "dialect",
+      "linguistics",
+      "transcription"
+    ],
+    "createdAt": 1794843398000
+  },
+  {
+    "id": "micro1-machine-learning-researcher-8dd58c0e",
+    "title": "Machine Learning Researcher",
+    "company": "micro1",
+    "category": "Data & AI",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$60 – $120 / hour",
+    "url": "https://jobs.micro1.ai/post/8dd58c0e-78c8-44b4-a8e3-0bfbfc1f765f?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Job Type: Contractor (~15 hours per week) We are looking for highly skilled Machine Learning Experts to contribute to an AI training project involving model development, training and inference systems, numerical computing, performance optimization, and Python.\nSkills they're looking for: Machine Learning.\nRefer and earn $500.\nFull details and the application are on micro1.",
+    "tags": [
+      "machine-learning"
+    ],
+    "createdAt": 1794843109000
+  },
+  {
+    "id": "micro1-applied-scientists-machine-learning-f65f4c3c",
+    "title": "Applied Scientists — Machine Learning",
+    "company": "micro1",
+    "category": "Data & AI",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$60 – $120 / hour",
+    "url": "https://jobs.micro1.ai/post/f65f4c3c-34b6-48bd-96bd-5f274f7dcd09?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Job Type: Contractor (~15 hours per week) We are looking for highly skilled Machine Learning Experts to contribute to an AI training project involving model development, training and inference systems, numerical computing, performance optimization, and Python.\nSkills they're looking for: Machine Learning.\nRefer and earn $500.\nFull details and the application are on micro1.",
+    "tags": [
+      "machine-learning"
+    ],
+    "createdAt": 1794843095000
+  },
+  {
+    "id": "micro1-spanish-language-expert-spain-efc79050",
+    "title": "Spanish Language Expert (Spain)",
+    "company": "micro1",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/efc79050-7290-4a01-b946-e245bda8be47?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Spanish Language Experts (Spain) to contribute to an impactful customer project. In this role, you’ll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required. Your domain knowledge is what matters.\nSkills they're looking for: Spanish, Dialect, Linguistics, Transcription, Spanish Teaching.\nRefer and earn $100.\nFull details and the application are on micro1.",
+    "tags": [
+      "spanish",
+      "dialect",
+      "linguistics",
+      "transcription"
+    ],
+    "createdAt": 1794842617000
+  },
+  {
+    "id": "micro1-ai-agent-tester-d4080820",
+    "title": "AI Agent Tester",
+    "company": "micro1",
+    "category": "Data & AI",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$25 – 45 / hour",
+    "url": "https://jobs.micro1.ai/post/d4080820-66c9-48b1-a29a-b8b1752b8e79?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Onboarding: Once you are presented to the hiring manager, onboarding typically takes 24–48 hours before you can start tasking. You’ll need: An active personal popular AI account (Free, Go, or Plus, Pro), an active personal and a smartphone that can screen record Your tasks: Run everyday errands with two AI agents, approve key steps, screen record, and score the results\nSkills they're looking for: ChatGPT, Muse, AI agents, Attention to Detail, Following Instructions, Screen Recording, Dots, Mobile.\nRefer and earn $100.\nFull details and the application are on micro1.",
+    "tags": [
+      "chatgpt",
+      "muse",
+      "ai-agents",
+      "attention-to-detail"
+    ],
+    "createdAt": 1794840489000
+  },
+  {
+    "id": "micro1-legal-research-attorney-2777ffe8",
+    "title": "Legal Research Attorney",
+    "company": "micro1",
+    "category": "Legal",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/2777ffe8-a4d3-42bd-9e88-567557742387?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Legal Research Attorneys to contribute expertise to a dynamic customer project. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. Review and assess AI-generated legal research, analysis, and written content for accuracy and completeness.\nSkills they're looking for: legal research, legal writing, analytical reasoning, westlaw, lexisnexis, bluebook citation, attention to detail, legal analysis.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "legal-research",
+      "legal-writing",
+      "analytical-reasoning",
+      "westlaw"
+    ],
+    "createdAt": 1794761369000
+  },
+  {
+    "id": "micro1-unreal-engine-developer-6c5c8f87",
+    "title": "Unreal Engine Developer",
+    "company": "micro1",
+    "category": "Engineering",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/6c5c8f87-fcbd-4535-b954-44d66eaff075?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging experienced Unreal Engine Developers to contribute their technical expertise to a customer project focused on training next-generation AI systems. In this role, you'll apply your hands-on game development and C++ programming experience to help improve how AI models understand and perform technical game development tasks. Apply Unreal Engine and C++ expertise to real-world game development scenarios and technical challenges.\nSkills they're looking for: unreal engine, c++, blueprints, gameplay systems development, debugging, optimization, technical communication, problem-solving.\nRefer and earn $500.\nFull details and the application are on micro1.",
+    "tags": [
+      "unreal-engine",
+      "c",
+      "blueprints",
+      "gameplay-systems-development"
+    ],
+    "createdAt": 1794760670000
+  },
+  {
+    "id": "micro1-physics-expert-gravity-and-holography-6051f146",
+    "title": "Physics Expert (Gravity and Holography)",
+    "company": "micro1",
+    "category": "Science & Research",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/6051f146-9e74-44ba-bd0e-6558aab95afa?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Physics Experts (Gravity and Holography) to participate in a frontier research-level physics benchmark project focused on gravity, cosmology, and holography. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters. Contributors may be selected for…\nSkills they're looking for: General Relativity, Cosmology, Holography, Quantum Field Theory, String Theory, LaTeX.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "general-relativity",
+      "cosmology",
+      "holography",
+      "quantum-field-theory"
+    ],
+    "createdAt": 1794651018000
+  },
+  {
+    "id": "micro1-physics-expert-quantum-optics-and-atomic-physics-72c41508",
+    "title": "Physics Expert (Quantum Optics and Atomic Physics)",
+    "company": "micro1",
+    "category": "Science & Research",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/72c41508-c619-471f-acb1-3ea0c5231254?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Physics Experts (Quantum Optics and Atomic Physics) to contribute to a customer's ambitious research-driven benchmarking project at the frontiers of quantum science. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters. This engagement focuses on…\nSkills they're looking for: Quantum Optics, Atomic Physics, Quantum Sensing, Optical Lattices, Laser Physics, LaTeX.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "quantum-optics",
+      "atomic-physics",
+      "quantum-sensing",
+      "optical-lattices"
+    ],
+    "createdAt": 1794648387000
+  },
+  {
+    "id": "micro1-physics-expert-phd-postdoc-94cc73a6",
+    "title": "Physics Expert (PhD / Postdoc)",
+    "company": "micro1",
+    "category": "Science & Research",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/94cc73a6-b8fe-496a-a8ad-4a3466db76f4?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Physics Experts (PhD / Postdoc) to contribute their advanced knowledge to a frontier research-level physics benchmark, supporting a customer’s innovative project. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters. This engagement spans a range of…\nSkills they're looking for: Physics, Theoretical Physics, Mathematical Physics, Quantum Physics, LaTeX.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "physics",
+      "theoretical-physics",
+      "mathematical-physics",
+      "quantum-physics"
+    ],
+    "createdAt": 1794646606000
+  },
+  {
+    "id": "micro1-english-language-expert-philippines-8b528fff",
+    "title": "English Language Expert (Philippines)",
+    "company": "micro1",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/8b528fff-055b-47ca-8cdc-184739ba9699?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging English Language Experts (Philippines) to contribute to an impactful customer project. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.\nSkills they're looking for: Filipino English, Dialect, Linguistics, Transcription, English Teaching.\nRefer and earn $100.\nFull details and the application are on micro1.",
+    "tags": [
+      "filipino-english",
+      "dialect",
+      "linguistics",
+      "transcription"
+    ],
+    "createdAt": 1794625506000
+  },
+  {
+    "id": "micro1-english-language-expert-australia-new-zealand-b6d7fe1e",
+    "title": "English Language Expert (Australia & New Zealand)",
+    "company": "micro1",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/b6d7fe1e-a497-44cc-8127-710cc96c1cc2?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging English Language Experts (Australia & New Zealand) to contribute to a dynamic linguistic project for a valued customer. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input.\nSkills they're looking for: Australian English, New Zealand English, Dialect, Linguistics, Transcription, English Teaching.\nRefer and earn $100.\nFull details and the application are on micro1.",
+    "tags": [
+      "australian-english",
+      "new-zealand-english",
+      "dialect",
+      "linguistics"
+    ],
+    "createdAt": 1794623133000
+  },
+  {
+    "id": "micro1-english-language-expert-nigeria-c2ec9f9e",
+    "title": "English Language Expert (Nigeria)",
+    "company": "micro1",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/c2ec9f9e-295f-4d28-97c1-718d98167faa?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging English Language Experts (Nigeria) to contribute to an impactful customer project. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. Listen to multi-speaker conversational audio recordings, identifying and tagging key speaker and audio metadata such as dialect, accent, audio quality, background noise, age, and speaking style.\nSkills they're looking for: Nigerian English, Dialect, Linguistics, Transcription, English Teaching.\nRefer and earn $100.\nFull details and the application are on micro1.",
+    "tags": [
+      "nigerian-english",
+      "dialect",
+      "linguistics",
+      "transcription"
+    ],
+    "createdAt": 1794620868000
+  },
+  {
+    "id": "micro1-english-language-expert-india-d092dbbf",
+    "title": "English Language Expert (India)",
+    "company": "micro1",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/d092dbbf-f5e8-4fe7-8372-fdce57e183f4?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging English Language Experts (India) to contribute linguistic and cultural expertise to a dynamic customer project. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input.\nSkills they're looking for: Indian English, Dialect, Linguistics, Transcription, English Teaching.\nRefer and earn $100.\nFull details and the application are on micro1.",
+    "tags": [
+      "indian-english",
+      "dialect",
+      "linguistics",
+      "transcription"
+    ],
+    "createdAt": 1794620345000
+  },
+  {
+    "id": "micro1-english-language-expert-south-africa-ec03eb79",
+    "title": "English Language Expert (South Africa)",
+    "company": "micro1",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/ec03eb79-d9bd-49f3-a84b-c8a0f2a004cf?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging English Language Experts (South Africa) to participate in a specialized audio annotation project for a customer, with a focus on the richness and diversity of South African English. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input.\nSkills they're looking for: South African English, Dialect, Linguistics, Transcription, English Teaching.\nRefer and earn $100.\nFull details and the application are on micro1.",
+    "tags": [
+      "south-african-english",
+      "dialect",
+      "linguistics",
+      "transcription"
+    ],
+    "createdAt": 1794619213000
+  },
+  {
+    "id": "micro1-english-language-expert-canada-8f706310",
+    "title": "English Language Expert (Canada)",
+    "company": "micro1",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/8f706310-56b8-4dec-acac-8101def703ab?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging English Language Experts (Canada) to contribute to a customer's audio annotation project focused on Canadian English. In this role, you'll apply your expertise to help train next-generation AI systems. This engagement is ideal for those with extensive experience in language-related fields such as teaching, transcription, editing, translation, or journalism—any background that demonstrates a deep familiarity with the nuances of Canadian English.\nSkills they're looking for: Canadian English, Dialect, Linguistics, Transcription, English Teaching.\nRefer and earn $100.\nFull details and the application are on micro1.",
+    "tags": [
+      "canadian-english",
+      "dialect",
+      "linguistics",
+      "transcription"
+    ],
+    "createdAt": 1794615241000
+  },
+  {
+    "id": "micro1-english-language-expert-ireland-7f7715e0",
+    "title": "English Language Expert (Ireland)",
+    "company": "micro1",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/7f7715e0-d3ca-4518-8f1a-2b922fa7ecc8?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging English Language Experts (Ireland) to participate in a specialized audio annotation project centered on Irish English for a customer initiative. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. Generalists with strong language backgrounds—such as in language teaching, transcription, editing, translation, or journalism—are…\nSkills they're looking for: Irish English, Dialect, Linguistics, Transcription, English Teaching.\nRefer and earn $100.\nFull details and the application are on micro1.",
+    "tags": [
+      "irish-english",
+      "dialect",
+      "linguistics",
+      "transcription"
+    ],
+    "createdAt": 1794606936000
+  },
+  {
+    "id": "micro1-english-language-expert-united-states-182d7d1f",
+    "title": "English Language Expert (United States)",
+    "company": "micro1",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/182d7d1f-0eaf-40bc-bb55-6d5c98272e1f?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging English Language Experts (United States) to contribute to a specialized audio annotation project focused on American English. In this role, you'll apply your expertise to help train next-generation AI systems. Contributors will work with diverse conversational audio, focusing on the rich variety of American English dialects and accents. Backgrounds in teaching, transcription, editing, translation, journalism, or other language-focused domains are…\nSkills they're looking for: American English, Dialect, Linguistics, Transcription, English Teaching.\nRefer and earn $100.\nFull details and the application are on micro1.",
+    "tags": [
+      "american-english",
+      "dialect",
+      "linguistics",
+      "transcription"
+    ],
+    "createdAt": 1794606119000
+  },
+  {
+    "id": "micro1-english-language-expert-great-britain-df76c277",
+    "title": "English Language Expert (Great Britain)",
+    "company": "micro1",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/df76c277-0561-43be-8df3-b252cf468d92?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging English Language Experts (Great Britain) to contribute to a customer's innovative audio annotation initiative focused on British English. In this role, you'll apply your expertise to help train next-generation AI systems. This opportunity emphasizes the importance of written and verbal communication, aiming for those with a passion for language and a keen ear for the diversity of British dialects and accents. Whether you have experience in teaching,…\nSkills they're looking for: British English, Dialect, Linguistics, Transcription, English Teaching.\nRefer and earn $100.\nFull details and the application are on micro1.",
+    "tags": [
+      "british-english",
+      "dialect",
+      "linguistics",
+      "transcription"
+    ],
+    "createdAt": 1794605391000
+  },
+  {
+    "id": "micro1-ground-combat-special-operations-sme-45a57090",
+    "title": "Ground Combat & Special Operations SME",
+    "company": "micro1",
+    "category": "Operations",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/45a57090-53c6-4c9b-9eeb-3d148d9f6209?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Ground Combat & Special Operations SMEs to contribute to a customer's project focused on advanced military-activity evaluation. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.\nSkills they're looking for: Combat, Special Ops, tactical operations.\nRefer and earn $100.\nFull details and the application are on micro1.",
+    "tags": [
+      "combat",
+      "special-ops",
+      "tactical-operations"
+    ],
+    "createdAt": 1794598984000
+  },
+  {
+    "id": "micro1-hematology-physician-b72e8b41",
+    "title": "Hematology Physician",
+    "company": "micro1",
+    "category": "Healthcare",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/b72e8b41-eadc-4b75-ba24-60fb852792c1?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Hematology Physicians to participate in a high-impact customer project focused on advancing clinical AI solutions. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. This opportunity is ideal for independent clinical experts interested in leveraging their hematology experience for transformative technology.\nSkills they're looking for: EHR, Hematology, Chemotherapy Cycles, History of Present Illness, Outpatient.\nRefer and earn $2,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "ehr",
+      "hematology",
+      "chemotherapy-cycles",
+      "history-of-present-illness"
+    ],
+    "createdAt": 1794595487000
+  },
+  {
+    "id": "micro1-contract-specialist-446f05ac",
+    "title": "Contract Specialist",
+    "company": "micro1",
+    "category": "Operations",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/446f05ac-d089-4214-ada6-02df5f1c12fe?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Contract Specialists to contribute expert federal procurement insights and contract management expertise to a customer’s project. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. This opportunity is ideal for individuals with a deep understanding of the federal acquisition lifecycle who can navigate pre-award and post-award…\nSkills they're looking for: Federal Contracting, Contract Negotiation, Pre-Award and Post-Award Procedures, GS-1102, Procurement, Proposal Evaluation.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "federal-contracting",
+      "contract-negotiation",
+      "pre-award-and-post-award-procedures",
+      "gs-1102"
+    ],
+    "createdAt": 1794592040000
+  },
+  {
+    "id": "micro1-software-engineer-staff-financial-platform-infra-92adefba",
+    "title": "Software Engineer (Staff), Financial Platform & Infra",
+    "company": "micro1",
+    "category": "Data & AI",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/92adefba-ef8c-4d8f-8eee-ed78c1c663b8?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Job Title: Software Engineer (Staff), Financial Platform & Infra We're looking for a Staff Software Engineer to architect and build our financial infrastructure from the ground up. You'll own the systems powering global payouts, payment processing, ledgering, reconciliation, and financial controls, ensuring every expert gets paid accurately and on time.\nSkills they're looking for: Financial Systems Architecture & 0-to-1 Engineering, Payments Infrastructure & Global Money Movement, Financial Data Integrity, Distributed Systems Reliability & Technical Ownership.\nRefer and earn $1,500.\nFull details and the application are on micro1.",
+    "tags": [
+      "financial-systems-architecture-0-to-1-engineering",
+      "payments-infrastructure-global-money-movement",
+      "financial-data-integrity",
+      "distributed-systems-reliability-technical-ownership"
+    ],
+    "createdAt": 1794561346000
+  },
+  {
+    "id": "micro1-legal-expert-employment-labor-law-6422f784",
+    "title": "Legal Expert (Employment & Labor Law)",
+    "company": "micro1",
+    "category": "Legal",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/6422f784-daa4-41a6-8614-7de3f9025dee?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Legal Experts (Employment & Labor Law) to contribute specialized knowledge to a customer-related initiative focused on legal data annotation. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters. Professionals participating in this project will…\nSkills they're looking for: Employment Attorney, Labor & Employment Counsel, Employment Litigation Attorney.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "employment-attorney",
+      "labor-employment-counsel",
+      "employment-litigation-attorney"
+    ],
+    "createdAt": 1794538982000
+  },
+  {
+    "id": "micro1-legal-expert-antitrust-competition-law-5faf40c0",
+    "title": "Legal Expert (Antitrust & Competition Law)",
+    "company": "micro1",
+    "category": "Legal",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/5faf40c0-a291-4ca9-bb45-be75d2dde2ed?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Legal Experts (Antitrust & Competition Law) to participate in a dynamic legal data annotation project for a leading client. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters. This opportunity is ideal for US-based antitrust attorneys and competition…\nSkills they're looking for: Antitrust Attorney, Competition Counsel, Antitrust Litigation Attorney.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "antitrust-attorney",
+      "competition-counsel",
+      "antitrust-litigation-attorney"
+    ],
+    "createdAt": 1794538710000
+  },
+  {
+    "id": "micro1-legal-expert-environmental-law-25101ed1",
+    "title": "Legal Expert (Environmental Law)",
+    "company": "micro1",
+    "category": "Legal",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/25101ed1-9065-439f-aea5-ce77efeb4ef4?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Legal Experts (Environmental Law) to participate in a high-impact project for a valued customer. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.\nSkills they're looking for: Environmental Attorney, Environmental Counsel, Environmental Litigation Attorney.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "environmental-attorney",
+      "environmental-counsel",
+      "environmental-litigation-attorney"
+    ],
+    "createdAt": 1794538409000
+  },
+  {
+    "id": "micro1-legal-expert-civil-rights-law-7eba9484",
+    "title": "Legal Expert (Civil Rights Law)",
+    "company": "micro1",
+    "category": "Legal",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/7eba9484-46ef-4914-a284-2159b2ccbd00?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Legal Expert (Civil Rights Law) professionals to contribute to a customer's project focused on advancing the capabilities of AI in recognizing and interpreting civil rights legal matters. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.\nSkills they're looking for: Civil Rights Attorney, Civil Rights Litigation Attorney, Civil Liberties Attorney.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "civil-rights-attorney",
+      "civil-rights-litigation-attorney",
+      "civil-liberties-attorney"
+    ],
+    "createdAt": 1794538141000
+  },
+  {
+    "id": "micro1-legal-expert-entertainment-law-22682b99",
+    "title": "Legal Expert (Entertainment Law)",
+    "company": "micro1",
+    "category": "Sales & Marketing",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/22682b99-ae27-4f3b-be90-188da60d44d2?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Legal Experts (Entertainment Law) to contribute to a customer's project focused on legal data annotation in the entertainment sector. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.\nSkills they're looking for: Entertainment Contract Drafting, Content Licensing, Talent Agreements, Copyright Law.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "entertainment-contract-drafting",
+      "content-licensing",
+      "talent-agreements",
+      "copyright-law"
+    ],
+    "createdAt": 1794537782000
+  },
+  {
+    "id": "micro1-software-engineer-staff-platform-engineering-55a1accf",
+    "title": "Software Engineer (Staff), Platform Engineering",
+    "company": "micro1",
+    "category": "Data & AI",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/55a1accf-d9b8-4883-a491-f6812d57f430?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Job Title: Software Engineer (Staff), Platform Engineering We’re looking for a highly technical, hands-on Staff Software Engineer to lead the architecture, development, and scalability of platforms powering our operations, AI data workflows, and intelligence systems.\nSkills they're looking for: Platform Engineering & System Architecture, Agentic Engineering & AI Systems, Data Engineering & Pipeline Architecture, Technical Leadership & Engineering Execution.\nRefer and earn $1,500.\nFull details and the application are on micro1.",
+    "tags": [
+      "platform-engineering-system-architecture",
+      "agentic-engineering-ai-systems",
+      "data-engineering-pipeline-architecture",
+      "technical-leadership-engineering-execution"
+    ],
+    "createdAt": 1794519259000
+  },
+  {
+    "id": "micro1-senior-commercial-underwriter-4ea412b2",
+    "title": "Senior Commercial Underwriter",
+    "company": "micro1",
+    "category": "Finance & Accounting",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$50 – $80 / hour",
+    "url": "https://jobs.micro1.ai/post/4ea412b2-4f96-4e39-8d18-3f1d28a53fd8?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is looking for experienced Senior Commercial Underwriters to support a customer project requiring expertise in commercial insurance risk assessment, pricing, and quoting. In this role, you will apply your professional underwriting knowledge to assess commercial risks, evaluate coverage requirements, and make informed decisions based on risk exposure, loss history, and underwriting principles.\nSkills they're looking for: commercial insurance underwriting, risk assessment, insurance pricing and quoting, coverage evaluation, loss history analysis.\nRefer and earn $500.\nFull details and the application are on micro1.",
+    "tags": [
+      "commercial-insurance-underwriting",
+      "risk-assessment",
+      "insurance-pricing-and-quoting",
+      "coverage-evaluation"
+    ],
+    "createdAt": 1794518257000
+  },
+  {
+    "id": "micro1-director-of-engineering-internal-platforms-0b2ca270",
+    "title": "Director of Engineering, Internal Platforms",
+    "company": "micro1",
+    "category": "Data & AI",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/0b2ca270-1e09-4198-9a5a-76c4fb6ec92d?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Job Title: Director of Engineering, Internal Platforms You’ll lead engineering for several of our core platforms: the shared services and internal systems that power our operations, our platform products, and the data, infrastructure, and DevOps foundation everything runs on. You’ll also own quality engineering across these areas. Working closely with product, you’ll set technical direction, raise the bar on execution, and grow the team through several senior hires.\nSkills they're looking for: Platform Engineering & System Architecture, AI Engineering & Agentic Systems, Quality Engineering & Test Automation, Technical Leadership & Engineering Execution.\nRefer and earn $1,500.\nFull details and the application are on micro1.",
+    "tags": [
+      "platform-engineering-system-architecture",
+      "ai-engineering-agentic-systems",
+      "quality-engineering-test-automation",
+      "technical-leadership-engineering-execution"
+    ],
+    "createdAt": 1794515204000
+  },
+  {
+    "id": "micro1-junior-machine-learning-engineer-7fc07dfa",
+    "title": "Junior Machine Learning Engineer",
+    "company": "micro1",
+    "category": "Data & AI",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$60 – $120 / hour",
+    "url": "https://jobs.micro1.ai/post/7fc07dfa-1d0e-4795-b8b2-805d3d41a48a?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Job Type: Contractor (~15 hours per week) We are looking for highly skilled Machine Learning Experts to contribute to an AI training project involving model development, training and inference systems, numerical computing, performance optimization, and Python.\nSkills they're looking for: Machine Learning.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "machine-learning"
+    ],
+    "createdAt": 1794513873000
+  },
+  {
+    "id": "micro1-student-loan-counselor-aebcf88d",
+    "title": "Student Loan Counselor",
+    "company": "micro1",
+    "category": "Finance & Accounting",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/aebcf88d-8858-4812-a239-2e90a8eb8def?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Student Loan Counselor/Advisors to contribute their expertise to a project supporting a customer’s needs in federal student loan servicing. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required; your domain knowledge is what matters.\nSkills they're looking for: Federal student loan knowledge, Repayment plans, Forgiveness and relief programs, Attention to detail, Remote work self-management.\nRefer and earn $500.\nFull details and the application are on micro1.",
+    "tags": [
+      "federal-student-loan-knowledge",
+      "repayment-plans",
+      "forgiveness-and-relief-programs",
+      "attention-to-detail"
+    ],
+    "createdAt": 1794496886000
+  },
+  {
+    "id": "micro1-enterprise-client-partner-enterprise-ai-b50510f6",
+    "title": "Enterprise Client Partner, Enterprise AI",
+    "company": "micro1",
+    "category": "Data & AI",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/b50510f6-633a-445a-aa53-e52080793f6c?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Job Title: Enterprise Client Partner, Enterprise AI\nSkills they're looking for: Client Acquisition, Outbound Prospecting, Enterprise Parnerships, Enterprise AI.\nRefer and earn $1,500.\nFull details and the application are on micro1.",
+    "tags": [
+      "client-acquisition",
+      "outbound-prospecting",
+      "enterprise-parnerships",
+      "enterprise-ai"
+    ],
+    "createdAt": 1794490620000
+  },
+  {
+    "id": "micro1-prompt-response-evaluator-9dd55f6b",
+    "title": "Prompt & Response Evaluator",
+    "company": "micro1",
+    "category": "Data & AI",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$45 – 70 / hour",
+    "url": "https://jobs.micro1.ai/post/9dd55f6b-f862-41a1-8412-4c3012507646?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Time commitment: Approximately 7.5 hours total Project duration: Short-term project, expected to run through November 18 You'll need: An active personal ChatGPT account (Free or Plus), access to a computer or smartphone, and availability during the project window. Your tasks: Interact with different versions of an AI assistant through everyday conversations, compare the overall experience, and provide structured ratings and brief written feedback.\nSkills they're looking for: ChatGPT, AI agents, Attention to Detail, Following Instructions.\nRefer and earn $100.\nFull details and the application are on micro1.",
+    "tags": [
+      "chatgpt",
+      "ai-agents",
+      "attention-to-detail",
+      "following-instructions"
+    ],
+    "createdAt": 1794478373000
+  },
+  {
+    "id": "micro1-paralegal-b381f79f",
+    "title": "Paralegal",
+    "company": "micro1",
+    "category": "Legal",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$40 – 80 / hour",
+    "url": "https://jobs.micro1.ai/post/b381f79f-a396-4815-97ad-141191db9d25?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Weekly commitment: ~10+ hours per week — organize them however works for you Your tasks: Apply your paralegal expertise to help train next-generation AI systems on legal work micro1 is engaging experienced paralegals to contribute to a client’s AI training initiative. Your legal expertise is what matters here — no prior AI experience required.\nSkills they're looking for: Legal Research and Verification, Document Review at Volume, Following Detailed Protocols Consistently, Law, Knowing When to Escalate, Attention to Detail, Deadlines.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "legal-research-and-verification",
+      "document-review-at-volume",
+      "following-detailed-protocols-consistently",
+      "law"
+    ],
+    "createdAt": 1794435720000
+  },
+  {
+    "id": "micro1-paralegal-law-student-legal-research-88710d5b",
+    "title": "Paralegal / Law Student — Legal Research",
+    "company": "micro1",
+    "category": "Legal",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$50 – 120 / hour",
+    "url": "https://jobs.micro1.ai/post/88710d5b-dcd2-47b4-9862-0d730d3eeaf2?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "You’ll need: Paralegal certification or an ABA-approved certificate, or current law school enrollment Your tasks: Apply your cite-checking and legal research expertise to a short, high-intensity project We’re looking for people whose cite-checking and research skills are current and sharp — the kind of work you do now, not something you last did years ago. Apply Bluebook rules and verify citations with precision across a range of source types.\nSkills they're looking for: NALA, NFPA, NALS, Bluebook citations, Legal Research, Law review, Law Journal, Citations.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "nala",
+      "nfpa",
+      "nals",
+      "bluebook-citations"
+    ],
+    "createdAt": 1794435038000
+  },
+  {
+    "id": "micro1-student-loan-servicing-specialist-d5ae2349",
+    "title": "Student Loan Servicing Specialist",
+    "company": "micro1",
+    "category": "Finance & Accounting",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/d5ae2349-5b7b-48a7-93e2-b7cfa8d1d29d?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Student Loan Servicing Specialists to contribute their expertise to a project supporting a customer’s needs in federal student loan servicing. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required; your domain knowledge is what matters. Drawing on your direct experience assisting federal…\nSkills they're looking for: Federal loan types, Repayment plans and current rules, PSLF payment counts, Deferment and forbearance, Delinquency and default, Servicing problems.\nRefer and earn $500.\nFull details and the application are on micro1.",
+    "tags": [
+      "federal-loan-types",
+      "repayment-plans-and-current-rules",
+      "pslf-payment-counts",
+      "deferment-and-forbearance"
+    ],
+    "createdAt": 1794416447000
+  },
+  {
+    "id": "micro1-equity-credit-research-expert-1372af5c",
+    "title": "Equity & Credit Research Expert",
+    "company": "micro1",
+    "category": "Finance & Accounting",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/1372af5c-e0d5-482d-ae96-72b845194268?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Equity & Credit Research Experts to participate in a dynamic project for one of its customers. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters. As an Equity & Credit Research Expert, you will leverage your deep knowledge of financial markets,…\nSkills they're looking for: financial analysis, equity research, credit research, financial modeling, credit risk evaluation, investment research, sector-specific market analysis, valuation methodologies.\nRefer and earn $500.\nFull details and the application are on micro1.",
+    "tags": [
+      "financial-analysis",
+      "equity-research",
+      "credit-research",
+      "financial-modeling"
+    ],
+    "createdAt": 1794408302000
+  },
+  {
+    "id": "micro1-medical-doctor-c05fd04c",
+    "title": "Medical Doctor",
+    "company": "micro1",
+    "category": "Healthcare",
+    "type": "Part-time",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/c05fd04c-2a07-44b0-973c-9271f7f4d5d2?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is seeking Medical Doctors from a variety of clinical backgrounds to contribute their expertise to a client's AI training project. In this role, you will apply your medical knowledge, clinical experience, and professional judgment to help improve how AI systems understand and evaluate medical information. This opportunity is open to physicians across different medical specialties who can provide accurate, thoughtful medical insights.\nSkills they're looking for: medical knowledge, clinical reasoning, analytical skills, attention to detail, evidence-based medicine, critical assessment, clear communication, medical information evaluation.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "medical-knowledge",
+      "clinical-reasoning",
+      "analytical-skills",
+      "attention-to-detail"
+    ],
+    "createdAt": 1794404202000
+  },
+  {
+    "id": "micro1-emergency-medicine-physician-87b7c0e5",
+    "title": "Emergency Medicine Physician",
+    "company": "micro1",
+    "category": "Healthcare",
+    "type": "Part-time",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/87b7c0e5-84ca-4d0f-aa7f-db24abf3bb20?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is looking for Emergency Medicine Physicians to contribute their clinical expertise to a client's AI training project. In this role, you will use your experience in emergency care, medical assessment, and clinical decision-making to help improve how AI systems interpret and reason through medical information. Your practical knowledge of acute care and emergency medicine will be valuable in evaluating medical content and supporting AI training.\nSkills they're looking for: emergency medicine, acute care assessment, clinical decision-making, medical information evaluation, analytical skills, attention to detail, clear written communication, ai training feedback.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "emergency-medicine",
+      "acute-care-assessment",
+      "clinical-decision-making",
+      "medical-information-evaluation"
+    ],
+    "createdAt": 1794403511000
+  },
+  {
+    "id": "micro1-radiologist-d6e056af",
+    "title": "Radiologist",
+    "company": "micro1",
+    "category": "Healthcare",
+    "type": "Part-time",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/d6e056af-2b3b-4e7c-bfac-4da0c473f551?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is seeking experienced Radiologists to contribute their medical expertise to a client's AI training project. In this role, you will apply your knowledge of diagnostic imaging and clinical interpretation to help improve how AI systems understand and evaluate medical information. Your expertise in radiology will support the development of AI systems capable of more accurate medical reasoning. Review and evaluate medical content related to radiology and diagnostic imaging.\nSkills they're looking for: radiology, diagnostic imaging, clinical decision-making, medical content evaluation, analytical skills, attention to detail, critical thinking, clear communication.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "radiology",
+      "diagnostic-imaging",
+      "clinical-decision-making",
+      "medical-content-evaluation"
+    ],
+    "createdAt": 1794402899000
+  },
+  {
+    "id": "micro1-family-medicine-physician-ff8a1e9d",
+    "title": "Family Medicine Physician",
+    "company": "micro1",
+    "category": "Sales & Marketing",
+    "type": "Part-time",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/ff8a1e9d-e311-4cae-a30c-2d6de88401b0?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is looking for Family Medicine Physicians to contribute their medical expertise to a client's AI training project. In this role, you will apply your clinical knowledge and professional judgment to help improve how AI systems understand and reason through medical information. Your experience in primary care and patient management will be valuable in evaluating medical content and supporting the development of more accurate AI systems.\nSkills they're looking for: clinical reasoning, primary care, medical content evaluation, analytical skills, attention to detail.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "clinical-reasoning",
+      "primary-care",
+      "medical-content-evaluation",
+      "analytical-skills"
+    ],
+    "createdAt": 1794402669000
+  },
+  {
+    "id": "micro1-software-engineer-backend-e5a0105a",
+    "title": "Software Engineer - Backend",
+    "company": "micro1",
+    "category": "Engineering",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$50 – 100",
+    "url": "https://jobs.micro1.ai/post/e5a0105a-1535-4ea8-97ff-d6ff43441e42?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "You’ll need: Hands-on expertise in at least one of Python, Java, Rust, Go, C++, or TypeScript Your tasks: Build challenging coding problems from real repositories, with reproducible environments and verifiers\nSkills they're looking for: Python3, JAVA, Rust, Algorithms, Basics C++, Typescript, bug fixing, feature implementation.\nRefer and earn $3,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "python3",
+      "java",
+      "rust",
+      "algorithms"
+    ],
+    "createdAt": 1794402459000
+  },
+  {
+    "id": "micro1-software-engineer-14f2ea89",
+    "title": "Software Engineer",
+    "company": "micro1",
+    "category": "Engineering",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$50 – 100",
+    "url": "https://jobs.micro1.ai/post/14f2ea89-1bc3-4cdb-b43a-d26a8d755c00?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "You’ll need: Hands-on expertise in at least one of Python, Java, Rust, Go, C++, or TypeScript Your tasks: Build challenging coding problems from real repositories, with reproducible environments and verifiers\nSkills they're looking for: Python3, JAVA, Rust, Algorithms, Basics C++, Typescript, bug fixing, feature implementation.\nRefer and earn $3,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "python3",
+      "java",
+      "rust",
+      "algorithms"
+    ],
+    "createdAt": 1794401082000
+  },
+  {
+    "id": "micro1-independent-consultant-entrepreneur-sales-marketing-business-strategy-domain-expert-a5a8e66f",
+    "title": "Independent Consultant/Entrepreneur, Sales, Marketing & Business Strategy (Domain Expert)",
+    "company": "micro1",
+    "category": "Sales & Marketing",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/a5a8e66f-5037-4773-ab96-4baf6d40883f?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Independent Consultant, Sales, Marketing & Business Strategy (Domain Expert)s to contribute domain expertise to a customer's project. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.\nSkills they're looking for: sales strategy, marketing strategy, business strategy, crm systems, saas tools, market analysis, client communication, workflow optimization.\nRefer and earn $500.\nFull details and the application are on micro1.",
+    "tags": [
+      "sales-strategy",
+      "marketing-strategy",
+      "business-strategy",
+      "crm-systems"
+    ],
+    "createdAt": 1794376707000
+  },
+  {
+    "id": "micro1-independent-consultant-entrepreneur-finance-data-engineering-domain-expert-74769642",
+    "title": "Independent Consultant/Entrepreneur, Finance, Data & Engineering (Domain Expert)",
+    "company": "micro1",
+    "category": "Data & AI",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/74769642-30f7-4b92-a185-de399d703aa1?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Independent Consultants, Finance, Data & Engineering (Domain Experts) to participate in a unique project supporting a customer's AI initiatives. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.\nSkills they're looking for: finance and accounting expertise, data analysis, software engineering, technical documentation, spreadsheets (e.g., excel), business intelligence (bi) platforms, accounting software, programming (e.g., python, r).\nRefer and earn $500.\nFull details and the application are on micro1.",
+    "tags": [
+      "finance-and-accounting-expertise",
+      "data-analysis",
+      "software-engineering",
+      "technical-documentation"
+    ],
+    "createdAt": 1794376643000
+  },
+  {
+    "id": "micro1-independent-professional-solopreneur-domain-expert-b73fa23f",
+    "title": "Independent Professional & Solopreneur (Domain Expert)",
+    "company": "micro1",
+    "category": "Business & Consulting",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/b73fa23f-4011-464f-89a2-8e8d8e72d8b9?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Independent Professionals & Solopreneurs (Domain Experts) to contribute their specialized knowledge to a dynamic customer project. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.\nSkills they're looking for: domain-expertise, client-relationship-management, written-communication, analytical-thinking, ai-content-evaluation.\nRefer and earn $300.\nFull details and the application are on micro1.",
+    "tags": [
+      "domain-expertise",
+      "client-relationship-management",
+      "written-communication",
+      "analytical-thinking"
+    ],
+    "createdAt": 1794376368000
+  },
+  {
+    "id": "micro1-sr-full-stack-software-engineer-03ef0cc7",
+    "title": "Sr. Full-Stack Software Engineer",
+    "company": "micro1",
+    "category": "Engineering",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/03ef0cc7-8c09-466f-9b37-b4d8b3c97de5?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Job Type: Contractor (~15 hours per week) We are looking for highly skilled Full-Stack Software Engineers to contribute to an AI training project involving software development, technical problem-solving, debugging, system architecture, and code evaluation.\nSkills they're looking for: Python, React, JavaScript, JAVA, Node.js, Rust, GoLang, Typescript.\nRefer and earn $3,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "python",
+      "react",
+      "javascript",
+      "java"
+    ],
+    "createdAt": 1794367333000
+  },
+  {
+    "id": "micro1-federal-equal-employment-specialist-ea0f5010",
+    "title": "Federal Equal Employment Specialist",
+    "company": "micro1",
+    "category": "Government & Defense",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/ea0f5010-c2e8-4102-b715-72d1a368a19f?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Federal Equal Employment Specialists to contribute to a dynamic customer project focused on advancing expertise in equal opportunity and compliance. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input.\nSkills they're looking for: EEO Law, Conflict Resolution, Discrimination Complaints, Position Classification, GS-0260.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "eeo-law",
+      "conflict-resolution",
+      "discrimination-complaints",
+      "position-classification"
+    ],
+    "createdAt": 1794354598000
+  },
+  {
+    "id": "micro1-software-engineer-open-source-contributions-f773a48d",
+    "title": "Software Engineer - Open Source Contributions",
+    "company": "micro1",
+    "category": "Engineering",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/f773a48d-1b5f-4bb6-8b56-a6d72f3fb9c5?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Software Engineer — Open Source Contributions experts to participate in an impactful customer project focused on high-quality, open source software development. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.\nSkills they're looking for: Python3, JAVA, Rust, Algorithms, Basics C++, Typescript, bug fixing, feature implementation.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "python3",
+      "java",
+      "rust",
+      "algorithms"
+    ],
+    "createdAt": 1794352120000
+  },
+  {
+    "id": "micro1-medical-oncologist-868d0dba",
+    "title": "Medical Oncologist",
+    "company": "micro1",
+    "category": "Healthcare",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$100 – $150 / hour",
+    "url": "https://jobs.micro1.ai/post/868d0dba-30bc-411e-baff-43b0c90e42ba?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is looking for experienced Medical Oncologists to support a customer project focused on improving AI-generated clinical documentation. In this role, you'll use your clinical expertise to evaluate AI-generated transcripts and medical notes from outpatient oncology encounters. Your feedback will help improve the accuracy, completeness, and clinical relevance of AI-assisted documentation.\nSkills they're looking for: medical oncology, clinical documentation, ehr systems, ai-generated clinical note review, solid tumor management.\nRefer and earn $2,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "medical-oncology",
+      "clinical-documentation",
+      "ehr-systems",
+      "ai-generated-clinical-note-review"
+    ],
+    "createdAt": 1794350075000
+  },
+  {
+    "id": "micro1-hematologist-4bf88f49",
+    "title": "Hematologist",
+    "company": "micro1",
+    "category": "Healthcare",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$100 – $150 / hour",
+    "url": "https://jobs.micro1.ai/post/4bf88f49-2a1f-453f-91e5-c38dddf4afaf?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is looking for experienced Hematologists to support a customer project focused on improving AI-generated clinical documentation. In this role, you'll use your clinical expertise to evaluate AI-generated transcripts and medical notes from outpatient hematology encounters. Your feedback will help improve the accuracy, completeness, and clinical relevance of AI-assisted documentation.\nSkills they're looking for: hematology expertise, clinical documentation review, ehr (electronic health record) documentation, written communication, attention to detail.\nRefer and earn $2,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "hematology-expertise",
+      "clinical-documentation-review",
+      "ehr-electronic-health-record-documentation",
+      "written-communication"
+    ],
+    "createdAt": 1794349749000
+  },
+  {
+    "id": "micro1-pediatric-hematology-oncology-physician-51a68d9c",
+    "title": "Pediatric Hematology/Oncology Physician",
+    "company": "micro1",
+    "category": "Healthcare",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$100 – $150 / hour",
+    "url": "https://jobs.micro1.ai/post/51a68d9c-317c-49bd-bf15-8acc722179c6?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Role: Pediatric Hematology/Oncology Physician micro1 is looking for experienced Pediatric Hematology/Oncology Physicians to support a customer project focused on improving AI-generated clinical documentation.\nSkills they're looking for: pediatric hematology/oncology expertise, clinical documentation review, chemotherapy management, electronic health record (ehr) documentation, ai-generated clinical note evaluation, attention to clinical detail, written communication, medical chart review.\nRefer and earn $2,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "pediatric-hematology-oncology-expertise",
+      "clinical-documentation-review",
+      "chemotherapy-management",
+      "electronic-health-record-ehr-documentation"
+    ],
+    "createdAt": 1794348830000
+  },
+  {
+    "id": "micro1-social-insurance-specialist-b97a4898",
+    "title": "Social Insurance Specialist",
+    "company": "micro1",
+    "category": "Operations",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/b97a4898-3ce1-4aeb-bb5a-a4c51e6e422b?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Social Insurance Specialists to participate in an impactful project supporting our customer's needs. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.\nSkills they're looking for: Fraud Detection, System Operations, Adjudicate Claims, GS-0105.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "fraud-detection",
+      "system-operations",
+      "adjudicate-claims",
+      "gs-0105"
+    ],
+    "createdAt": 1794333130000
+  },
+  {
+    "id": "micro1-preventive-cardiologist-61506be4",
+    "title": "Preventive Cardiologist",
+    "company": "micro1",
+    "category": "Healthcare",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$80 – $285 / hour",
+    "url": "https://jobs.micro1.ai/post/61506be4-d46b-40fe-bd20-0fc245c4aa4e?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is looking for experienced Preventive Cardiologists to contribute their expertise to AI training and evaluation projects focused on cardiovascular risk assessment, preventive medicine, and long-term cardiovascular health management. Review AI-generated medical information related to cardiovascular prevention and risk reduction. Evaluate clinical scenarios involving hypertension, dyslipidemia, atherosclerosis, and cardiovascular risk factors.\nSkills they're looking for: preventive cardiology, cardiovascular risk assessment, evidence-based medicine, clinical scenario evaluation, medical content review, hypertension management, dyslipidemia management, atherosclerosis management.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "preventive-cardiology",
+      "cardiovascular-risk-assessment",
+      "evidence-based-medicine",
+      "clinical-scenario-evaluation"
+    ],
+    "createdAt": 1794324779000
+  },
+  {
+    "id": "micro1-heart-failure-transplant-cardiologist-fddfeff8",
+    "title": "Heart Failure & Transplant Cardiologist",
+    "company": "micro1",
+    "category": "Healthcare",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$80 – $285 / hour",
+    "url": "https://jobs.micro1.ai/post/fddfeff8-377c-4bc8-b625-8485634d6b3b?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Heart Failure & Transplant Cardiologist – AI Trainer micro1 is seeking experienced Cardiologists specializing in heart failure and advanced cardiovascular care to contribute to AI training and evaluation projects. This opportunity involves applying specialized clinical knowledge to assess AI-generated medical information related to heart failure, complex cardiovascular conditions, and advanced treatment strategies.\nSkills they're looking for: heart failure management, cardiology, advanced cardiovascular therapies, clinical reasoning, evidence-based medicine, mechanical circulatory support, transplant cardiology, medical content evaluation.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "heart-failure-management",
+      "cardiology",
+      "advanced-cardiovascular-therapies",
+      "clinical-reasoning"
+    ],
+    "createdAt": 1794324527000
+  },
+  {
+    "id": "micro1-cardiac-electrophysiologist-7a2d57b4",
+    "title": "Cardiac Electrophysiologist",
+    "company": "micro1",
+    "category": "Other",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$80 – $285 / hour",
+    "url": "https://jobs.micro1.ai/post/7a2d57b4-20d1-4191-887f-65e554fb5ca8?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is looking for experienced Cardiac Electrophysiologists to support AI training and evaluation projects involving cardiac arrhythmias, electrophysiological diagnostics, and rhythm management. Review AI-generated medical content related to cardiac electrophysiology. Evaluate clinical scenarios involving arrhythmias, ECG interpretation, and rhythm disorders. Assess medical reasoning related to pacemakers, implantable defibrillators, and catheter ablation.\nSkills they're looking for: cardiac electrophysiology, ecg interpretation, arrhythmia diagnosis and management, clinical reasoning, evidence-based feedback, medical data annotation, ai evaluation, english communication.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "cardiac-electrophysiology",
+      "ecg-interpretation",
+      "arrhythmia-diagnosis-and-management",
+      "clinical-reasoning"
+    ],
+    "createdAt": 1794324434000
+  },
+  {
+    "id": "micro1-cardiac-imaging-specialist-e456304b",
+    "title": "Cardiac Imaging Specialist",
+    "company": "micro1",
+    "category": "Other",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$80 – $285 / hour",
+    "url": "https://jobs.micro1.ai/post/e456304b-4e61-4180-b5a6-262f1a1fe678?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is seeking Cardiologists specializing in cardiovascular imaging to contribute to AI training and evaluation projects. This opportunity focuses on applying clinical expertise in cardiac imaging, diagnostic interpretation, and cardiovascular assessment to improve AI-generated medical information. Evaluate AI-generated interpretations and explanations of cardiovascular imaging findings.\nSkills they're looking for: cardiac imaging, echocardiography, cardiac mri, cardiac ct, diagnostic interpretation, medical terminology, clinical reasoning, ai evaluation.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "cardiac-imaging",
+      "echocardiography",
+      "cardiac-mri",
+      "cardiac-ct"
+    ],
+    "createdAt": 1794324328000
+  },
+  {
+    "id": "micro1-interventional-cardiologist-2605f5d4",
+    "title": "Interventional Cardiologist",
+    "company": "micro1",
+    "category": "Healthcare",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$80 – $285 / hour",
+    "url": "https://jobs.micro1.ai/post/2605f5d4-e510-4dda-88b4-c6d1c18cbbab?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is looking for experienced Interventional Cardiologists to support AI training and evaluation projects requiring specialized knowledge of cardiovascular interventions, coronary artery disease, and catheter-based procedures. Evaluate AI-generated clinical information related to interventional cardiology. Review medical scenarios involving coronary angiography, angioplasty, and stent placement.\nSkills they're looking for: interventional cardiology, coronary angiography, angioplasty, stent placement, catheter-based procedures, cardiovascular interventions, medical scenario evaluation, clinical accuracy assessment.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "interventional-cardiology",
+      "coronary-angiography",
+      "angioplasty",
+      "stent-placement"
+    ],
+    "createdAt": 1794324115000
+  },
+  {
+    "id": "micro1-codeforces-problem-setter-dad9a875",
+    "title": "Codeforces Problem Setter",
+    "company": "micro1",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$30 – $100",
+    "url": "https://jobs.micro1.ai/post/dad9a875-3de2-4e79-b538-132574dab8d2?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "You’ll need: Strong competitive programming background and advanced C++ Your tasks: Create original competitive programming problems with reference solutions and robust test suites You’ll create Reinforcement Learning Environments that test a model’s ability to solve hard algorithmic problems. Each task means writing an original problem that doesn’t exist on any online judge, a correct reference solution, and a test suite strong enough that a wrong solution fails.\nSkills they're looking for: Basics C++, C++, Competitive Programming, CodeForces Handle, Open Source Contributions.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "basics-c",
+      "c",
+      "competitive-programming",
+      "codeforces-handle"
+    ],
+    "createdAt": 1794322607000
+  },
+  {
+    "id": "micro1-general-cardiologist-1504ee4d",
+    "title": "General Cardiologist",
+    "company": "micro1",
+    "category": "Healthcare",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$80 – $285 / hour",
+    "url": "https://jobs.micro1.ai/post/1504ee4d-851b-4968-b936-9d96a995ff25?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is seeking Cardiologists specializing in cardiovascular imaging to contribute to AI training and evaluation projects. This opportunity focuses on applying clinical expertise in cardiac imaging, diagnostic interpretation, and cardiovascular assessment to improve AI-generated medical information. Evaluate AI-generated interpretations and explanations of cardiovascular imaging findings.\nSkills they're looking for: cardiac imaging interpretation, echocardiography, cardiac mri, cardiac ct, clinical reasoning, diagnostic evaluation, medical terminology (cardiology), feedback delivery.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "cardiac-imaging-interpretation",
+      "echocardiography",
+      "cardiac-mri",
+      "cardiac-ct"
+    ],
+    "createdAt": 1794321848000
+  },
+  {
+    "id": "micro1-paralegal-general-fa54d567",
+    "title": "Paralegal (General)",
+    "company": "micro1",
+    "category": "Legal",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/fa54d567-3111-4f8d-aa13-5454144ede77?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Paralegal (General)s to contribute to a customer’s project focused on legal data annotation. In this role, you’ll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters. Experienced US-based law firm paralegals are encouraged to participate, especially those adept in…\nSkills they're looking for: Legal Research, Document Review, Case File Management, Drafting Pleadings & Filings, eDiscovery Tools (Relativity).\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "legal-research",
+      "document-review",
+      "case-file-management",
+      "drafting-pleadings-filings"
+    ],
+    "createdAt": 1794288252000
+  },
+  {
+    "id": "micro1-legal-expert-employment-labor-f41c299b",
+    "title": "Legal Expert (Employment & Labor)",
+    "company": "micro1",
+    "category": "Legal",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/f41c299b-b54a-4919-a119-2b9bb67ea638?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Legal Expert (Employment & Labor)s to contribute to a dynamic project focused on enhancing legal data annotation processes for a customer. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters. This engagement emphasizes analytical contributions, with a…\nSkills they're looking for: Employment Litigation, Wage & Hour Compliance, Workplace Investigations, Employment Agreement Drafting, ERISA & Benefits.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "employment-litigation",
+      "wage-hour-compliance",
+      "workplace-investigations",
+      "employment-agreement-drafting"
+    ],
+    "createdAt": 1794288086000
+  },
+  {
+    "id": "micro1-legal-expert-intellectual-property-79aa5dad",
+    "title": "Legal Expert (Intellectual Property)",
+    "company": "micro1",
+    "category": "Legal",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/79aa5dad-4ce0-49bd-8d38-d20f5aeb0cd9?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Legal Experts (Intellectual Property) to support a customer-facing project focused on legal data annotation across patents, IP litigation, trademarks, copyright, licensing, and trade secrets. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.\nSkills they're looking for: Patent Prosecution, IP Litigation, Trademark & Copyright Law, IP Licensing Agreements, Trade Secret Protection.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "patent-prosecution",
+      "ip-litigation",
+      "trademark-copyright-law",
+      "ip-licensing-agreements"
+    ],
+    "createdAt": 1794287882000
+  },
+  {
+    "id": "micro1-legal-expert-litigation-disputes-7fd100a0",
+    "title": "Legal Expert (Litigation & Disputes)",
+    "company": "micro1",
+    "category": "Legal",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/7fd100a0-19a0-4c5d-9cc0-d690ed3df112?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Legal Experts (Litigation & Disputes) to contribute to an innovative project centered on the annotation and review of legal data for a valued customer. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters. Participants will leverage their litigation…\nSkills they're looking for: Civil Procedure, Motion Practice & Brief Writing, eDiscovery, Advanced Legal Research, Trial & Appellate Advocacy.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "civil-procedure",
+      "motion-practice-brief-writing",
+      "ediscovery",
+      "advanced-legal-research"
+    ],
+    "createdAt": 1794287671000
+  },
+  {
+    "id": "micro1-legal-expert-corporate-m-a-a17eaf55",
+    "title": "Legal Expert (Corporate & M&A)",
+    "company": "micro1",
+    "category": "Legal",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/a17eaf55-907e-4908-9d9e-5a5e2b604f79?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Legal Experts (Corporate & M&A) to contribute expertise to a customer’s project focused on legal data annotation within M&A, corporate governance, commercial contracts, and securities regulation. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.…\nSkills they're looking for: M&A Transaction Structuring, Corporate Due Diligence, Corporate Governance, Commercial Contract Drafting, Securities Law.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "m-a-transaction-structuring",
+      "corporate-due-diligence",
+      "corporate-governance",
+      "commercial-contract-drafting"
+    ],
+    "createdAt": 1794287187000
+  },
+  {
+    "id": "micro1-counterintelligence-technology-program-sme-ai-evaluation-contract-69ce4f10",
+    "title": "Counterintelligence Technology & Program SME — AI Evaluation (Contract)",
+    "company": "micro1",
+    "category": "Data & AI",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/69ce4f10-b0cc-4ca0-93d4-ad306254e0cc?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Counterintelligence Technology & Program SME — AI Evaluation (Contract)s to contribute critical subject matter expertise to a customer's project focused on the development and evaluation of advanced AI systems for security applications. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required —…\nSkills they're looking for: CI Threat Judgement, Legitimate/prohibited discrimination, Program and technology sense, Source handling and uncertainty.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "ci-threat-judgement",
+      "legitimate-prohibited-discrimination",
+      "program-and-technology-sense",
+      "source-handling-and-uncertainty"
+    ],
+    "createdAt": 1794285632000
+  },
+  {
+    "id": "micro1-music-expert-music-teacher-musician-31c338ae",
+    "title": "Music Expert (Music Teacher / Musician)",
+    "company": "micro1",
+    "category": "Education",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/31c338ae-d98a-4039-9fbf-263de454f0c6?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Music Experts (Music Teachers / Musicians) to contribute their analytical listening and music theory expertise to a unique customer project. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.\nSkills they're looking for: Analytical Listening, Music Theory Knowledge, Conservatory Degree, Audio Annotation.\nRefer and earn $100.\nFull details and the application are on micro1.",
+    "tags": [
+      "analytical-listening",
+      "music-theory-knowledge",
+      "conservatory-degree",
+      "audio-annotation"
+    ],
+    "createdAt": 1794285586000
+  },
+  {
+    "id": "micro1-hematology-oncology-physician-172b81f5",
+    "title": "Hematology/Oncology Physician",
+    "company": "micro1",
+    "category": "Healthcare",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/172b81f5-b398-4f2a-8949-15b2dae8bd5c?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Hematology/Oncology Physicians to contribute expertise and insights to a forward-thinking customer project. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. This is an exciting opportunity for professionals who have recently practiced outpatient hematology/oncology after fellowship, and who are passionate about accurate…\nSkills they're looking for: Hematology, Oncology, Outpatient Care, History of Present Illness, Chemotherapy Cycles.\nRefer and earn $2,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "hematology",
+      "oncology",
+      "outpatient-care",
+      "history-of-present-illness"
+    ],
+    "createdAt": 1794273267000
+  },
+  {
+    "id": "micro1-ai-video-editor-premiere-pro-after-effects-39b344d9",
+    "title": "AI Video Editor (Premiere Pro & After Effects)",
+    "company": "micro1",
+    "category": "Data & AI",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/39b344d9-4774-4c9e-8220-620084da3df5?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging AI Video Editors (Premiere Pro & After Effects) to contribute to a customer's project focused on video data annotation and AI training. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.\nSkills they're looking for: Adobe Premiere Pro, Adobe After Effects, Professional Video Editing, Motion Graphics.\nRefer and earn $100.\nFull details and the application are on micro1.",
+    "tags": [
+      "adobe-premiere-pro",
+      "adobe-after-effects",
+      "professional-video-editing",
+      "motion-graphics"
+    ],
+    "createdAt": 1794267417000
+  },
+  {
+    "id": "micro1-emerging-technology-threat-strategic-competition-advisor-4e0beed7",
+    "title": "Emerging Technology Threat / Strategic Competition Advisor",
+    "company": "micro1",
+    "category": "Other",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/4e0beed7-fd35-4d80-8392-0d3531784fc2?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Emerging Technology Threat / Strategic Competition Advisors to contribute to a customer’s project focused on evaluating AI reasoning in strategic and threat assessment contexts. In this role, you’ll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.\nSkills they're looking for: Emerging-tech threat assessment, Strategic/competitive reasoning, Legitimate/prohibited discrimination.\nRefer and earn $500.\nFull details and the application are on micro1.",
+    "tags": [
+      "emerging-tech-threat-assessment",
+      "strategic-competitive-reasoning",
+      "legitimate-prohibited-discrimination"
+    ],
+    "createdAt": 1794246593000
+  },
+  {
+    "id": "micro1-ai-trainer-mathematics-statistics-36e76ca9",
+    "title": "AI Trainer (Mathematics & Statistics)",
+    "company": "micro1",
+    "category": "Data & AI",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$60 – $120 / hour",
+    "url": "https://jobs.micro1.ai/post/36e76ca9-8c78-4508-ad3a-817e9a12dfea?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is looking for Computational Mathematicians, Statisticians, and Optimization Experts with prior professional AI-training or model-evaluation experience to support a project focused on improving advanced AI systems.\nSkills they're looking for: Mathematics & Statistics, AI Training, Programming Skills.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "mathematics-statistics",
+      "ai-training",
+      "programming-skills"
+    ],
+    "createdAt": 1794243032000
+  },
+  {
+    "id": "micro1-ai-trainer-earth-environmental-sciences-68fc2230",
+    "title": "AI Trainer (Earth & Environmental Sciences)",
+    "company": "micro1",
+    "category": "Data & AI",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$60 – $120 / hour",
+    "url": "https://jobs.micro1.ai/post/68fc2230-56cf-4d7f-a4d0-037b4515b01b?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is looking for Computational Earth and Environmental Scientists with prior professional AI-training or model-evaluation experience to support a project focused on improving advanced AI systems.\nSkills they're looking for: Earth & Environmental Sciences, AI Training, Programming Skills.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "earth-environmental-sciences",
+      "ai-training",
+      "programming-skills"
+    ],
+    "createdAt": 1794242454000
+  },
+  {
+    "id": "micro1-ai-trainer-physical-sciences-7d277cc0",
+    "title": "AI Trainer (Physical Sciences)",
+    "company": "micro1",
+    "category": "Data & AI",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$60 – $120 / hour",
+    "url": "https://jobs.micro1.ai/post/7d277cc0-9dff-4c17-b08e-2ae37a72c9c8?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is looking for Computational Physical Scientists with prior professional AI-training or model-evaluation experience to support a project focused on improving advanced AI systems.\nSkills they're looking for: Physics, AI Training, Programming Skills.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "physics",
+      "ai-training",
+      "programming-skills"
+    ],
+    "createdAt": 1794242140000
+  },
+  {
+    "id": "micro1-senior-ai-trainer-us-based-f6804ec4",
+    "title": "Senior AI Trainer (US Based)",
+    "company": "micro1",
+    "category": "Data & AI",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/f6804ec4-4927-4cf7-a08d-fa49b327ed7e?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Senior AI Video Trainers (US Based) to participate in a transformative AI project for a leading customer. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. Compare and evaluate AI-generated videos, exercising professional judgment to select the higher-quality videos.\nSkills they're looking for: Video Editing, Filmmaking, Video Annotation, AI Training, Motion Graphics.\nRefer and earn $100.\nFull details and the application are on micro1.",
+    "tags": [
+      "video-editing",
+      "filmmaking",
+      "video-annotation",
+      "ai-training"
+    ],
+    "createdAt": 1794240964000
+  },
+  {
+    "id": "micro1-ai-trainer-life-sciences-897f0ed9",
+    "title": "AI Trainer (Life Sciences)",
+    "company": "micro1",
+    "category": "Data & AI",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$60 – $120 / hour",
+    "url": "https://jobs.micro1.ai/post/897f0ed9-1fec-447a-a48a-7d188823b207?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is looking for Computational Life Scientists with prior professional AI-training or model-evaluation experience to support a project focused on improving advanced AI systems.\nSkills they're looking for: Biology, Mathematics, Ecology, Materials Sciences, Earth, Climate and Oceans, Statistics, AI Training.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "biology",
+      "mathematics",
+      "ecology",
+      "materials-sciences"
+    ],
+    "createdAt": 1794240472000
+  },
+  {
+    "id": "micro1-operational-law-attorney-jag-sme-59a35ba0",
+    "title": "Operational Law Attorney (JAG) SME",
+    "company": "micro1",
+    "category": "Legal",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/59a35ba0-5494-4934-8eb9-bbf2b0eb25e8?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Operational Law Attorney (JAG) subject matter experts to contribute to a high-impact customer project addressing the legal boundaries of military activities and surveillance/privacy evaluations. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.\nSkills they're looking for: Operational LOAC judgment, Proportionality & distinction analysis, Legal-uncertainty reasoning, Civilian-protection reasoning, JAG expertise.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "operational-loac-judgment",
+      "proportionality-distinction-analysis",
+      "legal-uncertainty-reasoning",
+      "civilian-protection-reasoning"
+    ],
+    "createdAt": 1794239827000
+  },
+  {
+    "id": "micro1-ai-trainer-engineering-sciences-0e0727e3",
+    "title": "AI Trainer (Engineering Sciences)",
+    "company": "micro1",
+    "category": "Data & AI",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$60 – $120 / hour",
+    "url": "https://jobs.micro1.ai/post/0e0727e3-482b-4c4a-a26e-ef8ade369688?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is looking for Computational Engineers with prior professional AI-training or model-evaluation experience to support a project focused on improving advanced AI systems.\nSkills they're looking for: Hardware, Aerodynamics, Mechanical Engineering, Electrical Engineering, AI Training, Programming Skills.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "hardware",
+      "aerodynamics",
+      "mechanical-engineering",
+      "electrical-engineering"
+    ],
+    "createdAt": 1794239766000
+  },
+  {
+    "id": "micro1-ai-trainer-ml-engineering-1f738cfe",
+    "title": "AI Trainer (ML Engineering)",
+    "company": "micro1",
+    "category": "Data & AI",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$60 – $120 / hour",
+    "url": "https://jobs.micro1.ai/post/1f738cfe-c245-4f5c-991e-eb3bedc55705?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is looking for Machine Learning Engineers with prior professional AI-training or model-evaluation experience to support a project focused on improving advanced AI systems. You will use your machine learning expertise to create challenging technical tasks, evaluate model-generated work, identify failures, and establish objective standards for correct solutions. This role is intended for candidates who have already completed substantive AI-training work.\nSkills they're looking for: ML Engineering, AI training, Programming Skills.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "ml-engineering",
+      "ai-training",
+      "programming-skills"
+    ],
+    "createdAt": 1794238767000
+  },
+  {
+    "id": "micro1-data-privacy-specialist-76ed9340",
+    "title": "Data Privacy Specialist",
+    "company": "micro1",
+    "category": "Data & AI",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$30 – $60 / hour",
+    "url": "https://jobs.micro1.ai/post/76ed9340-2606-4218-9729-67424f90bacc?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is looking for Data Privacy Specialists to support a customer project focused on evaluating how personal information is handled and protected in digital systems. You'll apply your expertise to identify privacy risks, assess potential data disclosures, and evaluate compliance with data-protection principles. Review scenarios involving personal and sensitive information. Identify potential privacy risks, inappropriate disclosures, and data-handling issues.\nSkills they're looking for: data privacy, data protection, information governance, privacy risk assessment, privacy principles, sensitive data handling, privacy compliance, gdpr.\nRefer and earn $500.\nFull details and the application are on micro1.",
+    "tags": [
+      "data-privacy",
+      "data-protection",
+      "information-governance",
+      "privacy-risk-assessment"
+    ],
+    "createdAt": 1794227482000
+  },
+  {
+    "id": "micro1-ai-safety-evaluation-specialist-e6881bd5",
+    "title": "AI Safety & Evaluation Specialist",
+    "company": "micro1",
+    "category": "Data & AI",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$30 – $60 / hour",
+    "url": "https://jobs.micro1.ai/post/e6881bd5-cba7-4bda-960b-e8395b035973?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is looking for privacy and data-protection professionals to evaluate how personal AI agents handle sensitive information. You'll test AI agents, review their responses, and identify potential privacy violations or inappropriate disclosures. This role is ideal for professionals interested in applying their privacy expertise to AI evaluation. Test AI agents using privacy-focused scenarios.\nSkills they're looking for: privacy risk assessment, data protection, ai evaluation, analytical skills, written communication.\nRefer and earn $500.\nFull details and the application are on micro1.",
+    "tags": [
+      "privacy-risk-assessment",
+      "data-protection",
+      "ai-evaluation",
+      "analytical-skills"
+    ],
+    "createdAt": 1794226664000
+  },
+  {
+    "id": "micro1-computational-biology-bioinformatics-expert-phd-b908ffa3",
+    "title": "Computational Biology & Bioinformatics Expert (PhD)",
+    "company": "micro1",
+    "category": "Science & Research",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/b908ffa3-a064-49f9-8d7b-77ce2670824b?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Job Title: Computational Biology & Bioinformatics Expert (PhD) Job Summary: In this role, you’ll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. Design, evaluate, and critique bioinformatics and computational biology workflows to support AI benchmarking initiatives. Provide expert-level insights on genomic, transcriptomic, and proteomic data analysis pipelines.\nSkills they're looking for: computational chemistry, molecular simulations, python, gaussian, gromacs, lammps, amber, orca.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "computational-chemistry",
+      "molecular-simulations",
+      "python",
+      "gaussian"
+    ],
+    "createdAt": 1794223064000
+  },
+  {
+    "id": "micro1-bioinformatics-scientist-29c28a5b",
+    "title": "Bioinformatics Scientist",
+    "company": "micro1",
+    "category": "Data & AI",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/29c28a5b-f99f-4f5e-9ee4-c3e2923c9def?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Bioinformatics Scientists to contribute their specialized expertise to a customer's innovative project. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.\nSkills they're looking for: medicinal chemistry, Bioinformatics, WetLab.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "medicinal-chemistry",
+      "bioinformatics",
+      "wetlab"
+    ],
+    "createdAt": 1794222915000
+  },
+  {
+    "id": "micro1-computational-chemistry-structural-biology-drug-discovery-scientist-phd-77fd3077",
+    "title": "Computational Chemistry, Structural Biology & Drug Discovery Scientist (PhD)",
+    "company": "micro1",
+    "category": "Data & AI",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/77fd3077-4356-4da5-b637-aca3ef8b5168?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Job Summary: In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. Design and write challenging, expert-level scientific problems in computational chemistry, structural biology, and drug discovery, with clear, verifiable solutions.\nSkills they're looking for: Computational Chemistry, Structural Bioinformatics, Cheminformatics, Proteomics & Metabolomics, Documentation, Verbal communication, Drug Discovery, Biology.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "computational-chemistry",
+      "structural-bioinformatics",
+      "cheminformatics",
+      "proteomics-metabolomics"
+    ],
+    "createdAt": 1794222866000
+  },
+  {
+    "id": "micro1-clinical-microbiome-translational-research-scientist-phd-1fac0507",
+    "title": "Clinical, Microbiome & Translational Research Scientist (PhD)",
+    "company": "micro1",
+    "category": "Data & AI",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/1fac0507-1c3c-490b-bfe8-1ed2a7b95794?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Job Title: Clinical, Microbiome & Translational Research Scientist (PhD) Job Summary: In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. Design and write challenging, expert-level scientific problems in microbiome/metagenomics, clinical and translational bioinformatics, and related life sciences, with clear, verifiable solutions.\nSkills they're looking for: computational chemistry, molecular simulations, python, gaussian, gromacs, lammps, amber, orca.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "computational-chemistry",
+      "molecular-simulations",
+      "python",
+      "gaussian"
+    ],
+    "createdAt": 1794222801000
+  },
+  {
+    "id": "micro1-life-sciences-research-scientist-phd-wet-lab-computational-biology-a9a3a22a",
+    "title": "Life Sciences Research Scientist (PhD): Wet Lab & Computational Biology",
+    "company": "micro1",
+    "category": "Data & AI",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/a9a3a22a-0ce7-4c9e-be8f-3e28aa7921e4?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Job Title: Life Sciences Research Scientist (PhD): Wet Lab & Computational Biology Job Summary: In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. Design and write challenging, expert-level scientific problems in the life sciences, with clear, verifiable solutions.\nSkills they're looking for: computational chemistry, molecular simulations, python, gaussian, gromacs, lammps, amber, orca.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "computational-chemistry",
+      "molecular-simulations",
+      "python",
+      "gaussian"
+    ],
+    "createdAt": 1794222747000
+  },
+  {
+    "id": "micro1-stem-expert-biology-bioinformatics-phd-864c5814",
+    "title": "STEM Expert – Biology & Bioinformatics (PhD)",
+    "company": "micro1",
+    "category": "Data & AI",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/864c5814-9a34-444f-afa5-c1945c531a0f?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Job Title: STEM Expert – Biology & Bioinformatics (PhD) Job Summary: In this role, you’ll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. Design, evaluate, and critique biology, bioinformatics, and computational biology workflows to support AI benchmarking initiatives.\nSkills they're looking for: scientific software configuration, ai/ml-assisted chemistry workflows, quantitative analysis, analytical reasoning, scientific programming, written communication, verbal communication, documentation.\nRefer and earn $500.\nFull details and the application are on micro1.",
+    "tags": [
+      "scientific-software-configuration",
+      "ai-ml-assisted-chemistry-workflows",
+      "quantitative-analysis",
+      "analytical-reasoning"
+    ],
+    "createdAt": 1794222605000
+  },
+  {
+    "id": "micro1-stem-expert-chemistry-computational-chemistry-phd-6d450cdb",
+    "title": "STEM Expert – Chemistry & Computational Chemistry (PhD)",
+    "company": "micro1",
+    "category": "Science & Research",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/6d450cdb-b9d0-4063-95c5-201a384fa906?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Job Summary: In this role, you’ll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. Design, evaluate, and critique chemistry and computational chemistry problems, workflows, and reasoning chains to support AI benchmarking initiatives.\nSkills they're looking for: Computational Chemistry, Structural Bioinformatics, Cheminformatics, Proteomics & Metabolomics, Documentation, Verbal communication, Biology, organic chemistry.\nRefer and earn $500.\nFull details and the application are on micro1.",
+    "tags": [
+      "computational-chemistry",
+      "structural-bioinformatics",
+      "cheminformatics",
+      "proteomics-metabolomics"
+    ],
+    "createdAt": 1794222362000
+  },
+  {
+    "id": "micro1-electronics-assembly-quality-engineer-5dfa53a7",
+    "title": "Electronics Assembly Quality Engineer",
+    "company": "micro1",
+    "category": "Engineering",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/5dfa53a7-178c-4554-87f7-fe9222bee2e1?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Electronics Assembly Quality Engineers to contribute their expertise on a customer project focused on electronics manufacturing quality and reliability. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters. This opportunity is suited to process and…\nSkills they're looking for: X-ray inspection of area-array solder joints, Reflow process, Solder defect root cause, Counterfeit electronic component screening.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "x-ray-inspection-of-area-array-solder-joints",
+      "reflow-process",
+      "solder-defect-root-cause",
+      "counterfeit-electronic-component-screening"
+    ],
+    "createdAt": 1794167745000
+  },
+  {
+    "id": "micro1-dimensional-metrology-quality-engineer-e51a861c",
+    "title": "Dimensional Metrology Quality Engineer",
+    "company": "micro1",
+    "category": "Engineering",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/e51a861c-6900-4fc8-ae07-507a47956698?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Dimensional Metrology Quality Engineers to contribute to a customer's project focused on advanced inspection and measurement solutions. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters. This opportunity involves evaluating and producing…\nSkills they're looking for: GD&T and first-article inspection, 3D scanning and inspection software, CMM measurement and uncertainty analysis, Dimensional Metrology expertise.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "gd-t-and-first-article-inspection",
+      "3d-scanning-and-inspection-software",
+      "cmm-measurement-and-uncertainty-analysis",
+      "dimensional-metrology-expertise"
+    ],
+    "createdAt": 1794165934000
+  },
+  {
+    "id": "micro1-open-source-contributor-2739201f",
+    "title": "Open Source Contributor",
+    "company": "micro1",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$60 – $120 / hour",
+    "url": "https://jobs.micro1.ai/post/2739201f-5d2b-4cec-ac30-62f232196b6f?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is looking for exceptional open-source contributors to support an AI-training project focused on complex, real-world technical workflows. In this role, you will use your programming and domain expertise to create, solve, review, and validate challenging tasks in software engineering, machine learning, science, hardware, or engineering. Your work will help improve how advanced AI systems reason, write code, use technical tools, and complete long-horizon projects.\nSkills they're looking for: Python3, JAVA, Rust, Basics C++, Typescript, GoLang.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "python3",
+      "java",
+      "rust",
+      "basics-c"
+    ],
+    "createdAt": 1794160969000
+  },
+  {
+    "id": "micro1-3d-print-farm-operator-print-lab-supervisor-c0b41da0",
+    "title": "3D Print Farm Operator / Print Lab Supervisor",
+    "company": "micro1",
+    "category": "Operations",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/c0b41da0-767e-4640-8afa-f6a98ee6dc7c?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging 3D Print Farm Operator / Print Lab Supervisor experts to contribute their deep practical knowledge to a specialized customer project. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.\nSkills they're looking for: FDM and resin printer fleet operation and maintenance, Slicing, print failure troubleshooting and material handling, Print scheduling, QC and part inspection.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "fdm-and-resin-printer-fleet-operation-and-maintenance",
+      "slicing",
+      "print-failure-troubleshooting-and-material-handling",
+      "print-scheduling"
+    ],
+    "createdAt": 1794122152000
+  },
+  {
+    "id": "micro1-scientific-glassblower-custom-laboratory-glass-shop-f5dc654e",
+    "title": "Scientific Glassblower (Custom Laboratory Glass Shop)",
+    "company": "micro1",
+    "category": "Design",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/f5dc654e-c2b8-426e-b269-31fde15a1e65?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Scientific Glassblower (Custom Laboratory Glass Shop) contributors to support a customer's advanced laboratory project. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters. This opportunity centers on interpreting customer sketches and turning them…\nSkills they're looking for: Lathe and bench work in borosilicate and quartz, Reading customer sketches, design for manufacture and quoting, Annealing - inspection - glass-to-metal or graded seals.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "lathe-and-bench-work-in-borosilicate-and-quartz",
+      "reading-customer-sketches",
+      "design-for-manufacture-and-quoting",
+      "annealing-inspection-glass-to-metal-or-graded-seals"
+    ],
+    "createdAt": 1794121928000
+  },
+  {
+    "id": "micro1-softwood-lumber-grader-sawmill-quality-supervisor-visual-grading-5102a3a2",
+    "title": "Softwood Lumber Grader / Sawmill Quality Supervisor (Visual Grading)",
+    "company": "micro1",
+    "category": "Operations",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/5102a3a2-6a92-4464-a9f9-22fcc7bce5b7?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Softwood Lumber Grader / Sawmill Quality Supervisor (Visual Grading) experts to contribute their highly specialized visual grading skills and sawmill quality control experience to a customer's project. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what…\nSkills they're looking for: Visual grading to published rules (NLGA - WWPA - SPIB - WCLIB), Lumber defect identification and grade limits (knots - wane - checks - shake - warp), Grade stamping, grade recovery and QC.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "visual-grading-to-published-rules-nlga-wwpa-spib-wclib",
+      "lumber-defect-identification-and-grade-limits-knots-wane-checks-shake-warp",
+      "grade-stamping",
+      "grade-recovery-and-qc"
+    ],
+    "createdAt": 1794121689000
+  },
+  {
+    "id": "micro1-directional-surveyor-drilling-engineer-magnetic-single-shot-and-multi-shot-film-f22372de",
+    "title": "Directional Surveyor / Drilling Engineer (Magnetic Single-Shot and Multi-Shot Film)",
+    "company": "micro1",
+    "category": "Engineering",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/f22372de-ebdc-4720-ad91-2949810127e9?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Directional Surveyors and Drilling Engineers with expertise in magnetic single-shot and multi-shot survey film methods to contribute to a customer's advanced drilling project. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters. This opportunity is…\nSkills they're looking for: Magnetic single-shot and multi-shot survey film reading, Wellbore survey QC and calculation (declination -  interference - closure), Directional drilling fundamentals.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "magnetic-single-shot-and-multi-shot-survey-film-reading",
+      "wellbore-survey-qc-and-calculation-declination-interference-closure",
+      "directional-drilling-fundamentals"
+    ],
+    "createdAt": 1794121460000
+  },
+  {
+    "id": "micro1-freight-railcar-carman-car-foreman-aar-repair-b295d05c",
+    "title": "Freight Railcar Carman / Car Foreman (AAR Repair)",
+    "company": "micro1",
+    "category": "Operations",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/b295d05c-2ece-4417-b356-9db87892a37a?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Freight Railcar Carman / Car Foreman (AAR Repair) specialists to contribute domain expertise on a customer project. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters. As an expert contributor, you’ll review, analyze, and document technical railway…\nSkills they're looking for: AAR Field Manual and Office Manual (repair rules and billing), FRA Part 215 and repair documentation, Freight car component inspection and repair.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "aar-field-manual-and-office-manual-repair-rules-and-billing",
+      "fra-part-215-and-repair-documentation",
+      "freight-car-component-inspection-and-repair"
+    ],
+    "createdAt": 1794121243000
+  },
+  {
+    "id": "micro1-elevator-mechanic-adjuster-qei-controller-troubleshooting-b1aa4a8e",
+    "title": "Elevator Mechanic / Adjuster (QEI, Controller Troubleshooting)",
+    "company": "micro1",
+    "category": "Finance & Accounting",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/b1aa4a8e-44fe-4439-8620-3a168138ccdc?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Elevator Mechanic / Adjuster (QEI, Controller Troubleshooting) professionals to contribute specialized insights to a customer's technical project. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.\nSkills they're looking for: Controller troubleshooting from straight-line wiring diagrams, ASME A17.1 code and safety circuits, Adjusting and testing (hydraulic and traction).\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "controller-troubleshooting-from-straight-line-wiring-diagrams",
+      "asme-a17-1-code-and-safety-circuits",
+      "adjusting-and-testing-hydraulic-and-traction"
+    ],
+    "createdAt": 1794121051000
+  },
+  {
+    "id": "micro1-marine-outboard-technician-service-manager-caf5f26f",
+    "title": "Marine Outboard Technician / Service Manager",
+    "company": "micro1",
+    "category": "Operations",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/caf5f26f-2832-466f-8667-8c6dbbc59e30?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Marine Outboard Technician / Service Managers to contribute their specialized knowledge to a customer project addressing a range of marine engine diagnostic and service scenarios. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.\nSkills they're looking for: Outboard engine diagnostics (fuel - ignition - EFI - cooling), Rigging - repower - service procedures, Service documentation and warranty.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "outboard-engine-diagnostics-fuel-ignition-efi-cooling",
+      "rigging-repower-service-procedures",
+      "service-documentation-and-warranty"
+    ],
+    "createdAt": 1794120886000
+  },
+  {
+    "id": "micro1-mobility-equipment-automotive-electrical-technician-wheelchair-vans-3002bfd3",
+    "title": "Mobility Equipment / Automotive Electrical Technician (Wheelchair Vans)",
+    "company": "micro1",
+    "category": "Operations",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/3002bfd3-f49f-427e-b10b-486c0672395c?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging seasoned Mobility Equipment / Automotive Electrical Technicians (Wheelchair Vans) to support a specialized customer project focused on accessible vehicle solutions. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.\nSkills they're looking for: Automotive 12V electrical diagnostics from wiring diagrams, Mobility conversion systems (lifts - ramps - kneeling - hand controls), Service procedures and technician training.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "automotive-12v-electrical-diagnostics-from-wiring-diagrams",
+      "mobility-conversion-systems-lifts-ramps-kneeling-hand-controls",
+      "service-procedures-and-technician-training"
+    ],
+    "createdAt": 1794120470000
+  },
+  {
+    "id": "micro1-semiconductor-yield-defect-engineer-wafer-fab-sem-defect-review-1c418fa2",
+    "title": "Semiconductor Yield / Defect Engineer (Wafer Fab, SEM Defect Review)",
+    "company": "micro1",
+    "category": "Data & AI",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/1c418fa2-c6b7-4b6c-8914-324ffab753c2?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Semiconductor Yield / Defect Engineers (Wafer Fab, SEM Defect Review) to support a customer engagement focused on advancing semiconductor manufacturing analytics. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters. This opportunity is ideal for…\nSkills they're looking for: SEM defect review and classification, Yield analysis and excursion / lot-hold decisions, Wafer sort and test floor data.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "sem-defect-review-and-classification",
+      "yield-analysis-and-excursion-lot-hold-decisions",
+      "wafer-sort-and-test-floor-data"
+    ],
+    "createdAt": 1794120193000
+  },
+  {
+    "id": "micro1-member-of-technical-staff-research-engineering-2d55bfd0",
+    "title": "Member of Technical Staff, Research Engineering",
+    "company": "micro1",
+    "category": "Data & AI",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/2d55bfd0-24a8-4432-9f25-6fceea9cd4f2?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Job Title: Member of Technical Staff, Research Engineering We are seeking a Research Engineer to operate at the frontier of Reinforcement Learning (RL), developing novel environments, training pipelines, and evaluation systems that advance the capabilities of modern AI models. This role sits at the intersection of research and production, translating experimental ideas into scalable, high-performance systems.\nSkills they're looking for: Reinforcement Learning, ML-Oriented Data Design, RL Environments, RL Workflows.\nRefer and earn $1,500.\nFull details and the application are on micro1.",
+    "tags": [
+      "reinforcement-learning",
+      "ml-oriented-data-design",
+      "rl-environments",
+      "rl-workflows"
+    ],
+    "createdAt": 1794089850000
+  },
+  {
+    "id": "micro1-member-of-technical-staff-robotics-embodied-ai-research-6ce8225a",
+    "title": "Member of Technical Staff, Robotics & Embodied AI Research",
+    "company": "micro1",
+    "category": "Data & AI",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/6ce8225a-9f5a-4b30-a556-9081176bffff?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Job Title: Member of Technical Staff, Robotics & Embodied AI Research We're hiring a Robotics Researcher to drive frontier research in embodied AI, robot learning, and physical AI systems.\nSkills they're looking for: Robot Learning & Embodied AI, Robotics Simulation & Sim-to-Real Transfer, Python & Robotics Research Engineering, Robotics Data & Evaluation Design.\nRefer and earn $1,500.\nFull details and the application are on micro1.",
+    "tags": [
+      "robot-learning-embodied-ai",
+      "robotics-simulation-sim-to-real-transfer",
+      "python-robotics-research-engineering",
+      "robotics-data-evaluation-design"
+    ],
+    "createdAt": 1794089338000
+  },
+  {
+    "id": "micro1-member-of-technical-staff-coding-agent-research-evaluations-20d7f8c6",
+    "title": "Member of Technical Staff, Coding Agent Research & Evaluations",
+    "company": "micro1",
+    "category": "Data & AI",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/20d7f8c6-344c-4e71-a5ea-7ee3ba74ce18?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Job Title: Member of Technical Staff, Coding Agent Research & Evaluations We are seeking a Member of Technical Staff to help advance the evaluation and development of frontier coding agents. Sitting at the intersection of AI research, software engineering, and model evaluation, you will design the benchmarks, methodologies, and data systems that shape how next-generation coding models are measured and improved.\nSkills they're looking for: Coding Agent Evaluation & Benchmark Design, Software Engineering & Python, LLM & Agentic Systems, Model Failure Analysis & Experimentation.\nRefer and earn $1,500.\nFull details and the application are on micro1.",
+    "tags": [
+      "coding-agent-evaluation-benchmark-design",
+      "software-engineering-python",
+      "llm-agentic-systems",
+      "model-failure-analysis-experimentation"
+    ],
+    "createdAt": 1794089131000
+  },
+  {
+    "id": "micro1-member-of-technical-staff-cortex-lab-applied-ai-research-2038a36e",
+    "title": "Member of Technical Staff, Cortex Lab (applied AI research)",
+    "company": "micro1",
+    "category": "Data & AI",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/2038a36e-a29d-4beb-a3de-f7267488573f?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Job Title: Member of Technical Staff, Cortex Lab (applied AI research) We're hiring a Member of Technical Staff (MTS) to develop, evaluate, and improve AI agents and LLM-powered systems operating in real-world enterprise workflows.\nSkills they're looking for: AI Agent Evaluation & Benchmark Design, Python & Research Engineering, Agent Failure Analysis & Experimentation, LLM & Agentic Systems.\nRefer and earn $1,500.\nFull details and the application are on micro1.",
+    "tags": [
+      "ai-agent-evaluation-benchmark-design",
+      "python-research-engineering",
+      "agent-failure-analysis-experimentation",
+      "llm-agentic-systems"
+    ],
+    "createdAt": 1794088672000
+  },
+  {
+    "id": "micro1-member-of-technical-staff-realm-lab-frontier-ai-research-922fc5ce",
+    "title": "Member of Technical Staff, Realm Lab (frontier AI research)",
+    "company": "micro1",
+    "category": "Data & AI",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/922fc5ce-a7d1-4cca-ba9e-aa1bcd5f4286?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Job Title: Member of Technical Staff, Realm Lab (frontier AI research) We're hiring a Member of Technical Staff (MTS) to join Realm Lab and drive research initiatives focused on evaluating and improving frontier AI systems.\nSkills they're looking for: LLM Evaluation & Benchmark Design, Python & ML Engineering, Reinforcement Learning & Agentic Systems, Model Failure Analysis & Research Methodology.\nRefer and earn $1,500.\nFull details and the application are on micro1.",
+    "tags": [
+      "llm-evaluation-benchmark-design",
+      "python-ml-engineering",
+      "reinforcement-learning-agentic-systems",
+      "model-failure-analysis-research-methodology"
+    ],
+    "createdAt": 1794088071000
+  },
+  {
+    "id": "micro1-international-humanitarian-law-advisor-871589f5",
+    "title": "International Humanitarian Law Advisor",
+    "company": "micro1",
+    "category": "Government & Defense",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/871589f5-7a7e-498f-b121-90215edf6c9e?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging International Humanitarian Law Advisors to contribute to a customer project focused on the rigorous application of IHL and human-rights principles. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters. This is an opportunity to make a tangible impact…\nSkills they're looking for: IHL / human-rights application, Lawful-boundary discrimination, Proportionality & civilian-protection reasoning, Legal-uncertainty reasoning.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "ihl-human-rights-application",
+      "lawful-boundary-discrimination",
+      "proportionality-civilian-protection-reasoning",
+      "legal-uncertainty-reasoning"
+    ],
+    "createdAt": 1794086900000
+  },
+  {
+    "id": "micro1-video-editor-specialist-90aad87f",
+    "title": "Video Editor Specialist",
+    "company": "micro1",
+    "category": "Writing",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/90aad87f-d015-470f-bbc4-35844448ab65?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Video Editors to contribute to a dynamic customer project. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters. Edit and assemble raw video footage into polished, compelling content using industry-standard editing software.\nSkills they're looking for: adobe premiere pro, final cut pro, davinci resolve, video editing, motion graphics, color grading, sound design, media asset management.\nRefer and earn $100.\nFull details and the application are on micro1.",
+    "tags": [
+      "adobe-premiere-pro",
+      "final-cut-pro",
+      "davinci-resolve",
+      "video-editing"
+    ],
+    "createdAt": 1794026243000
+  },
+  {
+    "id": "micro1-computational-bioscience-expert-python-8f4f015b",
+    "title": "Computational Bioscience Expert (Python)",
+    "company": "micro1",
+    "category": "Science & Research",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$60 – $120 / hour",
+    "url": "https://jobs.micro1.ai/post/8f4f015b-1e88-4b4a-b66b-fb4a3d78b13a?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Job Type: Contractor (~15 hours per week) micro1 is seeking experienced Computational Bioscience Expert with strong, hands-on Python skills to contribute to projects focused on evaluating and improving advanced AI systems.\nSkills they're looking for: Python, Biology, Medicine, Materials, Neuroscience.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "python",
+      "biology",
+      "medicine",
+      "materials"
+    ],
+    "createdAt": 1794009929000
+  },
+  {
+    "id": "micro1-generalist-for-data-annotation-3cc943d0",
+    "title": "Generalist for Data Annotation",
+    "company": "micro1",
+    "category": "Data & AI",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/3cc943d0-b584-42ea-8342-3e5f77f9504f?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is looking for detail-oriented individuals to support an AI image evaluation project. You'll upload your own original images and compare them with AI-generated versions, identifying visual differences, flaws, and inconsistencies. This role is ideal for someone with a sharp eye for detail, strong writing skills, and the patience to evaluate images thoroughly. Basic familiarity with AI-generated images is required, but specialized AI experience is not.\nSkills they're looking for: image data annotation, attention to detail, written and verbal communication, remote collaboration, annotation tools, quality assurance, documentation, adaptability.\nRefer and earn $100.\nFull details and the application are on micro1.",
+    "tags": [
+      "image-data-annotation",
+      "attention-to-detail",
+      "written-and-verbal-communication",
+      "remote-collaboration"
+    ],
+    "createdAt": 1794009256000
+  },
+  {
+    "id": "micro1-video-recorder-san-francisco-266ce26f",
+    "title": "Video Recorder (San Francisco)",
+    "company": "micro1",
+    "category": "Data & AI",
+    "type": "Part-time",
+    "region": "Remote",
+    "salary": "$35 – $40 / hour",
+    "url": "https://jobs.micro1.ai/post/266ce26f-89cb-4922-a520-60dde1aa398e?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is looking for San Francisco-based individuals to participate in an on-site data collection project. In this role, you'll use devices provided by micro1 to record data according to project instructions. This is a hands-on, generalist opportunity that does not require specialized technical knowledge or a specific professional background. We're looking for reliable, detail-oriented individuals who can follow instructions and complete data collection activities accurately.\nSkills they're looking for: data collection, device operation, attention to detail, following instructions, reliability.\nRefer and earn $100.\nFull details and the application are on micro1.",
+    "tags": [
+      "data-collection",
+      "device-operation",
+      "attention-to-detail",
+      "following-instructions"
+    ],
+    "createdAt": 1793972953000
+  },
+  {
+    "id": "micro1-mbse-engineer-sysml-v2-8548e534",
+    "title": "MBSE Engineer - SysML V2",
+    "company": "micro1",
+    "category": "Engineering",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/8548e534-fc89-4789-887e-7622d6f4ca86?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Commitment: Pay-per- task-based, variable/flexible hours (~15hrs/wk) micro1 is looking for experienced Model-Based Systems Engineering (MBSE) professionals with expertise in SysML v1 and exposure to SysML v2, or demonstrated hands-on experience with SysML v2 modeling, to support a customer project focused on AI training and evaluation.\nSkills they're looking for: sysml v2, systems engineering, requirements engineering, system architecture, model traceability, interface control documents (icds), conops, technical writing.\nRefer and earn $3,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "sysml-v2",
+      "systems-engineering",
+      "requirements-engineering",
+      "system-architecture"
+    ],
+    "createdAt": 1793937290000
+  },
+  {
+    "id": "micro1-strategic-project-lead-ai-coding-evaluations-5f5427be",
+    "title": "Strategic Project Lead, AI Coding & Evaluations",
+    "company": "micro1",
+    "category": "Data & AI",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/5f5427be-b8f2-4046-b89b-b5987f345812?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Job Title: Strategic Project Lead, Coding/SWE As a Strategic Projects Lead (SPL), you will own the end-to-end delivery of coding data pipelines used to train frontier AI models. You’ll work closely with AI Lab clients, software engineering experts, reviewers, and internal teams to ensure high-quality, scalable execution. Own end-to-end delivery of coding data pipelines, ensuring quality, timelines, and client alignment.\nSkills they're looking for: Technical Project & Pipeline Management, Software Engineering & Technical Fluency, Workflow Automation & Operational Excellence, Stakeholder Management & Quality Assurance.\nRefer and earn $1,500.\nFull details and the application are on micro1.",
+    "tags": [
+      "technical-project-pipeline-management",
+      "software-engineering-technical-fluency",
+      "workflow-automation-operational-excellence",
+      "stakeholder-management-quality-assurance"
+    ],
+    "createdAt": 1793932037000
+  },
+  {
+    "id": "micro1--d458438a",
+    "title": "在宅ビデオ撮影スタッフ（日本）",
+    "company": "micro1",
+    "category": "Other",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/d458438a-2d26-465f-93cd-4889bb645e19?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "元の求人ページ（英語）：At Home Video Recorder (Japan) 動画撮影、デバイスのセットアップと操作、細部への注意力、手先の器用さ、複雑な指示に従う力、継続的な改善、文章でのコミュニケーション、口頭でのコミュニケーション、フィードバックの反映、反復作業への忍耐力 micro1は、AIラボや企業による基盤モデルおよびAIエージェントのトレーニングを支援するデータラボです。LLMの能力向上のための最先端の評価および強化学習環境に加え、企業環境におけるAIエージェントのモニタリングと改善のためのコンテキスト評価を提供しています。\nSkills they're looking for: video recording, wearable device setup and operation, attention to detail, manual dexterity, following complex instructions, continuous improvement, written communication, verbal communication.\nRefer and earn $100.\nFull details and the application are on micro1.",
+    "tags": [
+      "video-recording",
+      "wearable-device-setup-and-operation",
+      "attention-to-detail",
+      "manual-dexterity"
+    ],
+    "createdAt": 1793916076000
+  },
+  {
+    "id": "micro1-frontend-ui-engineer-526b27c6",
+    "title": "Frontend / UI Engineer",
+    "company": "micro1",
+    "category": "Engineering",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$80 – 100 / hour",
+    "url": "https://jobs.micro1.ai/post/526b27c6-df46-441e-b04d-97dbeb4f5904?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "You’ll need: A public GitHub profile with substantial, verifiable contributions Your tasks: Turn screenshots, diagrams and videos into challenging coding tasks with objective success criteria Design multi-step coding tasks grounded in visual material: screenshots, UI mockups, diagrams, or screen recordings of real workflows. Specify which code and artifacts the task involves, and what the expected behavior is.\nSkills they're looking for: React, Typescript, FrontEnd, UI Design, Graphic OSS Contributions, Product/UI design, GitHub, Debugging.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "react",
+      "typescript",
+      "frontend",
+      "ui-design"
+    ],
+    "createdAt": 1793910491000
+  },
+  {
+    "id": "micro1-ai-image-specialist-us-based-32dd2150",
+    "title": "AI Image Specialist (US Based)",
+    "company": "micro1",
+    "category": "Data & AI",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/32dd2150-5c80-486b-bdb1-19223b728f33?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is looking for US Based AI Image Specialists to help train the next generation of AI image models for a valued customer. You’ll use your eye for detail to show AI where it falls short and how to get better outcomes. Upload and provide original, high-quality images for AI model development and evaluation. Compare your submitted images with AI-generated counterparts to identify discrepancies, visual artifacts, and imperfections.\nSkills they're looking for: Graphic Design, AI Evaluation, Photo Editing, Retouching.\nRefer and earn $100.\nFull details and the application are on micro1.",
+    "tags": [
+      "graphic-design",
+      "ai-evaluation",
+      "photo-editing",
+      "retouching"
+    ],
+    "createdAt": 1793909339000
+  },
+  {
+    "id": "micro1-digital-designer-98885f6c",
+    "title": "Digital Designer",
+    "company": "micro1",
+    "category": "Design",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/98885f6c-0276-4d24-a965-76f7520a8975?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Digital Artists to contribute their creative and technical expertise to a unique project focused on evaluating and enhancing AI-generated images. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters. This opportunity is ideal for those who excel in…\nSkills they're looking for: image evaluation, Comparative ranking, attention to visual detail, written communication, verbal comunication, digital photography, Artifact detection, constructive feedback.\nRefer and earn $100.\nFull details and the application are on micro1.",
+    "tags": [
+      "image-evaluation",
+      "comparative-ranking",
+      "attention-to-visual-detail",
+      "written-communication"
+    ],
+    "createdAt": 1793905927000
+  },
+  {
+    "id": "micro1-tax-preparer-individual-income-tax-form-1040-ty2025-ea-cpa-23e1f9ab",
+    "title": "Tax Preparer, Individual Income Tax (Form 1040), TY2025 (EA/CPA)",
+    "company": "micro1",
+    "category": "Finance & Accounting",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/23e1f9ab-ca69-46a4-95a0-f780a96d6cf0?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Enrolled Agents and CPAs who actively prepare individual returns to participate in a project supporting a customer. In this role, you’ll apply your hands-on preparation expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required. Your domain knowledge is what matters.\nSkills they're looking for: individual income tax preparation (form 1040), tax law expertise (ty2025 rules), complex return preparation (schedule c, k-1s, investments, credits), federal tax computation and analysis, written communication (clarity, objectivity, reproducibility).\nRefer and earn $300.\nFull details and the application are on micro1.",
+    "tags": [
+      "individual-income-tax-preparation-form-1040",
+      "tax-law-expertise-ty2025-rules",
+      "complex-return-preparation-schedule-c-k-1s-investments-credits",
+      "federal-tax-computation-and-analysis"
+    ],
+    "createdAt": 1793841316000
+  },
+  {
+    "id": "micro1-at-home-video-recorder-japan-8b1d4909",
+    "title": "At Home Video Recorder (Japan)",
+    "company": "micro1",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$12 / hour",
+    "url": "https://jobs.micro1.ai/post/8b1d4909-4b90-4b6c-8734-c6abcaf984a6?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Help train the next generation of personal robotics. You'll capture high-quality video demonstrations of everyday household tasks using a UMI gripper, a wearable device that mimics a robot's hand while letting you perform tasks naturally. Your demonstrations become training data that teaches robots how to operate in real homes. Capture and submit high-quality, specification-compliant video demonstrations of everyday household tasks using a UMI gripper wearable device.\nSkills they're looking for: video recording, device setup and operation, attention to detail, manual dexterity, following complex instructions, iterative improvement, written communication, verbal communication.\nRefer and earn $100.\nFull details and the application are on micro1.",
+    "tags": [
+      "video-recording",
+      "device-setup-and-operation",
+      "attention-to-detail",
+      "manual-dexterity"
+    ],
+    "createdAt": 1793829242000
+  },
+  {
+    "id": "micro1-military-training-and-readiness-advisor-cf209626",
+    "title": "Military Training and Readiness Advisor",
+    "company": "micro1",
+    "category": "Government & Defense",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$50 – $100 / hour",
+    "url": "https://jobs.micro1.ai/post/cf209626-7a62-4d74-a629-8d324d339a71?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Commitment: Flexible, project or task-based Project duration: Dependent on customer requirements micro1 is looking for experienced Military Training and Readiness Advisors with backgrounds in military training, operational readiness, doctrine development, or defense education to support customer projects focused on AI training and evaluation.\nSkills they're looking for: military training assessment, operational readiness evaluation, doctrine development, analytical thinking, written communication.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "military-training-assessment",
+      "operational-readiness-evaluation",
+      "doctrine-development",
+      "analytical-thinking"
+    ],
+    "createdAt": 1793827449000
+  },
+  {
+    "id": "micro1-geopolitical-risk-advisor-c90f6bad",
+    "title": "Geopolitical Risk Advisor",
+    "company": "micro1",
+    "category": "Science & Research",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$50 – $100 / hour",
+    "url": "https://jobs.micro1.ai/post/c90f6bad-c752-46cc-a346-bc24f01ef895?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Commitment: Flexible, project or task-based Project duration: Dependent on customer requirements micro1 is looking for experienced Geopolitical Risk Advisors with backgrounds in foreign policy, national security, international relations, or strategic risk assessment to support customer projects focused on AI training and evaluation.\nSkills they're looking for: geopolitical risk analysis, international relations, strategic risk assessment, analytical thinking, written communication.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "geopolitical-risk-analysis",
+      "international-relations",
+      "strategic-risk-assessment",
+      "analytical-thinking"
+    ],
+    "createdAt": 1793826999000
+  },
+  {
+    "id": "micro1-national-security-technology-expert-8ce00a2e",
+    "title": "National Security Technology Expert",
+    "company": "micro1",
+    "category": "Security",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$50 – $100 / hour",
+    "url": "https://jobs.micro1.ai/post/8ce00a2e-b05d-4644-9409-c944724a8ac3?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Commitment: Flexible, project or task-based Project duration: Dependent on customer requirements micro1 is looking for experienced National Security Technology Experts with backgrounds in government, defense, or national security science and technology programs to support customer projects focused on AI training and evaluation.\nSkills they're looking for: national security systems, defense technology assessment, technical program management, analytical reasoning, technical writing.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "national-security-systems",
+      "defense-technology-assessment",
+      "technical-program-management",
+      "analytical-reasoning"
+    ],
+    "createdAt": 1793826715000
+  },
+  {
+    "id": "micro1-irregular-warfare-expert-e01098f5",
+    "title": "Irregular Warfare Expert",
+    "company": "micro1",
+    "category": "Operations",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$50 – $100 / hour",
+    "url": "https://jobs.micro1.ai/post/e01098f5-a33d-4706-bc91-3ba4863d9572?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Commitment: Flexible, project or task-based Project duration: Dependent on customer requirements micro1 is looking for experienced Special Operations and Irregular Warfare professionals with backgrounds in the US military, Special Operations Forces (SOF), or allied defense organizations to support customer projects focused on AI training and evaluation.\nSkills they're looking for: special operations doctrine, operational planning, tactical and operational judgment, analytical skills, written communication, scenario development, unconventional warfare, operational risk assessment.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "special-operations-doctrine",
+      "operational-planning",
+      "tactical-and-operational-judgment",
+      "analytical-skills"
+    ],
+    "createdAt": 1793825076000
+  },
+  {
+    "id": "micro1-nsa-signals-intelligence-sigint-expert-6928f6ef",
+    "title": "NSA / Signals Intelligence (SIGINT) Expert",
+    "company": "micro1",
+    "category": "Government & Defense",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$50 – $100 / hour",
+    "url": "https://jobs.micro1.ai/post/6928f6ef-24cf-4227-99a2-1eb722ac6b79?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Commitment: Flexible, project or task-based\nSkills they're looking for: signals intelligence (sigint) analysis, intelligence scenario development, analytical reasoning, intelligence assessment evaluation, technical documentation, comint (communications intelligence), elint (electronic intelligence), cyber intelligence operations.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "signals-intelligence-sigint-analysis",
+      "intelligence-scenario-development",
+      "analytical-reasoning",
+      "intelligence-assessment-evaluation"
+    ],
+    "createdAt": 1793824376000
+  },
+  {
+    "id": "micro1-federal-hr-specialist-employee-labor-relations-33814129",
+    "title": "Federal HR Specialist (Employee & Labor Relations)",
+    "company": "micro1",
+    "category": "Human Resources",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/33814129-0645-4b89-b48a-c3be860148e4?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Federal HR Specialist (Employee & Labor Relations) experts to support an innovative AI evaluation project for a government-focused customer. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.\nSkills they're looking for: federal hr policy knowledge, employee relations, labor relations, written communication, scenario development, federal government procedures, case analysis, feedback delivery.\nRefer and earn $900.\nFull details and the application are on micro1.",
+    "tags": [
+      "federal-hr-policy-knowledge",
+      "employee-relations",
+      "labor-relations",
+      "written-communication"
+    ],
+    "createdAt": 1793809535000
+  },
+  {
+    "id": "micro1-federal-management-program-analyst-e947caa4",
+    "title": "Federal Management & Program Analyst",
+    "company": "micro1",
+    "category": "Science & Research",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/e947caa4-612c-4ea0-9806-18630309f12a?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Federal Management & Program Analysts to contribute their subject-matter expertise to a customer-driven AI evaluation project focused on the intricacies of federal program management and policy analysis. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what…\nSkills they're looking for: federal program management, policy analysis, decision memo writing, program evaluation, executive briefing preparation, written communication, verbal communication, attention to detail.\nRefer and earn $900.\nFull details and the application are on micro1.",
+    "tags": [
+      "federal-program-management",
+      "policy-analysis",
+      "decision-memo-writing",
+      "program-evaluation"
+    ],
+    "createdAt": 1793807534000
+  },
+  {
+    "id": "micro1-federal-auditor-performance-financial-oig-gao-05036c07",
+    "title": "Federal Auditor, Performance / Financial (OIG/GAO)",
+    "company": "micro1",
+    "category": "Finance & Accounting",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/05036c07-c272-4e87-a714-b3bc7717b7c2?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Federal Auditor, Performance / Financial (OIG/GAO)s to contribute expertise to a federally focused AI evaluation project. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.\nSkills they're looking for: government auditing standards, performance audits, financial audits, report writing, critical thinking, attention to detail, content review, scenario development.\nRefer and earn $900.\nFull details and the application are on micro1.",
+    "tags": [
+      "government-auditing-standards",
+      "performance-audits",
+      "financial-audits",
+      "report-writing"
+    ],
+    "createdAt": 1793806033000
+  },
+  {
+    "id": "micro1-federal-regulatory-policy-analyst-dc4c351b",
+    "title": "Federal Regulatory Policy Analyst",
+    "company": "micro1",
+    "category": "Science & Research",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/dc4c351b-d262-4e4c-9a3c-9d9dc6c47e22?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Federal Regulatory Policy Analysts to participate in a project supporting a federal government customer. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters. Develop realistic, scenario-based regulatory assignments based on federal rulemaking processes.\nSkills they're looking for: federal rulemaking process, regulatory analysis, public comment analysis, legal writing, policy drafting, evidence-based reasoning, regulatory compliance, administrative law.\nRefer and earn $900.\nFull details and the application are on micro1.",
+    "tags": [
+      "federal-rulemaking-process",
+      "regulatory-analysis",
+      "public-comment-analysis",
+      "legal-writing"
+    ],
+    "createdAt": 1793804852000
+  },
+  {
+    "id": "micro1-federal-contract-specialist-e9241ebd",
+    "title": "Federal Contract Specialist",
+    "company": "micro1",
+    "category": "Government & Defense",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$60 – $80 / hour",
+    "url": "https://jobs.micro1.ai/post/e9241ebd-302b-4bd5-b4af-65a017b5f02f?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is seeking experienced Federal Contract Specialists to contribute their federal acquisition expertise to a customer project focused on AI evaluation.\nSkills they're looking for: federal contracting, federal acquisition regulation (far), federal acquisition lifecycle, contract scenario development, pre-award and post-award contracting, written communication, verbal communication, scenario review and feedback.\nRefer and earn $900.\nFull details and the application are on micro1.",
+    "tags": [
+      "federal-contracting",
+      "federal-acquisition-regulation-far",
+      "federal-acquisition-lifecycle",
+      "contract-scenario-development"
+    ],
+    "createdAt": 1793803428000
+  },
+  {
+    "id": "micro1-materials-scientist-nanoparticle-sizing-lot-release-72cb0145",
+    "title": "Materials Scientist (Nanoparticle Sizing & Lot Release)",
+    "company": "micro1",
+    "category": "Data & AI",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/72cb0145-c070-4a38-bee7-633f8d50ae55?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Materials Scientists (Nanoparticle Sizing & Lot Release) to contribute specialized expertise to a customer’s project focused on advanced nanomaterial evaluation. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters. This opportunity centers on thorough…\nSkills they're looking for: Transmission Electron Microscopy (TEM), Scanning Electron Microscopy (SEM), Nanoparticle Sizing, Particle Size Distribution, Quality Control, Lot Release, Nanomaterials.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "transmission-electron-microscopy-tem",
+      "scanning-electron-microscopy-sem",
+      "nanoparticle-sizing",
+      "particle-size-distribution"
+    ],
+    "createdAt": 1793784168000
+  },
+  {
+    "id": "micro1-senior-protection-engineer-medium-voltage-utility-distribution-a4ff5ab3",
+    "title": "Senior Protection Engineer (Medium Voltage / Utility Distribution)",
+    "company": "micro1",
+    "category": "Engineering",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/a4ff5ab3-735d-474b-a5ed-46a460aae0a4?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Senior Protection Engineer (Medium Voltage / Utility Distribution) experts to contribute their technical expertise to a customer's project in the utility distribution sector. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.\nSkills they're looking for: Protective Relaying, Relay Settings, Medium Voltage Distribution, Fault Current Analysis, Protective Device Coordination, Power Systems.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "protective-relaying",
+      "relay-settings",
+      "medium-voltage-distribution",
+      "fault-current-analysis"
+    ],
+    "createdAt": 1793781947000
+  },
+  {
+    "id": "micro1-video-production-specialist-96670012",
+    "title": "Video Production Specialist",
+    "company": "micro1",
+    "category": "Other",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/96670012-085e-4670-b6f6-df92381fb572?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Video Production Specialists to contribute to a customer's dynamic project focused on elevating multimedia experiences. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters. This opportunity is ideal for visual storytellers who excel at both the…\nSkills they're looking for: video production, video editing, adobe premiere pro, final cut pro, davinci resolve, visual storytelling, written communication, verbal communication.\nRefer and earn $100.\nFull details and the application are on micro1.",
+    "tags": [
+      "video-production",
+      "video-editing",
+      "adobe-premiere-pro",
+      "final-cut-pro"
+    ],
+    "createdAt": 1793767789000
+  },
+  {
+    "id": "micro1-art-buying-and-photography-representation-expert-515ae213",
+    "title": "Art Buying and Photography Representation Expert",
+    "company": "micro1",
+    "category": "Film & Media",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$55 – $100 / hour",
+    "url": "https://jobs.micro1.ai/post/515ae213-2193-4711-88b8-1d89d1281dda?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "You’ll need:  Professional experience commissioning, licensing or representing photographers or other visual artists for agencies, brands, publications or studios. Your tasks: Review briefs, cost estimates and licensing cases, judge fit, price and usage terms, and explain your decisions in writing.\nSkills they're looking for: Art buyer, photo buyer, creative producer, licensing manager, attention to detail.\nRefer and earn $500.\nFull details and the application are on micro1.",
+    "tags": [
+      "art-buyer",
+      "photo-buyer",
+      "creative-producer",
+      "licensing-manager"
+    ],
+    "createdAt": 1793764121000
+  },
+  {
+    "id": "micro1-visual-content-evaluator-c619b632",
+    "title": "Visual Content Evaluator",
+    "company": "micro1",
+    "category": "Sales & Marketing",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/c619b632-b151-492c-8bf5-02a7728f13d6?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Visual Content Evaluators to support a customer initiative focused on enhancing the quality of AI-generated images. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters. Upload original images you own that strictly follow provided project specifications.\nSkills they're looking for: image evaluation, visual content, imagen editing, constructive feedback.\nRefer and earn $100.\nFull details and the application are on micro1.",
+    "tags": [
+      "image-evaluation",
+      "visual-content",
+      "imagen-editing",
+      "constructive-feedback"
+    ],
+    "createdAt": 1793758694000
+  },
+  {
+    "id": "micro1-set-and-production-design-expert-5eac67b3",
+    "title": "Set and Production Design Expert",
+    "company": "micro1",
+    "category": "Design",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$55 – $100 / hour",
+    "url": "https://jobs.micro1.ai/post/5eac67b3-dea2-40b1-bab3-b36607847f74?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "You’ll need: Professional experience designing, building or decorating sets for film, TV, theatre, events, commercials or photography Your tasks: Review set designs and briefs, judge how well they fit the story, the space and the camera, and explain your decisions in writing\nSkills they're looking for: SketchUp, AutoCAD, Vectorworks, Scripts, Briefs, Set designer.\nRefer and earn $500.\nFull details and the application are on micro1.",
+    "tags": [
+      "sketchup",
+      "autocad",
+      "vectorworks",
+      "scripts"
+    ],
+    "createdAt": 1793757286000
+  },
+  {
+    "id": "micro1-photography-and-cinematography-expert-1388efaf",
+    "title": "Photography and Cinematography Expert",
+    "company": "micro1",
+    "category": "Film & Media",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$55 – $100 / hour",
+    "url": "https://jobs.micro1.ai/post/1388efaf-870e-4edb-8f4a-9ba283cee4ec?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "You’ll need: Professional experience shooting photo or video for clients, productions, publications or brands Your tasks: Review photo and video work and briefs, judge technical quality, composition and brief match, and explain your decisions in writing\nSkills they're looking for: Briefs, Shoot Days, Post-production, Lightroom, Adobe Photoshop, Attention to detail.\nRefer and earn $500.\nFull details and the application are on micro1.",
+    "tags": [
+      "briefs",
+      "shoot-days",
+      "post-production",
+      "lightroom"
+    ],
+    "createdAt": 1793756789000
+  },
+  {
+    "id": "micro1-graphic-and-editorial-design-expert-3adfc3a1",
+    "title": "Graphic and Editorial Design Expert",
+    "company": "micro1",
+    "category": "Design",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$55 – $100 / hour",
+    "url": "https://jobs.micro1.ai/post/3adfc3a1-f9a6-4df2-bca4-56bae2a2ebc1?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "You’ll need: Professional experience designing for print, web or publications for a company, studio, publisher or client Your tasks: Review designs and briefs, judge layout, readability and brief match, and explain your decisions in writing\nSkills they're looking for: Graphic Design, Layout design, Attention to detail, Adobe InDesign, Adobe Photoshop, Figma.\nRefer and earn $500.\nFull details and the application are on micro1.",
+    "tags": [
+      "graphic-design",
+      "layout-design",
+      "attention-to-detail",
+      "adobe-indesign"
+    ],
+    "createdAt": 1793755959000
+  },
+  {
+    "id": "micro1-fashion-and-interior-styling-expert-6929f227",
+    "title": "Fashion and Interior Styling Expert",
+    "company": "micro1",
+    "category": "Film & Media",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$55 – $100 / hour",
+    "url": "https://jobs.micro1.ai/post/6929f227-8769-44f9-a4e2-1eaa5848b58e?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "You’ll need:  Professional experience styling looks or spaces for editorial, brands, retail, productions or private clients Your tasks: Review looks, rooms and briefs, judge fit, color, proportion and brief match, and explain your decisions in writing\nSkills they're looking for: Wardrobe Stylist, fashion stylist, personal stylist, Attention to detail, briefs sourcing fittings.\nRefer and earn $500.\nFull details and the application are on micro1.",
+    "tags": [
+      "wardrobe-stylist",
+      "fashion-stylist",
+      "personal-stylist",
+      "attention-to-detail"
+    ],
+    "createdAt": 1793755257000
+  },
+  {
+    "id": "micro1-brand-and-social-creative-expert-b0604cc5",
+    "title": "Brand and Social Creative Expert",
+    "company": "micro1",
+    "category": "Sales & Marketing",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$55 – $100 / hour",
+    "url": "https://jobs.micro1.ai/post/b0604cc5-9d49-4d74-b579-fe7f38fd5fd5?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "You’ll need:  Professional experience creating or directing brand, marketing or social media creative for a company, agency or client Your tasks: Review creative work and briefs, judge quality, brand fit and platform fit, and explain your decisions in writing\nSkills they're looking for: Marketing, Posts, Google Ads, Marketing Campaigns, Creative Strategist, Copywriter.\nRefer and earn $500.\nFull details and the application are on micro1.",
+    "tags": [
+      "marketing",
+      "posts",
+      "google-ads",
+      "marketing-campaigns"
+    ],
+    "createdAt": 1793754602000
+  },
+  {
+    "id": "micro1-art-and-photography-curators-4cb20660",
+    "title": "Art and Photography Curators",
+    "company": "micro1",
+    "category": "Film & Media",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$55 – $100 / hour",
+    "url": "https://jobs.micro1.ai/post/4cb20660-d3e5-409a-9417-071a88777a60?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "You’ll need: Professional experience curating, acquiring, cataloguing or attributing art or photography for a museum, gallery, auction house, archive or collection Your tasks:  Review works and image sets, judge attribution, context and presentation, and explain your decisions in writing\nSkills they're looking for: Curator, Collections specialist, attention to detail, print processes, selecting works.\nRefer and earn $500.\nFull details and the application are on micro1.",
+    "tags": [
+      "curator",
+      "collections-specialist",
+      "attention-to-detail",
+      "print-processes"
+    ],
+    "createdAt": 1793753439000
+  },
+  {
+    "id": "micro1-photo-and-visual-editors-04f23177",
+    "title": "Photo and Visual Editors",
+    "company": "micro1",
+    "category": "Film & Media",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$55 – $100 / hour",
+    "url": "https://jobs.micro1.ai/post/04f23177-3b57-4811-b80d-9c47cce2779a?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "You’ll need: Professional experience selecting, editing or retouching images for publication, clients or brands Your tasks: Review images, choose the best ones, correct technical problems and explain your decisions in writing You’ll review and edit images and judge their quality, accuracy and fit for a purpose. This is a good fit if you work as a photo editor, picture editor, visual editor or retoucher and make decisions about which images to use and how to correct them.\nSkills they're looking for: Photo Edition, Picture Edition, Retoucher, Lightroom, Adobe Photoshop.\nRefer and earn $500.\nFull details and the application are on micro1.",
+    "tags": [
+      "photo-edition",
+      "picture-edition",
+      "retoucher",
+      "lightroom"
+    ],
+    "createdAt": 1793753156000
+  },
+  {
+    "id": "micro1-student-loan-specialist-05225950",
+    "title": "Student Loan Specialist",
+    "company": "micro1",
+    "category": "Finance & Accounting",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/05225950-524a-4b9a-9c8e-e721a6f5a338?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Time Commitment: 15-25 hours/week, short-term project micro1 is looking for Student Loan Specialists to help evaluate and improve AI systems on federal student loan topics. You’ll use your borrower counseling experience to check that questions sound like ones real borrowers would ask and that answers are correct and useful. Accuracy comes first. No AI experience required; your domain knowledge is what matters.\nSkills they're looking for: Federal student loan knowledge, Repayment plans, Forgiveness and relief programs, Borrower Communication and Spotting Incorrect Guidance, Loan Servicing and Servicer Issues.\nRefer and earn $500.\nFull details and the application are on micro1.",
+    "tags": [
+      "federal-student-loan-knowledge",
+      "repayment-plans",
+      "forgiveness-and-relief-programs",
+      "borrower-communication-and-spotting-incorrect-guidance"
+    ],
+    "createdAt": 1793746932000
+  },
+  {
+    "id": "micro1-engineering-phd-ab7c2d1d",
+    "title": "Engineering PhD",
+    "company": "micro1",
+    "category": "Engineering",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$80 – 95 / hour",
+    "url": "https://jobs.micro1.ai/post/ab7c2d1d-bee1-4e0d-9735-e9f86f054fde?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Project kickoff: Ideally end of week( November 8th) You’ll need: PhD or PhD candidate in electrical, mechanical, chemical, industrial, or aerospace engineering Your tasks: Build technical problems from real engineering workflows and define what makes an answer correct\nSkills they're looking for: PhD, Mechanichal Engineering, Electrical Engineer, Chemical Engineer.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "phd",
+      "mechanichal-engineering",
+      "electrical-engineer",
+      "chemical-engineer"
+    ],
+    "createdAt": 1793746457000
+  },
+  {
+    "id": "micro1-veterans-service-representative-7d5ea7c4",
+    "title": "Veterans Service Representative",
+    "company": "micro1",
+    "category": "Government & Defense",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/7d5ea7c4-e77b-4cea-b528-4fbc14376446?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Veterans Service Representatives to participate in an innovative customer project. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. Review and analyze AI-generated disability compensation claims, ensuring comprehensive evaluation of evidence and adherence to established regulatory guidelines.\nSkills they're looking for: Benefit Determination, Quality Assurance, Disability Compensation, Evidence Gathering, VBMS, GS-0996.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "benefit-determination",
+      "quality-assurance",
+      "disability-compensation",
+      "evidence-gathering"
+    ],
+    "createdAt": 1793733282000
+  },
+  {
+    "id": "micro1-federal-it-specialist-4cbcd4bd",
+    "title": "Federal IT Specialist",
+    "company": "micro1",
+    "category": "Security",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/4cbcd4bd-c00b-4f93-be66-4d9d2bc95dfc?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Federal IT Specialists to contribute expertise to a customer’s project focused on federal IT operations and AI training. In this role, you'll apply your expertise to help train next-generation AI systems. The engagement centers on evaluating and improving AI understanding of federal IT deliverables, with an emphasis on GS-2210 activities, incident response, information security compliance, and technical documentation. You will leverage your hands-on…\nSkills they're looking for: Hardware Repair, GS-2210, Information Security, Network Administration, Incident Response.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "hardware-repair",
+      "gs-2210",
+      "information-security",
+      "network-administration"
+    ],
+    "createdAt": 1793727044000
+  },
+  {
+    "id": "micro1-federal-criminal-investigator-b072a025",
+    "title": "Federal Criminal Investigator",
+    "company": "micro1",
+    "category": "Government & Defense",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/b072a025-2972-4592-b25c-ea8e6913edae?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Federal Criminal Investigators to participate in an innovative project with a leading client. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. This engagement calls for professionals with a deep understanding of federal criminal investigations, including case documentation, evidence assessment, and procedural compliance.…\nSkills they're looking for: Criminal Law, Criminal Investigation, Stress Tolerance, GS-1811, GS-1801.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "criminal-law",
+      "criminal-investigation",
+      "stress-tolerance",
+      "gs-1811"
+    ],
+    "createdAt": 1793725476000
+  },
+  {
+    "id": "micro1-english-voice-expert-us-789390a8",
+    "title": "English Voice Expert (US)",
+    "company": "micro1",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/789390a8-8d70-4ecb-b67d-640662e9e3a6?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging English Voice Experts (US) to contribute to a dynamic customer project focused on language data and AI advancement. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters. This is an exciting opportunity to utilize your voice skills in an innovative…\nSkills they're looking for: Voice Recording.\nRefer and earn $100.\nFull details and the application are on micro1.",
+    "tags": [
+      "voice-recording"
+    ],
+    "createdAt": 1793723978000
+  },
+  {
+    "id": "micro1-federal-grants-management-specialist-d6dba08b",
+    "title": "Federal Grants Management Specialist",
+    "company": "micro1",
+    "category": "Customer Support",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/d6dba08b-e968-4b72-848e-c00721147780?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Federal Grants Management Specialists to support an important customer project requiring domain expertise in federal grants and compliance. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input.\nSkills they're looking for: Customer Service, Teamwork, Attention to Detail, GS-1109, Grant Management.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "customer-service",
+      "teamwork",
+      "attention-to-detail",
+      "gs-1109"
+    ],
+    "createdAt": 1793721705000
+  },
+  {
+    "id": "micro1-graphic-designer-ab1ebb4a",
+    "title": "Graphic Designer",
+    "company": "micro1",
+    "category": "Design",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/ab1ebb4a-5a7a-44c3-81e2-226bbcf2ff74?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Graphic Designers to contribute their creative and technical expertise to a unique project focused on evaluating and enhancing AI-generated images. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters. This opportunity is ideal for those who excel in…\nSkills they're looking for: Image Evaluation, Attention to Visual Detail, Comparative Ranking, Written Communication, Verbal Communication, Digital Photography, Artifact Detection, Constructive Feedback.\nRefer and earn $100.\nFull details and the application are on micro1.",
+    "tags": [
+      "image-evaluation",
+      "attention-to-visual-detail",
+      "comparative-ranking",
+      "written-communication"
+    ],
+    "createdAt": 1793718841000
+  },
+  {
+    "id": "micro1-federal-budget-analyst-141f06a5",
+    "title": "Federal Budget Analyst",
+    "company": "micro1",
+    "category": "Finance & Accounting",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/141f06a5-e58f-4142-98ba-62b5e33f6f8b?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Federal Budget Analysts to contribute to a customer's project focused on budget formulation and execution within the federal sector. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. Create realistic training examples of federal budget justification materials, including narratives, exhibits, and supporting analyses.\nSkills they're looking for: Budget Administration, Budget Execution, Financial Management Analysis, Technical Competency, GS-0560, GS-0501, GS-0510.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "budget-administration",
+      "budget-execution",
+      "financial-management-analysis",
+      "technical-competency"
+    ],
+    "createdAt": 1793718633000
+  },
+  {
+    "id": "micro1-ndt-subject-matter-expert-laser-shearography-level-ii-level-iii-97417748",
+    "title": "NDT Subject Matter Expert – Laser Shearography (Level II / Level III)",
+    "company": "micro1",
+    "category": "Science & Research",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/97417748-168a-455a-b44d-98ae3564955c?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging NDT Subject Matter Experts – Laser Shearography (Level II / Level III) to support a customer's advanced aerospace inspection project. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.\nSkills they're looking for: Laser Shearography, Non-Destructive Testing (NDT), ASNT Level II / III, Composite Materials Inspection, Defect Evaluation, Optical Interferometry.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "laser-shearography",
+      "non-destructive-testing-ndt",
+      "asnt-level-ii-iii",
+      "composite-materials-inspection"
+    ],
+    "createdAt": 1793706396000
+  },
+  {
+    "id": "micro1-senior-mbse-engineer-sysml-v2-6afa96e2",
+    "title": "Senior MBSE Engineer - SysML v2",
+    "company": "micro1",
+    "category": "Engineering",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/6afa96e2-251a-4c87-b4a7-ad5142b87a8a?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Commitment: Pay-per- task-based, variable/flexible hours (~15hrs/wk) micro1 is looking for experienced Model-Based Systems Engineering (MBSE) professionals with expertise in SysML v1 and exposure to SysML v2, or hands-on experience with SysML v2 textual modeling, to support a customer project focused on AI training and evaluation.\nSkills they're looking for: sysml v2, systems engineering, requirements engineering, system architecture, model traceability, interface control documents (icds), conops, technical writing.\nRefer and earn $3,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "sysml-v2",
+      "systems-engineering",
+      "requirements-engineering",
+      "system-architecture"
+    ],
+    "createdAt": 1793701774000
+  },
+  {
+    "id": "micro1-coding-author-68b0ec9c",
+    "title": "Coding Author",
+    "company": "micro1",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/68b0ec9c-7b52-4675-b05b-2aef41f54ce3?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Coding Authors (CCS / CIC / CPC certified) to contribute their expertise to a dynamic project for a valued customer. In this role, you’ll apply your coding expertise to create the training material that helps next-generation AI systems learn, reason, and perform. Your work will shape how models understand real-world medical coding. No prior experience in AI is required, your domain knowledge is what matters.\nSkills they're looking for: icd-10-cm, icd-10-pcs, cpt, medical coding, content authoring, coding audit, written communication, verbal communication.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "icd-10-cm",
+      "icd-10-pcs",
+      "cpt",
+      "medical-coding"
+    ],
+    "createdAt": 1793695191000
+  },
+  {
+    "id": "micro1-medical-records-coder-964398f8",
+    "title": "Medical Records Coder",
+    "company": "micro1",
+    "category": "Healthcare",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/964398f8-9537-46b3-94a6-1623cebde5ec?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Medical Records Coders (CCS / CIC / CPC certified) to contribute their expertise to a dynamic project for a valued customer. In this role, you’ll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required, your domain knowledge is what matters.\nSkills they're looking for: icd-10-cm, icd-10-pcs, cpt, medical record review, clinical documentation coding, aha coding clinic guidelines, official guidelines for coding and reporting, data annotation.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "icd-10-cm",
+      "icd-10-pcs",
+      "cpt",
+      "medical-record-review"
+    ],
+    "createdAt": 1793695011000
+  },
+  {
+    "id": "micro1-medical-chart-reviewer-cf3c106c",
+    "title": "Medical Chart Reviewer",
+    "company": "micro1",
+    "category": "Healthcare",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/cf3c106c-d085-4a9c-b640-7ebe6828db7f?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Medical Chart Reviewers (CCS / CIC / CPC certified, or RN / clinical background) to contribute their expertise to a dynamic project for a valued customer. In this role, you’ll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required, your domain knowledge is what matters.\nSkills they're looking for: icd-10-cm, icd-10-pcs, ms-drg methodology, medical chart review, clinical documentation improvement (cdi), coding audit, aha coding clinic guidelines, attention to detail.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "icd-10-cm",
+      "icd-10-pcs",
+      "ms-drg-methodology",
+      "medical-chart-review"
+    ],
+    "createdAt": 1793694906000
+  },
+  {
+    "id": "micro1-digital-artist-0ea4c32b",
+    "title": "Digital Artist",
+    "company": "micro1",
+    "category": "Film & Media",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/0ea4c32b-a608-4db4-ba77-f54fafda5d02?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Digital Artists to contribute their creative and technical expertise to a unique project focused on evaluating and enhancing AI-generated images. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters. This opportunity is ideal for those who excel in…\nSkills they're looking for: image evaluation, Comparative ranking, attention to visual detail, written communication, verbal comunication, digital photography, Artifact detection, constructive feedback.\nRefer and earn $100.\nFull details and the application are on micro1.",
+    "tags": [
+      "image-evaluation",
+      "comparative-ranking",
+      "attention-to-visual-detail",
+      "written-communication"
+    ],
+    "createdAt": 1793657367000
+  },
+  {
+    "id": "micro1-photographer-5d87f34f",
+    "title": "Photographer",
+    "company": "micro1",
+    "category": "Film & Media",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/5d87f34f-80f5-40c9-bceb-031d2c881d82?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Photographers to support a customer’s initiative focused on evaluating and enhancing visual data quality. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters. This engagement focuses on detailed evaluation and comparison of original photographs…\nSkills they're looking for: photography, digital imaging, photo editing, image quality assessment, attention to detail, written communication, image annotation, quality assurance.\nRefer and earn $100.\nFull details and the application are on micro1.",
+    "tags": [
+      "photography",
+      "digital-imaging",
+      "photo-editing",
+      "image-quality-assessment"
+    ],
+    "createdAt": 1793653475000
+  },
+  {
+    "id": "micro1-finance-research-expert-006906b8",
+    "title": "Finance Research Expert",
+    "company": "micro1",
+    "category": "Finance & Accounting",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$30 – $60 / hour",
+    "url": "https://jobs.micro1.ai/post/006906b8-8418-4c24-ba6c-bf5bb2f751c4?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "You’ll need: Hands-on experience reading US SEC filings and familiarity with US GAAP Your tasks: Write finance research questions with a verified, sourced answer, and check each one against what AI models answer You will work on questions about real US public companies. Each question points to information that sits in long filings or IR materials, or that requires comparing several of them to find the right answer.\nSkills they're looking for: Equity Research, FP&A, Corporate Finance, Accounting or Audit, Investor Relations, Credit Analysis.\nRefer and earn $500.\nFull details and the application are on micro1.",
+    "tags": [
+      "equity-research",
+      "fp-a",
+      "corporate-finance",
+      "accounting-or-audit"
+    ],
+    "createdAt": 1793636378000
+  },
+  {
+    "id": "micro1-godot-game-developer-fc778864",
+    "title": "Godot Game Developer",
+    "company": "micro1",
+    "category": "Engineering",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/fc778864-9bfa-4750-95da-4859df2e8caf?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Godot Game Developers to participate in a dynamic project for a valued customer, focusing on crafting engaging interactive experiences using the Godot engine. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. This is an exciting opportunity for seasoned professionals who take pride in clear written and verbal communication,…\nSkills they're looking for: godot engine, gdscript, c#, gameplay systems design, scene management, asset integration, visual scripting, game debugging.\nRefer and earn $500.\nFull details and the application are on micro1.",
+    "tags": [
+      "godot-engine",
+      "gdscript",
+      "c",
+      "gameplay-systems-design"
+    ],
+    "createdAt": 1793623837000
+  },
+  {
+    "id": "micro1-video-annotation-b3160bd4",
+    "title": "Video Annotation",
+    "company": "micro1",
+    "category": "Data & AI",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/b3160bd4-f048-4273-9ad0-066d0f53801c?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Video Annotation experts to contribute to a dynamic customer project focused on high-impact data labeling. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. Carefully review and annotate video content based on detailed guidelines and rubrics provided for the project.\nSkills they're looking for: video annotation, data labeling, digital annotation tools, detail orientation, written and verbal communication.\nRefer and earn $100.\nFull details and the application are on micro1.",
+    "tags": [
+      "video-annotation",
+      "data-labeling",
+      "digital-annotation-tools",
+      "detail-orientation"
+    ],
+    "createdAt": 1793539420000
+  },
+  {
+    "id": "micro1-enterprise-client-partner-u-s-government-13caa411",
+    "title": "Enterprise Client Partner, U.S. Government",
+    "company": "micro1",
+    "category": "Government & Defense",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/13caa411-9f96-46b1-a762-9b9bd0604cfb?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Job Title: Enterprise Client Partner, U.S. Government We are seeking a Client Partner to help drive adoption of advanced AI capabilities within U.S. Government and defense environments. This role is focused on building relationships across DoW, federal agencies, and defense contractors, translating mission needs into deployable AI solutions.\nSkills they're looking for: Client Acquisition, Outbound Prospecting, Enterprise Parnerships, Enterprise AI.\nRefer and earn $1,500.\nFull details and the application are on micro1.",
+    "tags": [
+      "client-acquisition",
+      "outbound-prospecting",
+      "enterprise-parnerships",
+      "enterprise-ai"
+    ],
+    "createdAt": 1793487139000
+  },
+  {
+    "id": "micro1-music-sound-annotation-expert-bff394b3",
+    "title": "Music & Sound Annotation Expert",
+    "company": "micro1",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/bff394b3-ebf8-462e-bfaa-9e9fbe4daae7?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Music & Sound Annotation Experts to contribute to a customer's project at the forefront of music and audio technology. Your ears are the ground truth. You'll listen to short field recordings and document exactly what's audible — instruments, tempo, key, background sounds, crowd reactions — through a structured web platform built for this project. Later phases involve grading AI model answers against what you actually heard.\nSkills they're looking for: analytical listening, music theory knowledge, audio annotation, attention to detail, written communication.\nRefer and earn $500.\nFull details and the application are on micro1.",
+    "tags": [
+      "analytical-listening",
+      "music-theory-knowledge",
+      "audio-annotation",
+      "attention-to-detail"
+    ],
+    "createdAt": 1793456712000
+  },
+  {
+    "id": "micro1-portuguese-bilingual-expert-brazil-6b363545",
+    "title": "Portuguese Bilingual Expert (Brazil)",
+    "company": "micro1",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/6b363545-5010-4e20-8209-b50e93b3c50f?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Portuguese Bilingual Experts (Brazil) to contribute to a customer's project focused on advancing AI-powered technologies and language understanding. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.\nSkills they're looking for: Portuguese.\nRefer and earn $300.\nFull details and the application are on micro1.",
+    "tags": [
+      "portuguese"
+    ],
+    "createdAt": 1793440962000
+  },
+  {
+    "id": "micro1-korean-bilingual-expert-54ed8357",
+    "title": "Korean Bilingual Expert",
+    "company": "micro1",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/54ed8357-1061-4585-bdfa-b75ada6eabf9?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Korean Bilingual Experts to contribute to a high-impact project for a valued customer. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters. Listen to audio clips in Korean and evaluate the nativeness and fluency of the speaker or model output.\nSkills they're looking for: Korean.\nRefer and earn $300.\nFull details and the application are on micro1.",
+    "tags": [
+      "korean"
+    ],
+    "createdAt": 1793440606000
+  },
+  {
+    "id": "micro1-french-bilingual-expert-6ff0ce32",
+    "title": "French Bilingual Expert",
+    "company": "micro1",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/6ff0ce32-fade-4377-bdd3-8c3879635728?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging French Bilingual Experts to participate in a high-impact project for a valued customer. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters. Leveraging your fluency in both French and English, you'll be involved in crafting, reviewing, and enhancing…\nSkills they're looking for: French.\nRefer and earn $300.\nFull details and the application are on micro1.",
+    "tags": [
+      "french"
+    ],
+    "createdAt": 1793440558000
+  },
+  {
+    "id": "micro1-japanese-bilingual-expert-73be52cc",
+    "title": "Japanese Bilingual Expert",
+    "company": "micro1",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/73be52cc-daeb-4b86-aa28-79ab3ccab25c?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Japanese Bilingual Experts to contribute to a customer’s project. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters. Listen to audio clips in Japanese and evaluate the nativeness and fluency of the speaker or model output.\nSkills they're looking for: Japanese.\nRefer and earn $300.\nFull details and the application are on micro1.",
+    "tags": [
+      "japanese"
+    ],
+    "createdAt": 1793440232000
+  },
+  {
+    "id": "micro1-german-bilingual-expert-a07dcffa",
+    "title": "German Bilingual Expert",
+    "company": "micro1",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/a07dcffa-e3c1-4b8f-887f-26d55c2bb1b7?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging German Bilingual Experts to contribute to a unique customer project focused on advancing artificial intelligence solutions. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters. This opportunity is ideal for professionals passionate about the German…\nSkills they're looking for: German.\nRefer and earn $300.\nFull details and the application are on micro1.",
+    "tags": [
+      "german"
+    ],
+    "createdAt": 1793440221000
+  },
+  {
+    "id": "micro1-hindi-bilingual-expert-94ac7255",
+    "title": "Hindi Bilingual Expert",
+    "company": "micro1",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/94ac7255-dbb8-4277-a858-c03adf697b89?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Hindi bilingual experts to contribute to a customer's audio project focused on advancing machine learning. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required - your domain knowledge is what matters.\nSkills they're looking for: Hindi, Voice Recording, Audio Recording.\nRefer and earn $300.\nFull details and the application are on micro1.",
+    "tags": [
+      "hindi",
+      "voice-recording",
+      "audio-recording"
+    ],
+    "createdAt": 1793423622000
+  },
+  {
+    "id": "micro1-principal-engineer-professor-technical-expert-954f5912",
+    "title": "Principal Engineer / Professor — Technical Expert",
+    "company": "micro1",
+    "category": "Engineering",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$80 – $185 / hour",
+    "url": "https://jobs.micro1.ai/post/954f5912-19a0-45c9-bcad-ab62ace16283?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Commitment: Flexible — fits alongside your current role You’ll need: Master’s or PhD in an engineering or physical science field, plus principal-level industry experience or a faculty appointment Your tasks: Build challenging technical problems from your own domain and define what makes an answer correct\nSkills they're looking for: Technical Depth in a Subdomain, Engineering Judgment Under Constraints, Knowing When an Answer Is Wrong, advanced engineering and materials.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "technical-depth-in-a-subdomain",
+      "engineering-judgment-under-constraints",
+      "knowing-when-an-answer-is-wrong",
+      "advanced-engineering-and-materials"
+    ],
+    "createdAt": 1793413968000
+  },
+  {
+    "id": "micro1-materials-science-expert-976d5b83",
+    "title": "Materials Science Expert",
+    "company": "micro1",
+    "category": "Engineering",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$80 – $185 / hour",
+    "url": "https://jobs.micro1.ai/post/976d5b83-987d-45a2-9b30-f68bb810fdd6?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Commitment: Flexible — fits alongside your current role You’ll need:  Master’s or PhD in materials science or a closely related field, plus principal-level industry experience or a faculty appointment Your tasks: Build challenging technical problems from your own domain and define what makes an answer correct\nSkills they're looking for: Technical Depth in a Subdomain, Engineering Judgment Under Constraints, Knowing When an Answer Is Wrong, Material-science.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "technical-depth-in-a-subdomain",
+      "engineering-judgment-under-constraints",
+      "knowing-when-an-answer-is-wrong",
+      "material-science"
+    ],
+    "createdAt": 1793413394000
+  },
+  {
+    "id": "micro1-manufacturing-industrial-engineering-expert-4a2fb544",
+    "title": "Manufacturing & Industrial Engineering Expert",
+    "company": "micro1",
+    "category": "Engineering",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$80 – $185 / hour",
+    "url": "https://jobs.micro1.ai/post/4a2fb544-c427-4da3-80bb-ee83ff4802bb?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Commitment: Flexible — fits alongside your current role You’ll need: Master’s or PhD in manufacturing, industrial, or mechanical engineering, plus principal-level industry experience or a faculty appointment Your tasks: Build challenging technical problems from your own domain and define what makes an answer correct\nSkills they're looking for: Technical Depth in a Subdomain, Engineering Judgment Under Constraints, Knowing When an Answer Is Wrong, Manufacturing and industrial engineering, Process Design, Production Systems.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "technical-depth-in-a-subdomain",
+      "engineering-judgment-under-constraints",
+      "knowing-when-an-answer-is-wrong",
+      "manufacturing-and-industrial-engineering"
+    ],
+    "createdAt": 1793412849000
+  },
+  {
+    "id": "micro1-semiconductor-engineering-expert-429cb072",
+    "title": "Semiconductor Engineering Expert",
+    "company": "micro1",
+    "category": "Engineering",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$80 – $185 / hour",
+    "url": "https://jobs.micro1.ai/post/429cb072-8780-4bf4-afa3-788ee4853e43?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Commitment: Flexible — fits alongside your current role You’ll need: Master’s or PhD in electrical engineering, materials, physics, or a closely related field, plus principal-level industry experience or a faculty appointment Your tasks: Build challenging technical problems from your own domain and define what makes an answer correct\nSkills they're looking for: Technical Depth in a Subdomain, Engineering Judgment Under Constraints, Knowing When an Answer Is Wrong, Material Science, Circuit Design, Process Integration.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "technical-depth-in-a-subdomain",
+      "engineering-judgment-under-constraints",
+      "knowing-when-an-answer-is-wrong",
+      "material-science"
+    ],
+    "createdAt": 1793412293000
+  },
+  {
+    "id": "micro1-aerospace-engineering-expert-6556d777",
+    "title": "Aerospace Engineering Expert",
+    "company": "micro1",
+    "category": "Engineering",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$80 – $185 / hour",
+    "url": "https://jobs.micro1.ai/post/6556d777-99c3-4325-960d-51031c3494fa?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Commitment: Flexible — fits alongside your current role You’ll need: Master’s or PhD in aerospace or a closely related field, plus principal-level industry experience or a faculty appointment Your tasks: Build challenging technical problems from your own domain and define what makes an answer correct\nSkills they're looking for: Technical Depth in a Subdomain, Engineering Judgment Under Constraints, Knowing When an Answer Is Wrong, Aerodynamics, Propulsion, Structures.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "technical-depth-in-a-subdomain",
+      "engineering-judgment-under-constraints",
+      "knowing-when-an-answer-is-wrong",
+      "aerodynamics"
+    ],
+    "createdAt": 1793412062000
+  },
+  {
+    "id": "micro1-chinese-voice-coach-mandarin-04f3b6cc",
+    "title": "Chinese Voice Coach (Mandarin)",
+    "company": "micro1",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$30 – $60 / hour",
+    "url": "https://jobs.micro1.ai/post/04f3b6cc-9b3e-4ccc-8867-04f23af12b3c?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Commitment: Flexible — work on your own schedule You’ll need: Native or near-native Chinese, a quiet space, and reliable internet Your tasks: Coach Chinese pronunciation and delivery, and evaluate speech samples in your language\nSkills they're looking for: Attention to detail, Active Listening, English and Chinese.\nRefer and earn $500.\nFull details and the application are on micro1.",
+    "tags": [
+      "attention-to-detail",
+      "active-listening",
+      "english-and-chinese"
+    ],
+    "createdAt": 1793397371000
+  },
+  {
+    "id": "micro1-inpatient-coder-01569fb2",
+    "title": "Inpatient Coder",
+    "company": "micro1",
+    "category": "Healthcare",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/01569fb2-dd8c-47e7-b410-342f5f7c92d9?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Inpatient Coders to contribute to a valued project focused on enhancing inpatient clinical coding accuracy and data quality. In this role, you’ll apply your facility coding expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. Review clinical documentation for accuracy, completeness, and coding integrity.\nSkills they're looking for: ICD-10-CM, DRG, EMR, Clinical Documentation.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "icd-10-cm",
+      "drg",
+      "emr",
+      "clinical-documentation"
+    ],
+    "createdAt": 1793393413000
+  },
+  {
+    "id": "micro1-senior-forward-deployed-engineer-u-s-government-b07a34c5",
+    "title": "Senior Forward Deployed Engineer, U.S. Government",
+    "company": "micro1",
+    "category": "Data & AI",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/b07a34c5-1ab7-48f1-b819-de71092f4886?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Job Title: Senior Forward Deployed Engineer, U.S. Government We’re hiring a Senior Forward Deployed Engineer to lead the development and deployment of applied AI systems across research and production. This role spans model experimentation, infrastructure, and deployment in high-assurance, mission-critical environments, including forward-deployed work with strategic U.S. Government partners.\nSkills they're looking for: Agentic AI & LLM Systems Engineering, Python & Production Software Engineering, ML Infrastructure & Model Evaluation, Technical Leadership & Forward Deployment.\nRefer and earn $1,500.\nFull details and the application are on micro1.",
+    "tags": [
+      "agentic-ai-llm-systems-engineering",
+      "python-production-software-engineering",
+      "ml-infrastructure-model-evaluation",
+      "technical-leadership-forward-deployment"
+    ],
+    "createdAt": 1793390716000
+  },
+  {
+    "id": "micro1-federal-civil-litigation-attorney-77d41530",
+    "title": "Federal Civil Litigation Attorney",
+    "company": "micro1",
+    "category": "Legal",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/77d41530-6c46-4946-bdfc-c08bc4fce87a?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging experienced Federal Civil Litigation Attorneys to contribute their legal expertise to a cutting-edge AI research initiative. In this role, you'll help improve how next-generation AI systems draft, evaluate, and refine legal arguments and court motions. We're looking for practicing attorneys with strong federal civil litigation experience and a proven track record of successful motion practice. You'll use your professional judgment to assess the quality,…\nSkills they're looking for: federal civil litigation, motion drafting, legal research, persuasive legal writing, legal analysis, editing and proofreading, evaluating legal arguments, attention to detail.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "federal-civil-litigation",
+      "motion-drafting",
+      "legal-research",
+      "persuasive-legal-writing"
+    ],
+    "createdAt": 1793371437000
+  },
+  {
+    "id": "micro1-civilian-intelligence-agency-expert-u-s-allied-government-4700a242",
+    "title": "Civilian Intelligence Agency Expert – U.S. & Allied Government",
+    "company": "micro1",
+    "category": "Government & Defense",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/4700a242-8b55-4ffd-afd2-17172f16dac1?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is seeking current and former civilian professionals from U.S. and allied government intelligence agencies to contribute their specialized expertise to a project with a frontier AI lab. This opportunity is designed for individuals with firsthand experience working within intelligence organizations, including professionals from intelligence operations, technology, strategy, policy, program management, and senior leadership functions.\nSkills they're looking for: intelligence analysis, program management, organizational decision-making, cybersecurity, strategic planning, scenario evaluation, written communication, feedback delivery.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "intelligence-analysis",
+      "program-management",
+      "organizational-decision-making",
+      "cybersecurity"
+    ],
+    "createdAt": 1793351564000
+  },
+  {
+    "id": "micro1-tax-practitioner-federal-individual-income-tax-cpa-ea-tax-attorney-51b59eaf",
+    "title": "Tax Practitioner, Federal Individual Income Tax (CPA/EA/Tax Attorney)",
+    "company": "micro1",
+    "category": "Legal",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/51b59eaf-48a6-427c-94d0-7a125b25425c?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Tax Practitioners, Federal Individual Income Tax (CPA/EA/Tax Attorney)s to participate in a project supporting a customer. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.\nSkills they're looking for: federal individual income tax law interpretation, internal revenue code analysis, tax research and compliance, written communication, legal logic and reasoning, rubric and checklist development, ai-generated content evaluation, scenario creation and testing.\nRefer and earn $300.\nFull details and the application are on micro1.",
+    "tags": [
+      "federal-individual-income-tax-law-interpretation",
+      "internal-revenue-code-analysis",
+      "tax-research-and-compliance",
+      "written-communication"
+    ],
+    "createdAt": 1793331004000
+  },
+  {
+    "id": "micro1-imagery-analyst-drone-maritime-548b77cc",
+    "title": "Imagery Analyst (Drone & Maritime)",
+    "company": "micro1",
+    "category": "Data & AI",
+    "type": "Part-time",
+    "region": "United States",
+    "salary": "$35 – $80 / hour",
+    "url": "https://jobs.micro1.ai/post/548b77cc-d398-414f-a92d-4ba203bb1c31?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Volume: Steady throughput expected; you set your own pace Commitment: Part-time or full-time, your schedule Eligibility: This role supports a U.S. Navy project. Under the terms of that federal contract, it requires U.S. citizenship and an active DoD Common Access Card (CAC). Applicants who don’t meet these contract requirements aren’t eligible for this project — but we run other annotation projects without them, so we’d still like to hear from you.\nSkills they're looking for: Data labeling, Data annotation, Labeling accuracy, Attention to detail, Navy & Martime familiarity.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "data-labeling",
+      "data-annotation",
+      "labeling-accuracy",
+      "attention-to-detail"
+    ],
+    "createdAt": 1793314437000
+  },
+  {
+    "id": "micro1-defense-analyst-7b6e12c7",
+    "title": "Defense Analyst",
+    "company": "micro1",
+    "category": "Operations",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/7b6e12c7-b37a-480f-a0f6-d40b1b2a7c0b?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is seeking experienced civilian defense analysts to contribute to an AI development project focused on military operations, armed conflict, and defense-related decision-making.You'll evaluate AI-generated military scenarios, identify factual or analytical inaccuracies, and provide expert feedback to improve AI reasoning and reliability. Evaluate AI-generated scenarios involving military operations, armed conflict, and defense planning.\nSkills they're looking for: military operations analysis, defense research, conflict analysis, writing and communication, critical thinking.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "military-operations-analysis",
+      "defense-research",
+      "conflict-analysis",
+      "writing-and-communication"
+    ],
+    "createdAt": 1793310427000
+  },
+  {
+    "id": "micro1-litigation-attorney-4e349131",
+    "title": "Litigation Attorney",
+    "company": "micro1",
+    "category": "Legal",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$80 – 150 / hour",
+    "url": "https://jobs.micro1.ai/post/4e349131-665b-4300-9b7c-1cc6e051eb57?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Commitment: Flexible — work around your practice Your tasks: Build complex legal reasoning tasks from your own practice micro1 is engaging practicing U.S. attorneys to design the legal reasoning problems that measure what AI systems can actually do. Your legal expertise is what matters here — no prior AI experience required.\nSkills they're looking for: Explaining Legal Reasoning to Others, Evidence Synthesis and Case Narrative, Legal Research and Brief Writing, Judgment Under Conflicting Authority, Attention to Detail, Objective Standards for Legal Work.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "explaining-legal-reasoning-to-others",
+      "evidence-synthesis-and-case-narrative",
+      "legal-research-and-brief-writing",
+      "judgment-under-conflicting-authority"
+    ],
+    "createdAt": 1793302678000
+  },
+  {
+    "id": "micro1-intelligence-operations-collection-expert-206a240f",
+    "title": "Intelligence Operations & Collection Expert",
+    "company": "micro1",
+    "category": "Operations",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/206a240f-67cf-47d4-8273-6e62ad89fd5c?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is seeking experienced Intelligence Operations & Collection Experts to contribute their specialized knowledge to an AI training and evaluation project focused on intelligence operations and national security. We are particularly interested in professionals with current or previous experience within civilian intelligence agencies, such as the CIA, NSA, MI6/SIS, GCHQ, or equivalent organizations.\nSkills they're looking for: intelligence operations, intelligence collection, humint, sigint, osint, operational planning, analytical judgment, attention to detail.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "intelligence-operations",
+      "intelligence-collection",
+      "humint",
+      "sigint"
+    ],
+    "createdAt": 1793278817000
+  },
+  {
+    "id": "micro1-intelligence-agency-officer-f6fd0de9",
+    "title": "Intelligence Agency Officer",
+    "company": "micro1",
+    "category": "Government & Defense",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/f6fd0de9-f6ed-4d98-86b0-eeb19256fc2b?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Intelligence Agency Officers to contribute their specialized skills and insights to a customer's project. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. We are particularly interested in professionals with firsthand experience in civilian intelligence operations, collection, analysis, or national security decision-making.\nSkills they're looking for: intelligence analysis, threat analysis, operational planning, data interpretation, scenario creation, written communication, verbal communication, attention to detail.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "intelligence-analysis",
+      "threat-analysis",
+      "operational-planning",
+      "data-interpretation"
+    ],
+    "createdAt": 1793278660000
+  },
+  {
+    "id": "micro1-marine-geology-sme-core-logging-sedimentology-48438c1e",
+    "title": "Marine Geology SME - Core Logging & Sedimentology",
+    "company": "micro1",
+    "category": "Science & Research",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/48438c1e-4297-480d-8fc6-f2fa155dabcf?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Marine Geology SME - Core Logging & Sedimentology experts to contribute to a client's project focused on the marine sciences. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.\nSkills they're looking for: Marine Geology, Sediment & Ocean Floor Basics, Core Logging & Sampling, Soil & Rock Layer Identification, Sediment Identification.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "marine-geology",
+      "sediment-ocean-floor-basics",
+      "core-logging-sampling",
+      "soil-rock-layer-identification"
+    ],
+    "createdAt": 1793268204000
+  },
+  {
+    "id": "micro1-aviation-subject-matter-expert-commercial-pilot-flight-ops-e6d18bd1",
+    "title": "Aviation Subject Matter Expert - Commercial Pilot / Flight Ops",
+    "company": "micro1",
+    "category": "Operations",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/e6d18bd1-ba27-448f-aed0-d308cc88291a?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Aviation Subject Matter Experts with commercial pilot and flight operations backgrounds to contribute to a customer's specialized project. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.\nSkills they're looking for: Instrument Approach Briefing, FAA Approach Charts, Part 135 Operations, IFR Procedures, Aviation Safety, Flight Operations.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "instrument-approach-briefing",
+      "faa-approach-charts",
+      "part-135-operations",
+      "ifr-procedures"
+    ],
+    "createdAt": 1793265411000
+  },
+  {
+    "id": "micro1-software-engineer-electron-js-8c0ddeba",
+    "title": "Software Engineer (Electron.js)",
+    "company": "micro1",
+    "category": "Engineering",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/8c0ddeba-5240-4059-9e61-544dd2c8292f?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Job Title: Software Engineer (Electron.js) We’re building high-fidelity productivity infrastructure for a globally distributed workforce—software that operates quietly, reliably, and intelligently in the background. As a Software Engineer focused on desktop systems, you’ll help design and scale a cross-platform time intelligence application (MacOS + Windows) used daily by thousands of professionals.\nSkills they're looking for: Electron.js, Typescript, Node.js, Cross-platform Apps.\nRefer and earn $1,500.\nFull details and the application are on micro1.",
+    "tags": [
+      "electron-js",
+      "typescript",
+      "node-js",
+      "cross-platform-apps"
+    ],
+    "createdAt": 1793246162000
+  },
+  {
+    "id": "micro1-senior-intelligence-analyst-national-security-8d2f7ffc",
+    "title": "Senior Intelligence Analyst – National Security",
+    "company": "micro1",
+    "category": "Security",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/8d2f7ffc-121b-46a2-aef6-fcd1b53f96ff?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is seeking experienced Senior Intelligence Analysts to contribute their expertise to an AI training and evaluation project focused on national security, intelligence analysis, and government decision-making. We are particularly interested in professionals with current or previous experience within civilian intelligence agencies, such as the CIA, NSA, MI6/SIS, GCHQ, or equivalent national intelligence organizations.\nSkills they're looking for: intelligence analysis, threat assessment, analytical reasoning, source evaluation, critical thinking.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "intelligence-analysis",
+      "threat-assessment",
+      "analytical-reasoning",
+      "source-evaluation"
+    ],
+    "createdAt": 1793223598000
+  },
+  {
+    "id": "micro1-gaming-gambling-regulatory-attorney-c80af4df",
+    "title": "Gaming/Gambling Regulatory Attorney",
+    "company": "micro1",
+    "category": "Legal",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/c80af4df-2031-4f3e-a16b-eae08b339e2f?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Gaming/Gambling Regulatory Attorneys to contribute to a customer's project focused on elevating the legal and regulatory capabilities of next-generation AI solutions in the gaming and gambling sector. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what…\nSkills they're looking for: gaming and gambling law expertise, regulatory compliance analysis, legal research and analysis, written and verbal communication, document and policy review, cross-jurisdictional legal knowledge, attention to detail, analytical thinking.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "gaming-and-gambling-law-expertise",
+      "regulatory-compliance-analysis",
+      "legal-research-and-analysis",
+      "written-and-verbal-communication"
+    ],
+    "createdAt": 1793220914000
+  },
+  {
+    "id": "micro1-consumer-product-safety-attorney-5888d8c4",
+    "title": "Consumer Product Safety Attorney",
+    "company": "micro1",
+    "category": "Legal",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/5888d8c4-69df-47b6-8d73-fac94ab909c0?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Consumer Product Safety Attorney to participate in a unique project supporting a customer’s regulatory initiatives. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.\nSkills they're looking for: product safety law, regulatory compliance, legal research and analysis, drafting legal and compliance documents, risk assessment, cross-jurisdictional regulatory knowledge, communication (written and verbal), analytical thinking.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "product-safety-law",
+      "regulatory-compliance",
+      "legal-research-and-analysis",
+      "drafting-legal-and-compliance-documents"
+    ],
+    "createdAt": 1793220804000
+  },
+  {
+    "id": "micro1-senior-flight-operations-expert-08cc8487",
+    "title": "Senior Flight Operations Expert",
+    "company": "micro1",
+    "category": "Legal",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/08cc8487-57fd-40a2-bf0b-5447a71f876e?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Job Type: Contractor (~10 hours per week) micro1 is engaging Senior Flight Operations Experts to participate in a specialized project supporting a global aviation client. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.\nSkills they're looking for: Instrument approach plate and procedure briefing, Flight planning and operational documentation review, Regulatory operations compliance (Part 121 - 135 - ICAO).\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "instrument-approach-plate-and-procedure-briefing",
+      "flight-planning-and-operational-documentation-review",
+      "regulatory-operations-compliance-part-121-135-icao"
+    ],
+    "createdAt": 1793219282000
+  },
+  {
+    "id": "micro1-senior-technical-documentation-parts-and-annotation-specialist-de78ac45",
+    "title": "Senior Technical Documentation, Parts and Annotation Specialist",
+    "company": "micro1",
+    "category": "Engineering",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/de78ac45-2d2c-44f2-ae53-a0f6cd617a17?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Senior Technical Documentation, Parts and Annotation Specialists to contribute their deep domain expertise to a customer's innovative project. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.\nSkills they're looking for: Assembly manual authoring from engineering drawings and BOMs, Industrial parts identification and fitment quoting from photos and catalogs, Production pattern and marker interpretation, Image annotation QA.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "assembly-manual-authoring-from-engineering-drawings-and-boms",
+      "industrial-parts-identification-and-fitment-quoting-from-photos-and-catalogs",
+      "production-pattern-and-marker-interpretation",
+      "image-annotation-qa"
+    ],
+    "createdAt": 1793218976000
+  },
+  {
+    "id": "micro1-nuclear-radiological-security-expert-b3366c6a",
+    "title": "Nuclear & Radiological Security Expert",
+    "company": "micro1",
+    "category": "Security",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/b3366c6a-012a-41f2-9a9f-29691578369e?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Nuclear & Radiological Security Experts to support a customer’s initiative focused on defining standards for nuclear-safety evaluations, information abstraction, and escalation protocols. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.\nSkills they're looking for: Nuclear Physics, Radiological Safety, Nonproliferation, Safeguards.\nRefer and earn $500.\nFull details and the application are on micro1.",
+    "tags": [
+      "nuclear-physics",
+      "radiological-safety",
+      "nonproliferation",
+      "safeguards"
+    ],
+    "createdAt": 1793218764000
+  },
+  {
+    "id": "micro1-senior-industrial-trades-and-maintenance-expert-f893f8d3",
+    "title": "Senior Industrial Trades and Maintenance Expert",
+    "company": "micro1",
+    "category": "Operations",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/f893f8d3-c965-4e92-860d-f534d8b54884?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Job Type: Contractor (~10 hours per week) micro1 is engaging Senior Industrial Trades and Maintenance Experts to contribute insights and technical expertise to a customer’s specialized project. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.\nSkills they're looking for: Millwright and mechanical installation drawing interpretation, Field diagram and inspection sketch interpretation, Pest control and site layouts, Specialty trade plan reading, Stage lighting plots, Textile production.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "millwright-and-mechanical-installation-drawing-interpretation",
+      "field-diagram-and-inspection-sketch-interpretation",
+      "pest-control-and-site-layouts",
+      "specialty-trade-plan-reading"
+    ],
+    "createdAt": 1793218699000
+  },
+  {
+    "id": "micro1-ai-jailbreak-prompt-injection-security-expert-2a540080",
+    "title": "AI Jailbreak & Prompt-Injection Security Expert",
+    "company": "micro1",
+    "category": "Data & AI",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/2a540080-4b36-4fc3-ad1d-1eafa512a606?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging AI Jailbreak & Prompt-Injection Security Experts to contribute to a cutting-edge customer initiative focused on AI safety and robustness. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.\nSkills they're looking for: Ethical Jailbreaks, LLM Red Teaming, Prompt Injection, Tool-Use Abuse.\nRefer and earn $500.\nFull details and the application are on micro1.",
+    "tags": [
+      "ethical-jailbreaks",
+      "llm-red-teaming",
+      "prompt-injection",
+      "tool-use-abuse"
+    ],
+    "createdAt": 1793218552000
+  },
+  {
+    "id": "micro1-military-operations-ihl-expert-07eb95d9",
+    "title": "Military Operations & IHL Expert",
+    "company": "micro1",
+    "category": "Operations",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/07eb95d9-2a5a-421e-ac18-c7df55561163?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Military Operations & IHL Experts to contribute to a prominent defense-policy and humanitarian-law project. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters. You will leverage your deep understanding of warfighting, weapons targeting, defense…\nSkills they're looking for: War Fighting, Weapons Targeting, Defense Operations, Humanitarian Law.\nRefer and earn $500.\nFull details and the application are on micro1.",
+    "tags": [
+      "war-fighting",
+      "weapons-targeting",
+      "defense-operations",
+      "humanitarian-law"
+    ],
+    "createdAt": 1793218408000
+  },
+  {
+    "id": "micro1-senior-advanced-ndt-and-imaging-specialist-833e0bd5",
+    "title": "Senior Advanced NDT and Imaging Specialist",
+    "company": "micro1",
+    "category": "Data & AI",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/833e0bd5-9b5a-44af-a173-bd62210a68f5?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Job Type: Contractor (~10 hours per week) micro1 is engaging Senior Advanced NDT and Imaging Specialists to participate in a customer's advanced inspection and data interpretation project. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.\nSkills they're looking for: Industrial CT interpretation, X-ray image interpretation, Ultrasonic data analysis, Specialty imaging interpretation, Shearography, Fiber optic inspection.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "industrial-ct-interpretation",
+      "x-ray-image-interpretation",
+      "ultrasonic-data-analysis",
+      "specialty-imaging-interpretation"
+    ],
+    "createdAt": 1793218263000
+  },
+  {
+    "id": "micro1-senior-cargo-condition-and-securing-surveyor-592578fa",
+    "title": "Senior Cargo Condition and Securing Surveyor",
+    "company": "micro1",
+    "category": "Legal",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/592578fa-213a-4f31-a03b-dfc077c63245?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Job Type: Contractor (~10 hours per week) micro1 is engaging Senior Cargo Condition and Securing Surveyors to contribute expert analysis and insight to a customer's logistics-focused project. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.\nSkills they're looking for: Refrigerated and temperature-controlled cargo condition assessment, Finished-vehicle and food transport damage and compliance review, Container surveying, Cargo securing surveying.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "refrigerated-and-temperature-controlled-cargo-condition-assessment",
+      "finished-vehicle-and-food-transport-damage-and-compliance-review",
+      "container-surveying",
+      "cargo-securing-surveying"
+    ],
+    "createdAt": 1793217770000
+  },
+  {
+    "id": "micro1-senior-specialty-inspection-expert-crop-auction-and-rental-c6de85cd",
+    "title": "Senior Specialty Inspection Expert, Crop, Auction and Rental",
+    "company": "micro1",
+    "category": "Operations",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/c6de85cd-3286-41cf-a9f9-99cfb123d706?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Job Type: Contractor (~10 hours per week)\nSkills they're looking for: Crop condition and loss assessment from field and aerial imagery, Auction and pre-sale vehicle, equipment condition grading, Return damage inspection.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "crop-condition-and-loss-assessment-from-field-and-aerial-imagery",
+      "auction-and-pre-sale-vehicle",
+      "equipment-condition-grading",
+      "return-damage-inspection"
+    ],
+    "createdAt": 1793216577000
+  },
+  {
+    "id": "micro1-senior-claims-investigation-and-evidence-review-expert-99276d85",
+    "title": "Senior Claims Investigation and Evidence Review Expert",
+    "company": "micro1",
+    "category": "Operations",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/99276d85-ae7f-4778-8833-0cf33210b973?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Job Type: Contractor (~10 hours per week)\nSkills they're looking for: Special investigations and staged-loss, fraud detection from claim evidence.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "special-investigations-and-staged-loss",
+      "fraud-detection-from-claim-evidence"
+    ],
+    "createdAt": 1793216390000
+  },
+  {
+    "id": "micro1-senior-property-damage-and-restoration-expert-bbc4f744",
+    "title": "Senior Property Damage and Restoration Expert",
+    "company": "micro1",
+    "category": "Operations",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/bbc4f744-7e2e-4b1c-9e23-a241bcdfb86d?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Job Type: Contractor (~10 hours per week)\nSkills they're looking for: Homeowners desk adjusting, coverage application, Restoration estimating in Xactimate, Property damage scoping.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "homeowners-desk-adjusting",
+      "coverage-application",
+      "restoration-estimating-in-xactimate",
+      "property-damage-scoping"
+    ],
+    "createdAt": 1793215940000
+  },
+  {
+    "id": "micro1-military-operations-reporting-sme-bec1163a",
+    "title": "Military Operations & Reporting SME",
+    "company": "micro1",
+    "category": "Operations",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/bec1163a-9cf7-4bd0-83f0-b94db5b67d57?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Military Operations & Reporting SMEs to collaborate on a customer's project, leveraging deep subject matter expertise in military operations, staff processes, and recurring reporting. In this role, you'll apply your real-world DoD experience to help train next-generation AI systems. No prior experience in AI is required — your domain knowledge is what matters.\nSkills they're looking for: military operations expertise, dod reporting standards, report writing, information synthesis, written communication, content evaluation, executive reporting, staff coordination.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "military-operations-expertise",
+      "dod-reporting-standards",
+      "report-writing",
+      "information-synthesis"
+    ],
+    "createdAt": 1793215670000
+  },
+  {
+    "id": "micro1-senior-dod-staff-writing-sme-71669fdd",
+    "title": "Senior DoD Staff Writing SME",
+    "company": "micro1",
+    "category": "Government & Defense",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/71669fdd-8fe6-43b9-b55d-5f412ee0b5dc?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Senior DoD Staff Writing SMEs to contribute expert knowledge and writing skills to a pivotal customer project. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.\nSkills they're looking for: military writing, federal documentation standards, report generation and evaluation, grading rubric development, written and verbal communication, department of defense procedures, collaborative remote work, compliance best practices.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "military-writing",
+      "federal-documentation-standards",
+      "report-generation-and-evaluation",
+      "grading-rubric-development"
+    ],
+    "createdAt": 1793215661000
+  },
+  {
+    "id": "micro1-federal-staff-reporting-analyst-c7f92818",
+    "title": "Federal Staff Reporting Analyst",
+    "company": "micro1",
+    "category": "Government & Defense",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/c7f92818-49aa-4f83-9fbe-d09546b4f197?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Federal Staff Reporting Analyst Experts to contribute to a dynamic project. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.\nSkills they're looking for: military writing, federal documentation standards, report generation and evaluation, grading rubric development, written and verbal communication, department of defense procedures, collaborative remote work, compliance best practices.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "military-writing",
+      "federal-documentation-standards",
+      "report-generation-and-evaluation",
+      "grading-rubric-development"
+    ],
+    "createdAt": 1793215651000
+  },
+  {
+    "id": "micro1-military-writing-specialist-25d62583",
+    "title": "Military Writing Specialist",
+    "company": "micro1",
+    "category": "Government & Defense",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/25d62583-9246-4fa0-80bd-2a21c9a9c890?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Military Writing Specialists to support a unique project, leveraging expertise in military writing and reporting. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters. Contributors will use their background in Department of War (Department of Defense)…\nSkills they're looking for: military writing, federal documentation standards, report generation and evaluation, grading rubric development, written and verbal communication, department of defense procedures, collaborative remote work, compliance best practices.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "military-writing",
+      "federal-documentation-standards",
+      "report-generation-and-evaluation",
+      "grading-rubric-development"
+    ],
+    "createdAt": 1793215641000
+  },
+  {
+    "id": "micro1-naval-subject-matter-expert-cleared-ec344a27",
+    "title": "Naval Subject Matter Expert (Cleared)",
+    "company": "micro1",
+    "category": "Government & Defense",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/ec344a27-5e27-48e8-a713-63336f5951a3?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Naval Subject Matter Expert (Cleared) professionals to contribute critical naval and maritime expertise to a customer’s high-impact project shaping Navy decision-making at the Pentagon. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters. You'll…\nSkills they're looking for: Naval domain depth, Classified-environment fluency, Stakeholder navigation, Analytical judgment, Briefing to leadership.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "naval-domain-depth",
+      "classified-environment-fluency",
+      "stakeholder-navigation",
+      "analytical-judgment"
+    ],
+    "createdAt": 1793215506000
+  },
+  {
+    "id": "micro1-senior-vehicle-damage-and-condition-expert-cc9ebbec",
+    "title": "Senior Vehicle Damage and Condition Expert",
+    "company": "micro1",
+    "category": "Operations",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/cc9ebbec-5710-47cb-a503-d3ee95cc691a?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Job Type: Contractor (~10 hours per week) micro1 is engaging Senior Vehicle Damage and Condition Experts to participate in a specialized project for a valued customer. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.\nSkills they're looking for: Auto damage estimating, Vehicle condition and damage inspection, Accident quality auditing.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "auto-damage-estimating",
+      "vehicle-condition-and-damage-inspection",
+      "accident-quality-auditing"
+    ],
+    "createdAt": 1793211413000
+  },
+  {
+    "id": "micro1-legal-specialist-microsoft-office-user-913e51e8",
+    "title": "Legal Specialist (Microsoft Office User)",
+    "company": "micro1",
+    "category": "Data & AI",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/913e51e8-97d0-4a4c-a432-4b4357c327aa?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Legal Specialists (Microsoft Office Users), including attorneys, paralegals, in-house and outside counsel, compliance professionals, and other experienced legal practitioners, to contribute their expertise to an exciting customer project focused on advancing legal workflows and AI system development. In this role, you’ll apply your legal knowledge to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through…\nSkills they're looking for: Microsoft Office Suite, Microsoft Teams, AI Training, Litigation, Contract Drafting.\nRefer and earn $100.\nFull details and the application are on micro1.",
+    "tags": [
+      "microsoft-office-suite",
+      "microsoft-teams",
+      "ai-training",
+      "litigation"
+    ],
+    "createdAt": 1793201727000
+  },
+  {
+    "id": "micro1-marketing-specialist-microsoft-office-user-cbb3f0f3",
+    "title": "Marketing Specialist (Microsoft Office User)",
+    "company": "micro1",
+    "category": "Sales & Marketing",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/cbb3f0f3-22f8-439c-8bc2-013be484b836?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Marketing Specialists (Microsoft Office Users) to contribute their skills to an exciting customer project focused on elevating marketing strategies and AI system development. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input.\nSkills they're looking for: Microsoft Office Suite, Microsoft Teams, Marketing Strategy, Marketing Analytics, AI Training.\nRefer and earn $100.\nFull details and the application are on micro1.",
+    "tags": [
+      "microsoft-office-suite",
+      "microsoft-teams",
+      "marketing-strategy",
+      "marketing-analytics"
+    ],
+    "createdAt": 1793198730000
+  },
+  {
+    "id": "micro1-tamil-bilingual-expert-542159e6",
+    "title": "Tamil Bilingual Expert",
+    "company": "micro1",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/542159e6-d897-4f0f-9f2e-8c32f11e703c?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Tamil Bilingual Experts to contribute to an impactful language and AI training project for a valued customer. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.\nSkills they're looking for: english (b2+), attention to detail, written communication, verbal communication, Tamil native proficiency.\nRefer and earn $500.\nFull details and the application are on micro1.",
+    "tags": [
+      "english-b2",
+      "attention-to-detail",
+      "written-communication",
+      "verbal-communication"
+    ],
+    "createdAt": 1793187004000
+  },
+  {
+    "id": "micro1-management-consulting-expert-9e74828a",
+    "title": "Management Consulting Expert",
+    "company": "micro1",
+    "category": "Data & AI",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$60 – 120 / hour",
+    "url": "https://jobs.micro1.ai/post/9e74828a-963a-4093-be63-e30d0d144066?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Time commitment: 10+ hours/week required; 20+ preferred. Your tasks: Build realistic consulting work environments and use AI agents to create analyses, client deliverables, task instructions, and objective evaluation criteria. micro1 is engaging experienced management consultants to help build tasks that measure how effectively AI systems can perform complex consulting work.\nSkills they're looking for: AI Agents.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "ai-agents"
+    ],
+    "createdAt": 1793159144000
+  },
+  {
+    "id": "micro1-financial-due-diligence-transaction-accounting-9a802ec5",
+    "title": "Financial Due Diligence & Transaction Accounting",
+    "company": "micro1",
+    "category": "Data & AI",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$60 – 120 / hour",
+    "url": "https://jobs.micro1.ai/post/9a802ec5-4080-45e1-bb58-b97c36ac38d9?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Time commitment: 10+ hours/week required; 20+ preferred. Your tasks: Primarily review transaction-related financial analyses and AI-generated deliverables, and help develop task instructions and objective evaluation criteria. micro1 is engaging experienced financial due diligence and transaction accounting professionals to help build tasks that measure how effectively AI systems can perform complex transaction work.\nSkills they're looking for: CPA, AI Agents.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "cpa",
+      "ai-agents"
+    ],
+    "createdAt": 1793158881000
+  },
+  {
+    "id": "micro1-investment-banking-m-a-expert-2904f048",
+    "title": "Investment Banking & M&A Expert",
+    "company": "micro1",
+    "category": "Data & AI",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$60 – 120 / hour",
+    "url": "https://jobs.micro1.ai/post/2904f048-0d04-4b2b-a6e8-946c3df9fa3c?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Time commitment: 10+ hours/week required; 20+ preferred. Your tasks: Build realistic transaction environments and use AI agents to create and review valuation models, deal materials, task instructions, and objective evaluation criteria. micro1 is engaging experienced investment banking and M&A professionals to help build tasks that measure how effectively AI systems can perform complex transaction work.\nSkills they're looking for: CPA, AI Agents.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "cpa",
+      "ai-agents"
+    ],
+    "createdAt": 1793158542000
+  },
+  {
+    "id": "micro1-corporate-finance-financial-modeling-expert-644f3f12",
+    "title": "Corporate Finance & Financial Modeling Expert",
+    "company": "micro1",
+    "category": "Data & AI",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$60 – 120 / hour",
+    "url": "https://jobs.micro1.ai/post/644f3f12-c2a2-4fb9-8652-57263a807c5e?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Time commitment: 10+ hours/week required; 20+ preferred. Your tasks: Build realistic finance work environments and use AI agents to create professional deliverables, task instructions, and objective evaluation criteria. micro1 is engaging experienced finance professionals to help build tasks that measure how effectively AI systems can perform complex professional work.\nSkills they're looking for: CPA, AI Agents.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "cpa",
+      "ai-agents"
+    ],
+    "createdAt": 1793157910000
+  },
+  {
+    "id": "micro1-member-of-technical-staff-model-training-infra-platform-ab040b63",
+    "title": "Member of Technical Staff, Model Training (infra & platform)",
+    "company": "micro1",
+    "category": "Data & AI",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/ab040b63-3e78-47d4-87b5-319193171cc2?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Job Title: Member of Technical Staff, Model Training (infra & platform) In this role, you will take technical ownership of the distributed systems and platforms that enable researchers to train increasingly capable models, execute large-scale experiments, and deploy specialized AI systems efficiently.\nSkills they're looking for: Distributed ML Training Infrastructure, GPU Performance & Inference Optimization, Distributed Systems & Platform Architecture, Technical Leadership & System Ownership.\nRefer and earn $1,500.\nFull details and the application are on micro1.",
+    "tags": [
+      "distributed-ml-training-infrastructure",
+      "gpu-performance-inference-optimization",
+      "distributed-systems-platform-architecture",
+      "technical-leadership-system-ownership"
+    ],
+    "createdAt": 1793136994000
+  },
+  {
+    "id": "micro1-member-of-technical-staff-model-training-applied-research-cfaf2d70",
+    "title": "Member of Technical Staff, Model Training (applied research)",
+    "company": "micro1",
+    "category": "Data & AI",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/cfaf2d70-673a-4edb-aeba-558fcf33eb9a?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Job Title: Member of Technical Staff, Model Training (applied research) In this role, you will work across language models, multimodal systems, robotics, and autonomous agents, developing models optimized for specific applications and environments. You will own the full model development lifecycle, from understanding application requirements and designing training datasets to model adaptation, evaluation, and production deployment.\nSkills they're looking for: Model Training & Adaptation, Multimodal AI, Robotics & Agent Learning, Applied ML Evaluation, Inference Optimization & Model Deployment.\nRefer and earn $1,500.\nFull details and the application are on micro1.",
+    "tags": [
+      "model-training-adaptation",
+      "multimodal-ai",
+      "robotics-agent-learning",
+      "applied-ml-evaluation"
+    ],
+    "createdAt": 1793136798000
+  },
+  {
+    "id": "micro1-member-of-technical-staff-model-training-post-training-research-0a40f373",
+    "title": "Member of Technical Staff, Model Training (post-training research)",
+    "company": "micro1",
+    "category": "Data & AI",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/0a40f373-eb85-4269-a115-07d75e7e59a2?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Job Title: Member of Technical Staff, Model Training (post-training research) In this role, you will investigate how learning algorithms, training data, and evaluation methodologies interact to produce stronger reasoning, generalization, and agent capabilities. You will explore new approaches to reinforcement learning, distillation, and data-efficient training, translating research insights into scalable methods that improve model intelligence.\nSkills they're looking for: Reinforcement Learning & Optimization, Post-Training Algorithms, Training Data Strategy & Curriculum Learning, ML Research & Experimental Design.\nRefer and earn $1,500.\nFull details and the application are on micro1.",
+    "tags": [
+      "reinforcement-learning-optimization",
+      "post-training-algorithms",
+      "training-data-strategy-curriculum-learning",
+      "ml-research-experimental-design"
+    ],
+    "createdAt": 1793136523000
+  },
+  {
+    "id": "micro1-certified-inpatient-medical-coder-8e9b3e88",
+    "title": "Certified Inpatient Medical Coder",
+    "company": "micro1",
+    "category": "Healthcare",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/8e9b3e88-5bdc-4bbd-92bb-09a5a36b4e40?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Inpatient Coding Specialists (CCS / CIC certified) to contribute their expertise to a dynamic project for a valued customer. In this role, you’ll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required, your domain knowledge is what matters.\nSkills they're looking for: Inpatient Coding, Inpatient Records, ICD-10, CIC, CPC, AAPC, CPT.\nRefer and earn $500.\nFull details and the application are on micro1.",
+    "tags": [
+      "inpatient-coding",
+      "inpatient-records",
+      "icd-10",
+      "cic"
+    ],
+    "createdAt": 1793093209000
+  },
+  {
+    "id": "micro1-registered-nurse-f0a479de",
+    "title": "Registered Nurse",
+    "company": "micro1",
+    "category": "Healthcare",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$60 – $70 / hour",
+    "url": "https://jobs.micro1.ai/post/f0a479de-d301-42c3-93ec-b68b0074ce6e?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Registered Nurses to contribute their expertise to a dynamic project for a valued customer. In this role, you'll apply your inpatient clinical expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required. Your domain knowledge is what matters.\nSkills they're looking for: inpatient clinical expertise, clinical documentation review, annotation of medical records, nursing judgment, evaluation of ai-generated clinical outputs, attention to detail, written and verbal communication, feedback provision.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "inpatient-clinical-expertise",
+      "clinical-documentation-review",
+      "annotation-of-medical-records",
+      "nursing-judgment"
+    ],
+    "createdAt": 1793090928000
+  },
+  {
+    "id": "micro1-hospitality-worker-toast-pos-user-6009f546",
+    "title": "Hospitality Worker (Toast POS User)",
+    "company": "micro1",
+    "category": "Operations",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/6009f546-2ac3-4072-9f5a-1bd8094154ef?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging hospitality workers to contribute to a customer initiative related to restaurant technology. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.\nSkills they're looking for: Toast POS, Restaurant Operations, Point of Sale (POS) Systems, Order & Payment Management.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "toast-pos",
+      "restaurant-operations",
+      "point-of-sale-pos-systems",
+      "order-payment-management"
+    ],
+    "createdAt": 1793042255000
+  },
+  {
+    "id": "micro1-food-delivery-app-user-tester-e048500b",
+    "title": "Food Delivery App User Tester",
+    "company": "micro1",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/e048500b-aaf4-45f3-b8b6-41e629d909c4?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Job Summary: In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters. Leverage your active food delivery app account and order history to provide realistic user data and scenarios.\nSkills they're looking for: Food Delivery Apps, US Based, Tech Usage, Structured Reasoning.\nRefer and earn $100.\nFull details and the application are on micro1.",
+    "tags": [
+      "food-delivery-apps",
+      "us-based",
+      "tech-usage",
+      "structured-reasoning"
+    ],
+    "createdAt": 1793024525000
+  },
+  {
+    "id": "micro1-food-delivery-ai-response-evaluator-a7fec975",
+    "title": "Food Delivery AI Response Evaluator",
+    "company": "micro1",
+    "category": "Data & AI",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/a7fec975-aeb3-43d7-bcb9-0a3442cfd5b8?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Food Delivery AI Response Evaluators to contribute to a client’s innovative project focused on enhancing AI-driven customer interactions within the food delivery sector. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.\nSkills they're looking for: food delivery domain knowledge, customer service, written communication, verbal communication, attention to detail, constructive feedback, digital delivery platforms, ai-driven tools familiarity.\nRefer and earn $100.\nFull details and the application are on micro1.",
+    "tags": [
+      "food-delivery-domain-knowledge",
+      "customer-service",
+      "written-communication",
+      "verbal-communication"
+    ],
+    "createdAt": 1792998188000
+  },
+  {
+    "id": "micro1-chief-of-staff-73e0d113",
+    "title": "Chief of Staff",
+    "company": "micro1",
+    "category": "Operations",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/73e0d113-91f0-40f4-94b0-67c02c31a3f1?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "You'll operate at the intersection of strategy, operations, and execution, helping the CRO focus on what matters most, accelerate decision-making, and turn ambitious goals into measurable outcomes. This role is ideal for someone who thrives in ambiguity, thinks strategically, moves fast, and takes end-to-end ownership of complex challenges in a fast-paced AI environment.\nSkills they're looking for: Strategic Thinking & Business Acumen, Operational Excellence & Execution, Executive Communication & Stakeholder Management, AI Fluency & Automation Mindset.\nRefer and earn $1,500.\nFull details and the application are on micro1.",
+    "tags": [
+      "strategic-thinking-business-acumen",
+      "operational-excellence-execution",
+      "executive-communication-stakeholder-management",
+      "ai-fluency-automation-mindset"
+    ],
+    "createdAt": 1792992820000
+  },
+  {
+    "id": "micro1-member-of-technical-staff-data-engineering-0e5cfd61",
+    "title": "Member of Technical Staff, Data Engineering",
+    "company": "micro1",
+    "category": "Data & AI",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/0e5cfd61-fe27-4955-ad5c-952e6e5d8198?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Job Title: Member of Technical Staff, Data Engineering This is a Staff-level, hands-on engineering role for someone who has built data infrastructure from zero to production and knows how to turn fragmented operational data into reliable, accessible, and actionable systems. You'll own the architecture and implementation of our data warehouse, ingestion pipelines, transformations, and product analytics foundations.\nSkills they're looking for: Data Platform Architecture & Engineering, ETL/ELT Pipelines & Data Orchestration, AI Agents & Agent-Ready Data Systems, Technical Leadership & Systems Architecture.\nRefer and earn $1,500.\nFull details and the application are on micro1.",
+    "tags": [
+      "data-platform-architecture-engineering",
+      "etl-elt-pipelines-data-orchestration",
+      "ai-agents-agent-ready-data-systems",
+      "technical-leadership-systems-architecture"
+    ],
+    "createdAt": 1792837647000
+  },
+  {
+    "id": "micro1-member-of-technical-staff-quality-engineering-a46ebe3b",
+    "title": "Member of Technical Staff, Quality Engineering",
+    "company": "micro1",
+    "category": "Data & AI",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/a46ebe3b-f159-4e54-b892-89fe86b2554b?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Job Title: Member of Technical Staff, Quality Engineering You'll design and build an intelligent, highly automated quality engineering system where AI agents help generate tests, execute regression suites, investigate failures, and continuously improve test coverage. You'll own the technical foundations that allow our engineering team to ship quickly and confidently without scaling QA headcount alongside product complexity.\nSkills they're looking for: Test Automation Engineering, AI Agents & Agentic QA Automation, Quality Engineering Architecture & CI/CD, Technical Leadership & Quality Strategy.\nRefer and earn $1,500.\nFull details and the application are on micro1.",
+    "tags": [
+      "test-automation-engineering",
+      "ai-agents-agentic-qa-automation",
+      "quality-engineering-architecture-ci-cd",
+      "technical-leadership-quality-strategy"
+    ],
+    "createdAt": 1792837272000
+  },
+  {
+    "id": "micro1-member-of-technical-staff-infrastructure-c4d9c64f",
+    "title": "Member of Technical Staff, Infrastructure",
+    "company": "micro1",
+    "category": "Data & AI",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/c4d9c64f-c30e-44fe-a32b-8ee6569b47b8?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Job Title: Member of Technical Staff, Infrastructure This is a highly technical, hands-on role for someone who thinks beyond traditional DevOps. You'll own infrastructure reliability, scalability, and observability while pushing toward a future where infrastructure increasingly manages itself through AI agents and intelligent automation.\nSkills they're looking for: Cloud Infrastructure & DevOps Engineering, SRE & Observability, AI Agents & Agent-Ready Data Systems, Technical Leadership & Systems Architecture.\nRefer and earn $1,500.\nFull details and the application are on micro1.",
+    "tags": [
+      "cloud-infrastructure-devops-engineering",
+      "sre-observability",
+      "ai-agents-agent-ready-data-systems",
+      "technical-leadership-systems-architecture"
+    ],
+    "createdAt": 1792836980000
+  },
+  {
+    "id": "micro1-defense-analyst-7feee246",
+    "title": "Defense Analyst",
+    "company": "micro1",
+    "category": "Operations",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/7feee246-52db-48df-880c-58a87bbc9c65?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is seeking experienced civilian defense analysts to contribute to an AI development project focused on military operations, armed conflict, and defense-related decision-making.You'll evaluate AI-generated military scenarios, identify factual or analytical inaccuracies, and provide expert feedback to improve AI reasoning and reliability. Evaluate AI-generated scenarios involving military operations, armed conflict, and defense planning.\nSkills they're looking for: military operations analysis, defense research, conflict analysis, operational planning, international humanitarian law (ihl), rules of engagement (roe), analytical reasoning, written communication.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "military-operations-analysis",
+      "defense-research",
+      "conflict-analysis",
+      "operational-planning"
+    ],
+    "createdAt": 1792828029000
+  },
+  {
+    "id": "micro1-army-combat-operations-expert-b41b55bc",
+    "title": "Army Combat Operations Expert",
+    "company": "micro1",
+    "category": "Operations",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/b41b55bc-97ef-473f-ad12-f7434a652fda?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is seeking current or former Army professionals with firsthand combat operations experience to contribute to an AI development project focused on military tactics, operational decision-making, and battlefield scenarios. You'll evaluate AI-generated military content, identify operational inaccuracies, and provide expert feedback to improve AI reasoning and reliability. Evaluate AI-generated scenarios involving ground combat, tactical planning, and military operations.\nSkills they're looking for: army tactics, tactical operations, mission planning, weapons employment, operational decision-making, rules of engagement (roe), law of armed conflict (loac), scenario evaluation.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "army-tactics",
+      "tactical-operations",
+      "mission-planning",
+      "weapons-employment"
+    ],
+    "createdAt": 1792827505000
+  },
+  {
+    "id": "micro1-military-operations-expert-badffe8c",
+    "title": "Military Operations Expert",
+    "company": "micro1",
+    "category": "Operations",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/badffe8c-c9c5-475e-bf6a-3f718a8b6a0b?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is seeking current or former military professionals with firsthand operational experience to contribute to an AI development project focused on military operations, tactical decision-making, and international humanitarian law. You'll evaluate AI-generated military scenarios, identify inaccuracies, and provide expert feedback to improve AI reasoning and reliability.\nSkills they're looking for: military operations expertise, tactical decision-making, operational planning, rules of engagement (roe), law of armed conflict (loac), scenario evaluation, written communication, critical thinking.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "military-operations-expertise",
+      "tactical-decision-making",
+      "operational-planning",
+      "rules-of-engagement-roe"
+    ],
+    "createdAt": 1792827069000
+  },
+  {
+    "id": "micro1-weapons-systems-operator-fdc2913f",
+    "title": "Weapons Systems Operator",
+    "company": "micro1",
+    "category": "Operations",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/fdc2913f-8c00-4a0e-b4dc-9cd9c500dd05?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is seeking current or former military Weapons Systems Operators to contribute to an AI development project focused on military operations, weapons employment, and tactical decision-making. You'll use your firsthand operational experience to evaluate AI-generated military scenarios, identify inaccuracies, and provide expert feedback to improve AI reasoning and reliability.\nSkills they're looking for: weapons systems operation, air defense systems, missile systems, naval combat systems, tactical aviation, scenario evaluation, operational realism assessment, rules of engagement (roe) knowledge.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "weapons-systems-operation",
+      "air-defense-systems",
+      "missile-systems",
+      "naval-combat-systems"
+    ],
+    "createdAt": 1792826621000
+  },
+  {
+    "id": "micro1-special-forces-operator-3afa60e3",
+    "title": "Special Forces Operator",
+    "company": "micro1",
+    "category": "Operations",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/3afa60e3-4c33-4a5c-b6af-ca18270cc5b7?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is seeking current or former Special Operations Forces (SOF) personnel to contribute to an AI development project focused on military operations, tactical decision-making, and operational realism. You'll use your firsthand military experience to evaluate AI-generated scenarios, identify inaccuracies, and provide expert feedback to improve AI reasoning and reliability.\nSkills they're looking for: tactical operations expertise, mission planning, military tactics and procedures, operational realism assessment, written communication, rules of engagement (roe) knowledge, law of armed conflict (loac) knowledge, scenario evaluation.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "tactical-operations-expertise",
+      "mission-planning",
+      "military-tactics-and-procedures",
+      "operational-realism-assessment"
+    ],
+    "createdAt": 1792826127000
+  },
+  {
+    "id": "micro1-fighter-pilot-761ff1a6",
+    "title": "Fighter Pilot",
+    "company": "micro1",
+    "category": "Government & Defense",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/761ff1a6-68bf-4e45-8047-41f475c66823?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is seeking current or former military Fighter Pilots and Weapons Systems Officers (WSOs) to contribute to an AI development project focused on military operations and decision-making. You'll use your operational experience to evaluate AI-generated military scenarios, assess tactical accuracy, and provide expert feedback to improve AI reasoning and reliability. Evaluate AI-generated scenarios involving fighter aviation, combat operations, and tactical decision-making.\nSkills they're looking for: military aviation tactics, mission planning, weapons systems expertise, combat operations assessment, tactical decision-making, rules of engagement knowledge, clear written communication, operational mission experience.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "military-aviation-tactics",
+      "mission-planning",
+      "weapons-systems-expertise",
+      "combat-operations-assessment"
+    ],
+    "createdAt": 1792825743000
+  },
+  {
+    "id": "micro1-rust-architect-backend-developer-6f83d131",
+    "title": "Rust Architect / Backend Developer",
+    "company": "micro1",
+    "category": "Engineering",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$50 – $70 / hour",
+    "url": "https://jobs.micro1.ai/post/6f83d131-cbf2-4817-a66f-99e05104eb47?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Job Type: Contractor (~15 hours per week) We are looking for a highly skilled Rust Architect / Backend Developer to contribute to an AI-training project involving production Rust, backend architecture, asynchronous and concurrent systems, service design, infrastructure, and technical debugging. The role requires strong programming ability and the judgment to evaluate whether backend systems are correct, reliable, maintainable, and suitable for production use.\nSkills they're looking for: Rust, DevOps.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "rust",
+      "devops"
+    ],
+    "createdAt": 1792813503000
+  },
+  {
+    "id": "micro1-sales-revenue-cs-operations-expert-f08acc61",
+    "title": "Sales / Revenue / CS Operations Expert",
+    "company": "micro1",
+    "category": "Sales & Marketing",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$40 – 85 / hour",
+    "url": "https://jobs.micro1.ai/post/f08acc61-44ab-45a4-a6dd-85aaadb7cc24?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Project kickoff: Already active — we’re onboarding candidates now You’ll need: Hands-on configuration experience in a CRM (Salesforce, HubSpot, or similar) plus at least two connected tools — quoting, billing, ticketing, or project tracking Your tasks: Work through realistic SaaS revenue and CS operations scenarios and explain the reasoning behind your decisions\nSkills they're looking for: Operations, CRM Ownership, Revenue Tools Beyond the CRM, Operational Judgment and Policy Conflicts, Data Accuracy and Reporting.\nRefer and earn $500.\nFull details and the application are on micro1.",
+    "tags": [
+      "operations",
+      "crm-ownership",
+      "revenue-tools-beyond-the-crm",
+      "operational-judgment-and-policy-conflicts"
+    ],
+    "createdAt": 1792805667000
+  },
+  {
+    "id": "micro1-humanitarian-aid-representative-6ea926f9",
+    "title": "Humanitarian Aid Representative",
+    "company": "micro1",
+    "category": "Government & Defense",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/6ea926f9-3711-40d7-ba08-6b53367ebbb5?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Humanitarian Aid Representatives to contribute their field expertise in humanitarian and civilian protection for a unique project. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters. The focus of this engagement is to design, review, and refine…\nSkills they're looking for: Civilian-protection judgment, IHL grounding, Proportionality reasoning.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "civilian-protection-judgment",
+      "ihl-grounding",
+      "proportionality-reasoning"
+    ],
+    "createdAt": 1792783163000
+  },
+  {
+    "id": "micro1-military-legal-advisor-21bb587d",
+    "title": "Military Legal Advisor",
+    "company": "micro1",
+    "category": "Legal",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/21bb587d-cd06-407b-95eb-44a44a5dc803?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Military Legal Advisors to contribute to a customer's project focused on evaluating and defining lawful/unlawful boundary cases within the defense and international law domains. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.\nSkills they're looking for: LOAC, International-law application, Lawful-boundary discrimination, Legal-uncertainty reasoning.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "loac",
+      "international-law-application",
+      "lawful-boundary-discrimination",
+      "legal-uncertainty-reasoning"
+    ],
+    "createdAt": 1792782198000
+  },
+  {
+    "id": "micro1-human-intelligence-collector-humint-36174963",
+    "title": "Human Intelligence Collector (HUMINT)",
+    "company": "micro1",
+    "category": "Government & Defense",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/36174963-012b-4a8d-b955-12d48aac7b6f?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Human Intelligence Collectors to contribute their expertise in elicitation and investigative questioning on a specialized customer project. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters. This opportunity is ideal for those with a background in…\nSkills they're looking for: Elicitation strategy, Real-time cue reading, Reliability assessment, Interrogation/investigative questioning, Attention to detail, HUMINT.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "elicitation-strategy",
+      "real-time-cue-reading",
+      "reliability-assessment",
+      "interrogation-investigative-questioning"
+    ],
+    "createdAt": 1792781514000
+  },
+  {
+    "id": "micro1-intelligence-analyst-e9f8e23d",
+    "title": "Intelligence Analyst",
+    "company": "micro1",
+    "category": "Government & Defense",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/e9f8e23d-b13f-46d1-9e7c-01f56a2c0450?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Intelligence Analysts to contribute to a customer-facing project focused on evaluating and advancing artificial intelligence capabilities. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.\nSkills they're looking for: Analytic rigor, Source handling, Over-refusal detection, All-Source Intelligence Analysis.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "analytic-rigor",
+      "source-handling",
+      "over-refusal-detection",
+      "all-source-intelligence-analysis"
+    ],
+    "createdAt": 1792781272000
+  },
+  {
+    "id": "micro1-combat-arms-targeting-sme-a287e691",
+    "title": "Combat Arms & Targeting SME",
+    "company": "micro1",
+    "category": "Government & Defense",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/a287e691-92ad-4e86-bacc-322b0e92aeec?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Combat Arms & Targeting subject-matter experts to support a cutting-edge project for a defense-focused customer. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.\nSkills they're looking for: Targeting & fires judgment, Boundary discrimination, Utility assessment.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "targeting-fires-judgment",
+      "boundary-discrimination",
+      "utility-assessment"
+    ],
+    "createdAt": 1792712226000
+  },
+  {
+    "id": "micro1-lawyer-1031bd16",
+    "title": "Lawyer",
+    "company": "micro1",
+    "category": "Legal",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/1031bd16-b859-454b-a97c-a3b8ce1c606c?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Lawyers to contribute specialized legal expertise to a high-impact customer project within a collaborative platform environment. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.\nSkills they're looking for: legal research and analysis, bluebook citation formatting, legal writing and editing, cite-checking, us legal system knowledge, written and verbal communication, attention to detail, remote collaboration.\nRefer and earn $500.\nFull details and the application are on micro1.",
+    "tags": [
+      "legal-research-and-analysis",
+      "bluebook-citation-formatting",
+      "legal-writing-and-editing",
+      "cite-checking"
+    ],
+    "createdAt": 1792701448000
+  },
+  {
+    "id": "micro1-senior-marine-cargo-and-draft-surveyor-dc341efb",
+    "title": "Senior Marine Cargo and Draft Surveyor",
+    "company": "micro1",
+    "category": "Operations",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$20 – $60 / hour",
+    "url": "https://jobs.micro1.ai/post/dc341efb-fab5-4d87-8916-e0f6fdb283fa?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Job Type: Contractor (~10 hours per week)\nSkills they're looking for: Container & Cargo Condition Survey, Draft Survey & Cargo Quantity Determination, Marine Survey Reporting & Standards.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "container-cargo-condition-survey",
+      "draft-survey-cargo-quantity-determination",
+      "marine-survey-reporting-standards"
+    ],
+    "createdAt": 1792701275000
+  },
+  {
+    "id": "micro1-senior-cargo-and-parcel-claims-examiner-fb90c558",
+    "title": "Senior Cargo and Parcel Claims Examiner",
+    "company": "micro1",
+    "category": "Operations",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$20 – $60 / hour",
+    "url": "https://jobs.micro1.ai/post/fb90c558-6459-4695-aea3-9a5959526f67?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Job Type: Contractor (~10 hours per week)\nSkills they're looking for: Air Cargo Claims, Custody Determination, Parcel Delivery Disputes, Release Rules, Freight Documentation, Liability Assessment.\nRefer and earn $500.\nFull details and the application are on micro1.",
+    "tags": [
+      "air-cargo-claims",
+      "custody-determination",
+      "parcel-delivery-disputes",
+      "release-rules"
+    ],
+    "createdAt": 1792701044000
+  },
+  {
+    "id": "micro1-senior-insurance-claims-expert-liability-property-contents-fd986cf9",
+    "title": "Senior Insurance Claims Expert (Liability, Property, Contents)",
+    "company": "micro1",
+    "category": "Operations",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$40 – $60 / hour",
+    "url": "https://jobs.micro1.ai/post/fd986cf9-2c5e-4945-ba63-da6b5b9e06d4?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Job Type: Contractor (~10 hours per week) micro1 is engaging Senior Insurance Claims Experts (Liability, Property, Contents) to contribute expertise to a customer project focused on real-world insurance claim scenarios. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input.\nSkills they're looking for: Auto Liability, Comparative Fault Determination, Property & Catastrophe Damage Assessment, Contents Identification.\nRefer and earn $500.\nFull details and the application are on micro1.",
+    "tags": [
+      "auto-liability",
+      "comparative-fault-determination",
+      "property-catastrophe-damage-assessment",
+      "contents-identification"
+    ],
+    "createdAt": 1792700799000
+  },
+  {
+    "id": "micro1-junior-lawyer-0e78e401",
+    "title": "Junior Lawyer",
+    "company": "micro1",
+    "category": "Legal",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/0e78e401-56d5-423c-8b26-bcf85bab25ff?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Junior Lawyers to contribute to a customer’s project focused on enhancing legal AI systems. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.\nSkills they're looking for: legal document review, bluebook citation, legal writing and editing, legal analysis, cite-checking, attention to detail, remote collaboration, clear written and verbal communication.\nRefer and earn $500.\nFull details and the application are on micro1.",
+    "tags": [
+      "legal-document-review",
+      "bluebook-citation",
+      "legal-writing-and-editing",
+      "legal-analysis"
+    ],
+    "createdAt": 1792693494000
+  },
+  {
+    "id": "micro1-law-student-dc2ca458",
+    "title": "Law Student",
+    "company": "micro1",
+    "category": "Legal",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/dc2ca458-5a54-4d0a-971b-3e9aff15a123?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Law Students to contribute their legal expertise to a high-impact project for a customer. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.\nSkills they're looking for: legal research, legal writing, bluebook citation formatting, cite-checking, editorial review, us legal system knowledge, analytical reasoning, written communication.\nRefer and earn $500.\nFull details and the application are on micro1.",
+    "tags": [
+      "legal-research",
+      "legal-writing",
+      "bluebook-citation-formatting",
+      "cite-checking"
+    ],
+    "createdAt": 1792692679000
+  },
+  {
+    "id": "micro1-us-macroeconomist-eacb1c2b",
+    "title": "US Macroeconomist",
+    "company": "micro1",
+    "category": "Data & AI",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "$50 – $100 / hour",
+    "url": "https://jobs.micro1.ai/post/eacb1c2b-82a3-4395-87cb-168ccf8adcf8?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is looking for experienced US-based macroeconomists and macro strategists to support a new project focused on US economic data, monetary policy, and financial market analysis. We are seeking professionals with backgrounds in sell-side or buy-side macroeconomic research, investment strategy, central banking, or government economic institutions. Analyze and interpret US macroeconomic indicators, including GDP, inflation, employment, and other economic releases.\nSkills they're looking for: macroeconomic analysis, economic data interpretation, monetary policy analysis, federal reserve policy analysis, treasury yield curve analysis, bea/bls data familiarity, historical economic dataset management, fixed income research.\nRefer and earn $500.\nFull details and the application are on micro1.",
+    "tags": [
+      "macroeconomic-analysis",
+      "economic-data-interpretation",
+      "monetary-policy-analysis",
+      "federal-reserve-policy-analysis"
+    ],
+    "createdAt": 1792677489000
+  },
+  {
+    "id": "micro1-investment-funds-asset-management-attorney-5b15b9c9",
+    "title": "Investment Funds & Asset Management Attorney",
+    "company": "micro1",
+    "category": "Legal",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/5b15b9c9-39d5-4c20-a46f-2a279ec9ec3f?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Investment Funds & Asset Management Attorneys to contribute their subject-matter expertise to a dynamic customer project. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.\nSkills they're looking for: investment funds law, asset management law, securities regulation, legal document analysis, legal drafting, compliance, regulatory research, offering memoranda review.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "investment-funds-law",
+      "asset-management-law",
+      "securities-regulation",
+      "legal-document-analysis"
+    ],
+    "createdAt": 1792633698000
+  },
+  {
+    "id": "micro1-venture-capital-corporate-attorney-5f79859b",
+    "title": "Venture Capital & Corporate Attorney",
+    "company": "micro1",
+    "category": "Legal",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/5f79859b-3572-42b7-8edc-8ad91532a5cb?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Venture Capital & Corporate Attorneys to participate in a project focused on supporting a global customer with complex legal and transactional needs. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters. The engagement offers a unique opportunity for…\nSkills they're looking for: venture capital financing, corporate transactions, legal drafting and negotiation, transactional analysis, corporate governance, regulatory compliance, legal research and analysis, written and verbal communication.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "venture-capital-financing",
+      "corporate-transactions",
+      "legal-drafting-and-negotiation",
+      "transactional-analysis"
+    ],
+    "createdAt": 1792633582000
+  },
+  {
+    "id": "micro1-structured-finance-attorney-114d9490",
+    "title": "Structured Finance Attorney",
+    "company": "micro1",
+    "category": "Finance & Accounting",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/114d9490-fbb0-4533-b891-73d0ee1c859d?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Structured Finance Attorneys to contribute their legal expertise to a customer's dynamic project. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.\nSkills they're looking for: structured finance law, contract review and drafting, regulatory compliance, securities law, analytical thinking, legal research, attention to detail, written and verbal communication.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "structured-finance-law",
+      "contract-review-and-drafting",
+      "regulatory-compliance",
+      "securities-law"
+    ],
+    "createdAt": 1792633156000
+  },
+  {
+    "id": "micro1-military-law-attorney-9dfaae74",
+    "title": "Military Law Attorney",
+    "company": "micro1",
+    "category": "Legal",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/9dfaae74-1d7b-4742-9303-1a8888f68084?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Military Law Attorneys to contribute their legal acumen and specialized expertise to a high-impact project for a customer in the AI and technology space. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.\nSkills they're looking for: military law expertise, ucmj (uniform code of military justice), legal research and analysis, legal writing and editing, case law interpretation, advising on courts-martial and military tribunals, reviewing and synthesizing legal information, collaborative remote work.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "military-law-expertise",
+      "ucmj-uniform-code-of-military-justice",
+      "legal-research-and-analysis",
+      "legal-writing-and-editing"
+    ],
+    "createdAt": 1792632890000
+  },
+  {
+    "id": "micro1-media-publishing-communications-law-attorney-25ad9f14",
+    "title": "Media, Publishing & Communications Law Attorney",
+    "company": "micro1",
+    "category": "Sales & Marketing",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/25ad9f14-76f3-44e2-a521-23b2db426786?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging experienced Media, Publishing & Communications Law Attorneys to contribute to a customer’s AI training initiative. In this role, you’ll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.\nSkills they're looking for: Attention to detail, Rights and Content Licensing, FCC and Broadcast Regulation, Pre-Publication and First Amendment Review, Media Transactions, Judgment Under Conflicting Pressures.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "attention-to-detail",
+      "rights-and-content-licensing",
+      "fcc-and-broadcast-regulation",
+      "pre-publication-and-first-amendment-review"
+    ],
+    "createdAt": 1792632793000
+  },
+  {
+    "id": "micro1-domain-researcher-finance-m-a-b96124bf",
+    "title": "Domain Researcher, Finance (M&A)",
+    "company": "micro1",
+    "category": "Data & AI",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/b96124bf-0f96-4673-8d17-98a921e907ab?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Job Title: Domain Researcher, Finance (M&A) Join our team as a Domain Researcher, where you'll work at the intersection of corporate development, M&A, and AI-powered financial reasoning.\nSkills they're looking for: Financial Research, Enterprise AI, Benchmarking, Agentic Finance Workflows.\nRefer and earn $1,500.\nFull details and the application are on micro1.",
+    "tags": [
+      "financial-research",
+      "enterprise-ai",
+      "benchmarking",
+      "agentic-finance-workflows"
+    ],
+    "createdAt": 1792632651000
+  },
+  {
+    "id": "micro1-product-safety-regulatory-compliance-attorney-1ed51c75",
+    "title": "Product Safety & Regulatory Compliance Attorney",
+    "company": "micro1",
+    "category": "Legal",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/1ed51c75-9e40-41a7-a0b3-b7944ef3dedc?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Product Safety & Regulatory Compliance Attorneys to participate in a unique project supporting a customer’s regulatory initiatives. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.\nSkills they're looking for: product safety law, regulatory compliance, legal research and analysis, drafting legal and compliance documents, risk assessment, cross-jurisdictional regulatory knowledge, communication (written and verbal), analytical thinking.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "product-safety-law",
+      "regulatory-compliance",
+      "legal-research-and-analysis",
+      "drafting-legal-and-compliance-documents"
+    ],
+    "createdAt": 1792632622000
+  },
+  {
+    "id": "micro1-gaming-gambling-attorney-e8e5f75c",
+    "title": "Gaming & Gambling Attorney",
+    "company": "micro1",
+    "category": "Legal",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/e8e5f75c-9a53-49c5-a0a8-d5fe54dfda81?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Gaming & Gambling Attorneys to contribute to a customer's project focused on elevating the legal and regulatory capabilities of next-generation AI solutions in the gaming and gambling sector. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.\nSkills they're looking for: gaming and gambling law expertise, regulatory compliance analysis, legal research and analysis, written and verbal communication, document and policy review, cross-jurisdictional legal knowledge, attention to detail, analytical thinking.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "gaming-and-gambling-law-expertise",
+      "regulatory-compliance-analysis",
+      "legal-research-and-analysis",
+      "written-and-verbal-communication"
+    ],
+    "createdAt": 1792632329000
+  },
+  {
+    "id": "micro1-immigration-attorney-4915aabd",
+    "title": "Immigration Attorney",
+    "company": "micro1",
+    "category": "Legal",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/4915aabd-6a72-46fd-a436-6717ce826afd?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Immigration Attorneys from BigLaw firms to contribute their legal expertise to a dynamic client project. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters. This opportunity is designed for legal professionals who excel in complex immigration matters…\nSkills they're looking for: immigration law expertise, legal writing, document review, case management software, legal research tools, attention to detail, written communication, verbal communication.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "immigration-law-expertise",
+      "legal-writing",
+      "document-review",
+      "case-management-software"
+    ],
+    "createdAt": 1792632075000
+  },
+  {
+    "id": "micro1-family-law-attorney-aaml-registered-acdf726a",
+    "title": "Family Law Attorney (AAML Registered)",
+    "company": "micro1",
+    "category": "Legal",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/acdf726a-da53-48e9-9343-4b4a4cd29170?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Family Law Attorneys currently renrolled in the AAML to contribute their expertise to a dynamic customer project. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.\nSkills they're looking for: family law expertise, legal research, legal writing, case analysis, document review, summarization, attention to detail, verbal communication.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "family-law-expertise",
+      "legal-research",
+      "legal-writing",
+      "case-analysis"
+    ],
+    "createdAt": 1792632042000
+  },
+  {
+    "id": "micro1-healthcare-attorney-f1bc4dbe",
+    "title": "Healthcare Attorney",
+    "company": "micro1",
+    "category": "Legal",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/f1bc4dbe-39df-4aa5-ac08-fc3e41c40fb1?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Healthcare Attorneys with BigLaw experience to collaborate on healthcare regulatory and compliance projects for a valued customer. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.\nSkills they're looking for: healthcare law, regulatory compliance (e.g., hipaa, stark law, anti-kickback statute), legal document review and annotation, policy analysis, contract drafting, written communication, verbal communication, attention to detail.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "healthcare-law",
+      "regulatory-compliance-e-g-hipaa-stark-law-anti-kickback-statute",
+      "legal-document-review-and-annotation",
+      "policy-analysis"
+    ],
+    "createdAt": 1792632004000
+  },
+  {
+    "id": "micro1-civil-rights-attorney-2116b175",
+    "title": "Civil Rights Attorney",
+    "company": "micro1",
+    "category": "Legal",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/2116b175-8be3-49bd-8636-dd3ecef38d70?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Civil Rights Attorney (BigLaw Firms) professionals to contribute expertise to a client-focused project centered on civil rights law. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.\nSkills they're looking for: civil rights law, legal research and analysis, legal writing, case law analysis, critical thinking, attention to detail, communication, collaboration.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "civil-rights-law",
+      "legal-research-and-analysis",
+      "legal-writing",
+      "case-law-analysis"
+    ],
+    "createdAt": 1792631930000
+  },
+  {
+    "id": "micro1-litigation-associate-attorney-biglaw-firms-95264730",
+    "title": "Litigation Associate Attorney (BigLaw Firms)",
+    "company": "micro1",
+    "category": "Legal",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/95264730-9ca8-479c-971e-a7ed7468f03e?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Litigation Associate Attorneys from top-tier US law firms to contribute expertise to a dynamic customer project. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.\nSkills they're looking for: m&a, drafting contracts, private equity, remote collaboration, multidisciplinay teamwork, capital markets, data privacy.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "m-a",
+      "drafting-contracts",
+      "private-equity",
+      "remote-collaboration"
+    ],
+    "createdAt": 1792631792000
+  },
+  {
+    "id": "micro1-corporate-attorney-biglaw-firms-2f7c4611",
+    "title": "Corporate Attorney (BigLaw Firms)",
+    "company": "micro1",
+    "category": "Legal",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/2f7c4611-a5b1-4e6a-be39-d11c167573a0?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Corporate Attorneys from top BigLaw firms to participate in a unique project for a leading customer. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters. This opportunity is ideal for legal professionals well-versed in high-stakes corporate matters…\nSkills they're looking for: Mergers & Acquisitions, Corporate law, Commerical Litigation, attention to detail, private equity, capital markets.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "mergers-acquisitions",
+      "corporate-law",
+      "commerical-litigation",
+      "attention-to-detail"
+    ],
+    "createdAt": 1792631779000
+  },
+  {
+    "id": "micro1-at-home-video-recorder-latam-82310fe1",
+    "title": "At-Home Video Recorder (LATAM)",
+    "company": "micro1",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$20",
+    "url": "https://jobs.micro1.ai/post/82310fe1-2ad6-4b48-9434-57f2ea679bac?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Brazil, Colombia, Argentina, Peru, Paraguay, Mexico, Ecuador, Honduras, Costa Rica, Chile, Panama, Uruguay Get paid from home in this fully remote opportunity by recording your everyday household chores with your cellphone. Simply film your normal daily activities from a first-person point of view and earn money. Capture household tasks using your smartphone during specified physical tasks. Complete a device compatibility check and an AI-enabled interview during onboarding.\nSkills they're looking for: Smartphone, Video Recording, Attention to Detail, Household Tasks.\nRefer and earn $25.\nFull details and the application are on micro1.",
+    "tags": [
+      "smartphone",
+      "video-recording",
+      "attention-to-detail",
+      "household-tasks"
+    ],
+    "createdAt": 1792430833000
+  },
+  {
+    "id": "micro1-at-home-video-recorder-7827dcd2",
+    "title": "At-Home Video Recorder",
+    "company": "micro1",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$20",
+    "url": "https://jobs.micro1.ai/post/7827dcd2-17d7-46a7-8d58-3ef6ff3930f4?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Get paid from home in this fully remote opportunity by recording your everyday household chores with your cellphone. Simply film your normal daily activities from a first-person point of view and earn money. Capture household tasks using your smartphone during specified physical tasks. Complete a device compatibility check and an AI-enabled interview during onboarding. Must own a compatible smartphone: iPhone 12 or later, Google Pixel 6 to 9, or Samsung Galaxy S21 or later.\nSkills they're looking for: Smartphone, Video Recording, Attention to Detail, Household Tasks.\nRefer and earn $25.\nFull details and the application are on micro1.",
+    "tags": [
+      "smartphone",
+      "video-recording",
+      "attention-to-detail",
+      "household-tasks"
+    ],
+    "createdAt": 1792430141000
+  },
+  {
+    "id": "micro1-investment-banking-associate-f3648a6f",
+    "title": "Investment Banking Associate",
+    "company": "micro1",
+    "category": "Finance & Accounting",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/f3648a6f-d267-445f-b861-b1be29ae322f?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Investment Banking Associates to participate in a customer’s strategic project focused on financial analysis, deal structuring, and capital markets insights. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters. This engagement offers a unique chance…\nSkills they're looking for: financial modeling, valuation methodologies (dcf, comparable company analysis, precedent transactions), capital markets expertise, investment banking documentation (pitch books, information memoranda), written and verbal communication, remote collaboration, analytical thinking, transaction analysis.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "financial-modeling",
+      "valuation-methodologies-dcf-comparable-company-analysis-precedent-transactions",
+      "capital-markets-expertise",
+      "investment-banking-documentation-pitch-books-information-memoranda"
+    ],
+    "createdAt": 1792325956000
+  },
+  {
+    "id": "micro1-lawyer-d484ab8c",
+    "title": "Lawyer",
+    "company": "micro1",
+    "category": "Legal",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/d484ab8c-eb8b-4b2f-b742-3d00719ca143?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is seeking experienced U.S.-licensed Lawyers across a wide range of legal practice areasto contribute to a project focused on improving AI systems' legal reasoning, accuracy, and judgment. In this role, you will apply your legal expertise to evaluate complex legal scenarios, review AI-generated legal work, and provide expert feedback to help train advanced AI models.\nSkills they're looking for: legal reasoning, issue-spotting, legal writing, document review, attention to detail, written communication, independent work, legal research.\nRefer and earn $3,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "legal-reasoning",
+      "issue-spotting",
+      "legal-writing",
+      "document-review"
+    ],
+    "createdAt": 1792005690000
+  },
+  {
+    "id": "micro1-tax-attorney-abdb5807",
+    "title": "Tax Attorney",
+    "company": "micro1",
+    "category": "Legal",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/abdb5807-b650-4eb8-b4e4-20a5a834301d?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is seeking experienced Tax Attorneys to contribute to a project focused on improving AI systems' legal reasoning and accuracy. You will review legal scenarios, evaluate AI-generated legal work, and provide expert feedback to help train advanced AI models. Analyze tax law scenarios to identify key legal issues, assess risks, and apply sound legal judgment. Review AI-generated legal analyses, arguments, and documents for accuracy and completeness.\nSkills they're looking for: tax law, legal research and analysis, legal document review, issue spotting, legal reasoning, written communication, attention to detail, tax compliance.\nRefer and earn $3,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "tax-law",
+      "legal-research-and-analysis",
+      "legal-document-review",
+      "issue-spotting"
+    ],
+    "createdAt": 1792003953000
+  },
+  {
+    "id": "micro1-employment-lawyer-68d31799",
+    "title": "Employment Lawyer",
+    "company": "micro1",
+    "category": "Legal",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/68d31799-41cb-4899-987b-527eba2ef40a?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is seeking experienced Employment Lawyers to contribute to a project focused on improving AI systems' legal reasoning and accuracy. You will review legal scenarios, evaluate AI-generated legal work, and provide expert feedback to help train advanced AI models. Analyze employment law scenarios to identify key legal issues, assess risks, and apply sound legal judgment. Review AI-generated legal analyses, arguments, and documents for accuracy and completeness.\nSkills they're looking for: employment law expertise, legal analysis, legal document review, issue spotting, legal reasoning, written communication, attention to detail, ai evaluation.\nRefer and earn $3,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "employment-law-expertise",
+      "legal-analysis",
+      "legal-document-review",
+      "issue-spotting"
+    ],
+    "createdAt": 1792003627000
+  },
+  {
+    "id": "micro1-personal-injury-lawyer-47ae77fa",
+    "title": "Personal Injury Lawyer",
+    "company": "micro1",
+    "category": "Legal",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/47ae77fa-cc3b-40f5-bdc6-eca4d11cc73e?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is seeking experienced Personal Injury Lawyers to contribute to a project focused on improving AI systems' legal reasoning and accuracy. You will review legal scenarios, evaluate AI-generated legal work, and provide expert feedback to help train advanced AI models. -Analyze legal scenarios to identify key issues, assess liability, and apply sound legal judgment. Review AI-generated legal analyses, arguments, and documents for accuracy and completeness.\nSkills they're looking for: legal reasoning, issue-spotting, document review, personal injury law, civil litigation, written communication, attention to detail, ai-generated content evaluation.\nRefer and earn $3,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "legal-reasoning",
+      "issue-spotting",
+      "document-review",
+      "personal-injury-law"
+    ],
+    "createdAt": 1792002916000
+  },
+  {
+    "id": "micro1-personal-financial-advisor-2623e26a",
+    "title": "Personal Financial Advisor",
+    "company": "micro1",
+    "category": "Finance & Accounting",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/2623e26a-77a6-4e1f-891e-eff91cf455f1?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Personal Financial Advisors to contribute expert knowledge and insights to a customer's project centered around financial wellness for individuals. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters. This engagement matches experienced professionals…\nSkills they're looking for: personal financial planning, investment strategies, regulatory compliance, written and verbal communication, analytical skills.\nRefer and earn $1,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "personal-financial-planning",
+      "investment-strategies",
+      "regulatory-compliance",
+      "written-and-verbal-communication"
+    ],
+    "createdAt": 1791936414000
+  },
+  {
+    "id": "micro1-data-partnerships-manager-64592ac1",
+    "title": "Data Partnerships Manager",
+    "company": "micro1",
+    "category": "Data & AI",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/64592ac1-f184-4c0f-9e5d-796cccdd499b?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "We are looking for a Data Partnerships Manager to identify, engage, and close partnerships with companies interested in contributing workflow data for AI training and evaluation. You will own the partnership process end-to-end: sourcing companies, running discovery conversations, understanding business workflows, navigating privacy and security discussions, negotiating commercial terms, and onboarding new partners.\nSkills they're looking for: Negotiation, Prospecting, Closing, Partnerships.\nRefer and earn $1,500.\nFull details and the application are on micro1.",
+    "tags": [
+      "negotiation",
+      "prospecting",
+      "closing",
+      "partnerships"
+    ],
+    "createdAt": 1791850495000
+  },
+  {
+    "id": "micro1-legal-counsel-dac3063b",
+    "title": "Legal Counsel",
+    "company": "micro1",
+    "category": "Legal",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/dac3063b-48c0-43ec-ae6d-98dfc4363350?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Legal Counsels to contribute their legal expertise on a customer's project focused on shaping the future of AI technologies. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters. This opportunity is ideal for those who excel at both detailed legal…\nSkills they're looking for: legal analysis, contract drafting and review, regulatory compliance, intellectual property law, written and verbal communication, translating legal concepts for non-experts, risk identification and mitigation, collaboration with multidisciplinary teams.\nRefer and earn $500.\nFull details and the application are on micro1.",
+    "tags": [
+      "legal-analysis",
+      "contract-drafting-and-review",
+      "regulatory-compliance",
+      "intellectual-property-law"
+    ],
+    "createdAt": 1791835412000
+  },
+  {
+    "id": "micro1-attorney-f5b76e03",
+    "title": "Attorney",
+    "company": "micro1",
+    "category": "Legal",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/f5b76e03-411a-4648-8f5f-10ff604317ef?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is looking for experienced attorneys to contribute their legal expertise to a project focused on improving AI's ability to analyze and reason through complex legal matters. You'll use your professional experience to evaluate legal scenarios, identify errors, and provide expert feedback on legal reasoning and judgment. We're particularly interested in attorneys with backgrounds in Litigation, Corporate Law, Bankruptcy, or Regulatory/Compliance Law.\nSkills they're looking for: legal research, legal writing, analytical reasoning, litigation, corporate law, bankruptcy law, regulatory compliance, document review.\nRefer and earn $500.\nFull details and the application are on micro1.",
+    "tags": [
+      "legal-research",
+      "legal-writing",
+      "analytical-reasoning",
+      "litigation"
+    ],
+    "createdAt": 1791826246000
+  },
+  {
+    "id": "micro1-financial-aid-advisor-bb117da1",
+    "title": "Financial Aid Advisor",
+    "company": "micro1",
+    "category": "Finance & Accounting",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/bb117da1-3d6d-41d7-9bb5-69beff1f1104?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Time Commitment: 15-25 hours/week, short-term project micro1 is looking for Financial Aid Advisors to help evaluate and improve AI systems on federal student loan topics. You’ll use your borrower counseling experience to check that questions sound like real borrowers and that answers are correct and useful. Accuracy comes first. No AI experience is needed; your domain knowledge is what matters.\nSkills they're looking for: Repayment, PSLF, Default.\nRefer and earn $500.\nFull details and the application are on micro1.",
+    "tags": [
+      "repayment",
+      "pslf",
+      "default"
+    ],
+    "createdAt": 1791816637000
+  },
+  {
+    "id": "micro1-va-eligibility-specialist-657dcfd9",
+    "title": "VA Eligibility Specialist",
+    "company": "micro1",
+    "category": "Government & Defense",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/657dcfd9-f374-4371-bf9b-9ba13557fe6f?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Time Commitment: 20-30 hours/week, short-term project micro1 is looking for VA Eligibility Specialists to help evaluate and improve AI systems on veterans health care topics. You’ll use your enrollment and eligibility experience to check that questions sound like real veterans and families, and that answers are correct and useful. Accuracy comes first. No AI experience is needed; your domain knowledge is what matters.\nSkills they're looking for: Eligibility, Enrollment, Healthcare.\nRefer and earn $500.\nFull details and the application are on micro1.",
+    "tags": [
+      "eligibility",
+      "enrollment",
+      "healthcare"
+    ],
+    "createdAt": 1791815194000
+  },
+  {
+    "id": "micro1-veterans-service-officer-2582f414",
+    "title": "Veterans Service Officer",
+    "company": "micro1",
+    "category": "Government & Defense",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/2582f414-1be9-4ac0-9375-01d2f3187217?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Time Commitment: 20-30 hours/week, short-term project micro1 is looking for VA-accredited Veterans Service Officers to help evaluate and improve AI systems on veterans benefits topics. You’ll use your claims experience to check that questions sound like real veterans and families, and that answers are correct and useful. Accuracy comes first. No AI experience is needed; your domain knowledge is what matters.\nSkills they're looking for: Claims, Accreditation, Compensation, Survivors, Appeals.\nRefer and earn $500.\nFull details and the application are on micro1.",
+    "tags": [
+      "claims",
+      "accreditation",
+      "compensation",
+      "survivors"
+    ],
+    "createdAt": 1791814698000
+  },
+  {
+    "id": "micro1-passport-specialist-cf02a995",
+    "title": "Passport Specialist",
+    "company": "micro1",
+    "category": "Government & Defense",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/cf02a995-bac4-4503-b872-cb8cdbc536de?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Time Commitment: 20-30 hours/week, short-term project micro1 is looking for former Consular Officers and Passport Specialists to help evaluate and improve AI systems on passport and citizenship topics. You’ll use your State Department experience to check that questions sound like real applicants and that answers are correct on complex cases. Accuracy comes first. No AI experience is needed; your domain knowledge is what matters.\nRefer and earn $500.\nFull details and the application are on micro1.",
+    "tags": [],
+    "createdAt": 1791813963000
+  },
+  {
+    "id": "micro1-passport-acceptance-agent-c3c2db93",
+    "title": "Passport Acceptance Agent",
+    "company": "micro1",
+    "category": "Government & Defense",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/c3c2db93-38c2-4a62-8f9f-81b65cdb5c10?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Time Commitment: 20-30 hours/week, short-term project micro1 is looking for Passport Acceptance Agents to help evaluate and improve AI systems on passport topics. You’ll use your front-counter experience to check that questions sound like real applicants and that answers are correct and useful. Accuracy comes first. No AI experience is needed; your domain knowledge is what matters. Review sample passport questions and flag any that don’t sound like what real applicants ask.\nRefer and earn $500.\nFull details and the application are on micro1.",
+    "tags": [],
+    "createdAt": 1791812954000
+  },
+  {
+    "id": "micro1-medicare-enrollment-specialist-a6091fe2",
+    "title": "Medicare Enrollment Specialist",
+    "company": "micro1",
+    "category": "Healthcare",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/a6091fe2-e1e0-4460-b9db-6a513ceead46?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Time Commitment: 20-30 hours/week, short-term project micro1 is looking for Medicare Enrollment Specialists to help evaluate and improve AI systems on Medicare topics. You’ll use your Social Security or employer benefits experience to check that questions sound like real beneficiaries and that answers are correct and useful. Accuracy comes first. No AI experience is needed; your domain knowledge is what matters.\nSkills they're looking for: Medicare, Enrollment, Coordination, Coverage, COBRA.\nRefer and earn $500.\nFull details and the application are on micro1.",
+    "tags": [
+      "medicare",
+      "enrollment",
+      "coordination",
+      "coverage"
+    ],
+    "createdAt": 1791812000000
+  },
+  {
+    "id": "micro1-ship-medicare-counselor-10b91117",
+    "title": "SHIP Medicare Counselor",
+    "company": "micro1",
+    "category": "Healthcare",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/10b91117-cedd-42c0-a468-b056ad004ec3?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Time Commitment: 20-30 hours/week, short-term project micro1 is looking for SHIP Medicare Counselors to help evaluate and improve AI systems on Medicare topics. You’ll use your counseling experience to check that questions sound like real beneficiaries and that answers are correct and useful. Accuracy comes first, then usefulness to people from all walks of life. No AI experience is required; your counseling expertise is what matters.\nSkills they're looking for: Medicare, Medigap.\nRefer and earn $500.\nFull details and the application are on micro1.",
+    "tags": [
+      "medicare",
+      "medigap"
+    ],
+    "createdAt": 1791810247000
+  },
+  {
+    "id": "micro1-quantitative-rates-researcher-c8cdec0c",
+    "title": "Quantitative Rates Researcher",
+    "company": "micro1",
+    "category": "Finance & Accounting",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/c8cdec0c-76b7-40ae-9764-fb170200408a?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Quantitative Rates Researchers to contribute to a leading investment bank’s algorithmic trading platform project. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.\nSkills they're looking for: python, r, pandas, numpy, scipy, fixed income analysis, rates markets expertise, systematic strategy backtesting.\nRefer and earn $500.\nFull details and the application are on micro1.",
+    "tags": [
+      "python",
+      "r",
+      "pandas",
+      "numpy"
+    ],
+    "createdAt": 1791587234000
+  },
+  {
+    "id": "micro1-rates-trader-3fee8e97",
+    "title": "Rates trader",
+    "company": "micro1",
+    "category": "Finance & Accounting",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/3fee8e97-5dce-42bd-a8a1-68133f04449a?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging experienced Rates traders to participate in a cutting-edge AI-driven project for a leading investment bank’s algorithmic trading desk. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters. Contributors will evaluate AI agent outputs against genuine…\nSkills they're looking for: interest rate swaps trading, swaptions trading, treasury futures trading, repo trading, sofr/eurodollar trading, algorithmic trading, systematic trading, rates market structure knowledge.\nRefer and earn $500.\nFull details and the application are on micro1.",
+    "tags": [
+      "interest-rate-swaps-trading",
+      "swaptions-trading",
+      "treasury-futures-trading",
+      "repo-trading"
+    ],
+    "createdAt": 1791586870000
+  },
+  {
+    "id": "micro1-litigation-attorney-0c6952e3",
+    "title": "Litigation Attorney",
+    "company": "micro1",
+    "category": "Legal",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/0c6952e3-b783-407c-a451-b92996992038?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Litigation Attorneys to contribute expertise to a customer's project focused on managing and resolving complex legal disputes. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.\nSkills they're looking for: Litigation Strategy, Legal Research, Legal, Case Management, Case Analysis.\nRefer and earn $3,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "litigation-strategy",
+      "legal-research",
+      "legal",
+      "case-management"
+    ],
+    "createdAt": 1791443392000
+  },
+  {
+    "id": "micro1-referral-partnerships-manager-479e1aa8",
+    "title": "Referral Partnerships Manager",
+    "company": "micro1",
+    "category": "Sales & Marketing",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/479e1aa8-2d92-42b7-a77c-aa83369cece8?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is looking for a Referral Partnerships Manager to onboard, engage, and grow our company referral partner network. You’ll build partner relationships, drive referral activity, and work with internal teams to ensure a smooth partner experience. Onboard partners and explain the portal, opportunities, referral processes, and payout conditions. Serve as the main point of contact across Slack, email, and other channels.\nSkills they're looking for: Recruitment marketing, Project Management, Campaing performance monitoring.\nRefer and earn $750.\nFull details and the application are on micro1.",
+    "tags": [
+      "recruitment-marketing",
+      "project-management",
+      "campaing-performance-monitoring"
+    ],
+    "createdAt": 1791406072000
+  },
+  {
+    "id": "micro1-game-developer-190225df",
+    "title": "Game Developer",
+    "company": "micro1",
+    "category": "Engineering",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/190225df-d67a-402d-bd7f-d9c7c40bb693?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Game Developers to contribute to a pioneering customer project focused on evaluating and advancing AI capabilities in the domain of game creation and interaction. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters. Leverage your hands-on experience…\nSkills they're looking for: Gameplay implementation, Test design, Game Engine expertise, Engine fluency, Game Development expertise.\nRefer and earn $500.\nFull details and the application are on micro1.",
+    "tags": [
+      "gameplay-implementation",
+      "test-design",
+      "game-engine-expertise",
+      "engine-fluency"
+    ],
+    "createdAt": 1791381308000
+  },
+  {
+    "id": "micro1-british-english-voice-expert-b8ed43ea",
+    "title": "British English Voice Expert",
+    "company": "micro1",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/b8ed43ea-dc5c-4da1-80f4-633cb15d94a9?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "We are looking for native British English speakers to support an AI training project focused on evaluating English audio recordings. In this role, you will use your knowledge of British English pronunciation, accents, natural speech, and audio quality to assess recordings and provide accurate feedback. Listen to and evaluate short British English audio recordings. Assess whether speech sounds natural and native to British English.\nRefer and earn $100.\nFull details and the application are on micro1.",
+    "tags": [],
+    "createdAt": 1791266384000
+  },
+  {
+    "id": "micro1-spanish-bilingual-expert-mexico-83b89d5d",
+    "title": "Spanish Bilingual Expert (Mexico)",
+    "company": "micro1",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/83b89d5d-866e-46ab-b1ae-7c87fbcd1c75?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Job Title: Spanish Bilingual Expert (Mexico) micro1 is engaging Spanish Bilingual Expert (Mexico) to contribute to an impactful language and AI training project for a valued customer. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.\nRefer and earn $100.\nFull details and the application are on micro1.",
+    "tags": [],
+    "createdAt": 1791263385000
+  },
+  {
+    "id": "micro1-ai-ml-engineer-internal-platforms-7c09cefc",
+    "title": "AI/ML Engineer, Internal Platforms",
+    "company": "micro1",
+    "category": "Data & AI",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/7c09cefc-fd08-4ee4-b792-48e3a4753e9c?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Job Title: AI/ML Engineer, Internal Platforms Join our team to build and improve a next-generation AI recruiting agent. You'll develop new capabilities, experiment with the latest LLMs and agent frameworks, and ship production-ready AI features that make the agent smarter, more reliable, and more useful. Build and improve AI agent capabilities using modern LLMs. Develop backend services and APIs in Python. Design and iterate on prompts, workflows, RAG, and agent orchestration.\nSkills they're looking for: Python, LLMs, AWS, LangChain, FastAPI.\nRefer and earn $1,500.\nFull details and the application are on micro1.",
+    "tags": [
+      "python",
+      "llms",
+      "aws",
+      "langchain"
+    ],
+    "createdAt": 1791248265000
+  },
+  {
+    "id": "micro1-research-marketing-lead-09891468",
+    "title": "Research Marketing Lead",
+    "company": "micro1",
+    "category": "Engineering",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/09891468-1722-465f-b47e-f420c9f1e154?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "We’re looking for a Research Marketing Lead to own how our research, benchmarks, and technical work are positioned, launched, and adopted across the AI ecosystem.\nSkills they're looking for: Research QA, GTM Strategy, Technical Marketing, Industry Partnerships.\nRefer and earn $1,500.\nFull details and the application are on micro1.",
+    "tags": [
+      "research-qa",
+      "gtm-strategy",
+      "technical-marketing",
+      "industry-partnerships"
+    ],
+    "createdAt": 1791081669000
+  },
+  {
+    "id": "micro1-simulation-expert-real-to-sim-3d-environments-assets-333fddbb",
+    "title": "Simulation Expert — Real-to-Sim 3D Environments & Assets",
+    "company": "micro1",
+    "category": "Science & Research",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/333fddbb-5e71-406c-aa0c-e88d0a33b538?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Simulation Experts — Real-to-Sim 3D Environments & Assets to contribute to a customer’s project focused on advanced simulation and artificial intelligence training. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.\nSkills they're looking for: isaac sim, gazebo, mujoco, unity, unreal, pybullet, 3d modeling, cad.\nRefer and earn $500.\nFull details and the application are on micro1.",
+    "tags": [
+      "isaac-sim",
+      "gazebo",
+      "mujoco",
+      "unity"
+    ],
+    "createdAt": 1790999202000
+  },
+  {
+    "id": "micro1-bankruptcy-attorney-01c797e9",
+    "title": "Bankruptcy Attorney",
+    "company": "micro1",
+    "category": "Legal",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/01c797e9-0eab-4a2f-988b-a0206e84f21d?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Bankruptcy Attorneys to contribute their specialized legal expertise to a customer's innovative project. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.\nSkills they're looking for: bankruptcy law expertise, legal document analysis, legal drafting (motions, pleadings, filings), written communication, verbal communication.\nRefer and earn $3,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "bankruptcy-law-expertise",
+      "legal-document-analysis",
+      "legal-drafting-motions-pleadings-filings",
+      "written-communication"
+    ],
+    "createdAt": 1790720450000
+  },
+  {
+    "id": "micro1-litigator-practicing-attorney-us-50d0cd3d",
+    "title": "Litigator / Practicing Attorney (US)",
+    "company": "micro1",
+    "category": "Legal",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/50d0cd3d-0d16-4c70-9094-8a66bbc9dffb?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Litigator / Practicing Attorneys to contribute expertise to a customer project focused on the intersection of law and emerging technology. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.\nSkills they're looking for: Legal Reasoning, Litigation & Practice Expertise, Analytical Rigor, Calibration in Ambiguous Cases, Legal Writing, Communication Precision.\nRefer and earn $3,000.\nFull details and the application are on micro1.",
+    "tags": [
+      "legal-reasoning",
+      "litigation-practice-expertise",
+      "analytical-rigor",
+      "calibration-in-ambiguous-cases"
+    ],
+    "createdAt": 1790720329000
+  },
+  {
+    "id": "micro1-associate-forward-deployed-engineer-afde-b1316606",
+    "title": "Associate Forward Deployed Engineer (aFDE)",
+    "company": "micro1",
+    "category": "Data & AI",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/b1316606-46fb-4c3d-a4f9-5a2368e88d70?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Job Title: Associate Forward Deployed Engineer (aFDE) Work Arrangement: Hourly, with expected weekly hours agreed upfront We’re hiring junior engineers to help scale data ingestion and customer data workflows. You’ll work alongside core FDEs to prepare and transfer data, troubleshoot issues, build scripts and automations, and keep customers informed. You’ll start with clearly scoped responsibilities and receive guidance as you take on more technical ownership.\nSkills they're looking for: Python, SQL, Data Workflows.\nRefer and earn $750.\nFull details and the application are on micro1.",
+    "tags": [
+      "python",
+      "sql",
+      "data-workflows"
+    ],
+    "createdAt": 1789426359000
+  },
+  {
+    "id": "micro1-software-engineer-electron-js-c37ac96c",
+    "title": "Software Engineer (Electron.js)",
+    "company": "micro1",
+    "category": "Engineering",
+    "type": "Contract",
+    "region": "United States",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/c37ac96c-2116-4c5e-92c7-180da9b502db?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Job Title: Software Engineer (Electron.js) We’re building high-fidelity productivity infrastructure for a globally distributed workforce—software that operates quietly, reliably, and intelligently in the background. As a Software Engineer focused on desktop systems, you’ll help design and scale a cross-platform time intelligence application (MacOS + Windows) used daily by thousands of professionals.\nSkills they're looking for: Electron.js, Typescript, Node.js, Cross-platform Apps.\nRefer and earn $1,500.\nFull details and the application are on micro1.",
+    "tags": [
+      "electron-js",
+      "typescript",
+      "node-js",
+      "cross-platform-apps"
+    ],
+    "createdAt": 1788902601000
+  },
+  {
+    "id": "micro1-360-video-recorder-insta360-gopro-max-9d57fd44",
+    "title": "360° Video Recorder (Insta360 / GoPro MAX)",
+    "company": "micro1",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$20 / hour",
+    "url": "https://jobs.micro1.ai/post/9d57fd44-b189-41ca-a0d4-2fe3903eec41?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging 360° Video Recorders (Insta360 / GoPro MAX) to contribute to a customer's project by capturing immersive, high-quality footage with leading 360° camera equipment. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform.\nSkills they're looking for: 360° Video Recording, Camera Mounts, Video Upload, Equipment Handling.\nRefer and earn $25.\nFull details and the application are on micro1.",
+    "tags": [
+      "360-video-recording",
+      "camera-mounts",
+      "video-upload",
+      "equipment-handling"
+    ],
+    "createdAt": 1788453342000
+  },
+  {
+    "id": "micro1-product-owner-01f86047",
+    "title": "Product Owner",
+    "company": "micro1",
+    "category": "Data & AI",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/01f86047-2c74-46bb-a6fc-a00e1be3dd5b?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "You’ll work closely with engineering, data, and business teams to turn complex problems into intuitive products people enjoy using. Experience in AI, data, developer tools, or other strong product-led technology companies is highly relevant. Own the product lifecycle from discovery and scoping through launch and iteration. Build intuitive, high-quality products with a strong focus on the user experience. Define and track KPIs, adoption metrics, and product outcomes.\nSkills they're looking for: Product Ownership & Execution, Data-Driven Product Management, Scope Triage & Prioritization, Speed, Ambiguity & Async Execution.\nRefer and earn $1,500.\nFull details and the application are on micro1.",
+    "tags": [
+      "product-ownership-execution",
+      "data-driven-product-management",
+      "scope-triage-prioritization",
+      "speed"
+    ],
+    "createdAt": 1787698943000
+  },
+  {
+    "id": "micro1-member-of-technical-staff-forward-deployed-us-gov-c4289f4e",
+    "title": "Member of Technical Staff, Forward Deployed (US Gov)",
+    "company": "micro1",
+    "category": "Data & AI",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/c4289f4e-1884-4dd0-bdae-af3757d84daf?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Job Title: Forward Deployed Engineer, U.S. Government We’re hiring an MTS to work on applied AI systems across research and production. This role spans model experimentation, infrastructure, and deployment in high-assurance, mission-critical environments, including forward-deployed work with strategic partners to ensure mission success. Build and deploy agentic AI systems that support high-impact U.S. Government missions from prototype to production.\nSkills they're looking for: Python, LLM Systems, Data Pipelines, Distributed Systems.\nRefer and earn $1,500.\nFull details and the application are on micro1.",
+    "tags": [
+      "python",
+      "llm-systems",
+      "data-pipelines",
+      "distributed-systems"
+    ],
+    "createdAt": 1787665306000
+  },
+  {
+    "id": "micro1-gravador-a-de-v-deos-com-smartphone-15313f3d",
+    "title": "Gravador(a) de Vídeos com Smartphone",
+    "company": "micro1",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/15313f3d-5600-4d96-b45f-b8dfafbee976?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Título da Vaga: Gravador(a) de Vídeos em Casa Tipo de Contratação: Prestador(a) de Serviços Localização: Remoto – profissionais baseados na América Latina e no Caribe. Países elegíveis incluem: Argentina, Bahamas, Barbados, Brasil, Chile, Colômbia, Costa Rica, República Dominicana, Jamaica, México, Panamá e Uruguai.\nSkills they're looking for: Captura de Vídeo, Atenção a Detalhes, Taréfas Domésticas.\nRefer and earn $25.\nFull details and the application are on micro1.",
+    "tags": [
+      "captura-de-v-deo",
+      "aten-o-a-detalhes",
+      "tar-fas-dom-sticas"
+    ],
+    "createdAt": 1787254984000
+  },
+  {
+    "id": "micro1-smartphone-video-recorder-8944ed79",
+    "title": "Smartphone Video Recorder",
+    "company": "micro1",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$20",
+    "url": "https://jobs.micro1.ai/post/8944ed79-063d-43e2-a244-bd3185fbfb43?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Get paid from home in this fully remote opportunity by recording your everyday household chores with your cellphone. Simply film your normal daily activities from a first-person point of view and earn money. Capture household tasks using your smartphone during specified physical tasks. Complete a device compatibility check and an AI-enabled interview during onboarding. Must own a compatible smartphone: iPhone 12 or later, Google Pixel 6 to 9, or Samsung Galaxy S21 or later.\nSkills they're looking for: Household Task, Attention to detail, Video Recording, Smartphone.\nRefer and earn $25.\nFull details and the application are on micro1.",
+    "tags": [
+      "household-task",
+      "attention-to-detail",
+      "video-recording",
+      "smartphone"
+    ],
+    "createdAt": 1787247301000
+  },
+  {
+    "id": "micro1-dutch-bilingual-expert-382cf385",
+    "title": "Dutch Bilingual Expert",
+    "company": "micro1",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/382cf385-16da-4536-8a32-95947e0197a7?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is selecting Dutch Bilingual Experts to contribute to a dynamic project for a global customer. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters. Listen to short audio clips in Dutch and assess the nativeness and fluency of speech generated by AI models.\nSkills they're looking for: english b2+, attention to detail, written communication, verbal communication, Dutch native proficiency.\nRefer and earn $100.\nFull details and the application are on micro1.",
+    "tags": [
+      "english-b2",
+      "attention-to-detail",
+      "written-communication",
+      "verbal-communication"
+    ],
+    "createdAt": 1786672167000
+  },
+  {
+    "id": "micro1-indonesian-bilingual-expert-5707c314",
+    "title": "Indonesian Bilingual Expert",
+    "company": "micro1",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/5707c314-da3f-4736-ac12-dfe66421dc45?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is selecting Indonesian Bilingual Experts to support a customer's large-scale linguistic initiative. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters. Listen to and review audio clips to assess the nativeness and fluency of AI-generated Indonesian speech.\nSkills they're looking for: English b2+, attention to detail, written communication, verbal communication, indonesian native proficiency.\nRefer and earn $100.\nFull details and the application are on micro1.",
+    "tags": [
+      "english-b2",
+      "attention-to-detail",
+      "written-communication",
+      "verbal-communication"
+    ],
+    "createdAt": 1786671830000
+  },
+  {
+    "id": "micro1-hebrew-bilingual-expert-961df5fb",
+    "title": "Hebrew Bilingual Expert",
+    "company": "micro1",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/961df5fb-620c-4443-a3af-86bc225da2cd?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Hebrew Bilingual Experts to contribute to an impactful language and AI training project for a valued customer. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.\nSkills they're looking for: english (b2+), attention to detail, written communication, verbal communication, Hebrew native proficiency.\nRefer and earn $500.\nFull details and the application are on micro1.",
+    "tags": [
+      "english-b2",
+      "attention-to-detail",
+      "written-communication",
+      "verbal-communication"
+    ],
+    "createdAt": 1786657243000
+  },
+  {
+    "id": "micro1-thai-bilingual-expert-f8f1211f",
+    "title": "Thai Bilingual Expert",
+    "company": "micro1",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/f8f1211f-ba15-4718-96a1-591ddf115111?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Thai Bilingual Experts to contribute to an impactful language and AI training project for a valued customer. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.\nSkills they're looking for: english (b2+), attention to detail, written communication, verbal communication, Thai native proficiency.\nRefer and earn $500.\nFull details and the application are on micro1.",
+    "tags": [
+      "english-b2",
+      "attention-to-detail",
+      "written-communication",
+      "verbal-communication"
+    ],
+    "createdAt": 1786657204000
+  },
+  {
+    "id": "micro1-vietnamese-bilingual-expert-84921e4c",
+    "title": "Vietnamese Bilingual Expert",
+    "company": "micro1",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/84921e4c-7944-46ae-bbc2-c49c7d3ab642?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Vietnamese Bilingual Experts to contribute to an impactful language and AI training project for a valued customer. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.\nSkills they're looking for: english (b2+), attention to detail, written communication, verbal communication, Vietnamese bilingual expert.\nRefer and earn $500.\nFull details and the application are on micro1.",
+    "tags": [
+      "english-b2",
+      "attention-to-detail",
+      "written-communication",
+      "verbal-communication"
+    ],
+    "createdAt": 1786657065000
+  },
+  {
+    "id": "micro1-italian-bilingual-expert-eff6f38f",
+    "title": "Italian Bilingual Expert",
+    "company": "micro1",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/eff6f38f-dfab-4333-9e4c-a5610de93e84?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Italian Bilingual Experts to contribute to an impactful language and AI training project for a valued customer. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.\nSkills they're looking for: english (b2+), attention to detail, written communication, verbal communication, Italian bilingual proficiency.\nRefer and earn $500.\nFull details and the application are on micro1.",
+    "tags": [
+      "english-b2",
+      "attention-to-detail",
+      "written-communication",
+      "verbal-communication"
+    ],
+    "createdAt": 1786656954000
+  },
+  {
+    "id": "micro1-bengali-bilingual-expert-28d9685a",
+    "title": "Bengali Bilingual Expert",
+    "company": "micro1",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/28d9685a-7802-4179-933e-ad510bc60938?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Bengali  Bilingual Experts to contribute to an impactful language and AI training project for a valued customer. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.\nSkills they're looking for: english (b2+), attention to detail, written communication, verbal communication, Bengali native proficiency.\nRefer and earn $500.\nFull details and the application are on micro1.",
+    "tags": [
+      "english-b2",
+      "attention-to-detail",
+      "written-communication",
+      "verbal-communication"
+    ],
+    "createdAt": 1786656914000
+  },
+  {
+    "id": "micro1-russian-bilingual-expert-c732f04d",
+    "title": "Russian Bilingual Expert",
+    "company": "micro1",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/c732f04d-3d0e-410f-ba42-781cd9f09915?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Russian Bilingual Experts to contribute to an impactful language and AI training project for a valued customer. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.\nSkills they're looking for: english (b2+), attention to detail, written communication, verbal communication, Russian native proficiency.\nRefer and earn $500.\nFull details and the application are on micro1.",
+    "tags": [
+      "english-b2",
+      "attention-to-detail",
+      "written-communication",
+      "verbal-communication"
+    ],
+    "createdAt": 1786656865000
+  },
+  {
+    "id": "micro1-turkish-bilingual-expert-6ae61a82",
+    "title": "Turkish Bilingual Expert",
+    "company": "micro1",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/6ae61a82-e891-46b2-ab5a-1496e25265b9?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Turkish Bilingual Experts to contribute to an impactful language and AI training project for a valued customer. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.\nSkills they're looking for: english (b2+), attention to detail, written communication, verbal communication, turkish native proficiency.\nRefer and earn $500.\nFull details and the application are on micro1.",
+    "tags": [
+      "english-b2",
+      "attention-to-detail",
+      "written-communication",
+      "verbal-communication"
+    ],
+    "createdAt": 1786655551000
+  },
+  {
+    "id": "micro1-polish-bilingual-expert-5c02f61b",
+    "title": "Polish Bilingual Expert",
+    "company": "micro1",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/5c02f61b-b2b2-46a6-a058-26a1f6e64cf7?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Polish Bilingual Experts to contribute to an impactful language and AI training project for a valued customer. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.\nSkills they're looking for: english (b2+), attention to detail, written communication, verbal communication, polish native proficiency.\nRefer and earn $500.\nFull details and the application are on micro1.",
+    "tags": [
+      "english-b2",
+      "attention-to-detail",
+      "written-communication",
+      "verbal-communication"
+    ],
+    "createdAt": 1786655343000
+  },
+  {
+    "id": "micro1-at-home-video-recorder-latam-a1ecbac3",
+    "title": "At-Home Video Recorder (LATAM)",
+    "company": "micro1",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$20",
+    "url": "https://jobs.micro1.ai/post/a1ecbac3-a024-4732-bce7-7ac2e447571d?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Brazil, Colombia, Argentina, Peru, Paraguay, Mexico, Ecuador, Honduras, Costa Rica, Chile, Panama, Uruguay Get paid from home in this fully remote opportunity by recording your everyday household chores with your cellphone. Simply film your normal daily activities from a first-person point of view and earn money. Capture household tasks using your smartphone during specified physical tasks. Complete a device compatibility check and an AI-enabled interview during onboarding.\nSkills they're looking for: Smartphone, Video Recording, Attention to detail.\nRefer and earn $25.\nFull details and the application are on micro1.",
+    "tags": [
+      "smartphone",
+      "video-recording",
+      "attention-to-detail"
+    ],
+    "createdAt": 1786364910000
+  },
+  {
+    "id": "micro1-at-home-video-recorder-u-s-de83ff2f",
+    "title": "At-Home Video Recorder (U.S)",
+    "company": "micro1",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$20",
+    "url": "https://jobs.micro1.ai/post/de83ff2f-bdd2-4862-aff9-7158cd327038?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Get paid from home in this fully remote opportunity by recording your everyday household chores with your cellphone. Simply film your normal daily activities from a first-person point of view and earn money. Capture household tasks using your smartphone during specified physical tasks. Complete a device compatibility check and an AI-enabled interview during onboarding. Must own a compatible smartphone: iPhone 12 or later, Google Pixel 6 to 9, or Samsung Galaxy S21 or later.\nSkills they're looking for: Smartphone, Video Recording, Attention to detail, Household Task.\nRefer and earn $25.\nFull details and the application are on micro1.",
+    "tags": [
+      "smartphone",
+      "video-recording",
+      "attention-to-detail",
+      "household-task"
+    ],
+    "createdAt": 1786361405000
+  },
+  {
+    "id": "micro1-arabic-voice-actor-egypt-dialect-0e76b5a5",
+    "title": "Arabic Voice Actor (Egypt dialect)",
+    "company": "micro1",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/0e76b5a5-9305-47cc-8c1a-86f03e28f4f6?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "micro1 is engaging Arabic Voice Actor (Egypt dialect) professionals to support a customer’s project focused on advanced AI language capabilities. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.\nSkills they're looking for: egyptian arabic fluency, voice acting, audio recording, audio editing software, script interpretation, pronunciation accuracy, attention to detail, verbal communication.\nRefer and earn $100.\nFull details and the application are on micro1.",
+    "tags": [
+      "egyptian-arabic-fluency",
+      "voice-acting",
+      "audio-recording",
+      "audio-editing-software"
+    ],
+    "createdAt": 1784957467000
+  },
+  {
+    "id": "micro1-arabic-voice-actor-saudi-dialect-c6094969",
+    "title": "Arabic Voice Actor (Saudi dialect)",
+    "company": "micro1",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/c6094969-6b8c-47ca-a40b-0bb5b53d0885?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Join our customer's team as an Arabic Language Expert (Saudi) and play a pivotal role in enhancing multilingual language resources. This part-time, remote opportunity is ideal for native Saudi Arabic speakers who are passionate about language, cultural authenticity, and effective communication. Utilize your linguistic expertise to deliver high-quality audio samples and precise transcriptions for an impactful language learning experience.\nRefer and earn $100.\nFull details and the application are on micro1.",
+    "tags": [],
+    "createdAt": 1784956153000
+  },
+  {
+    "id": "micro1-at-home-video-recorder-0f435bd2",
+    "title": "At-Home Video Recorder",
+    "company": "micro1",
+    "category": "AI Training",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "$20",
+    "url": "https://jobs.micro1.ai/post/0f435bd2-e7f0-4d24-9e32-de34b71c2a97?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Get paid from home in this fully remote opportunity by recording your everyday household chores with your cellphone. Simply film your normal daily activities from a first-person point of view and earn money. Capture household tasks using your smartphone during specified physical tasks. Complete a device compatibility check and an AI-enabled interview during onboarding. Must own a compatible smartphone: iPhone 12 or later, Google Pixel 6 to 9, or Samsung Galaxy S21 or later.\nSkills they're looking for: Smartphone, Video Recording, Attention to Detail, Household Tasks.\nRefer and earn $25.\nFull details and the application are on micro1.",
+    "tags": [
+      "smartphone",
+      "video-recording",
+      "attention-to-detail",
+      "household-tasks"
+    ],
+    "createdAt": 1784750430000
+  },
+  {
+    "id": "micro1-video-data-entry-specialist-latam-25977272",
+    "title": "Video Data Entry Specialist (LATAM)",
+    "company": "micro1",
+    "category": "Data & AI",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/25977272-dca9-4b3a-a676-51bdfeae0a3d?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Job Title: Video Data Entry Specialist (LATAM) Argentina, Bahamas, Barbados, Brazil, Chile, Colombia, Costa Rica, Dominican Republic, Jamaica, Mexico, Panama, Peru, Ecuador, Paraguay, Honduras, Uruguay. Job Summary: In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.\nSkills they're looking for: attention to detail, data annotation, household tasks, video recording.\nRefer and earn $25.\nFull details and the application are on micro1.",
+    "tags": [
+      "attention-to-detail",
+      "data-annotation",
+      "household-tasks",
+      "video-recording"
+    ],
+    "createdAt": 1781068522000
+  },
+  {
+    "id": "micro1-e-commerce-data-catalog-specialist-66e153bc",
+    "title": "E-commerce Data & Catalog Specialist",
+    "company": "micro1",
+    "category": "Data & AI",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/66e153bc-1c52-439e-8fcb-38d35c4eae67?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Job Title: E-commerce Data & Catalog Specialist Job Summary: In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters. • Manage, structure, and curate large-scale e-commerce product catalogs, ensuring data accuracy and consistency across platforms.\nSkills they're looking for: Product Catalog Management, SQL/NoSQL Database Knowledge, Product Taxonomy & Data Normalization, E-commerce Merchandising Operations, Data Modeling & Structured Dataset Management.\nRefer and earn $100.\nFull details and the application are on micro1.",
+    "tags": [
+      "product-catalog-management",
+      "sql-nosql-database-knowledge",
+      "product-taxonomy-data-normalization",
+      "e-commerce-merchandising-operations"
+    ],
+    "createdAt": 1779225934000
+  },
+  {
+    "id": "micro1-e-commerce-simulation-expert-ad04ab64",
+    "title": "E-commerce Simulation Expert",
+    "company": "micro1",
+    "category": "Data & AI",
+    "type": "Contract",
+    "region": "Remote",
+    "salary": "",
+    "url": "https://jobs.micro1.ai/post/ad04ab64-b3b2-45ba-9d89-508f8e77dc5a?referralCode=732d59a5-f83d-430f-9f28-52a24f81d972&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+    "description": "Job Summary: In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters. Design and build synthetic, digital stores with realistic product assortments, pricing, and category structures.\nSkills they're looking for: E-commerce Operations, Product Catalog Structuring, AI / LLM Prompting & Evaluation, Scenario Design, User Simulation, Analytical Thinking, QA Mindset, Consumer Behavior Understanding.\nRefer and earn $100.\nFull details and the application are on micro1.",
+    "tags": [
+      "e-commerce-operations",
+      "product-catalog-structuring",
+      "ai-llm-prompting-evaluation",
+      "scenario-design"
+    ],
+    "createdAt": 1775755919000
+  },
+  {
     "id": "micro1-visual-content-evaluator-e4103061",
     "title": "Visual Content Evaluator",
     "company": "micro1",
