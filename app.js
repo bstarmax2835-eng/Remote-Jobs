@@ -9,7 +9,7 @@
   // page URL between the quotes. While it is empty the button stays hidden.
   // MailerLite popup form ID (from the form's "ml('show', 'ID', true)" code). When set, the button
   // opens the popup instead of the Google Form above.
-  const MAILERLITE_FORM_ID = "";
+  const MAILERLITE_FORM_ID = "kMc22B";
   const SUBSCRIBE_URL = "https://docs.google.com/forms/d/e/1FAIpQLSccDbR2ebXsC4PdMVEgpzvrWlX3NJ0VATHC3P4_EVWT-8SEYQ/viewform";
 
   const SAMPLE_JOBS = [
