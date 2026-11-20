@@ -7,6 +7,9 @@
 
   // "Get weekly jobs" newsletter sign-up. Paste your Google Form / Buttondown / Mailchimp sign-up
   // page URL between the quotes. While it is empty the button stays hidden.
+  // MailerLite popup form ID (from the form's "ml('show', 'ID', true)" code). When set, the button
+  // opens the popup instead of the Google Form above.
+  const MAILERLITE_FORM_ID = "";
   const SUBSCRIBE_URL = "https://docs.google.com/forms/d/e/1FAIpQLSccDbR2ebXsC4PdMVEgpzvrWlX3NJ0VATHC3P4_EVWT-8SEYQ/viewform";
 
   const SAMPLE_JOBS = [
@@ -54,7 +57,9 @@
   // ---------- storage ----------
   function load() {
     try {
-      const raw = localStorage.getItem(STORAGE_KEY);
+      // Visitors always see the published list (jobs-data.js). Only the owner (?admin) keeps
+      // browser-saved edits, so a stale saved copy can never hide newly published jobs.
+      const raw = new URLSearchParams(location.search).has("admin") ? localStorage.getItem(STORAGE_KEY) : null;
       if (raw === null) return (window.SEED_JOBS || SAMPLE_JOBS).slice();
       const data = JSON.parse(raw);
       return Array.isArray(data) ? data : [];
@@ -259,6 +264,12 @@
   if (isHttpUrl(SUBSCRIBE_URL)) {
     subLink.href = SUBSCRIBE_URL;
     subLink.hidden = false;
+    if (MAILERLITE_FORM_ID && typeof window.ml === "function") {
+      subLink.addEventListener("click", (e) => {
+        e.preventDefault();
+        window.ml("show", MAILERLITE_FORM_ID, true);
+      });
+    }
   }
 
   const postLink = $("postJobLink");
